@@ -14,6 +14,13 @@
   - Link to new article from the wiki topic. Or just redirect if possible. 
   - If you don't want a trial...buy a Visual Studio subscription: https://www.visualstudio.com/vs/pricing/ 
 
+### To redeem the code
+
+- You must use InPrivate browsing to redeem the code. 
+- This offer is a developer sandbox offer, and is not compatible with any other offers.  For example, you cannot have a paid E5 offer, Visio offer, and this offer all-in-one. 
+- The limit is one subscription of this trial per tenant lifetime; that is, contoso.com can only sign up for this offer once.  You can request another trial tenant to create a second trial with contoso2.onmicrosoft.com. 
+- These promo codes may not be used to extend a currently existing offer, paid or otherwise.  As in #3, you must request and create a net new tenant at this time.
+
 ## Get started with the Office 365 developer subscription 
 
 - Get a subscription (basically will point to previous topic) 
