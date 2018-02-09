@@ -48,6 +48,8 @@ Add ScriptLab to all clients to the subscription to enable Office add-ins (need 
 
 Enable Teams Development and Sideloading (need more info) 
 
+Your O365 subscription IS an Azure subscription. So we need a document that explains how to access it on the Azure portal.
+
 
 ## Office 365: How to set up a free developer tenant
 The Microsoft Office 365 Developer Program provides a free Office 365 developer subscription as one of its benefits.  This free Office 365 development tenant is ideal for  developers to test Office 365 features.
