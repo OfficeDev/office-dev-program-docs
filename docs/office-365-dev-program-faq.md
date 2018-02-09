@@ -1,5 +1,5 @@
 
-# Office 365 developer program frequently asked questions
+# Office 365 developer program FAQ
 
 ## From content plan
 
