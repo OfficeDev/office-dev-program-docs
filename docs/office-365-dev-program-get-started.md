@@ -1,5 +1,11 @@
+---
+title: Set up an Office 365 developer subscription
+description: 
+ms.date: 2/16/2018
+---
 
-# Get started with your Office 365 developer subscription 
+
+# Set up an Office 365 developer subscription 
 
 ## What is the Office 365 Developer program? 
 
@@ -7,23 +13,81 @@ The Microsoft Office 365 Developer Program provides an Office 365 developer subs
 
 This article shows you how to create a one-year Office 365 Enterprise E3 Developer trial with 25 user licenses. While the sign-up process is relatively simple, provisioning all the Office 365 services takes additional time. No payment details are required. 
 
-### How to get an Office 365 developer subscription 
-- Step-by-step instructions similar to wiki at https://social.technet.microsoft.com/wiki/contents/articles/37830.office-365-how-to-set-up-a-free-developer-tenant.aspx  
-- Updates we need to make 
-  - Clarify it is free for development purposes (not just anything) 
-  - Update steps to follow new flow 
-  - Locate on docs.microsft.com 
-  - Link to new article from the wiki topic. Or just redirect if possible. 
-  - If you don't want a trial...buy a Visual Studio subscription: https://www.visualstudio.com/vs/pricing/ 
+To sign up, follow the steps in the following sections.
 
-### To redeem the code
+> [!NOTE] 
+> If you aren't looking for a trial, you can [buy a Visual Studio subscription](https://www.visualstudio.com/vs/pricing/), which includes an Office 365 Developer subscription for up to 25 users. 
+
+## Join the Microsoft Office 365 Developer Program
+
+1. Go to the [Join the Office 365 Developer Program](https://aka.ms/devprogram) and select **Join now**.
+
+2. Sign in with your Microsoft account.
+
+3. On the Office 365 Developer Program Signup page, complete the following fields in the online form:
+  - First name
+  - Last name
+  - Contact email
+  - Country/region
+  - Company
+
+4. Select the **terms and conditions** check box to accept it.
+
+5. Optionally, select the **I would like to hear from the Office 365 Developer Program** check box if you wish to hear from Microsoft about new capabilities and other updates. 
+
+6. Select **Join**.
+
+7. On the Office 365 Developer Program Preferences page, tell us your preferences so we can personalize your experience: 
+  - Industry that you work in
+  - Primary type of application you're developing
+  - Products, technologies, and programming languages that you're interested in
+
+8. When you're finished, select **Save**. Your preferences appear on the next page in the top right, and you receive a Welcome message.
+
+## Set up your Office 365 Enterprise E3 Developer Trial
+
+1. To get a free nine-month trial, on your profile page, under **Need an Office 365 subscription to use for development?**, select **Sign up**.
+
+2. Provide a user name and a chosen .onmicrosoft.com domain, add a password, and then select **Set up**. <!--Is this a new user name and password for the subscription that's different from their MSA or Azure AD info? If so, we need more information in the UI about how to fill out these fields, or we can add it to this documentation.-->
+
+3. Your subscription name and expiration date appears on the Your Office 365 subscription page. This account becomes the Global Admin for the subscription.
+
+  > [!NOTE] 
+  > Don’t forget this username and password, write it down somewhere!
+
+4. Next, a verification step is required to prove you’re not a robot.
+
+<!--At this point, I copied the following sections from the wiki page and am not sure what the new experience will be. -->
+
+## Configure the Office 365 tenant 
+
+1. If not opened automatically, open the setup page.  On the front of the admin page, there should be a **Go to setup** link to bring this up.   
+
+2. The Office 365 Enterprise E3 Developer setup screen appears with three stages; configure these as required. 
+  - Personalize sign-in 
+  - Add users 
+  - Get apps 
+
+3. In the admin portal, in the **Active users** section, assign the Office 365 Enterprise E3 Developer licenses to add users to the account that you created. 
+
+## Provision Office 365 services
+
+This final stage is simply waiting while all the backend services are spun up and provisioned for the tenant, such as SharePoint and Exchange.  This can take some time. During this step, some of the icons in the app launcher and home page are shown as **Setting up (This app is still being set up)** and unavailable until completed. This shouldn’t take much longer than an hour at most to complete.
+
+At the end of this process, the new Office 365 subscription can be used for development and testing. The trial expires after nine months.
+
+A suggested next step is to enable release options, which is ideal for receiving the latest Office 365 features as soon as possible. For more information, see [Set up the Standard or Targeted release options in Office 365](https://support.office.com/en-us/article/set-up-the-standard-or-targeted-release-options-in-office-365-3b3adfa4-1777-4ff0-b606-fb8732101f47?ui=en-US&rs=en-US&ad=US).
+
+
+
+## Notes from current way of doing things -- not sure if these still apply
 
 - You must use InPrivate browsing to redeem the code. 
 - This offer is a developer sandbox offer, and is not compatible with any other offers.  For example, you cannot have a paid E5 offer, Visio offer, and this offer all-in-one. 
 - The limit is one subscription of this trial per tenant lifetime; that is, contoso.com can only sign up for this offer once.  You can request another trial tenant to create a second trial with contoso2.onmicrosoft.com. 
 - These promo codes may not be used to extend a currently existing offer, paid or otherwise.  As in #3, you must request and create a net new tenant at this time.
 
-## Get started with the Office 365 developer subscription 
+### Get started with the Office 365 developer subscription 
 
 - Get a subscription (basically will point to previous topic) 
 - Access your Azure subscription (you get this as part of the developer subscription, but not everyone knows how to get to it via the Azure portal) 
@@ -41,64 +105,22 @@ This article shows you how to create a one-year Office 365 Enterprise E3 Develop
 - Enable Teams Development and Sideloading (need more info) 
 - Your O365 subscription IS an Azure subscription. So we need a document that explains how to access it on the Azure portal.
 
+​
+### Documentation requests for Wave 1 (from slide deck)
 
-## Set up an Office 365 developer subscription trial 
+- Overview of developer program​
+- Acquire a subscription options  [Dev Subscription | Visual Studio | Paid $99 offer | Microsoft Partner Network Benefits (MPN IUR)]​
+- Customize your development subscription for your use.​
+- [Add users in Office 365](https://support.office.com/en-us/article/add-users-individually-or-in-bulk-to-office-365-admin-help-1970f7d6-03b5-442f-b385-5880b9c256ec) ​
+- [Leverage the Office 365 CLI tool to change settings​](https://dev.office.com/blogs/announcing-office-365-cli-for-managing-your-office-365-subscription-on-any-platform)   to be clear on the what you can do. Follow up with Vesa.​
+- Add Sample data by using the Graph Explorer​
+- Add ScriptLab to all clients to the subscription to enable Office add-ins​
+- Enable Teams Development and Sideloading​
+- Need help?​
+- Have questions on how to get started building? Dev.office.com/support​
+- Subscription issue? ->  FAQ / Trouble shooting guide  ​
+- Privacy and terms of use​
+- Program terms of use ​
+- Dev subscription license agreement [Suzanna]
 
-Follow these steps to set up your trial:
 
-1. Join the Microsoft Office 365 Developer Program.
-2. Redeem your trial for an Office 365 Developer subscription.
-3. Sign up for Office 365 Enterprise E3 Developer Trial
-4. Configure the Office 365 tenant
-5. Assign licences
-6. Provision Office 365 services
-7. Enjoy the free Office 365 Developer Subscription
-
-This offer is subject to terms and conditions.  Microsoft provides these benefits per its prerogative.
-
-### Join the Microsoft Office 365 Developer Program
-
-1. Go to the [Join the Office 365 Developer Program](https://dev.office.com/devprogram) and select **Join now**.
-
-2. Sign in with your Microsoft account.
-
-3. and fill out the Office Developer Program online form.  The form asks for a name, company, an email address and some other basic details. Submit the form, the author had to try this a number of times before this was accepted.   Signing into a Microsoft Account may or may not be required, the author ended up signing in first.
-
-When successful a “Thank you – You successfully subscribed to the Microsoft Office Developer Program.  
-
-### Step 2 – Redeem free subscription for an Office 365 Developer tenant
-You can get a free 30-day trial automatically. If you would like a longer trial, please email O365Dev@microsoft.com with your development scenario and a promo code will be sent to you. 
-
-Please note that Microsoft recommends using the InPrivate, Incognito or Private Browsing features depending on the browser being used, to redeem the code. And, you cannot use the code to extend an existing subscription, either trial or paid.
-
-### Step 3 – Sign up for Office 365 Enterprise E3 Developer Trial
-Now an Office 365 Enterprise E3 Developer Trial online form is displayed.  Supply the relevant details, including the region, contact details on the first page. 
-
-Moving on to the next section, the most important step is to provide a user name and a chosen .onmicrosoft.com domain.   A message will be displayed if the domain is already in use. A password is also required.  Click on ‘Create my account’. This account becomes the Global Admin for the tenant.
-
-Note: Don’t’ forget this username and password, write it down somewhere!  The User ID will be sent in an email as well with the subject “Welcome to your Microsoft Office 365 Trial”.
-
-Next, a verification step is required, either using a text or a phone call to “Prove You’re Not a Robot”.  After this step, the author received an error.  Simply visiting the Office 365 admin portal Jump  got this back on track.
-
-### Step 4 – Configure the Office 365 tenant
-If not opened automatically, open the setup page.  On the front of the admin page, there should be a Go to setup link to bring this up.   
-
-The Office 365 Enterprise E3 Developer setup screen is then shown, with three stages 1) Personalize sign-in 2) Add users 3) Get apps.  Configure this as required.
-
-### Step 5 - Assign licences
-Assign the Office 365 Enterprise E3 Developer licences to the account that was created in step 3 plus for any additional users created since.  There are five licences available in total.
-
-This is done from the admin portal in the Active users section listed under the Users section. Pick the user and edit the Product licences assigning the E3 Developer licence.
-
-### Step 6 – Provision Office 365 services
-This final stage is simply waiting while all the backend services are spun up and provisioned for the tenant, like SharePoint and Exchange.  This can take some time. During this step, some of the icons in the app launcher and home page will be shown as "Setting up (This app is still being set up)" and unavailable until completed. This shouldn’t take much longer than an hour at most to complete.
-
-### Step 7 – Enjoy the free Office 365 Developer Subscription
-At the end of this process, the brand new Office 365 tenant can be used for development and testing. The trial will expire after a year.
-
-A suggested next step is to enable First Release, this is ideal for receiving the latest Office 365 features as soon as possible and is explained further here - Set up the Standard or First Release options in Office 365 Jump .
-
-## See also
-- Office 365 Change Management Survival Guide 
-- Administer on the go with the Office 365 Admin app
-- Getting Started with the Microsoft Tech Community

@@ -1,3 +1,8 @@
+---
+title: What you can build with your Office 365 developer subscription
+description: 
+ms.date: 2/16/2018
+---
 
 # What you can build with your Office 365 developer subscription 
 

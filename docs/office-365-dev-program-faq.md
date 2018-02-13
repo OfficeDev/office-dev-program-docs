@@ -1,3 +1,8 @@
+---
+title: Office 365 developer program FAQ
+description: 
+ms.date: 2/16/2018
+---
 
 # Office 365 developer program FAQ
 
