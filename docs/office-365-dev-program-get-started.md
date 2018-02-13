@@ -59,7 +59,7 @@ To sign up, follow the steps in the following sections.
 
 <!--At this point, I copied the following sections from the wiki page and am not sure what the new experience will be. -->
 
-## Configure the Office 365 tenant 
+## Configure the Office 365 subscription 
 
 1. If not opened automatically, open the setup page.  On the front of the admin page, there should be a **Go to setup** link to bring this up.   
 
@@ -105,7 +105,6 @@ A suggested next step is to enable release options, which is ideal for receiving
 - Enable Teams Development and Sideloading (need more info) 
 - Your O365 subscription IS an Azure subscription. So we need a document that explains how to access it on the Azure portal.
 
-​
 ### Documentation requests for Wave 1 (from slide deck)
 
 - Overview of developer program​
