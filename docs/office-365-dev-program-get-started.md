@@ -7,7 +7,7 @@ ms.date: 2/16/2018
 
 # Set up an Office 365 developer subscription 
 
-## What is the Office 365 Developer program? 
+## What is the Microsoft Office 365 Developer Program? 
 
 The Microsoft Office 365 Developer Program provides an Office 365 developer subscription trial as one of its benefits. This trial is ideal for developers who want to test Office 365 features.
 
@@ -18,7 +18,7 @@ To sign up, follow the steps in the following sections.
 > [!NOTE] 
 > If you aren't looking for a trial, you can [buy a Visual Studio subscription](https://www.visualstudio.com/vs/pricing/), which includes an Office 365 Developer subscription for up to 25 users. 
 
-## Join the Microsoft Office 365 Developer Program
+## Join the Office 365 Developer Program
 
 1. Go to the [Join the Office 365 Developer Program](https://aka.ms/devprogram) and select **Join now**.
 
@@ -39,27 +39,28 @@ To sign up, follow the steps in the following sections.
 
 7. On the Office 365 Developer Program Preferences page, tell us your preferences so we can personalize your experience: 
   - Industry that you work in
-  - Primary type of application you're developing
+  - The type of applications or solutions you're interested in developing
   - Products, technologies, and programming languages that you're interested in
 
 8. When you're finished, select **Save**. Your preferences appear on the next page in the top right, and you receive a Welcome message.
 
-## Set up your Office 365 Enterprise E3 Developer Trial
+## Set up your trial subscription
 
 1. To get a free nine-month trial, on your profile page, under **Need an Office 365 subscription to use for development?**, select **Sign up**.
 
-2. Provide a user name and a chosen .onmicrosoft.com domain, add a password, and then select **Set up**. <!--Is this a new user name and password for the subscription that's different from their MSA or Azure AD info? If so, we need more information in the UI about how to fill out these fields, or we can add it to this documentation.-->
+2. Provide a user name and a chosen .onmicrosoft.com domain, add a password, select the **terms of use** check box, and then select **Create**. <!--Is this a new user name and password for the subscription that's different from their MSA or Azure AD info? If so, we need more information in the UI about how to fill out these fields, or we can add it to this documentation.-->
 
-3. Your subscription name and expiration date appears on the Your Office 365 subscription page. This account becomes the Global Admin for the subscription.
+3. When the operation finishes, your subscription name and expiration date appear on your profile page. This account becomes the Global Admin for the subscription.
 
   > [!NOTE] 
   > Don’t forget this username and password, write it down somewhere!
 
 4. Next, a verification step is required to prove you’re not a robot.
 
-<!--At this point, I copied the following sections from the wiki page and am not sure what the new experience will be. -->
+<!--I copied the following sections from the wiki page and am not sure what the new experience will be. -->
 
-## Configure the Office 365 subscription 
+
+## Configure the subscription 
 
 1. If not opened automatically, open the setup page.  On the front of the admin page, there should be a **Go to setup** link to bring this up.   
 
@@ -78,9 +79,13 @@ At the end of this process, the new Office 365 subscription can be used for deve
 
 A suggested next step is to enable release options, which is ideal for receiving the latest Office 365 features as soon as possible. For more information, see [Set up the Standard or Targeted release options in Office 365](https://support.office.com/en-us/article/set-up-the-standard-or-targeted-release-options-in-office-365-3b3adfa4-1777-4ff0-b606-fb8732101f47?ui=en-US&rs=en-US&ad=US).
 
+Delete your profile
 
+Delete all your events
 
-## Notes from current way of doing things -- not sure if these still apply
+## Notes 
+
+...from current way of doing things -- not sure if these still apply
 
 - You must use InPrivate browsing to redeem the code. 
 - This offer is a developer sandbox offer, and is not compatible with any other offers.  For example, you cannot have a paid E5 offer, Visio offer, and this offer all-in-one. 
@@ -107,7 +112,7 @@ A suggested next step is to enable release options, which is ideal for receiving
 
 ### Documentation requests for Wave 1 (from slide deck)
 
-- Overview of developer program​
+- Overview of Developer Program​
 - Acquire a subscription options  [Dev Subscription | Visual Studio | Paid $99 offer | Microsoft Partner Network Benefits (MPN IUR)]​
 - Customize your development subscription for your use.​
 - [Add users in Office 365](https://support.office.com/en-us/article/add-users-individually-or-in-bulk-to-office-365-admin-help-1970f7d6-03b5-442f-b385-5880b9c256ec) ​
