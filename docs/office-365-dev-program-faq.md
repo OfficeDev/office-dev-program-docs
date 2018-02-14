@@ -56,7 +56,6 @@ If you have issues with setup, please see the following support resources:
 - [Office support](https://support.office.com)
 - [Office development support](https://developer.microsoft.com/en-us/office/support)
 
-Have questions on how to get started building? Dev.office.com/support 
 
 
 
