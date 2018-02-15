@@ -7,7 +7,7 @@ ms.date: 2/16/2018
 
 # Set up an Office 365 developer subscription 
 
-This article shows you how to create a nine-month Office 365 Enterprise E3 Developer subscription with ? user licenses. With an Office developer subscription, you can build and test solutions independent of your production environment. The subscription is free for you to use for development purposes.  
+This article shows you how to create a nine-month Office 365 Enterprise E3 Developer subscription with 25 user licenses. You can use this free subscription to develop and test your solutions independent of your production environment. 
 
 To sign up, follow the steps in the following sections.
 

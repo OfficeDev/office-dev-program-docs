@@ -8,7 +8,7 @@ ms.date: 2/16/2018
 
 Join your friends and colleagues in the Office 365 Developer Program. 
 
-To get started, we recommend that you [join the Office 365 Developer Program and sign up for a free Office 365 developer subscription](office-365-dev-program-get-started.md). You can use this subscription to develop and test your solutions independent of your production environment. 
+To get started, we recommend that you [join the Office 365 Developer Program and sign up for an Office 365 developer subscription](office-365-dev-program-get-started.md). You can use this free subscription to develop and test your solutions independent of your production environment. 
 
 You can then [build solutions](office-365-dev-subscription-options.md) for Microsoft Teams, Office Add-ins, Microsoft Graph, SharePoint Framework, SharePoint Add-ins, and more.
 

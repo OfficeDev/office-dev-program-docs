@@ -13,7 +13,7 @@ Your subscription is good for nine months. You can find the expiration date, alo
 
 ### How many licenses can I add with my nine-month subscription?
 
-*SMEs: We need an answer for this*
+You can add up to 25 users for testing and development purposes. 
 
 ### As a Microsoft Partner, can I receive a subscription? 
 
