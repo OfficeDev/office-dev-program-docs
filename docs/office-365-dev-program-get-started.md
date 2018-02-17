@@ -1,13 +1,12 @@
 ---
 title: Set up an Office 365 developer subscription
-description: Join the Office 365 Developer Program and sign up for a subscription that you can use to build and test solutions independent of your production environment.
+description: Join the Office 365 Developer Program and set up a subscription for building and testing solutions independent of your production environment.
 ms.date: 2/16/2018
 ---
 
-
 # Set up an Office 365 developer subscription 
 
-This article shows you how to create a nine-month Office 365 Enterprise E3 Developer subscription with 25 user licenses. You can use this free subscription to develop and test your solutions independent of your production environment. 
+This article shows you how to create a nine-month Office 365 Enterprise E3 Developer subscription with 25 user licenses. You can use this free subscription to develop and test your solutions independent of your production environment.
 
 To sign up, follow the steps in the following sections.
 
@@ -64,11 +63,15 @@ To sign up, follow the steps in the following sections.
 
 ## Provision Office 365 services
 
-This final stage is simply waiting while all the backend services are spun up and provisioned for the tenant, such as SharePoint and Exchange.  This can take some time. During this step, some of the icons in the app launcher and home page are shown as **Setting up (This app is still being set up)** and unavailable until completed. This shouldn’t take much longer than an hour at most to complete.
+After configuration, it will take some time for all the backend services to spin up and provision for the subscription, such as SharePoint and Exchange. During this step, some of the icons in the app launcher and home page are shown as **Setting up (This app is still being set up)** and unavailable until completed. This shouldn’t take much longer than an hour at most to complete.
 
 At the end of this process, the new Office 365 subscription can be used for development and testing. The subscription expires after nine months.
 
 A suggested next step is to enable release options, which is ideal for receiving the latest Office 365 features as soon as possible. For more information, see [Set up the Standard or Targeted release options in Office 365](https://support.office.com/en-us/article/set-up-the-standard-or-targeted-release-options-in-office-365-3b3adfa4-1777-4ff0-b606-fb8732101f47?ui=en-US&rs=en-US&ad=US).
+
+## Setting up an Azure account
+
+TBD several scenarios require an Azure account. There is also an article we can link to for this information.
 
 ### Other options
 
