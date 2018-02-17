@@ -8,7 +8,7 @@ ms.date: 2/16/2018
 
 What do you want to build with your subscription? There's a lot you can do depending on what you are interested in. Listed below are some of the main technologies and product areas you can start with.
 
-## Microsoft Teams 
+## Microsoft Teams
 
 Microsoft Teams is a chat-based workspace in Office 365 that integrates with the apps and services that people use to get work done together. The Microsoft Teams developer platform makes it easy for you to integrate your own service, whether you develop custom apps for your enterprise or SaaS applications for teams around the world.
 
@@ -33,12 +33,9 @@ Resources: TBD List any videos, training, etc. that would be interesting to a ne
 
 You can use the Office Add-ins platform to build solutions that extend Office applications and interact with content in Office documents. With Office Add-ins, you can use familiar web technologies such as HTML, CSS, and JavaScript to extend and interact with Word, Excel, PowerPoint, OneNote, Project, and Outlook. Your solution can run in Office across multiple platforms, including Office for Windows, Office Online, Office for the Mac, and Office for the iPad.
 
-Here's how to get set up and coding with Office Add-ins:
+Office Add-ins has quickstarts for each product that lead you through setting up your development environment and creating your first add-in. To get started, see [Office Add-ins quickstarts](https://docs.microsoft.com/en-us/office/dev/add-ins/)
 
-- [Set up your development environment](https://docs.microsoft.com/en-us/office/dev/add-ins/develop/create-and-debug-office-add-ins-in-visual-studio): Issue Doesn’t appear to be a setup page? Is this needed? 
-
-Quick Starts 
-- Resources: List any videos, training, etc. that would be interesting to a new developer to learn more... 
+Resources: TBD List any videos, training, etc. that would be interesting to a new developer to learn more... 
 
 ## SharePoint Framework 
 
