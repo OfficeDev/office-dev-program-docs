@@ -132,5 +132,5 @@ Save what applies, delete what doesn't.
 
 ## See also
 
-- [Build solutions with your Office 365 developer subscription](office-365-dev-subscription-options.md)
-- [Office 365 Developer Program FAQ](office-365-dev-program-faq.md) 
+- [Build solutions with your Office 365 developer subscription](office-365-developer-subscription-options.md)
+- [Office 365 Developer Program FAQ](office-365-developer-program-faq.md) 

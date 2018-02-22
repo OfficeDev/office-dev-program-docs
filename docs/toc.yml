@@ -1,9 +1,9 @@
 
 - name: Office 365 Developer Program
-  href: index.md
+  href: office-365-developer-program.md
 - name: Set up a developer subscription
-  href: office-365-dev-program-get-started.md
+  href: office-365-developer-program-get-started.md
 - name: Build solutions
-  href: office-365-dev-subscription-options.md
+  href: office-365-developer-subscription-options.md
 - name: Developer Program FAQ
-  href: office-365-dev-program-faq.md
+  href: office-365-developer-program-faq.md

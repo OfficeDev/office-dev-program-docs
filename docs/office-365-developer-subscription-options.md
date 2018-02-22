@@ -63,5 +63,5 @@ Resources: TBD List any videos, training, etc.. That would be interesting to a n
 
 ## See also
 
-- [Set up an Office 365 developer subscription](office-365-dev-program-get-started.md) 
-- [Office 365 Developer Program FAQ](office-365-dev-program-faq.md) 
+- [Set up an Office 365 developer subscription](office-365-developer-program-get-started.md) 
+- [Office 365 Developer Program FAQ](office-365-developer-program-faq.md) 
