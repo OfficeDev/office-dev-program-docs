@@ -42,7 +42,7 @@ Set up an Office 365 developer subscription to build and test your solutions ind
 
 3. When the operation finishes, your subscription name and expiration date appear on your profile page. This account becomes the Global Admin for the subscription.
 
-  > [!NOTE] 
+  > [!NOTE]
   > Don’t forget this username and password, write it down somewhere!
 
 4. Next, a verification step is required to prove you’re not a robot. <!--I got this from the wiki; will we be doing this? And if so, does it come between steps 2 and 3, which I would expect, or after step 3?-->
@@ -50,12 +50,12 @@ Set up an Office 365 developer subscription to build and test your solutions ind
 <!--I copied the following sections from the wiki page and am not sure what the new experience will be. -->
 ## Configure the subscription 
 
-1. If not opened automatically, open the setup page.  On the front of the admin page, there should be a **Go to setup** link to bring this up.   
+1. If not opened automatically, open the setup page.  On the front of the admin page, there should be a **Go to setup** link to bring this up.
 
-2. The Office 365 Enterprise E3 Developer setup screen appears with three stages; configure these as required. 
-  - Personalize sign-in 
-  - Add users 
-  - Get apps 
+2. The Office 365 Enterprise E3 Developer setup screen appears with three stages; configure these as required.
+  - Personalize sign-in
+  - Add users
+  - Get apps
 
 3. In the admin portal, in the **Active users** section, assign the Office 365 Enterprise E3 Developer licenses to add users to the account that you created. 
 
@@ -67,9 +67,15 @@ At the end of this process, the new Office 365 subscription can be used for deve
 
 A suggested next step is to enable release options, which is ideal for receiving the latest Office 365 features as soon as possible. For more information, see [Set up the Standard or Targeted release options in Office 365](https://support.office.com/en-us/article/set-up-the-standard-or-targeted-release-options-in-office-365-3b3adfa4-1777-4ff0-b606-fb8732101f47?ui=en-US&rs=en-US&ad=US).
 
-## Setting up an Azure account
+## Adding users
 
-TBD several scenarios require an Azure account. There is also an article we can link to for this information.
+For many programming scenarios you'll need to test with user accounts with different permissions and settings. You can add up to 25 user accounts with your subscription. To add users, see [Add users individually or in bulk to Office 365 - Admin Help](https://support.office.com/en-us/article/add-users-individually-or-in-bulk-to-office-365-admin-help-1970f7d6-03b5-442f-b385-5880b9c256ec)
+
+## Setting up a Microsoft Azure account
+
+For some Office solutions, you may need a Microsoft Azure account to build and test using Azure services. To set up a free Azure account, see [Create your Azure free account today](https://azure.microsoft.com/en-us/free/).
+
+
 
 ### Other options
 
