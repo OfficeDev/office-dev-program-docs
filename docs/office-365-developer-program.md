@@ -12,4 +12,4 @@ To get started, we recommend that you [join the Office 365 Developer Program and
 
 With an Office 365 developer subscription you can [build solutions](office-365-developer-subscription-options.md) for Microsoft Teams, Office Add-ins, Microsoft Graph, SharePoint Framework, SharePoint Add-ins, and more.
 
-For frequently asked questions about the Office 365 Developer Program, see the [FAQ](office-developer-dev-program-faq.md).
+For frequently asked questions about the Office 365 Developer Program, see the [FAQ](office-developer-program-faq.md).

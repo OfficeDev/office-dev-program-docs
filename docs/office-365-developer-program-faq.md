@@ -25,7 +25,7 @@ Microsoft employees may not sign up for the subscription. However, you may alrea
 
 ### As a vendor working at Microsoft, do I qualify for a subscription?
 
-Yes. Follow the steps at [Set up an Office 365 developer subscription](office-365-dev-program-get-started.md).
+Yes. Follow the steps at [Set up an Office 365 developer subscription](office-365-developer-program-get-started.md).
 
 ### What applications does the subscription include? 
 
@@ -50,7 +50,7 @@ If you have issues with setup, please see the following support resources:
 
 ## See also
 
-- [Set up an Office 365 developer subscription](office-365-developer-program-get-started.md) 
+- [Set up an Office 365 developer subscription](office-365-developer-program-get-started.md)
 - [Build solutions with your Office 365 developer subscription](office-365-developer-subscription-options.md)
 
 
