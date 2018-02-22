@@ -1,7 +1,7 @@
 ---
 title: Build solutions with your Office 365 developer subscription
 description: Find resources such as step-by-step guides to help you get started building your solution.
-ms.date: 2/16/2018
+ms.date: 03/09/2018
 ---
 
 # Build solutions with your Office 365 developer subscription 

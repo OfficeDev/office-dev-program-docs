@@ -36,7 +36,13 @@
     "externalReference": [],
     "globalMetadata": {
       "breadcrumb_path": "/office/dev/program/breadcrumb/toc.json",
-      "extendBreadcrumb": true
+      "extendBreadcrumb": true,
+      "ms.suite": "office365",
+      "ms.author": "o365devx",
+      "author": "o365devx",
+      "ms.topic": "conceptual",
+      "ms.prod": "office",
+      "ms.custom": "dev-program"
     },
     "fileMetadata": {},
     "template": [],

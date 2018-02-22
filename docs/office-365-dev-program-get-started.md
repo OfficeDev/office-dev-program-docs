@@ -1,7 +1,7 @@
 ---
 title: Set up an Office 365 developer subscription
 description: Join the Office 365 Developer Program and set up a subscription for building and testing solutions independent of your production environment.
-ms.date: 2/16/2018
+ms.date: 03/09/2018
 ---
 
 # Set up an Office 365 developer subscription 
