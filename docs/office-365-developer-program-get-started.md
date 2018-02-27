@@ -11,18 +11,16 @@ Set up an Office 365 developer subscription to build and test your solutions ind
 ## Join the Office 365 Developer Program
 
 1. Go to the [Join the Office 365 Developer Program](https://aka.ms/devprogram) and choose **Join now**.
-
 2. Sign in with your Microsoft account.
-
 3. On the Office 365 Developer Program Signup page, complete the following fields in the online form:
 
-  - First name
-  - Last name
-  - Contact email
-  - Country/region
-  - Company
+  - **First name**
+  - **Last name**
+  - **Contact Email**
+  - **Country/Region**
+  - **Company**
 
-4. Select the **terms and conditions** check box to accept it.
+4. Review the **terms and conditions**. You'll need to select the check box before you can join.
 
 5. Optionally, select the **I would like to hear from the Office 365 Developer Program** check box if you want to hear from Microsoft about new capabilities and other updates. 
 
@@ -40,18 +38,18 @@ Set up an Office 365 developer subscription to build and test your solutions ind
 
 1. To get a nine-month Office 365 developer subscription, on your profile page, under **Need an Office 365 subscription to use for development?**, choose **Sign up**.
 
-2. Provide a username and an .onmicrosoft.com domain, add a password, select the **terms of use** check box, and then choose **Create**. <!--Is this a new username and password for the subscription that's different from their MSA or Azure AD info? If so, we need more information in the UI about how to fill out these fields, or we can add it to this documentation.-->
+2. Create a username and domain. This account will have global administrator permissions for the subscription. You can choose any domain name as long is it not already in use.
 
-3. When the operation finishes, your subscription name and expiration date appear on your profile page. This account becomes the Global Admin for the subscription.
+3. Create and confirm a password. Review the **terms of use** check box. You'll need to select the check box before you can continue.
 
-  > [!NOTE]
+ > [!NOTE]
   > Make a note of your username and password so you don't forget it. 
-<!-- LG: Do we know if there's a Forgot my password feature in the Dev Program flow? -->
 
-4. Next, a verification step is required to prove you’re not a robot. <!--I got this from the wiki; will we be doing this? And if so, does it come between steps 2 and 3, which I would expect, or after step 3?-->
+3. Choose **Create**.
+4. After the subscription is created, your subscription name and expiration date appear on your profile page.
 
 <!--I copied the following sections from the wiki page and am not sure what the new experience will be. -->
-## Configure the subscription 
+## Configure the subscription
 
 1. If it doesn't open automatically, open the setup page. On the admin page, choose **Go to setup**.
 
@@ -60,8 +58,7 @@ Set up an Office 365 developer subscription to build and test your solutions ind
   - Personalize sign-in
   - Add users
   - Get apps
-
-3. In the admin portal, in the **Active users** section, assign the Office 365 Enterprise E3 Developer licenses to add users to the account that you created. 
+3. In the admin portal, in the **Active users** section, assign the Office 365 Enterprise E3 Developer licenses to add users to the account that you created.
 
 ## Provision Office 365 services
 
@@ -79,14 +76,20 @@ For many scenarios, you'll need to test with user accounts with different permis
 
 For some Office solutions, you might need a Microsoft Azure account to build and test using Azure services. To set up a free Azure account, see [Create your Azure free account today](https://azure.microsoft.com/en-us/free/).
 
+## Leaving the developer program
 
-### Other options
+If you decide you no longer want to participate in the Office 365 Developer Program, you can end your subscription and leave the program.
 
-- **Delete your profile** *(need more info here)*
+> [!Warning] The steps below will erase all of your profile information. You will lose any data stored in your developer subscription that is not backed up elsewhere.
 
-- **Delete all your events** *(need more info here)*
+1. Log in to the developer program.
+2. Choose **Delete Profile**.
+3. In the **Delete your profile** confirmation box, choose **Delete**.
+
 
 <!-- ## Linda's Notes 
+
+- **Delete all your events** *(need more info here)*
 
 ...from current way of doing things -- not sure if these still apply. Also some notes from David's content plan. 
 Save what applies, delete what doesn't.
@@ -132,8 +135,7 @@ Save what applies, delete what doesn't.
 - Program terms of use ​
 - Dev subscription license agreement [Suzanna]-->
 
-
 ## See also
 
 - [Build solutions with your Office 365 developer subscription](office-365-developer-subscription-options.md)
-- [Office 365 Developer Program FAQ](office-365-developer-program-faq.md) 
+- [Office 365 Developer Program FAQ](office-365-developer-program-faq.md)
