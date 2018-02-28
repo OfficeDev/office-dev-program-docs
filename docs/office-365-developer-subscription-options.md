@@ -30,7 +30,7 @@ To get set up and coding with Microsoft Graph, see [Getting started building Mic
 
 You can use the Office Add-ins platform to build solutions that extend Office applications and interact with content in Office documents. With Office Add-ins, you can use familiar web technologies such as HTML, CSS, and JavaScript to extend and interact with Word, Excel, PowerPoint, OneNote, Project, and Outlook. Your solution can run in Office across multiple platforms, including Office for Windows, Office Online, Office for the Mac, and Office for the iPad.
 
-To set up your development environment and create your first add-in, see the [Office Add-ins quick starts](https://docs.microsoft.com/en-us/office/dev/add-ins/)
+To set up your development environment and create your first add-in, see the [Office Add-ins quick starts](https://docs.microsoft.com/en-us/office/dev/add-ins/).
 
 ## SharePoint Framework
 
