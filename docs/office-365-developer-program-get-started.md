@@ -6,12 +6,14 @@ ms.date: 03/09/2018
 
 # Set up an Office 365 developer subscription 
 
-Set up an Office 365 developer subscription to build and test your solutions independent of your production environment. The subscription is an Office 365 Enterprise E3 Developer subscription with 25 user licenses. It lasts for 9 months and is free to use for development purposes (coding and testing solutions.)
+Set up an Office 365 developer subscription to build and test your solutions independent of your production environment. The subscription is an Office 365 Enterprise E3 Developer subscription with 25 user licenses. It lasts for nine months and is free to use for development purposes (coding and testing solutions).
 
 ## Join the Office 365 Developer Program
 
 1. Go to the [Join the Office 365 Developer Program](https://aka.ms/devprogram) and choose **Join now**.
+
 2. Sign in with your Microsoft account.
+
 3. On the Office 365 Developer Program Signup page, complete the following fields in the online form:
 
   - **First name**
@@ -38,26 +40,29 @@ Set up an Office 365 developer subscription to build and test your solutions ind
 
 1. To get a nine-month Office 365 developer subscription, on your profile page, under **Need an Office 365 subscription to use for development?**, choose **Sign up**.
 
-2. Create a username and domain. This account will have global administrator permissions for the subscription. You can choose any domain name as long is it not already in use.
+2. Create a username and domain. This account will have global administrator permissions for the subscription. You can choose any domain name as long as it is not already in use.
 
 3. Create and confirm a password. Review the **terms of use** check box. You'll need to select the check box before you can continue.
 
- > [!NOTE]
+  > [!NOTE]
   > Make a note of your username and password so you don't forget it. 
 
-3. Choose **Create**.
-4. After the subscription is created, your subscription name and expiration date appear on your profile page.
+4. Choose **Create**.
+
+5. After the subscription is created, your subscription name and expiration date appear on your profile page.
 
 <!--I copied the following sections from the wiki page and am not sure what the new experience will be. -->
+
 ## Configure the subscription
 
 1. If it doesn't open automatically, open the setup page. On the admin page, choose **Go to setup**.
 
-2. On the Office 365 Enterprise E3 Developer setup screen, configure the three options as required.
+2. On the Office 365 Enterprise E3 Developer setup screen, configure the three options as required:
 
   - Personalize sign-in
   - Add users
   - Get apps
+  
 3. In the admin portal, in the **Active users** section, assign the Office 365 Enterprise E3 Developer licenses to add users to the account that you created.
 
 ## Provision Office 365 services
@@ -68,22 +73,25 @@ When the provisioning is complete, you can use the new Office 365 subscription f
 
 We also recommend that you enable release options to ensure that you get access to the latest Office 365 features as soon as possible. For more information, see [Set up the Standard or Targeted release options in Office 365](https://support.office.com/en-us/article/set-up-the-standard-or-targeted-release-options-in-office-365-3b3adfa4-1777-4ff0-b606-fb8732101f47?ui=en-US&rs=en-US&ad=US).
 
-## Adding users
+## Add users
 
-For many scenarios, you'll need to test with user accounts with different permissions and settings. You can add up to 25 user accounts with your subscription. To add users, see [Add users individually or in bulk to Office 365 - Admin Help](https://support.office.com/en-us/article/add-users-individually-or-in-bulk-to-office-365-admin-help-1970f7d6-03b5-442f-b385-5880b9c256ec)
+For many scenarios, you'll need to test with user accounts with different permissions and settings. You can add up to 25 user accounts with your subscription. To add users, see [Add users individually or in bulk to Office 365 - Admin Help](https://support.office.com/en-us/article/add-users-individually-or-in-bulk-to-office-365-admin-help-1970f7d6-03b5-442f-b385-5880b9c256ec).
 
-## Setting up a Microsoft Azure account
+## Set up a Microsoft Azure account
 
 For some Office solutions, you might need a Microsoft Azure account to build and test using Azure services. To set up a free Azure account, see [Create your Azure free account today](https://azure.microsoft.com/en-us/free/).
 
-## Leaving the developer program
+## Leave the developer program
 
-If you decide you no longer want to participate in the Office 365 Developer Program, you can end your subscription and leave the program.
+If you decide that you no longer want to participate in the Office 365 Developer Program, you can end your subscription and leave the program.
 
-> [!Warning] The steps below will erase all of your profile information. You will lose any data stored in your developer subscription that is not backed up elsewhere.
+  > [!WARNING]
+  > The following steps will erase all of your profile information. You will lose any data stored in your developer subscription that is not backed up elsewhere.
 
-1. Log in to the developer program.
+1. Sign in to the developer program.
+
 2. Choose **Delete Profile**.
+
 3. In the **Delete your profile** confirmation box, choose **Delete**.
 
 
