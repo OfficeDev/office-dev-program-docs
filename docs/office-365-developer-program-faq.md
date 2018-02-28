@@ -44,7 +44,7 @@ At this time, we are unable to extend existing subscriptions.
 ## Support
 
 If you have issues setting up your subscription, please see the following support resources: 
-- [Stackoverflow](https://stackoverflow/questions)   
+- [Stackoverflow](https://stackoverflow.com/questions)   
 - [Visual Studio customer service](https://www.visualstudio.com/subscriptions/support/)
 - [Office support](https://support.office.com)
 - [Office development support](https://developer.microsoft.com/en-us/office/support)
