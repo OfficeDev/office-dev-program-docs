@@ -10,7 +10,7 @@ Set up an Office 365 developer subscription to build and test your solutions ind
 
 ## Join the Office 365 Developer Program
 
-1. Go to the [Join the Office 365 Developer Program](https://aka.ms/devprogram) and choose **Join now**.
+1. Go to the [Join the Office 365 Developer Program](https://aka.ms/devprogram) page and choose **Join now**.
 
 2. Sign in with your Microsoft account.
 
