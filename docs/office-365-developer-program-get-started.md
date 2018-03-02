@@ -1,7 +1,7 @@
 ---
 title: Set up an Office 365 developer subscription
-description: Join the Office 365 Developer Program and set up a subscription for building and testing solutions independent of your production environment.
-ms.date: 03/09/2018
+description: Set up an Office 365 developer subscription for building and testing solutions independent of your production environment.
+ms.date: 03/16/2018
 ---
 
 # Set up an Office 365 developer subscription 
@@ -39,7 +39,7 @@ Set up an Office 365 developer subscription to build and test your solutions ind
 
 ## Provision Office 365 services
 
-It will take some time for the backend services, such as SharePoint and Exchange, to provision for the subscription. During this step, some of the icons in the app launcher and on the Home page will show as **Setting up (This app is still being set up)**. This will take no longer than an hour.
+It will take some time for the backend services, such as SharePoint and Exchange, to provision for the subscription. During this step, some of the icons in the app launcher and on the Home page show as **Setting up (This app is still being set up)**. This will take no longer than an hour.
 
 When the provisioning is complete, you can use the new Office 365 subscription for development and testing. The subscription expires after nine months.
 
@@ -117,5 +117,5 @@ Save what applies, delete what doesn't.
 
 ## See also
 
-- [Build solutions with your Office 365 developer subscription](office-365-developer-subscription-options.md)
+- [Configure your subscription to build Office 365 solutions](office-365-developer-subscription-options.md)
 - [Office 365 Developer Program FAQ](office-365-developer-program-faq.md)
