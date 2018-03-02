@@ -1,7 +1,7 @@
 ---
 title: Office 365 Developer Program
-description: The Office 365 Developer Program helps you develop and test Office 365 solutions
-ms.date: 2/16/2018
+description: The Office 365 Developer Program helps you develop and test Office 365 solutions.
+ms.date: 3/16/2018
 ---
 
 # Welcome to the Office 365 Developer Program
@@ -30,14 +30,16 @@ Join your friends and colleagues in the Office 365 Developer Program. Use the Of
 
 7. On the Office 365 Developer Program Preferences page, tell us your preferences so we can personalize your experience, including:
 
-  - The industry that you work in
-  - The type of applications or solutions you're interested in developing
-  - Products, technologies, and programming languages that you're interested in
+  - The industry that you work in.
+  - The type of applications or solutions you're interested in developing.
+  - Products, technologies, and programming languages that you're interested in.
 
 8. When you're finished, choose **Save**. Your preferences appear on the next page in the top right, and you'll receive a Welcome message.
 
 ## Next steps
 
-[Set up an Office 365 developer subscription](office-365-developer-program-get-started.md). After you have your developer subscription, [configure your subscription](office-365-developer-subscription-options.md) to build the types of solutions you want.
+- [Set up an Office 365 developer subscription](office-365-developer-program-get-started.md). 
 
-For frequently asked questions about the Office 365 Developer Program, see the [FAQ](office-365-developer-program-faq.md).
+- After you have your developer subscription, [configure your subscription](office-365-developer-subscription-options.md) to build the types of solutions that you want.
+
+- For frequently asked questions about the Office 365 Developer Program, see the [FAQ](office-365-developer-program-faq.md).
