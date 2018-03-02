@@ -8,37 +8,9 @@ ms.date: 03/09/2018
 
 Set up an Office 365 developer subscription to build and test your solutions independent of your production environment. The subscription is an Office 365 Enterprise E3 Developer subscription with 25 user licenses. It lasts for nine months and is free to use for development purposes (coding and testing solutions).
 
-## Join the Office 365 Developer Program
-
-1. Go to the [Join the Office 365 Developer Program](https://aka.ms/devprogram) page and choose **Join now**.
-
-2. Sign in with your Microsoft account.
-
-3. On the Office 365 Developer Program Signup page, complete the following fields in the online form:
-
-  - **First name**
-  - **Last name**
-  - **Contact Email**
-  - **Country/Region**
-  - **Company**
-
-4. Review the **terms and conditions**. You'll need to select the check box before you can join.
-
-5. Optionally, select the **I would like to hear from the Office 365 Developer Program** check box if you want to hear from Microsoft about new capabilities and other updates. 
-
-6. Choose **Join**.
-
-7. On the Office 365 Developer Program Preferences page, tell us your preferences so we can personalize your experience, including:
-
-  - The industry that you work in
-  - The type of applications or solutions you're interested in developing
-  - Products, technologies, and programming languages that you're interested in
-
-8. When you're finished, choose **Save**. Your preferences appear on the next page in the top right, and you'll receive a Welcome message.
-
 ## Set up your subscription
 
-1. To get a nine-month Office 365 developer subscription, on your profile page, under **Need an Office 365 subscription to use for development?**, choose **Sign up**.
+1. To get an Office 365 developer subscription, on your profile page, under **Need an Office 365 subscription to use for development?**, choose **Sign up**.
 
 2. Create a username and domain. This account will have global administrator permissions for the subscription. You can choose any domain name as long as it is not already in use.
 

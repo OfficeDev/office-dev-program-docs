@@ -1,6 +1,6 @@
 ---
-title: Build solutions with your Office 365 developer subscription
-description: Find resources such as step-by-step guides to help you get started building your solution.
+title: Configure your Office 365 developer subscription
+description: Configure your Office 365 developer subscription to build the solutions you want.
 ms.date: 03/09/2018
 ---
 
