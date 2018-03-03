@@ -40,6 +40,6 @@ Join your friends and colleagues in the Office 365 Developer Program. Use the Of
 
 - [Set up an Office 365 developer subscription](office-365-developer-program-get-started.md). 
 
-- After you have your developer subscription, [configure your subscription](office-365-developer-subscription-options.md) to build the types of solutions that you want.
+- After you have your developer subscription, [configure your subscription](configure-your-office-365-developer-subscription.md) to build the types of solutions that you want.
 
 - For frequently asked questions about the Office 365 Developer Program, see the [FAQ](office-365-developer-program-faq.md).
