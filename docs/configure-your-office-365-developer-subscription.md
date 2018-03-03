@@ -1,7 +1,7 @@
 ---
 title: Configure your Office 365 developer subscription
 description: Configure your Office 365 developer subscription to build the solutions you want.
-ms.date: 03/09/2018
+ms.date: 03/16/2018
 ---
 
 # Configure your subscription to build Office 365 solutions
