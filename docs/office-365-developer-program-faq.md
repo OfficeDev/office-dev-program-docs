@@ -54,7 +54,7 @@ If you have issues setting up your subscription, please see the following suppor
 ## See also
 
 - [Set up an Office 365 developer subscription](office-365-developer-program-get-started.md)
-- [Build solutions with your Office 365 developer subscription](office-365-developer-subscription-options.md)
+- [Configure your subscription to build Office 365 solutions](office-365-developer-subscription-options.md)
 
 
  
