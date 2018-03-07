@@ -66,7 +66,7 @@ If you decide that you no longer want to participate in the Office 365 Developer
 
 3. In the **Delete your profile** confirmation box, choose **Delete**.
 
-## What's in the Office 365 developer subscription
+## What's included in the Office 365 developer subscription
 
 - [Exchange Online (Plan 2)](https://products.office.com/en-us/exchange/compare-microsoft-exchange-online-plans)
 - [Flow for Office 365 Plan 2](https://flow.microsoft.com/en-us/pricing/)
