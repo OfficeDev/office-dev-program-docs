@@ -1,7 +1,7 @@
 ---
 title: Office 365 Developer Program
 description: The Office 365 Developer Program helps you develop and test Office 365 solutions.
-ms.date: 3/16/2018
+ms.date: 03/16/2018
 ---
 
 # Welcome to the Office 365 Developer Program
