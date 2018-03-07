@@ -16,7 +16,7 @@ c.	Manner of use. You may not:
 
     ii.	disable, tamper with or otherwise attempt to circumvent any mechanism that limits your use of the Services;
 
-    iii.	rent, lease, lend, resell, transfer, or sublicense any Services or portion thereof to or for third parties, except as explicitly permitted herein or in license terms that accompany any Services component;
+    iii. rent, lease, lend, resell, transfer, or sublicense any Services or portion thereof to or for third parties, except as explicitly permitted herein or in license terms that accompany any Services component;
 
     iv.	use the Services for any purpose that is unlawful or prohibited by this Agreement; or
 
@@ -26,6 +26,6 @@ d.	Updates. We may make changes to the Services from time to time, including: th
 
 e.	Preview features. We may make features available on a Preview basis. Previews are provided “AS-IS”. Previews may be subject to reduced or different security, compliance, privacy, availability, reliability, and support commitments, as further explained in the Privacy Statement, and any additional notices provided with the Preview. We may change or discontinue Previews at any time without notice. We also may choose not to release a Preview into “General Availability”.
 
-2. Software.
+#### 2. Software.
 
 
