@@ -68,7 +68,7 @@ If you decide that you no longer want to participate in the Office 365 Developer
 
 ## What's in the Office 365 developer subscription
 
-- [Exchange Online (Plan 2)]](https://products.office.com/en-us/exchange/compare-microsoft-exchange-online-plans)
+- [Exchange Online (Plan 2)](https://products.office.com/en-us/exchange/compare-microsoft-exchange-online-plans)
 - [Flow for Office 365 Plan 2](https://flow.microsoft.com/en-us/pricing/)
 - [Microsoft Forms (Plan E5)](https://support.office.com/en-us/article/Frequently-asked-questions-about-Microsoft-Forms-495c4242-6102-40a0-add8-df05ed6af61c?ui=en-US&rs=en-US&ad=US )
 - [Microsoft Planner](https://products.office.com/en-us/compare-all-microsoft-office-products?tab=2 )
