@@ -33,7 +33,7 @@ Yes. Follow the steps at [Set up an Office 365 developer subscription](office-36
 
 ### Does the subscription also include a subscription to Azure?
 
-This developer subscription does not include a subscription to Azure. However, to receive free access to Azure services, you can [create a free Azure account](https://azure.microsoft.com/en-us/free/) or [buy a Visual Studio subscription](https://www.visualstudio.com/subscriptions/). 
+This developer subscription does not include a subscription to Azure. However, to receive free access to Azure services, you can [create a free Azure account](https://azure.microsoft.com/en-us/free/). 
 
 ### When my subscription is about to expire, how can I extend it?
 
