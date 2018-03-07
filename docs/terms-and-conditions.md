@@ -7,8 +7,11 @@ This agreement is between you or the entity you represent and Microsoft Corporat
 1. Services.
 
     a.	Right to use. We grant you the right to access and use the Services in accordance with this Agreement to design, develop, and test your applications to make them available for your Office 365 online services, on-premises deployments or for the Microsoft Office Store. You may not use the Services for production use.
+
     b.	User Plan. Each user of the Office 365 Developer portion of the Developer Services must be allocated an individual User Plan, whether they access the service directly or indirectly.
+
     c.	Manner of use. You may not:
+    
         i.	reverse engineer, decompile, disassemble or work around technical limitations in the Services, except to the extent that applicable law permits it despite these limitations;
         ii.	disable, tamper with or otherwise attempt to circumvent any mechanism that limits your use of the Services;
         iii.	rent, lease, lend, resell, transfer, or sublicense any Services or portion thereof to or for third parties, except as explicitly permitted herein or in license terms that accompany any Services component;
