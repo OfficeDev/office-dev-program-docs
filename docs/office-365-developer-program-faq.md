@@ -27,9 +27,22 @@ Microsoft employees cannot sign up for the subscription. However, you might alre
 
 Yes. Follow the steps at [Set up an Office 365 developer subscription](office-365-developer-program-get-started.md).
 
-### What applications does the subscription include? 
+### What's included in the Office 365 developer subscription?
 
-*SMEs: We need an answer for this*
+- [Exchange Online (Plan 2)](https://products.office.com/en-us/exchange/compare-microsoft-exchange-online-plans)
+- [Flow for Office 365 Plan 2](https://flow.microsoft.com/en-us/pricing/)
+- [Microsoft Forms (Plan E5)](https://support.office.com/en-us/article/Frequently-asked-questions-about-Microsoft-Forms-495c4242-6102-40a0-add8-df05ed6af61c?ui=en-US&rs=en-US&ad=US )
+- [Microsoft Planner](https://products.office.com/en-us/compare-all-microsoft-office-products?tab=2 )
+- [Microsoft Stream for O365 E5 SKU](https://products.office.com/en-us/business/office-365-enterprise-e5-business-software )
+- [Microsoft Teams](https://products.office.com/en-us/business/office-365-enterprise-e5-business-software )
+- [Mobile Device Management for Office 365](https://support.office.com/en-us/article/Set-up-Mobile-Device-Management-MDM-in-Office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)
+- [Office 365 ProPlus](https://products.office.com/en-us/business/office-365-proplus-business-software)
+- [PowerApps for Office 365 Plan 2](https://powerapps.microsoft.com/en-us/pricing/ )
+- [SharePoint Online for Developer](https://products.office.com/en-us/SharePoint/compare-sharepoint-plans)
+- [Skype for Business Online (Plan 2)](https://products.office.com/en-us/skype-for-business/online-meeting-solutions)
+- [Sway](https://sway.com/)
+- [To-Do (Plan 3)](https://todo.microsoft.com/en-us)
+
 
 ### Does the subscription also include a subscription to Azure?
 
