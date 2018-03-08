@@ -10,7 +10,7 @@ Join your friends and colleagues in the Office 365 Developer Program. Use the Of
 
 ## Join the Office 365 Developer Program
 
-1. Go to the [Join the Office 365 Developer Program](https://aka.ms/devprogram) page and choose **Join now**.
+1. Go to the [Join the Office 365 Developer Program](https://aka.ms/o365devprogram) page, and then choose **Join now**.
 
 2. Sign in with your Microsoft account.
 
