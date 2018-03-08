@@ -82,4 +82,122 @@ e.	**Submissions and feedback.** We do not claim ownership of any Submission unl
 
 f.	**Services accessible only to invited customers.** Elements of the Services may be accessible to you on an invitation only basis, for example as part of a program for using pre-release Services and providing feedback to us (e.g., through the “Connect” portal). Those Services are confidential information of Microsoft. You may not disclose this confidential information to any third party for a period of five years. This restriction does not apply to any information that is or becomes publicly available without a breach of this restriction, was lawfully known to the receiver of the information without an obligation to keep it confidential, is received from another source who can disclose it lawfully and without an obligation to keep it confidential, or is independently developed. You may disclose this confidential information if required to comply with a court order or other government demand that has the force of law. Before doing so, you must seek the highest level of protection available and, when possible, give us enough prior notice to provide a reasonable chance to seek a protective order.
 
+#### 6. Term, termination, and suspension.
+
+a.	**Agreement term and termination.** The term of this Agreement begins when you accept it. You may terminate this Agreement at any time by deleting your profile at [LINK].  Upon termination of this Agreement your contact information and preferences will be removed and your optional free subscription to Office 365 Developer obtained under this Agreement will end.
+
+b.	**Regulatory.** In any country where any current or future government regulation or requirement that applies to us, but not generally to businesses operating there, presents a hardship to us operating the Services without change, and/or causes us to believe this Agreement or the Services may be in conflict with any such regulation or requirement, we may change the Services or terminate the Agreement. Your sole remedy for such changes to the Services under this Section is to terminate this Agreement.
+
+c.	**Suspension.** We may suspend your use of the Services if: (1) reasonably needed to prevent unauthorized access to Customer Data; (2) you fail to respond to a claim of alleged infringement under Sections 4.k or 8 within a reasonable time; (3) you violate this Agreement; or (4) we suspect fraud. We will attempt to suspend access to the minimum necessary part of the Services while the condition or need exists. We will give notice before we suspend, except where we reasonably believe we need to suspend immediately. If you do not fully address the reasons for the suspension within 60 days after we suspend, we may terminate this Agreement and delete your Customer Data without any retention period. We may also terminate your account if your use of the Developer Services is suspended more than twice in any 12-month period.
+
+d.	**Suspension or termination of Office 365 Developer subscription for non-usage.** We may suspend or terminate your optional free Office 365 Developer subscription obtained under this Agreement and delete any Customer Data related to it if you fail to use your subscription to design, develop or test applications for Office 365, or if you otherwise fail to comply with any milestones or other requirements that we may communicate to you (e.g., through the Developer Services Portal), within any period of 90 consecutive days during the term of this Agreement. We will provide you with notice prior to any suspension or termination of your subscription and Customer Data deletion.
+
+#### 7. Disclaimer of Warranties.
+
+**EXCEPT AS WARRANTED IN A SEPARATE AGREEMENT, MICROSOFT AND ITS RESPECTIVE SUPPLIERS PROVIDE THE SERVICES (INCLUDING THE CONTENT AND APIS) “AS IS,” “WITH ALL FAULTS” AND “AS AVAILABLE.” YOU BEAR THE RISK OF USING IT. WE PROVIDE NO WARRANTIES, GUARANTEES OR CONDITIONS, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. YOU MAY HAVE ADDITIONAL RIGHTS UNDER YOUR LOCAL LAWS WHICH THIS AGREEMENT CANNOT CHANGE. THESE DISCLAIMERS WILL APPLY TO THE FULLEST EXTENT PERMITTED UNDER APPLICABLE LAW, INCLUDING APPLICATION TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.**
+
+**a.	Third party content and materials. MICROSOFT DOES NOT CONTROL, REVIEW, REVISE, ENDORSE, OR ACCEPT RESPONSIBILITY FOR ANY THIRD PARTY CONTENT, INFORMATION, MESSAGES, MATERIALS, PROJECTS ACCESSIBLE FROM OR LINKED THROUGH THE SERVICES, AND, EXCEPT AS WARRANTED IN A SEPARATE AGREEMENT, MICROSOFT MAKES NO REPRESENTATIONS OR WARRANTIES WHATSOEVER ABOUT AND SHALL NOT BE RESPONSIBLE FOR ANY OF THE FOREGOING. ANY DEALINGS YOU MAY HAVE WITH SUCH THIRD PARTIES ARE AT YOUR OWN RISK.**
+
+#### 8. Defense of claims.
+
+a.	**Defense.** We will defend you against any claims made by an unaffiliated third party that the Developer Services or Developer Services Software infringe its patent, copyright or trademark or makes unlawful use of its trade secret. You will defend us against any claims made by an unaffiliated third party that any (1) Non-Microsoft Product that is not made available through the Developer Services or Developer Services Software or (2) Customer Data you provide directly or indirectly in using the Services infringe the third party’s patent, copyright, or trademark or makes unlawful use of its trade secret.
+
+b.	**Limitations.** Our obligations in Section 8.a will not apply to a claim or award based on: (1) Customer Data, Non-Microsoft Product, modifications you make to the Services, or materials you provide or make available as part of using the Services; (2) your combination of the Services with, or damages based upon the value of, a Non-Microsoft Product, data or business process; (3) your use of a Microsoft trademark without our express written consent, or your use of the Services after we notify you to stop due to a third-party claim; or (4) your redistribution of the Services to, or use for the benefit of, any unaffiliated third party.
+
+c.	**Remedies.** If we reasonably believe that a claim under Section 8.a may bar your use of the Developer Services or Developer Services Software, we will seek to: (1) obtain the right for you to keep using it; or (2) modify or replace it with a functional equivalent. If these options are not commercially reasonable, we may terminate your rights to use the Developer Services or Developer Services Software.
+
+d.	**Obligations.** Each party must notify the other promptly of a claim under this Section 8. The party seeking protection must (1) give the other sole control over the defense and settlement of the claim; and (2) give reasonable help in defending the claim. The party providing the protection will (1) reimburse the other for reasonable out-of-pocket expenses that it incurs in giving that help and (2) pay the amount of any resulting adverse final judgment (or settlement that the other consents to). The parties’ respective rights to defense and payment of judgments or settlements under this Section are in lieu of any common law or statutory indemnification rights or analogous rights, and each party waives such common law rights.
+
+#### 9. Limitation of liability.
+
+a.	**Limitation.** The aggregate liability of each party under this Agreement is limited to direct damages up to One United States dollar ($1.00 USD).
+
+b.	**EXCLUSION. NEITHER PARTY, NOR ITS SUPPLIERS WILL BE LIABLE FOR LOSS OF REVENUE, LOST PROFITS, OR INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE, OR EXEMPLARY DAMAGES, EVEN IF THE PARTY KNEW THEY WERE POSSIBLE.**
+
+c.	**Exceptions to Limitations.** The limits of liability in this Section apply to the fullest extent permitted by applicable law, but do not apply to: (1) the parties’ obligations under Section 8 (Defense of claims); or (2) breach of any confidentiality obligation; or (3) violation of the other's intellectual property rights.
+
+#### 10. Miscellaneous.
+
+a.	**No additional rights granted.** We reserve all rights not expressly granted under this Agreement, and no other rights are granted under this Agreement by implication or estoppel or otherwise.
+
+b.	**Notices.**
+You must send notices by mail to the address listed for Microsoft Corporation, Attention: Office Products Group – Office 365 Developer, with a copy to:
+Microsoft Corporate, External and Legal Affairs (Office Products Group – Office 365 Developer)
+One Microsoft Way
+Redmond, WA 98052 USA
+You agree to receive electronic notices from us related to the Services, which will be sent by email to your specified end user or administrator contact information or presented to you in the Service experience. Notices are effective on the date on the return receipt for mail, the date sent for email, and the date presented if within the Service experience.
+
+c.	**Assignment.** You may not assign this Agreement either in whole or in part.
+
+d.	**Severability.** If any part of this Agreement is held unenforceable, the rest remains in full force and effect.
+
+e.	**Waiver.** Failure to enforce any provision of this Agreement will not constitute a waiver.
+
+f.	**No agency.** We are independent contractors. This Agreement does not create an agency, partnership or joint venture.
+
+g.	**No third-party beneficiaries.** There are no third-party beneficiaries to this Agreement.
+
+h.	**Applicable law and venue.** This Agreement is governed by State of Washington law, without regard to its conflict of laws principles. Any action to enforce this Agreement must be brought in the courts of King County, State of Washington. This choice of jurisdiction does not prevent either party from seeking injunctive relief in any appropriate jurisdiction with respect to violation of intellectual property rights.
+
+i.	**Entire agreement.** This Agreement is the entire agreement concerning its subject matter and supersedes any prior or concurrent communications.
+
+j.	**Survival.** The following provisions will survive this Agreement’s termination: 1.b, 2.a-b, 4, 5.a-d, 5.f, 6, 7, 8, 9, 10, 11, and all other definitions.
+
+k.	**U.S. export jurisdiction.** The Services are subject to U.S. export jurisdiction. You must comply with all applicable laws, including the U.S. Export Administration Regulations, the International Traffic in Arms Regulations, and end-user, end-use and destination restrictions issued by U.S. and other governments. For additional information, see [http://www.microsoft.com/exporting/(http://www.microsoft.com/exporting/).
+
+l.	**International availability.** Availability of the Services, including specific features and language versions, varies by country.
+
+m.	**Force majeure.** Neither party will be liable for any failure in performance due to causes beyond its reasonable control (such as fire, explosion, power blackout, earthquake, flood, severe storms, strike, embargo, labor disputes, acts of civil or military authority, war, terrorism including cyber terrorism), acts of God, acts or omissions of Internet traffic carriers, actions or omissions of regulatory or governmental bodies (including the passage of laws or regulations or other acts of government that impact the delivery of Services).
+
+n.	**Modifications.** We may modify this Agreement at any time with or without individual notice to you by posting a revised version on the legal information section of the Developer Services and Documentation Portal (or an alternate site we identify), or by notifying you in accordance with Section 10.b. Any modifications will be effective upon your continued use of a Service.
+
+o.	**Notices and procedure for making claims of copyright infringement.** We respect the intellectual property rights of third parties. If you wish to send a notice of intellectual property infringement, including claims of copyright infringement, please use our procedures for submitting at [https://www.microsoft.com/info/cpyrtInfrg.html](https://www.microsoft.com/info/cpyrtInfrg.html). ALL INQUIRIES NOT RELEVANT TO THIS PROCEDURE WILL NOT RECEIVE A RESPONSE.
+
+#### 11. Definitions.
+
+Any reference in this agreement to “day” will be a calendar day.
+
+“Affiliate” means any legal entity that a party owns or that owns a party, with a 50% or greater interest.
+“Content” means documents, photographs, videos, and other graphical, textual, or audio-visual content that may be subject to copyright protection.
+
+“Customer Data” means any Content or other data, including all text, sound, video, or image files, or software, that are provided to us by, or on behalf of, you through your use of the Developer Services for use by you or your authorized users. Customer Data does not include Submissions or any other Content or data that you submit to the Documentation Portal or otherwise provide via the Developer Services for public access.
+
+“Developer Services” means the Office 365 Developer offering, the Developer Services Portal, and other services we identify as governed by this Agreement.
+
+“Developer Services Portal” means the Office 365 Developer Hub available in the Office 365 Developer offering.
+“Developer Services Software” means Microsoft software we provide to you as part of the Developer Services for use with the Developer Services.
+
+“Documentation Portal” means the Microsoft site for developers and IT professionals available at [http://docs.microsoft.com](http://docs.microsoft.com) or at an alternate site we identify.
+
+“Microsoft API Terms” means the terms located at [https://msdn.microsoft.com/en-us/mt825045](https://msdn.microsoft.com/en-us/mt825045).
+
+“Microsoft Content” means Content on the Services provided by Microsoft and its suppliers.
+
+“Microsoft Software” means Microsoft software and computer code, including sample code and Developer Services Software.
+
+“MIT License” means the MIT software license, a copy of which is provided in Exhibit A.
+
+“Non-Microsoft Product” is any software, data, service, website or other product licensed, sold or otherwise provided to you by an entity other than us, whether you obtained it via our Services or elsewhere.
+
+“Preview” means preview, beta, or other pre-release versions of the Developer Services or Developer Services Software offered by Microsoft.
+
+“Privacy Statement” means the Services privacy statement ( [http://go.microsoft.com/fwlink/?LinkID=246330](http://go.microsoft.com/fwlink/?LinkID=246330)).
+
+“Rules of Conduct” means the Services rules of conduct ( [http://go.microsoft.com/fwlink/?LinkId=303819](http://go.microsoft.com/fwlink/?LinkId=303819)).
+
+“Services” means the Developer Services, Documentation Portal, the [https://developer.microsoft.com/office/](https://developer.microsoft.com/office/) site, and Microsoft Software we make available to you under this Agreement.
+
+ “Submissions” means Content, code, comments, feedback, suggestions, information or materials that you provide via the Documentation Portal or any Services for public access (rather than for your personal use or use by your authorized users). Submissions do not include Customer Data.
+
+“User Plan” means a per-user based subscription, trial, or other Microsoft granted benefit that permits access to and account services for the Developer Services.
+
+“we” and “us” means Microsoft Corporation, One Microsoft Way, Redmond, WA 98052, and its Affiliates, as appropriate.
+
+“you” and “your” means the person or entity accepting this Agreement to use the Services.
+
+ 
+
+
+
+
 
