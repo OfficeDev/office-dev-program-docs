@@ -84,7 +84,7 @@ f.	**Services accessible only to invited customers.** Elements of the Services m
 
 #### 6. Term, termination, and suspension.
 
-a.	**Agreement term and termination.** The term of this Agreement begins when you accept it. You may terminate this Agreement at any time by deleting your profile at [LINK].  Upon termination of this Agreement your contact information and preferences will be removed and your optional free subscription to Office 365 Developer obtained under this Agreement will end.
+a.	**Agreement term and termination.** The term of this Agreement begins when you accept it. You may terminate this Agreement at any time by deleting your profile at [https://aka.ms/o365devprogramprofile](https://aka.ms/o365devprogramprofile).  Upon termination of this Agreement your contact information and preferences will be removed and your optional free subscription to Office 365 Developer obtained under this Agreement will end.
 
 b.	**Regulatory.** In any country where any current or future government regulation or requirement that applies to us, but not generally to businesses operating there, presents a hardship to us operating the Services without change, and/or causes us to believe this Agreement or the Services may be in conflict with any such regulation or requirement, we may change the Services or terminate the Agreement. Your sole remedy for such changes to the Services under this Section is to terminate this Agreement.
 
@@ -143,7 +143,7 @@ i.	**Entire agreement.** This Agreement is the entire agreement concerning its s
 
 j.	**Survival.** The following provisions will survive this Agreement’s termination: 1.b, 2.a-b, 4, 5.a-d, 5.f, 6, 7, 8, 9, 10, 11, and all other definitions.
 
-k.	**U.S. export jurisdiction.** The Services are subject to U.S. export jurisdiction. You must comply with all applicable laws, including the U.S. Export Administration Regulations, the International Traffic in Arms Regulations, and end-user, end-use and destination restrictions issued by U.S. and other governments. For additional information, see [http://www.microsoft.com/exporting/(http://www.microsoft.com/exporting/).
+k.	**U.S. export jurisdiction.** The Services are subject to U.S. export jurisdiction. You must comply with all applicable laws, including the U.S. Export Administration Regulations, the International Traffic in Arms Regulations, and end-user, end-use and destination restrictions issued by U.S. and other governments. For additional information, see [https://www.microsoft.com/en-us/exporting/default.aspx(https://www.microsoft.com/en-us/exporting/default.aspx).
 
 l.	**International availability.** Availability of the Services, including specific features and language versions, varies by country.
 
