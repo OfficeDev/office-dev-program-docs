@@ -143,7 +143,7 @@ i.	**Entire agreement.** This Agreement is the entire agreement concerning its s
 
 j.	**Survival.** The following provisions will survive this Agreement’s termination: 1.b, 2.a-b, 4, 5.a-d, 5.f, 6, 7, 8, 9, 10, 11, and all other definitions.
 
-k.	**U.S. export jurisdiction.** The Services are subject to U.S. export jurisdiction. You must comply with all applicable laws, including the U.S. Export Administration Regulations, the International Traffic in Arms Regulations, and end-user, end-use and destination restrictions issued by U.S. and other governments. For additional information, see [https://www.microsoft.com/en-us/exporting/default.aspx(https://www.microsoft.com/en-us/exporting/default.aspx).
+k.	**U.S. export jurisdiction.** The Services are subject to U.S. export jurisdiction. You must comply with all applicable laws, including the U.S. Export Administration Regulations, the International Traffic in Arms Regulations, and end-user, end-use and destination restrictions issued by U.S. and other governments. For additional information, see [https://www.microsoft.com/en-us/exporting/default.aspx](https://www.microsoft.com/en-us/exporting/default.aspx).
 
 l.	**International availability.** Availability of the Services, including specific features and language versions, varies by country.
 
@@ -181,9 +181,9 @@ Any reference in this agreement to “day” will be a calendar day.
 
 “Preview” means preview, beta, or other pre-release versions of the Developer Services or Developer Services Software offered by Microsoft.
 
-“Privacy Statement” means the Services privacy statement ( [http://go.microsoft.com/fwlink/?LinkID=246330](http://go.microsoft.com/fwlink/?LinkID=246330)).
+“Privacy Statement” means the Services privacy statement ([http://go.microsoft.com/fwlink/?LinkID=246330](http://go.microsoft.com/fwlink/?LinkID=246330)).
 
-“Rules of Conduct” means the Services rules of conduct ( [http://go.microsoft.com/fwlink/?LinkId=303819](http://go.microsoft.com/fwlink/?LinkId=303819)).
+“Rules of Conduct” means the Services rules of conduct ([http://go.microsoft.com/fwlink/?LinkId=303819](http://go.microsoft.com/fwlink/?LinkId=303819)).
 
 “Services” means the Developer Services, Documentation Portal, the [https://developer.microsoft.com/office/](https://developer.microsoft.com/office/) site, and Microsoft Software we make available to you under this Agreement.
 
