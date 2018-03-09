@@ -43,7 +43,6 @@ Yes. Follow the steps at [Set up an Office 365 developer subscription](office-36
 - [Sway](https://sway.com/)
 - [To-Do (Plan 3)](https://todo.microsoft.com/en-us)
 
-
 ### Does the subscription also include a subscription to Azure?
 
 This developer subscription does not include a subscription to Azure. However, to receive free access to Azure services, you can [create a free Azure account](https://azure.microsoft.com/en-us/free/). 
@@ -52,8 +51,6 @@ This developer subscription does not include a subscription to Azure. However, t
 
 At this time, we are unable to extend existing subscriptions. 
 
-<!-- LG: Verify? There was a conversation at the strategy meeting about extended subscriptions. --> 
-
 ## Support
 
 If you have issues setting up your subscription, please see the following support resources: 
@@ -61,8 +58,6 @@ If you have issues setting up your subscription, please see the following suppor
 - [Visual Studio customer service](https://www.visualstudio.com/subscriptions/support/)
 - [Office support](https://support.office.com)
 - [Office development support](https://developer.microsoft.com/en-us/office/support)
-
-<!-- LG: These are general resources. Can we link to specific pages, tags, etc.? -->
 
 ## See also
 

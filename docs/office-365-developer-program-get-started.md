@@ -25,8 +25,6 @@ Set up an Office 365 developer subscription to build and test your solutions ind
 
 6. After the subscription is created, your subscription name and expiration date appear on your profile page.
 
-<!--I copied the following sections from the wiki page and am not sure what the new experience will be.-->
-
 ## Configure the subscription
 
 1. If it doesn't open automatically, open the setup page. On the admin page, choose **Go to setup**.
@@ -38,38 +36,6 @@ Set up an Office 365 developer subscription to build and test your solutions ind
   - Get apps
   
 3. In the admin portal, in the **Active users** section, assign the Office 365 Enterprise E3 Developer licenses to add users to the account that you created.
-
-<!-- This section was from older setup pages and may have some useful information to leverage.
-
-> [!TIP]
-> Open these links in another window or tab to keep the following instructions handy.
-
-1. The first page of the sign-up form is self-explanatory; supply the requested information, and then select **Next**.
-    
-2. On the second page, shown in Figure 1, specify a user ID for the administrator of the subscription.
-    
-   *Figure 1. Office 365 Developer Site domain name*
-
-   ![Page 2 of Sign-up form for Office 365 account](../images/ff384c69-56bf-4ceb-81c3-8b874e2407f0.png)
-
-3. Create a subdomain of **.onmicrosoft.com**; for example, contoso.onmicrosoft.com.
-    
-   After you sign up, you use the resulting credentials (in the format *UserID@yourdomain.onmicrosoft.com*) to sign in to your Office 365 portal site where you administer your account. Your SharePoint Online Developer Site is set up at your new domain: `http://yourdomain.sharepoint.com`.
-    
-4. Select **Next** and fill out the final page of the form. If you choose to provide a telephone number to get a confirmation code, you can provide a mobile or landline telephone number, but *not* a VoIP (Voice over Internet Protocol) number.
-    
-   > [!NOTE]
-   > If you're signed in to another Microsoft account when you try to sign up for a developer account, you might see this message: "Sorry, that user ID you entered didn't work. It looks like it's not valid. Be sure you enter the user ID that your organization assigned to you. Your user ID usually looks like *someone@example.com* or *someone@example.onmicrosoft.com*." 
-   
-   > If you see that message, sign out of the Microsoft account you were using and try again. If you still get the message, clear your browser cache or switch to **InPrivate Browsing** and then fill out the form.
-   
-5. After you finish the sign-up process, your browser opens the Office 365 installation page. Select the Admin icon to open the admin center page.
- 
-   **Office 365 admin center page**
-
-   ![Screenshot that shows the Office 365 admin center.](../images/SP15_Office365AdminInset_border.png)
-
-6. Wait for your developer subscription to finish setting up. After provisioning is complete, refresh the admin center page in your browser.-->
 
 ## Provision Office 365 services
 
@@ -99,55 +65,6 @@ If you decide that you no longer want to participate in the Office 365 Developer
 2. Choose **Delete Profile**.
 
 3. In the **Delete your profile** confirmation box, choose **Delete**.
-
-
-<!-- ## Linda's Notes 
-
-- **Delete all your events** *(need more info here)*
-
-...from current way of doing things -- not sure if these still apply. Also some notes from David's content plan. 
-Save what applies, delete what doesn't.
-
-### Info we give out to current customers when we send their promo codes:
-- You must use InPrivate browsing to redeem the code. 
-- This offer is a developer sandbox offer, and is not compatible with any other offers.  For example, you cannot have a paid E5 offer, Visio offer, and this offer all-in-one. 
-- The limit is one subscription per lifetime; that is, contoso.com can only sign up for this offer once.  You can request another subscription to create a second subscription with contoso2.onmicrosoft.com. 
-- These promo codes may not be used to extend a currently existing offer, paid or otherwise.  As in #3, you must request and create a net new tenant at this time.
-
-### Get started with the Office 365 developer subscription 
-
-- Get a subscription (basically will point to previous topic) 
-- Access your Azure subscription (you get this as part of the developer subscription, but not everyone knows how to get to it via the Azure portal) 
-- Configure your subscription 
-  - Question: some topics I've found include getting an Azure subscription. Is this needed? 
-  - Add users in Office 365 (this will just be a link out) 
-  - Leverage the Office 365 CLI tool to change settings (be clear on the what you can do, follow up with Vesa.) (this is also a link out) 
-
-### Next steps (Choose your journey) (intro to next section) 
-
-- Add Sample data by using the Graph Explorer (need more info) 
-- Create app catalog (sharepoint) link to sp topic 
-- Create developer site (sharepoint) link to sp topic 
-- Add ScriptLab to all clients to the subscription to enable Office add-ins (need more info) 
-- Enable Teams Development and Sideloading (need more info) 
-- Your O365 subscription IS an Azure subscription. So we need a document that explains how to access it on the Azure portal.
-
-### Documentation requests for Wave 1 (from slide deck)
-
-- Overview of Developer Program​
-- Acquire a subscription options  [Dev Subscription | Visual Studio | Paid $99 offer | Microsoft Partner Network Benefits (MPN IUR)]​
-- Customize your development subscription for your use.​
-- [Add users in Office 365](https://support.office.com/en-us/article/add-users-individually-or-in-bulk-to-office-365-admin-help-1970f7d6-03b5-442f-b385-5880b9c256ec) ​
-- [Leverage the Office 365 CLI tool to change settings​](https://dev.office.com/blogs/announcing-office-365-cli-for-managing-your-office-365-subscription-on-any-platform)   to be clear on the what you can do. Follow up with Vesa.​
-- Add Sample data by using the Graph Explorer​
-- Add ScriptLab to all clients to the subscription to enable Office add-ins​
-- Enable Teams Development and Sideloading​
-- Need help?​
-- Have questions on how to get started building? Dev.office.com/support​
-- Subscription issue? ->  FAQ / Trouble shooting guide  ​
-- Privacy and terms of use​
-- Program terms of use ​
-- Dev subscription license agreement [Suzanna]-->
 
 ## See also
 
