@@ -1,7 +1,7 @@
 ---
 title: Set up an Office 365 developer subscription
 description: Set up an Office 365 developer subscription for building and testing solutions independent of your production environment.
-ms.date: 03/16/2018
+ms.date: 03/09/2018
 ---
 
 # Set up an Office 365 developer subscription 
@@ -10,18 +10,20 @@ Set up an Office 365 developer subscription to build and test your solutions ind
 
 ## Set up your subscription
 
-1. To get an Office 365 developer subscription, on your profile page, under **Need an Office 365 subscription to use for development?**, choose **Sign up**.
+1. To get an Office 365 developer subscription, on your profile page, under **Need an Office 365 subscription to use for development?**, choose **Set up subscription**.
 
-2. Create a username and domain. This account will have global administrator permissions for the subscription. You can choose any domain name as long as it is not already in use.
+2. In the **Set up your developer subscription** dialog box, create a username and domain. This account will have global administrator permissions for the subscription. You can choose any username or domain name as long as it is not already in use. Do not use spaces.
 
-3. Create and confirm a password. Review the **terms of use** check box. You'll need to select the check box before you can continue.
+3. Create and confirm a password.
 
   > [!NOTE]
   > Make a note of your username and password so you don't forget it. 
 
-4. Choose **Create**.
+4. Choose **Set up**.
 
-5. After the subscription is created, your subscription name and expiration date appear on your profile page.
+5. Follow the instructions to prove you're not a robot, and then choose **Verify**.
+
+6. After the subscription is created, your subscription name and expiration date appear on your profile page.
 
 <!--I copied the following sections from the wiki page and am not sure what the new experience will be.-->
 
@@ -36,6 +38,38 @@ Set up an Office 365 developer subscription to build and test your solutions ind
   - Get apps
   
 3. In the admin portal, in the **Active users** section, assign the Office 365 Enterprise E3 Developer licenses to add users to the account that you created.
+
+<!-- This section was from older setup pages and may have some useful information to leverage.
+
+> [!TIP]
+> Open these links in another window or tab to keep the following instructions handy.
+
+1. The first page of the sign-up form is self-explanatory; supply the requested information, and then select **Next**.
+    
+2. On the second page, shown in Figure 1, specify a user ID for the administrator of the subscription.
+    
+   *Figure 1. Office 365 Developer Site domain name*
+
+   ![Page 2 of Sign-up form for Office 365 account](../images/ff384c69-56bf-4ceb-81c3-8b874e2407f0.png)
+
+3. Create a subdomain of **.onmicrosoft.com**; for example, contoso.onmicrosoft.com.
+    
+   After you sign up, you use the resulting credentials (in the format *UserID@yourdomain.onmicrosoft.com*) to sign in to your Office 365 portal site where you administer your account. Your SharePoint Online Developer Site is set up at your new domain: `http://yourdomain.sharepoint.com`.
+    
+4. Select **Next** and fill out the final page of the form. If you choose to provide a telephone number to get a confirmation code, you can provide a mobile or landline telephone number, but *not* a VoIP (Voice over Internet Protocol) number.
+    
+   > [!NOTE]
+   > If you're signed in to another Microsoft account when you try to sign up for a developer account, you might see this message: "Sorry, that user ID you entered didn't work. It looks like it's not valid. Be sure you enter the user ID that your organization assigned to you. Your user ID usually looks like *someone@example.com* or *someone@example.onmicrosoft.com*." 
+   
+   > If you see that message, sign out of the Microsoft account you were using and try again. If you still get the message, clear your browser cache or switch to **InPrivate Browsing** and then fill out the form.
+   
+5. After you finish the sign-up process, your browser opens the Office 365 installation page. Select the Admin icon to open the admin center page.
+ 
+   **Office 365 admin center page**
+
+   ![Screenshot that shows the Office 365 admin center.](../images/SP15_Office365AdminInset_border.png)
+
+6. Wait for your developer subscription to finish setting up. After provisioning is complete, refresh the admin center page in your browser.-->
 
 ## Provision Office 365 services
 

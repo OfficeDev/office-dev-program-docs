@@ -1,7 +1,7 @@
 ---
 title: Office 365 Developer Program
 description: The Office 365 Developer Program helps you develop and test Office 365 solutions.
-ms.date: 03/16/2018
+ms.date: 03/09/2018
 ---
 
 # Welcome to the Office 365 Developer Program
@@ -16,8 +16,6 @@ Join your friends and colleagues in the Office 365 Developer Program. Use the Of
 
 3. On the Office 365 Developer Program Signup page, complete the following fields in the online form:
 
-  - **First name**
-  - **Last name**
   - **Contact Email**
   - **Country/Region**
   - **Company**
