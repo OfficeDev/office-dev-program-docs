@@ -6,6 +6,8 @@ ms.date: 03/12/2018
 
 # Office 365 Developer Program FAQ
 
+The following are frequently asked questions about the Office 365 Developer Program.
+
 ### What is the Office 365 Developer Program and who should join it?
 
 The Office 365 Developer Program is designed to help developers create intelligent, connected solutions that enable customers and organizations to do more. Any developer interested in using Office 365 for development and testing purposes can consider joining the program. For more information about joining, see [Welcome to the Office 365 Developer Program](office-365-developer-program.md).
@@ -54,7 +56,7 @@ This offer does not include a subscription to Azure. However, to receive free ac
 
 Your subscription is good for nine months. You can find the expiration date, along with your subscription name, on your Office 365 Developer Program profile page.
 
-### When my subscription is about to expire, how can I extend it?
+### When my subscription is about to expire, can I extend it?
 
 At this time, we are unable to extend existing subscriptions. However, you may extend your subscription by purchasing a special option for $99.00/year. When your subscription is about to expire, you will receive a reminder about renewing it that contains instructions on how to extend your subscription.
 
