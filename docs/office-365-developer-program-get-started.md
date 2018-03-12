@@ -1,12 +1,15 @@
 ---
 title: Set up an Office 365 developer subscription
 description: Set up an Office 365 developer subscription for building and testing solutions independent of your production environment.
-ms.date: 03/09/2018
+ms.date: 03/12/2018
 ---
 
 # Set up an Office 365 developer subscription 
 
 Set up an Office 365 developer subscription to build and test your solutions independent of your production environment. The subscription is an Office 365 Enterprise E3 Developer subscription with 25 user licenses. It lasts for nine months and is free to use for development purposes (coding and testing solutions).
+
+> [!NOTE] 
+> To set up a subscription, you must first [join the Office 365 Developer Program](office-365-developer-program.md). After joining, you'll see the option to set up a subscription.
 
 ## Set up your subscription
 
@@ -16,8 +19,8 @@ Set up an Office 365 developer subscription to build and test your solutions ind
 
 3. Create and confirm a password.
 
-  > [!NOTE]
-  > Make a note of your username and password so you don't forget it. 
+   > [!NOTE]
+   > Make a note of your username and password so you don't forget it. 
 
 4. Choose **Set up**.
 
@@ -53,20 +56,21 @@ For many scenarios, you'll need to test with user accounts with different permis
 
 For some Office solutions, you might need a Microsoft Azure account to build and test using Azure services. To set up a free Azure account, see [Create your Azure free account today](https://azure.microsoft.com/en-us/free/).
 
-## Leave the developer program
+## Leave the Developer Program
 
 If you decide that you no longer want to participate in the Office 365 Developer Program, you can end your subscription and leave the program.
 
   > [!WARNING]
   > The following steps will erase all of your profile information. You will lose any data stored in your developer subscription that is not backed up elsewhere.
 
-1. Sign in to the developer program.
+1. Sign in to the Developer Program.
 
 2. Choose **Delete Profile**.
 
-3. In the **Delete your profile** confirmation box, choose **Delete**.
+3. In the **Delete Profile** confirmation box, choose **Delete**.
 
 ## See also
 
+- [Join the Office 365 Developer Program](office-365-developer-program.md)
 - [Configure your subscription to build Office 365 solutions](configure-your-office-365-developer-subscription.md)
 - [Office 365 Developer Program FAQ](office-365-developer-program-faq.md)

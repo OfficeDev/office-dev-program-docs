@@ -1,31 +1,36 @@
 ---
 title: Office 365 Developer Program FAQ
 description: Frequently asked questions about the Office 365 Developer Program.
-ms.date: 03/09/2018
+ms.date: 03/12/2018
 ---
 
 # Office 365 Developer Program FAQ
 
+The following are frequently asked questions about the Office 365 Developer Program.
 
-### How long is my subscription good for, and when does it expire?
+### What is the Office 365 Developer Program and who should join it?
 
-Your subscription is good for nine months. You can find the expiration date, along with your subscription name, on your Office 365 Developer Program profile page.
+The Office 365 Developer Program is designed to help developers create intelligent, connected solutions that enable customers and organizations to do more. If you're interested in using Office 365 for development and testing, consider joining the program. For more information about how to join, see [Welcome to the Office 365 Developer Program](office-365-developer-program.md).
+ 
+### I heard that developers can receive an Office 365 developer subscription if they join the program. How does that work?  
+
+The Office 365 developer subscription is designed to be used for application development and testing only, and comes with 25 user licenses. After joining the Office 365 Developer Program, you'll have the option to receive and configure an Office 365 developer subscription. For more information, see [Set up an Office 365 developer subscription](office-365-developer-program-get-started.md).
 
 ### How many licenses can I add with my nine-month subscription?
 
-You can add up to 25 users for testing and development purposes. 
+You can add up to 25 users for development and testing purposes. 
 
 ### As a Microsoft Partner, can I receive a subscription? 
 
-As a Microsoft Partner, you might already have a Visual Studio Enterprise (MSDN) subscription and can get an indefinite Office 365 Developer subscription as a benefit. For more information, contact [Visual Studio customer service](https://www.visualstudio.com/subscriptions/support/). 
+Yes, you can follow [these instructions](office-365-developer-program.md) to join the Office 365 Developer Program and set up an Office 365 developer subscription. However, if you already have a Visual Studio Enterprise (MSDN) subscription, you can get an Office 365 developer subscription as a benefit. For more information, contact [Visual Studio customer service](https://www.visualstudio.com/subscriptions/support/). 
 
 ### As a Microsoft full-time employee, can I receive a subscription?
 
-Microsoft employees cannot sign up for the subscription. However, you might already have a Visual Studio Enterprise (MSDN) subscription and can get an indefinite Office 365 Developer subscription as a benefit. For more information, contact [Visual Studio customer service](https://www.visualstudio.com/subscriptions/support/).    
+Microsoft employees cannot sign up for this offer. However, all Microsoft full-time employees have access to a free Visual Studio (MSDN) subscription that includes access to Office E3 Developer. You can access this benefit at [Visual Studio | My Benefits](https://my.visualstudio.com/benefits).
 
 ### As a vendor working at Microsoft, do I qualify for a subscription?
 
-Yes. Follow the steps at [Set up an Office 365 developer subscription](office-365-developer-program-get-started.md).
+Yes, you can follow [these instructions](office-365-developer-program.md) to join the Office 365 Developer Program and set up an Office 365 developer subscription.
 
 ### What's included in the Office 365 developer subscription?
 
@@ -45,22 +50,25 @@ Yes. Follow the steps at [Set up an Office 365 developer subscription](office-36
 
 ### Does the subscription also include a subscription to Azure?
 
-This developer subscription does not include a subscription to Azure. However, to receive free access to Azure services, you can [create a free Azure account](https://azure.microsoft.com/en-us/free/). 
+This offer does not include a subscription to Azure. However, to receive free access to Azure services, you can [create a free Azure account](https://azure.microsoft.com/en-us/free/). 
 
-### When my subscription is about to expire, how can I extend it?
+### How long is my subscription good for, and when does it expire?
 
-At this time, we are unable to extend existing subscriptions. 
+Your subscription is good for nine months. You can find the expiration date, along with your subscription name, on your Office 365 Developer Program profile page.
+
+### When my subscription is about to expire, can I extend it?
+
+At this time, we are unable to extend existing subscriptions. However, you can extend your subscription by purchasing a special option for $99.00/year. When your subscription is about to expire, you will receive a reminder about renewing it that contains instructions for how to extend your subscription.
 
 ## Support
 
 If you have issues setting up your subscription, please see the following support resources: 
 - [Stackoverflow](https://stackoverflow.com/questions)   
 - [Visual Studio customer service](https://www.visualstudio.com/subscriptions/support/)
-- [Office support](https://support.office.com)
-- [Office development support](https://developer.microsoft.com/en-us/office/support)
 
 ## See also
 
+- [Join the Office 365 Developer Program](office-365-developer-program.md)
 - [Set up an Office 365 developer subscription](office-365-developer-program-get-started.md)
 - [Configure your subscription to build Office 365 solutions](configure-your-office-365-developer-subscription.md)
 
