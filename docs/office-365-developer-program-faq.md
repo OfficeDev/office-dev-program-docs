@@ -10,11 +10,11 @@ The following are frequently asked questions about the Office 365 Developer Prog
 
 ### What is the Office 365 Developer Program and who should join it?
 
-The Office 365 Developer Program is designed to help developers create intelligent, connected solutions that enable customers and organizations to do more. Any developer interested in using Office 365 for development and testing purposes can consider joining the program. For more information about joining, see [Welcome to the Office 365 Developer Program](office-365-developer-program.md).
+The Office 365 Developer Program is designed to help developers create intelligent, connected solutions that enable customers and organizations to do more. If you're interested in using Office 365 for development and testing, consider joining the program. For more information about how to join, see [Welcome to the Office 365 Developer Program](office-365-developer-program.md).
  
 ### I heard that developers can receive an Office 365 developer subscription if they join the program. How does that work?  
 
-Yes. The Office 365 developer subscription is designed to be used for application development and testing purposes only, and comes with 25 user licenses. After joining the Office 365 Developer Program, you will be provided with the option to receive and configure an Office 365 developer subscription. For more information, see [Set up an Office 365 developer subscription](office-365-developer-program-get-started.md).
+The Office 365 developer subscription is designed to be used for application development and testing only, and comes with 25 user licenses. After joining the Office 365 Developer Program, you'll have the option to receive and configure an Office 365 developer subscription. For more information, see [Set up an Office 365 developer subscription](office-365-developer-program-get-started.md).
 
 ### How many licenses can I add with my nine-month subscription?
 
@@ -22,7 +22,7 @@ You can add up to 25 users for development and testing purposes.
 
 ### As a Microsoft Partner, can I receive a subscription? 
 
-Yes, you can follow [these instructions](office-365-developer-program.md) to join the Office 365 Developer Program and set up an Office 365 developer subscription. However, you may already have a Visual Studio Enterprise (MSDN) subscription and can get an Office 365 developer subscription as a benefit. For more information, contact [Visual Studio customer service](https://www.visualstudio.com/subscriptions/support/). 
+Yes, you can follow [these instructions](office-365-developer-program.md) to join the Office 365 Developer Program and set up an Office 365 developer subscription. However, if you already have a Visual Studio Enterprise (MSDN) subscription, you can get an Office 365 developer subscription as a benefit. For more information, contact [Visual Studio customer service](https://www.visualstudio.com/subscriptions/support/). 
 
 ### As a Microsoft full-time employee, can I receive a subscription?
 
@@ -58,15 +58,13 @@ Your subscription is good for nine months. You can find the expiration date, alo
 
 ### When my subscription is about to expire, can I extend it?
 
-At this time, we are unable to extend existing subscriptions. However, you may extend your subscription by purchasing a special option for $99.00/year. When your subscription is about to expire, you will receive a reminder about renewing it that contains instructions on how to extend your subscription.
+At this time, we are unable to extend existing subscriptions. However, you can extend your subscription by purchasing a special option for $99.00/year. When your subscription is about to expire, you will receive a reminder about renewing it that contains instructions for how to extend your subscription.
 
 ## Support
 
 If you have issues setting up your subscription, please see the following support resources: 
 - [Stackoverflow](https://stackoverflow.com/questions)   
 - [Visual Studio customer service](https://www.visualstudio.com/subscriptions/support/)
-- [Office support](https://support.office.com)
-- [Office development support](https://developer.microsoft.com/en-us/office/support)
 
 ## See also
 
