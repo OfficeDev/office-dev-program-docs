@@ -10,7 +10,7 @@ The following are frequently asked questions about the Office 365 Developer Prog
 
 ### What is the Office 365 Developer Program and who should join it?
 
-The Office 365 Developer Program is designed to help developers create intelligent, connected solutions that enable customers and organizations to do more. If you're interested in using Office 365 for development and testing, consider joining the program. For more information about how to join, see [Welcome to the Office 365 Developer Program](office-365-developer-program.md).
+The Office 365 Developer Program is designed to help developers create intelligent, connected solutions that enable customers and organizations to do more. If you're interested in using Office 365 for development and testing, consider joining the program. For more information, see [Join the Office 365 Developer Program](office-365-developer-program.md).
  
 ### I heard that developers can receive an Office 365 developer subscription if they join the program. How does that work?  
 
