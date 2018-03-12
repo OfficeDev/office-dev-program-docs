@@ -14,7 +14,7 @@ The Office 365 Developer Program is designed to help developers create intellige
  
 ### I heard that developers can receive an Office 365 developer subscription if they join the program. How does that work?  
 
-Yes. The Office 365 developer subscription is designed to be used for application development and testing purposes only, and comes with 25 user licenses. After developers join the Office 365 Developer Program, they are provided with the option to receive and configure an Office 365 developer subscription. For more information, see [Set up an Office 365 developer subscription](office-365-developer-program-get-started.md).
+Yes. The Office 365 developer subscription is designed to be used for application development and testing purposes only, and comes with 25 user licenses. After joining the Office 365 Developer Program, you will be provided with the option to receive and configure an Office 365 developer subscription. For more information, see [Set up an Office 365 developer subscription](office-365-developer-program-get-started.md).
 
 ### How many licenses can I add with my nine-month subscription?
 
@@ -30,7 +30,7 @@ Microsoft employees cannot sign up for this offer. However, all Microsoft full-t
 
 ### As a vendor working at Microsoft, do I qualify for a subscription?
 
-Yes. Follow the steps at [Set up an Office 365 developer subscription](office-365-developer-program-get-started.md).
+Yes, you can follow [these instructions](office-365-developer-program.md) to join the Office 365 Developer Program and set up an Office 365 developer subscription.
 
 ### What's included in the Office 365 developer subscription?
 
