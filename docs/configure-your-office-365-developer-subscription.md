@@ -17,8 +17,8 @@ Here's how to get set up and coding with Microsoft Teams:
 1. [Prepare your Office 365 developer subscription](https://docs.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-tenant).
 2. Set up your development environment. This process will vary depending on the type of app or service you are building. For details, see one of the following:
 
-  - [Get started on the Microsoft Teams platform with Node.js](https://docs.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-nodejs)
-  - [Get started on the Microsoft Teams platform with C#/.NET](https://docs.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-dotnet)
+   - [Get started on the Microsoft Teams platform with Node.js](https://docs.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-nodejs)
+   - [Get started on the Microsoft Teams platform with C#/.NET](https://docs.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-dotnet)
 
 ## Microsoft Graph
 

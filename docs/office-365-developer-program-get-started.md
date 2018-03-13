@@ -34,9 +34,9 @@ Set up an Office 365 developer subscription to build and test your solutions ind
 
 2. On the Office 365 Enterprise E3 Developer setup screen, configure the three options as required:
 
-  - Personalize sign-in
-  - Add users
-  - Get apps
+   - Personalize sign-in
+   - Add users
+   - Get apps
   
 3. In the admin portal, in the **Active users** section, assign the Office 365 Enterprise E3 Developer licenses to add users to the account that you created.
 
