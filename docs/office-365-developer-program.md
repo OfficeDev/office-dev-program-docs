@@ -36,6 +36,7 @@ Join your friends and colleagues in the Office 365 Developer Program. Use the Of
 
 9. When you're finished, choose **Join**. Your preferences appear on the next page in the top right, and you'll receive a Welcome message.
 
+
 ## Next steps
 
 - [Set up an Office 365 developer subscription](office-365-developer-program-get-started.md). 
