@@ -19,24 +19,20 @@ Set up an Office 365 developer subscription to build and test your solutions ind
 
 3. Create and confirm a password.
 
-   > [!NOTE]
-   > Make a note of your username and password so you don't forget it. 
-
 4. Choose **Set up**.
 
-5. Follow the instructions to prove you're not a robot, and then choose **Verify**.
+5. If you are asked to prove you're not a robot, follow the instructions, and then choose **Verify**.
 
 6. After the subscription is created, your subscription name and expiration date appear on your profile page.
 
+   > [!IMPORTANT]
+   > Make a note of your username and password because you'll need it to access your developer subscription.
+
 ## Configure the subscription
 
-1. If it doesn't open automatically, open the setup page. On the admin page, choose **Go to setup**.
+1. On your profile page, click the "here" link to access your developer subscription, and sign in with your new user name and password.
 
-2. On the Office 365 Enterprise E3 Developer setup screen, configure the three options as required:
-
-  - Personalize sign-in
-  - Add users
-  - Get apps
+2. Follow the instructions to assign products or install Office apps.
   
 3. In the admin portal, in the **Active users** section, assign the Office 365 Enterprise E3 Developer licenses to add users to the account that you created.
 
