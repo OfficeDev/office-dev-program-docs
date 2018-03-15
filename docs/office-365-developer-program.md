@@ -1,7 +1,7 @@
 ---
 title: Office 365 Developer Program
 description: The Office 365 Developer Program helps you develop and test Office 365 solutions.
-ms.date: 03/09/2018
+ms.date: 03/14/2018
 ---
 
 # Welcome to the Office 365 Developer Program
@@ -10,29 +10,31 @@ Join your friends and colleagues in the Office 365 Developer Program. Use the Of
 
 ## Join the Office 365 Developer Program
 
-1. Go to the [Join the Office 365 Developer Program](https://aka.ms/o365devprogram) page, and then choose **Join now**.
+1. Go to the [Join the Office 365 Developer Program](https://developer.microsoft.com/en-us/office/dev-program) page. 
 
-2. Sign in with your Microsoft account.
+2. In the upper-right corner, choose **Sign in** to sign in with your Microsoft account or Azure Active Directory-enabled email. 
 
-3. On the Office 365 Developer Program Signup page, complete the following fields in the online form:
+3. After signing in, choose **Join now**.
+
+4. On the Office 365 Developer Program Signup page, complete the following fields in the online form:
 
   - **Contact Email**
   - **Country/Region**
   - **Company**
 
-4. Review the **terms and conditions**. You'll need to select the check box before you can join.
+5. Review the **terms and conditions**. You'll need to select the check box before you can join.
 
-5. Optionally, select the **I would like to hear from the Office 365 Developer Program** check box if you want to hear from Microsoft about new capabilities and other updates. 
+6. Optionally, select the **I would like to hear from the Office 365 Developer Program** check box if you want to hear from Microsoft about new capabilities and other updates. 
 
-6. Choose **Join**.
+7. Choose **Join**.
 
-7. On the Office 365 Developer Program Preferences page, tell us your preferences so we can personalize your experience, including:
+8. On the Office 365 Developer Program Preferences page, tell us your preferences so we can personalize your experience, including:
 
   - The industry that you work in.
   - The type of applications or solutions you're interested in developing.
   - Products, technologies, and programming languages that you're interested in.
 
-8. When you're finished, choose **Save**. Your preferences appear on the next page in the top right, and you'll receive a Welcome message.
+9. When you're finished, choose **Save**. Your preferences appear on the next page in the top right, and you'll receive a Welcome message.
 
 ## Next steps
 
