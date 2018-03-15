@@ -19,26 +19,24 @@ Set up an Office 365 developer subscription to build and test your solutions ind
 
 3. Create and confirm a password.
 
-   > [!NOTE]
-   > Make a note of your username and password so you don't forget it. 
-
 4. Choose **Set up**.
 
-5. Follow the instructions to prove you're not a robot, and then choose **Verify**.
+5. If you are asked to prove you're not a robot, follow the instructions, and then choose **Verify**.
 
 6. After the subscription is created, your subscription name and expiration date appear on your profile page.
 
+   > [!IMPORTANT]
+   > Make a note of your username and password because you'll need it to access your developer subscription.
+
 ## Configure the subscription
 
-1. If it doesn't open automatically, open the setup page. On the admin page, choose **Go to setup**.
+1. On your profile page, click the "here" link to access your developer subscription, and sign in with your new user name and password.
 
-2. On the Office 365 Enterprise E3 Developer setup screen, configure the three options as required:
+2. Follow the instructions to assign products or install Office apps.
 
-  - Personalize sign-in
-  - Add users
-  - Get apps
-  
-3. In the admin portal, in the **Active users** section, assign the Office 365 Enterprise E3 Developer licenses to add users to the account that you created.
+## Add users
+
+For many scenarios, you'll need to test with user accounts with different permissions and settings. You can add up to 25 user accounts with your subscription. To add users, see [Add users individually or in bulk to Office 365 - Admin Help](https://support.office.com/en-us/article/add-users-individually-or-in-bulk-to-office-365-admin-help-1970f7d6-03b5-442f-b385-5880b9c256ec).
 
 ## Provision Office 365 services
 
@@ -47,10 +45,6 @@ It will take some time for the backend services, such as SharePoint and Exchange
 When the provisioning is complete, you can use the new Office 365 subscription for development and testing. The subscription expires after nine months.
 
 We also recommend that you enable release options to ensure that you get access to the latest Office 365 features as soon as possible. For more information, see [Set up the Standard or Targeted release options in Office 365](https://support.office.com/en-us/article/set-up-the-standard-or-targeted-release-options-in-office-365-3b3adfa4-1777-4ff0-b606-fb8732101f47?ui=en-US&rs=en-US&ad=US).
-
-## Add users
-
-For many scenarios, you'll need to test with user accounts with different permissions and settings. You can add up to 25 user accounts with your subscription. To add users, see [Add users individually or in bulk to Office 365 - Admin Help](https://support.office.com/en-us/article/add-users-individually-or-in-bulk-to-office-365-admin-help-1970f7d6-03b5-442f-b385-5880b9c256ec).
 
 ## Set up a Microsoft Azure account
 
