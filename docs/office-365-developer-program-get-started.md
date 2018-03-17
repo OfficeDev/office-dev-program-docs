@@ -33,13 +33,12 @@ Set up an Office 365 developer subscription to build and test your solutions ind
 1. On your profile page, click the "here" link to access your developer subscription, and sign in with your new user name and password.
 
    > [!NOTE] 
-   > On subsequent visits to the Dashboard, remember to sign in first with your *username@domain*.onmicrosoft.com account.
+   > On subsequent visits to the Dashboard, sign in with your *username@domain*.onmicrosoft.com account before you go to the Dashboard.
    
-
 2. Follow the instructions to assign products or install Office apps.
 
-> [!NOTE] 
-> At this time, the subscription's region defaults to North America regardless of which country/region you are in. 
+   > [!NOTE] 
+   > At this time, the subscription's region defaults to North America regardless of which country/region you are in. You can still proceed with setting up and using your developer subscription.
 
 ## Add users
 
