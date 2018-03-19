@@ -40,6 +40,8 @@ Set up an Office 365 developer subscription to build and test your solutions ind
    > [!NOTE] 
    > At this time, the subscription's region defaults to North America regardless of which country/region you are in. You can still proceed with setting up and using your developer subscription.
 
+3. Follow the instructions to assign products or install Office apps.
+
 ## Add users
 
 For many scenarios, you'll need to test with user accounts with different permissions and settings. You can add up to 25 user accounts with your subscription. To add users, see [Add users individually or in bulk to Office 365 - Admin Help](https://support.office.com/en-us/article/add-users-individually-or-in-bulk-to-office-365-admin-help-1970f7d6-03b5-442f-b385-5880b9c256ec).
