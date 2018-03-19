@@ -1,12 +1,12 @@
 ---
 title: Set up an Office 365 developer subscription
 description: Set up an Office 365 developer subscription for building and testing solutions independent of your production environment.
-ms.date: 03/12/2018
+ms.date: 03/19/2018
 ---
 
 # Set up an Office 365 developer subscription 
 
-Set up an Office 365 developer subscription to build and test your solutions independent of your production environment. The subscription is an Office 365 Enterprise E3 Developer subscription with 25 user licenses. It lasts for nine months and is free to use for development purposes (coding and testing solutions).
+Set up an Office 365 developer subscription to build and test your solutions independent of your production environment. The subscription is an Office 365 Enterprise E3 Developer subscription with 25 user licenses. It lasts for one year and is free to use for development purposes (coding and testing solutions).
 
 > [!NOTE] 
 > To set up a subscription, you must first [join the Office 365 Developer Program](office-365-developer-program.md). After joining, you'll see the option to set up a subscription.
@@ -48,7 +48,7 @@ For many scenarios, you'll need to test with user accounts with different permis
 
 It will take some time for the backend services, such as SharePoint and Exchange, to provision for the subscription. During this step, some of the icons in the app launcher and on the Home page show as **Setting up (This app is still being set up)**. This will take no longer than an hour.
 
-When the provisioning is complete, you can use the new Office 365 subscription for development and testing. The subscription expires after nine months.
+When the provisioning is complete, you can use the new Office 365 subscription for development and testing. The subscription expires after one year.
 
 We also recommend that you enable release options to ensure that you get access to the latest Office 365 features as soon as possible. For more information, see [Set up the Standard or Targeted release options in Office 365](https://support.office.com/en-us/article/set-up-the-standard-or-targeted-release-options-in-office-365-3b3adfa4-1777-4ff0-b606-fb8732101f47?ui=en-US&rs=en-US&ad=US).
 
