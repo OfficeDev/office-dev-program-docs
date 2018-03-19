@@ -14,7 +14,7 @@ Join your friends and colleagues in the Office 365 Developer Program. Use the Of
 
 2. In the upper-right corner, choose **Sign in** to sign in with your Microsoft account or Azure Active Directory-enabled email. 
 
-  <img alt="Join the Office 365 Developer Program Sign-in" src="images/0-sign-in-page.png" width="600">
+  <img alt="Join the Office 365 Developer Program Sign-in" src="images/0-sign-in-page.png" width="700">
 
 3. After signing in, choose **Join now**.
 
