@@ -16,7 +16,7 @@ The Office 365 Developer Program is designed to help developers create intellige
 
 The Office 365 developer subscription is designed to be used for application development and testing only, and comes with 25 user licenses. After joining the Office 365 Developer Program, you'll have the option to receive and configure an Office 365 developer subscription. For more information, see [Set up an Office 365 developer subscription](office-365-developer-program-get-started.md).
 
-### How many licenses can I add with my nine-month subscription?
+### How many licenses can I add with my subscription?
 
 You can add up to 25 users for development and testing purposes. 
 
@@ -54,7 +54,7 @@ This offer does not include a subscription to Azure. However, to receive free ac
 
 ### How long is my subscription good for, and when does it expire?
 
-Your subscription is good for nine months. You can find the expiration date, along with your subscription name, on your Office 365 Developer Program profile page.
+Your subscription is good for one year. You can find the expiration date, along with your subscription name, on your Office 365 Developer Program profile page.
 
 ### When my subscription is about to expire, can I extend it?
 
