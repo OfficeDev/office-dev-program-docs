@@ -24,7 +24,7 @@ Join your friends and colleagues in the Office 365 Developer Program. Use the Of
   - **Country/Region**
   - **Company**
 
-  ![Join the Office 365 Developer Program form](../images/1-welcome-page.png)
+  ![Join the Office 365 Developer Program form](../../images/1-welcome-page.png)
 
 5. Review the **terms and conditions**. You'll need to select the check box before you can join.
 
@@ -38,11 +38,11 @@ Join your friends and colleagues in the Office 365 Developer Program. Use the Of
   - The type of applications or solutions you're interested in developing.
   - Products, technologies, and programming languages that you're interested in.
 
-  ![Choose program preferences](../images/2-preferences-page.png)
+  ![Choose program preferences](../../../images/2-preferences-page.png)
 
 9. When you're finished, choose **Join**. Your preferences appear on the next page in the top right, and you receive a Welcome message.
 
-  ![Welcome message](../images/3-welcome-popup.png)
+  ![Welcome message](images/3-welcome-popup.png)
 
 
 ## Next steps
