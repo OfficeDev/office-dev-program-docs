@@ -15,7 +15,11 @@ Set up an Office 365 developer subscription to build and test your solutions ind
 
 1. To get an Office 365 developer subscription, on your profile page, under **Need an Office 365 subscription to use for development?**, choose **Set up subscription**.
 
+  ![Set up subscription](images/4-set-up-subscription.png)
+
 2. In the **Set up your developer subscription** dialog box, create a username and domain. This account will have global administrator permissions for the subscription. You can choose any username or domain name as long as it is not already in use. Do not use spaces.
+
+  ![Set up subscription form](images/5-set-up-form.png)
 
 3. Create and confirm a password.
 
@@ -23,10 +27,14 @@ Set up an Office 365 developer subscription to build and test your solutions ind
 
 5. If you are asked to prove you're not a robot, follow the instructions, and then choose **Verify**.
 
+  ![Setting up subscription progress window](images/6-setting-up-subscription.png)
+
 6. After the subscription is created, your subscription name and expiration date appear on your profile page.
 
-   > [!IMPORTANT]
-   > Make a note of your username and password because you'll need it to access your developer subscription.
+  ![Subscription name and expiration date](images/7-subscription-info.png)
+
+  > [!IMPORTANT]
+  > Make a note of your username and password because you'll need it to access your developer subscription.
 
 ## Configure the subscription
 
@@ -40,11 +48,27 @@ Set up an Office 365 developer subscription to build and test your solutions ind
    > [!NOTE] 
    > At this time, the subscription's region defaults to North America regardless of which country/region you are in. You can still proceed with setting up and using your developer subscription.
 
-3. Follow the instructions to assign products or install Office apps.
+3. Add users.
 
-## Add users
+  For many scenarios, you'll need to test with user accounts with different permissions and settings. You can add up to 25 user accounts with your subscription. To add users, see [Add users individually or in bulk to Office 365 - Admin Help](https://support.office.com/en-us/article/add-users-individually-or-in-bulk-to-office-365-admin-help-1970f7d6-03b5-442f-b385-5880b9c256ec).
 
-For many scenarios, you'll need to test with user accounts with different permissions and settings. You can add up to 25 user accounts with your subscription. To add users, see [Add users individually or in bulk to Office 365 - Admin Help](https://support.office.com/en-us/article/add-users-individually-or-in-bulk-to-office-365-admin-help-1970f7d6-03b5-442f-b385-5880b9c256ec).
+  ![Add users](images/8-add-new-users.png)
+
+4. Assign licenses.
+
+  ![Assign licenses](images/9-assign-licenses.png)
+
+5. Share sign-in credentials.
+
+  ![Share sign-in credentials](images/10-share-sign-in-credentials.png)
+
+6. Install Office apps.
+
+  ![Install Office apps](images/11-install-office-apps.png)
+
+7. Use the Admin center.
+
+  ![Admin center](images/12-admin-center.png)
 
 ## Provision Office 365 services
 
