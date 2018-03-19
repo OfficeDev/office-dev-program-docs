@@ -14,7 +14,7 @@ Join your friends and colleagues in the Office 365 Developer Program. Use the Of
 
 2. In the upper-right corner, choose **Sign in** to sign in with your Microsoft account or Azure Active Directory-enabled email. 
 
-  ![Join the Office 365 Developer Program Sign-in](images/0-sign-in-page.png)
+  <img alt="Join the Office 365 Developer Program Sign-in" src="images/0-sign-in-page.png" width="600">
 
 3. After signing in, choose **Join now**.
 
@@ -24,7 +24,7 @@ Join your friends and colleagues in the Office 365 Developer Program. Use the Of
   - **Country/Region**
   - **Company**
 
-  ![Join the Office 365 Developer Program form](images/1-welcome-page.png)
+  <img alt="Join the Office 365 Developer Program form" src="images/1-welcome-page.png" width="600">
 
 5. Review the **terms and conditions**. You'll need to select the check box before you can join.
 
@@ -38,7 +38,7 @@ Join your friends and colleagues in the Office 365 Developer Program. Use the Of
   - The type of applications or solutions you're interested in developing.
   - Products, technologies, and programming languages that you're interested in.
 
-  ![Choose program preferences](images/2-preferences-page.png)
+  <img alt="Choose program preferences" src="images/2-preferences-page.png" width="600">
 
 9. When you're finished, choose **Join**. Your preferences appear on the next page in the top right, and you receive a Welcome message.
 
