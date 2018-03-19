@@ -70,7 +70,6 @@ Set up an Office 365 developer subscription to build and test your solutions ind
 
   ![Admin center](images/12-admin-center.png)
 
-
 ## Provision Office 365 services
 
 It will take some time for the backend services, such as SharePoint and Exchange, to provision for the subscription. During this step, some of the icons in the app launcher and on the Home page show as **Setting up (This app is still being set up)**. This will take no longer than an hour.
