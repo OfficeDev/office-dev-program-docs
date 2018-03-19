@@ -40,7 +40,7 @@ Join your friends and colleagues in the Office 365 Developer Program. Use the Of
 
   ![Choose program preferences](../images/2-preferences-page.png)
 
-9. When you're finished, choose **Join**. Your preferences appear on the next page in the top right, and you'll receive a Welcome message.
+9. When you're finished, choose **Join**. Your preferences appear on the next page in the top right, and you receive a Welcome message.
 
   ![Welcome message](../images/3-welcome-popup.png)
 
@@ -51,4 +51,4 @@ Join your friends and colleagues in the Office 365 Developer Program. Use the Of
 
 - After you have your developer subscription, [configure your subscription](configure-your-office-365-developer-subscription.md) to build the types of solutions that you want.
 
-- For frequently asked questions about the Office 365 Developer Program, see the [FAQ](office-365-developer-program-faq.md).
+- For frequently asked questions about the Office 365 Developer Program, see the [FAQ](office-365-developer-program-faq.md). 
