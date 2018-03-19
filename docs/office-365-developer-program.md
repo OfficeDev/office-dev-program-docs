@@ -24,7 +24,7 @@ Join your friends and colleagues in the Office 365 Developer Program. Use the Of
   - **Country/Region**
   - **Company**
 
-  <img alt="Join the Office 365 Developer Program form" src="images/1-welcome-page.png" width="600">
+  <img alt="Join the Office 365 Developer Program form" src="images/1-welcome-page.png" width="800">
 
 5. Review the **terms and conditions**. You'll need to select the check box before you can join.
 
