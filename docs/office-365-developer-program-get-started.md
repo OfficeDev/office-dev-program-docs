@@ -31,10 +31,10 @@ Set up an Office 365 developer subscription to build and test your solutions ind
 
 6. After the subscription is created, your subscription name and expiration date appear on your profile page.
 
-   > [!IMPORTANT]
-   > Make a note of your username and password because you'll need it to access your developer subscription.
-
   ![Subscription name and expiration date](images/7-subscription-info.png)
+
+  > [!IMPORTANT]
+  > Make a note of your username and password because you'll need it to access your developer subscription.
 
 ## Configure the subscription
 
