@@ -49,15 +49,9 @@ Set up an Office 365 developer subscription to build and test your solutions ind
   > [!NOTE]
   > If you need to bulk-add users, you can do this later. For more information, see [Add users individually or in bulk to Office 365 - Admin Help](https://support.office.com/en-us/article/add-users-individually-or-in-bulk-to-office-365-admin-help-1970f7d6-03b5-442f-b385-5880b9c256ec).
 
-  ![Add new users](images/8b-add-new-users.png)
-
 6. **Assign licenses to unlicensed users**. For any users that you want to be able to work with the subscription, grant them a license. When ready, choose **Next**.
 
-  ![Assign licenses](images/9-assign-licenses.png)
-
 7. **Share sign-in credentials**. For any real users who will access the subscription, you must share their sign-in credentials with them. You can choose a method, such as email, download, or print. When ready, choose **Next**.
-
-  ![Share sign-in credentials](images/10-share-sign-in-credentials.png)
 
 8. **Install your Office apps**. You have the option of installing Office apps to your computer. When ready, choose **Next**.
 
