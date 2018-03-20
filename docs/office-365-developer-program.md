@@ -42,7 +42,7 @@ Join your friends and colleagues in the Office 365 Developer Program. Use the Of
 
 9. When you're finished, choose **Join**. Your preferences appear on the next page in the top right, and you receive a Welcome message.
 
-  <img alt="Welcome message" src="images/3-welcome-popup.png" width="600">
+  <img alt="Welcome message" src="images/3-welcome-popup.png" width="500">
 
 
 ## Next steps
