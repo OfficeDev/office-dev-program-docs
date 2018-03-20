@@ -90,5 +90,5 @@ If you decide that you no longer want to participate in the Office 365 Developer
 ## See also
 
 - [Join the Office 365 Developer Program](office-365-developer-program.md)
-- [Configure your subscription to build Office 365 solutions](configure-your-office-365-developer-subscription.md)
+- [Use your subscription to build Office 365 solutions](build-office-365-solutions.md)
 - [Office 365 Developer Program FAQ](office-365-developer-program-faq.md)
