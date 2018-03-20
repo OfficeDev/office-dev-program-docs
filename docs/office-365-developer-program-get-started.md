@@ -42,12 +42,14 @@ Set up an Office 365 developer subscription to build and test your solutions ind
 
 4. **Personalize your sign-in and email**. You can connect your subscription to a domain, or just use the existing subdomain that you created. When ready, choose **Next**.
 
-  ![Personalize sign-in and email page](images/set-up-personalize.png)
+  ![Personalize sign-in and email page](images/8a-set-up-personalize.png)
 
 5. **Add new users**. You can add users. These could be fictional users that you need for testing, or real users helping you with development. When ready, choose **Next**.
     
   > [!NOTE]
   > If you need to bulk-add users, you can do this later. For more information, see [Add users individually or in bulk to Office 365 - Admin Help](https://support.office.com/en-us/article/add-users-individually-or-in-bulk-to-office-365-admin-help-1970f7d6-03b5-442f-b385-5880b9c256ec).
+
+  ![Add new users](images/8b-add-new-users.png)
 
 6. **Assign licenses to unlicensed users**. For any users that you want to be able to work with the subscription, grant them a license. When ready, choose **Next**.
 
