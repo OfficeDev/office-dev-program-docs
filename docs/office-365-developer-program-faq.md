@@ -70,7 +70,7 @@ If you have issues setting up your subscription, please see the following suppor
 
 - [Join the Office 365 Developer Program](office-365-developer-program.md)
 - [Set up an Office 365 developer subscription](office-365-developer-program-get-started.md)
-- [Configure your subscription to build Office 365 solutions](configure-your-office-365-developer-subscription.md)
+- [Use your subscription to build Office 365 solutions](build-office-365-solutions.md)
 
 
  

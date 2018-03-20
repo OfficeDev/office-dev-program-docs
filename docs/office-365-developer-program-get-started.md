@@ -1,7 +1,7 @@
 ---
 title: Set up an Office 365 developer subscription
 description: Set up an Office 365 developer subscription for building and testing solutions independent of your production environment.
-ms.date: 03/19/2018
+ms.date: 03/20/2018
 ---
 
 # Set up an Office 365 developer subscription 
@@ -15,7 +15,11 @@ Set up an Office 365 developer subscription to build and test your solutions ind
 
 1. To get an Office 365 developer subscription, on your profile page, under **Need an Office 365 subscription to use for development?**, choose **Set up subscription**.
 
+  ![Set up subscription](images/4-set-up-subscription.png)
+
 2. In the **Set up your developer subscription** dialog box, create a username and domain. This account will have global administrator permissions for the subscription. You can choose any username or domain name as long as it is not already in use. Do not use spaces.
+
+  ![Set up subscription form](images/5-set-up-form.png)
 
 3. Create and confirm a password.
 
@@ -25,26 +29,41 @@ Set up an Office 365 developer subscription to build and test your solutions ind
 
 6. After the subscription is created, your subscription name and expiration date appear on your profile page.
 
-   > [!IMPORTANT]
-   > Make a note of your username and password because you'll need it to access your developer subscription.
+  > [!IMPORTANT]
+  > Make a note of your username and password because you'll need it to access your developer subscription.
 
 ## Configure the subscription
 
 1. On your profile page, click the "here" link to access your developer subscription, and sign in with your new user name and password.
 
+2. Use the app launcher to go to the [Admin center](https://portal.office.com/adminportal/home#/homepage).
+
+3. On the Admin center home page, choose **Go to setup**. This will take you to the **Office 365 Enterprise E3 Developer Setup** page.
+
+4. **Personalize your sign-in and email**. You can connect your subscription to a domain, or just use the existing subdomain that you created. When ready, choose **Next**.
+
+  ![Personalize sign-in and email page](images/8a-set-up-personalize.png)
+
+5. **Add new users**. You can add users. These could be fictional users that you need for testing, or real users helping you with development. When ready, choose **Next**.
+    
+  > [!NOTE]
+  > If you need to bulk-add users, you can do this later. For more information, see [Add users individually or in bulk to Office 365 - Admin Help](https://support.office.com/en-us/article/add-users-individually-or-in-bulk-to-office-365-admin-help-1970f7d6-03b5-442f-b385-5880b9c256ec).
+
+6. **Assign licenses to unlicensed users**. For any users that you want to be able to work with the subscription, grant them a license. When ready, choose **Next**.
+
+7. **Share sign-in credentials**. For any real users who will access the subscription, you must share their sign-in credentials with them. You can choose a method, such as email, download, or print. When ready, choose **Next**.
+
+8. **Install your Office apps**. You have the option of installing Office apps to your computer. When ready, choose **Next**.
+
+  ![Install Office apps](images/11-install-office-apps.png)
+
    > [!NOTE] 
    > On subsequent visits to the Dashboard, sign in with your *username@domain*.onmicrosoft.com account before you go to the Dashboard.
-   
-2. Follow the instructions to assign products or install Office apps.
 
+9. **You've reached the end of setup**. You've completed the setup for your subscription. You can optionally rate the experience. When ready, choose **Go to the Admin center**.
+    
    > [!NOTE] 
    > At this time, the subscription's region defaults to North America regardless of which country/region you are in. You can still proceed with setting up and using your developer subscription.
-
-3. Follow the instructions to assign products or install Office apps.
-
-## Add users
-
-For many scenarios, you'll need to test with user accounts with different permissions and settings. You can add up to 25 user accounts with your subscription. To add users, see [Add users individually or in bulk to Office 365 - Admin Help](https://support.office.com/en-us/article/add-users-individually-or-in-bulk-to-office-365-admin-help-1970f7d6-03b5-442f-b385-5880b9c256ec).
 
 ## Provision Office 365 services
 
@@ -74,5 +93,5 @@ If you decide that you no longer want to participate in the Office 365 Developer
 ## See also
 
 - [Join the Office 365 Developer Program](office-365-developer-program.md)
-- [Configure your subscription to build Office 365 solutions](configure-your-office-365-developer-subscription.md)
+- [Use your subscription to build Office 365 solutions](build-office-365-solutions.md)
 - [Office 365 Developer Program FAQ](office-365-developer-program-faq.md)

@@ -1,12 +1,12 @@
 ---
-title: Configure your Office 365 developer subscription
-description: Configure your Office 365 developer subscription to build the solutions you want.
-ms.date: 03/12/2018
+title: Use your developer subscription to build Office 365 solutions
+description: Use your Office 365 developer subscription to build the solutions you want.
+ms.date: 03/20/2018
 ---
 
-# Configure your subscription to build Office 365 solutions
+# Use your developer subscription to build Office 365 solutions
 
-What do you want to build with your Office 365 developer subscription? Depending on what you are interested in, you can do a lot of different things. The following are some of the products and technology areas that you can start with.
+What do you want to build with your Office 365 developer subscription? Depending on what you are interested in, you can do a lot of different things. Following are some of the products and technology areas that you can start with.
 
 ## Microsoft Teams
 
