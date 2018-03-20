@@ -57,6 +57,9 @@ Set up an Office 365 developer subscription to build and test your solutions ind
 
   ![Install Office apps](images/11-install-office-apps.png)
 
+   > [!NOTE] 
+   > On subsequent visits to the Dashboard, sign in with your *username@domain*.onmicrosoft.com account before you go to the Dashboard.
+
 9. **You've reached the end of setup**. You've completed the setup for your subscription. You can optionally rate the experience. When ready, choose **Go to the Admin center**.
     
    > [!NOTE] 
