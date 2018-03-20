@@ -38,7 +38,7 @@ Set up an Office 365 developer subscription to build and test your solutions ind
 
 2. Use the app launcher to go to the [Admin center](https://portal.office.com/adminportal/home#/homepage).
 
-3. On the Admin center home page, choose **Go to setup**. This will take you to the **Office 365 Enterprise E3 Developer setup page**.
+3. On the Admin center home page, choose **Go to setup**. This will take you to the **Office 365 Enterprise E3 Developer Setup** page.
 
 4. **Personalize your sign-in and email**. You can connect your subscription to a domain, or just use the existing subdomain that you created. When ready, choose **Next**.
 
