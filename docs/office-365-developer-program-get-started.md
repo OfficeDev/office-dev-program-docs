@@ -37,7 +37,7 @@ Set up an Office 365 developer subscription to build and test your solutions ind
 1. On your profile page, click the "here" link to access your developer subscription, and sign in with your new user name and password.
     
     > [!NOTE]
-    > If you are alraedy a member of a previous subscription, such as an Enterprise account, the link may automatically sign you into one. If this happens sign out and then sign in with your new user name and password.
+    > If you already have an existing subscription, for example through an Enterprise account, the link might automatically sign you in to that subscription. If this happens, sign out and then sign in with your new user name and password.
     
 2. Use the app launcher to go to the [Admin center](https://portal.office.com/adminportal/home#/homepage).
 
