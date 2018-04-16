@@ -1,7 +1,7 @@
 ---
 title: Office 365 Developer Program FAQ
 description: Frequently asked questions about the Office 365 Developer Program.
-ms.date: 03/19/2018
+ms.date: 04/16/2018
 ---
 
 # Office 365 Developer Program FAQ
@@ -59,6 +59,13 @@ Your subscription is good for one year. You can find the expiration date, along 
 ### When my subscription is about to expire, can I extend it?
 
 At this time, we are unable to extend existing subscriptions. However, you can extend your subscription by purchasing a special option for $99.00/year. When your subscription is about to expire, you will receive a reminder about renewing it that contains instructions for how to extend your subscription.
+
+### What account can I use to sign up for the developer program?
+
+You can sign up for the developer program by using either of the following two account methods:
+
+- **Microsoft account** (created by you for personal use). Provides access to all consumer-oriented Microsoft products and cloud services, such as Outlook (Hotmail), Messenger, OneDrive, MSN, Xbox Live, or Office 365. Signing up for an Outlook.com mailbox automatically creates a Microsoft account. After a Microsoft account is created, it can be used to access consumer-related Microsoft cloud services or Azure. 
+- **Work or school account** (issued by an admin for business/academic use). Provides access to all small, medium, and enterprise business-level Microsoft cloud services, such as Azure, Microsoft Intune, or Office 365. When you sign up to one of these services as an organization, a cloud-based directory is automatically provisioned in Azure Active Directory to represent your organization. For more information, see [Manage your Azure AD directory](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-administer).
 
 ## Support
 
