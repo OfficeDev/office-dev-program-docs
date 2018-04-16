@@ -60,6 +60,14 @@ Your subscription is good for one year. You can find the expiration date, along 
 
 At this time, we are unable to extend existing subscriptions. However, you can extend your subscription by purchasing a special option for $99.00/year. When your subscription is about to expire, you will receive a reminder about renewing it that contains instructions for how to extend your subscription.
 
+### What are my options for signing up for Azure?
+
+Until recently, you could only sign up for a new Microsoft Azure subscription using your Microsoft account (Windows Live ID). Azure now supports using either of the following two account methods to sign up:
+- Microsoft accounts (created by you for personal use)
+- Work or school accounts (issued by an admin for business/academic use)
+
+For more information, see [Sign up for Azure as an organization](https://docs.microsoft.com/en-us/azure/active-directory/sign-up-organization).
+
 ## Support
 
 If you have issues setting up your subscription, please see the following support resources: 
