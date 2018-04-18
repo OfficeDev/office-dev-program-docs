@@ -60,6 +60,8 @@ Your subscription is good for one year. You can find the expiration date, along 
 
 At this time, we are unable to extend existing subscriptions. However, you can extend your subscription by purchasing a special option for $99.00/year. When your subscription is about to expire, you will receive a reminder about renewing it that contains instructions for how to extend your subscription.
 
+<a name="account-types"> </a>
+
 ### What account can I use to sign up for the developer program?
 
 You can sign up for the developer program by using one of the following account types:
