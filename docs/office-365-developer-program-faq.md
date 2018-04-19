@@ -42,6 +42,8 @@ Yes, you can follow [these instructions](office-365-developer-program.md) to joi
 - [Microsoft Teams](https://products.office.com/en-us/business/office-365-enterprise-e5-business-software )
 - [Mobile Device Management for Office 365](https://support.office.com/en-us/article/Set-up-Mobile-Device-Management-MDM-in-Office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)
 - [Office 365 ProPlus](https://products.office.com/en-us/business/office-365-proplus-business-software)
+
+
 - [PowerApps for Office 365 Plan 2](https://powerapps.microsoft.com/en-us/pricing/ )
 - [SharePoint Online for Developer](https://products.office.com/en-us/SharePoint/compare-sharepoint-plans)
 - [Skype for Business Online (Plan 2)](https://products.office.com/en-us/skype-for-business/online-meeting-solutions)
@@ -68,6 +70,11 @@ You can sign up for the developer program by using one of the following account 
 
 - **Microsoft account** (created by you for personal use) - Provides access to all consumer-oriented Microsoft products and cloud services, such as Outlook (Hotmail), Messenger, OneDrive, MSN, Xbox Live, or Office 365. Signing up for an Outlook.com mailbox automatically creates a Microsoft account. After a Microsoft account is created, it can be used to access consumer-related Microsoft cloud services or Azure. 
 - **Work or school account** (issued by an admin for business/academic use) - Provides access to all small, medium, and enterprise business-level Microsoft cloud services, such as Azure, Microsoft Intune, or Office 365. When you sign up to one of these services as an organization, a cloud-based directory is automatically provisioned in Azure Active Directory to represent your organization. For more information, see [Manage your Azure AD directory](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-administer).
+
+### Is the program available in my language?
+
+The program is currently available only in English.
+
 
 ## Support
 
