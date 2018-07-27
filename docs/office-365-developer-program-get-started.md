@@ -34,7 +34,7 @@ Set up an Office 365 developer subscription to build and test your solutions ind
 
 ## Configure the subscription
 
-1. On your profile page, choose the [office.com](https://www.office.com/) link and sign in with the user ID shown on your profile page (it will look like this: username@domain.onmicrosoft.com) and the password you specified for your developer subscription.
+1. On your profile page, choose the [office.com](https://www.office.com/) link and sign in with your user ID (for example, username@domain.onmicrosoft.com) and the password you specified for your developer subscription.
 
   >**Note:** Do not sign in to your subscription with your developer program credentials.
 
