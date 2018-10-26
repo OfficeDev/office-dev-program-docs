@@ -6,6 +6,7 @@ ms.date: 04/16/2018
 
 # Office 365 Developer Program FAQ
 
+
 The following are frequently asked questions about the Office 365 Developer Program.
 
 ### What is the Office 365 Developer Program and who should join it?
@@ -58,7 +59,7 @@ Your subscription is good for one year. You can find the expiration date, along 
 
 ### When my subscription is about to expire, can I extend it?
 
-At this time, we are unable to extend existing subscriptions. However, you can extend your subscription by purchasing a special option for $99.00/year. When your subscription is about to expire, you will receive a reminder about renewing it that contains instructions for how to extend your subscription.
+At this time, we are unable to extend existing subscriptions. However, you can extend your subscription by purchasing a special option for $99.00 per user per year. When your subscription is about to expire, you will receive a reminder about renewing it that contains instructions for how to extend your subscription.
 
 <a name="account-types"> </a>
 
