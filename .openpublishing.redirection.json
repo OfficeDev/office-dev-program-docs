@@ -1,0 +1,11 @@
+{
+	"redirections": [{
+			"source_path": "docs/office-365-developer-program.md",
+			"redirect_url": "https://products.office.com/en-us/compare-all-microsoft-office-products-a?tab=1"
+		},
+		{
+			"source_path": "docs/office-365-developer-program-get-started.md",
+			"redirect_url": "https://products.office.com/en-us/compare-all-microsoft-office-products-a?tab=1"
+		}
+	]
+}
