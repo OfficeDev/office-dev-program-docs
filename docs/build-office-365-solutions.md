@@ -2,6 +2,7 @@
 title: Use your developer subscription to build Office 365 solutions
 description: Use your Office 365 developer subscription to build the solutions you want.
 ms.date: 03/20/2018
+localization_priority: Priority
 ---
 
 # Use your developer subscription to build Office 365 solutions

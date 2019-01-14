@@ -2,6 +2,7 @@
 title: Set up an Office 365 developer subscription
 description: Set up an Office 365 developer subscription for building and testing solutions independent of your production environment.
 ms.date: 03/20/2018
+localization_priority: Priority
 ---
 
 # Set up an Office 365 developer subscription 
