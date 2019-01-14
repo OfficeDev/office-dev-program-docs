@@ -1,11 +1,4 @@
 {
-	"redirections": [{
-			"source_path": "",
-			"redirect_url": ""
-		},
-		{
-			"source_path": "",
-			"redirect_url": ""
-		}
+	"redirections": [
 	]
 }
