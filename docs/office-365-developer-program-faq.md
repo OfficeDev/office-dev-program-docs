@@ -2,6 +2,7 @@
 title: Office 365 Developer Program FAQ
 description: Frequently asked questions about the Office 365 Developer Program.
 ms.date: 04/16/2018
+localization_priority: Priority
 ---
 
 # Office 365 Developer Program FAQ

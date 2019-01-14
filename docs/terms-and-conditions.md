@@ -1,3 +1,7 @@
+---
+localization_priority: Priority
+---
+
 # Terms and conditions
 
 Last updated: February 28, 2018

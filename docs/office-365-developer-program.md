@@ -2,6 +2,7 @@
 title: Join the Office 365 Developer Program
 description: Join the Office 365 Developer Program to develop and test Office 365 solutions independent of your production environment.
 ms.date: 03/20/2018
+localization_priority: Priority
 ---
 
 # Welcome to the Office 365 Developer Program
