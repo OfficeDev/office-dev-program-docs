@@ -1,7 +1,7 @@
 ---
 title: Join the Office 365 Developer Program
 description: Join the Office 365 Developer Program to develop and test Office 365 solutions independent of your production environment.
-ms.date: 03/20/2018
+ms.date: 04/01/2019
 localization_priority: Priority
 ---
 
@@ -11,7 +11,7 @@ Join your friends and colleagues in the Office 365 Developer Program. Use the Of
 
 ## Join the Office 365 Developer Program
 
-1. Go to the [Join the Office 365 Developer Program](https://developer.microsoft.com/en-us/office/dev-program) page. 
+1. Go to the [Join the Office 365 Developer Program](https://developer.microsoft.com/office/dev-program) page. 
 
 2. In the upper-right corner, choose **Sign in** to sign in with your Microsoft account or Azure Active Directory-enabled email. 
 
@@ -36,7 +36,7 @@ Join your friends and colleagues in the Office 365 Developer Program. Use the Of
 8. On the **Office 365 Developer Program Preferences** page, tell us your preferences so we can personalize your experience, including:
 
   - The industry that you work in.
-  - The type of applications or solutions you're interested in developing.
+  - The type of applications or solutions that you're interested in developing.
   - Products, technologies, and programming languages that you're interested in.
 
   <img alt="Choose program preferences" src="images/2-preferences-page.png" width="600">
