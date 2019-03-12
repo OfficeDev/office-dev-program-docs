@@ -29,7 +29,7 @@ In April 2019, we transitioned to a new model where your subscription can be ren
 
 ### What is valid developer activity?
 
-We use a set of algorithms and telemetry that we get from your activity in the Office 365 Developer Program and on your Office 365 developer tenant to determine if you are actively developing. We check these regularly to update your status and determine if your subscription should be extended.
+We use a set of algorithms and telemetry that we get from your activity in the Office 365 Developer Program and on your Office 365 developer subscription to determine if you are actively developing. We check these regularly to update your status and determine if your subscription should be extended.
 
 ### As a Microsoft Partner, can I receive a subscription? 
 
