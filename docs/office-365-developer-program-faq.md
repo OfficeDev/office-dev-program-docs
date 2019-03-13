@@ -93,9 +93,7 @@ You can sign up for the developer program by using one of the following account 
 
 ### Is the program available in my language?
 
-The Office 365 Developer Program is localized in the following languages: 
-
-However, the Office 365 developer subscription is only offered in English. 
+The Office 365 developer subscription is only offered in English. 
 
 
 ## Support
