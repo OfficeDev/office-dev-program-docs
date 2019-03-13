@@ -11,37 +11,44 @@ The following are frequently asked questions about the Office 365 Developer Prog
 
 ### What is the Office 365 Developer Program and who should join it?
 
-The Office 365 Developer Program is designed to help developers create intelligent, connected solutions that enable customers and organizations to do more. If you want to create custom solutions and test them by using Office 365 Add-ins for Excel, Word, or PowerPoint, SharePoint, Microsoft Graph, or Microsoft Teams, consider joining the program. For more information, see [Join the Office 365 Developer Program](office-365-developer-program.md).
+The Office 365 Developer Program is designed to help developers create intelligent, connected solutions that enable customers and organizations to do more. If you want to create custom solutions and test them by using Office 365 the developer program provides tools, learning, access to experts through community events plus a test subscription of Office 365. 
+
+All of this includes support for Office 365 development workloads including 
+- Add-ins for Excel (https://developer.microsoft.com/en-us/excel) Word (https://developer.microsoft.com/en-us/word), or PowerPoint (https://developer.microsoft.com/en-us/powerpoint), 
+- SharePoint Framework, Add-ins, webhooks and REST aps (https://developer.microsoft.com/en-us/sharepoint)
+- Microsoft Graph (https://developer.microsoft.com/en-us/graph)
+- and Microsoft Teams (https://developer.microsoft.com/en-us/microsoft-teams)
+
+For more information, see [Join the Office 365 Developer Program](office-365-developer-program.md).
  
 ### I heard that developers can receive an Office 365 developer subscription if they join the program. How does that work?  
 
-The Office 365 developer subscription is designed to be used for application development and testing only, and comes with 25 user licenses. After joining the Office 365 Developer Program, you'll have the option to receive and configure an Office 365 developer subscription. Your subscription is good for 90 days and can then be renewed for another 90 days based on valid developer activity. 
+If you join the Office 365 Developer Program you qualify to get a free Office 365 developer subscription. This is a special subscription designed to be used for application development and testing only, and comes with 25 user licenses. 
+
+After joining the Office 365 Developer Program, you'll have the option to receive and configure an Office 365 developer subscription. Your subscription is good for 90 days and can then be renewed for another 90 days based on valid developer activity. 
 
 For more information, see [Set up an Office 365 developer subscription](office-365-developer-program-get-started.md).
 
 ### How many licenses can I add with my subscription?
 
-You can add up to 25 users, including the administrator, for development and testing purposes. 
+You can add up to 25 users, including the administrator, for development and testing purposes only. Using this for any other purpose other than testing and development is a violation of the license agreement. This is not to be used for any other purpose. Please refer to the terms of use for more details on the licensing restrictions. INSERT LINK TO TOU HERE
 
 ### Why don’t you offer a one-year subscription anymore?
 
-In April 2019, we transitioned to a new model where your subscription can be renewed perpetually every 90 days if you do valid developer activity. We believe that this model ensures that developers who are active in developing solutions can be given a subscription if they need one. In theory, if you are developing frequently, your subscription never expires; it is automatically extended. 
+In April 2019, we transitioned to a new model where your subscription can be renewed perpetually every 90 days if you do valid developer activity. We believe this model ensures that developers who are active in developing solutions can be given a subscription if they need one. In theory, if you are developing frequently, your subscription never expires; it is automatically extended. If you are developing on Office for a short time, and your subscription expires and is deleted you can always get a new one. 
+
+If you prefer to have a subscription that is available for a longer duration, we recommend you get the Visual Studio Professional or Visual Studio Enterprise subscription. Included in the price of those programs is a free Office 365 Developer subscription that is good for the life of your Visual Studio subscription. To access this, go to [Visual Studio | My Benefits](https://my.visualstudio.com/benefits). For more information, contact [Visual Studio customer service](https://www.visualstudio.com/subscriptions/support/). 
 
 ### What is valid developer activity?
 
-We use a set of algorithms and telemetry that we get from your activity in the Office 365 Developer Program and on your Office 365 developer subscription to determine if you are actively developing. We check these regularly to update your status and determine if your subscription should be extended.
+We use a set of algorithms and telemetry that we get from your activity in the Office 365 Developer Program and on your Office 365 developer subscription to determine if you are actively developing. We check these regularly to update your status and determine if your subscription should be extended. 
+
+### What is activity to you track?
+Please refer to our terms of use to see the kinds of activity we track. INSERT LINK TO TOU HERE
 
 ### As a Microsoft Partner, can I receive a subscription? 
 
 Yes, you can follow [these instructions](office-365-developer-program.md) to join the Office 365 Developer Program and set up an Office 365 developer subscription. However, if you already have a Visual Studio Enterprise or Visual Studio Professional (MSDN) subscription, you can get an Office 365 developer subscription as a benefit. To access this, go to [Visual Studio | My Benefits](https://my.visualstudio.com/benefits). For more information, contact [Visual Studio customer service](https://www.visualstudio.com/subscriptions/support/). 
-
-### As a Microsoft full-time employee, can I receive a subscription?
-
-Microsoft employees cannot sign up for this offer. However, all Microsoft full-time employees have access to a free Visual Studio (MSDN) subscription that includes access to Office E3 Developer. You can access this benefit at [Visual Studio | My Benefits](https://my.visualstudio.com/benefits).
-
-### As a vendor working at Microsoft, do I qualify for a subscription?
-
-Yes, you can follow [these instructions](office-365-developer-program.md) to join the Office 365 Developer Program and set up an Office 365 developer subscription. But even for vendors, this subscription is designed to be used _for application development and testing only_. If you are not doing valid development activity, your subscription will not be renewed.
 
 ### What's included in the Office 365 developer subscription?
 
@@ -75,7 +82,15 @@ If you are joining the program through Visual Studio Enterprise or Visual Studio
 
 The only way that you can extend your subscription is to do valid developer activity. If you are using this subscription for only word processing or spreadsheets, and you are not creating and testing custom solutions, your subscription will expire and eventually be deleted. 
 
-When your subscription is about to expire, you will receive a reminder in email and in your Office 365 Dashboard that contains instructions for how to extend your subscription.
+When your subscription is about to expire, you will receive a reminder in email and yellow and red notificaiton in your Office 365 Dashboard that contains instructions for how to extend your subscription.
+
+These warnings look like this: 
+
+If your subscription expires in 30 days you will see a yellow warning like this
+
+
+If you subscription has expired you will see a red warning like this
+
 
 ### If my subscription is going to expire, how much time do I have before it is deleted?
 
@@ -94,6 +109,14 @@ You can sign up for the developer program by using one of the following account 
 ### Is the program available in my language?
 
 The Office 365 developer subscription is only offered in English. 
+
+### As a Microsoft full-time employee, can I receive a subscription?
+
+Microsoft employees cannot sign up for this offer. However, all Microsoft full-time employees have access to a free Visual Studio (MSDN) subscription that includes access to Office E3 Developer. You can access this benefit at [Visual Studio | My Benefits](https://my.visualstudio.com/benefits).
+
+### As a vendor working at Microsoft, do I qualify for a subscription?
+
+Yes, you can follow [these instructions](office-365-developer-program.md) to join the Office 365 Developer Program and set up an Office 365 developer subscription. But even for vendors, this subscription is designed to be used _for application development and testing only_. If you are not doing valid development activity, your subscription will not be renewed.
 
 
 ## Support
