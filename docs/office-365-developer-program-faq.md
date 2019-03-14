@@ -11,14 +11,14 @@ The following are frequently asked questions about the Office 365 Developer Prog
 
 ### What is the Office 365 Developer Program and who should join it?
 
-The Office 365 Developer Program is designed to help developers create intelligent, connected solutions that enable customers and organizations to do more. If you want to create custom solutions and test them by using Office 365, the developer program provides tools, learning, and access to experts through community events, plus a test subscription of Office 365. 
+The Office 365 Developer Program is designed to help you build people-centric, cross-platform productivity experiences that extend Office 365. Join our program to get access to the tools, documentation, training, experts, and community events that you need to build great solutions for Office 365 products and technologies, including:
 
-All of this includes support for Office 365 development workloads, including:
-
-- Add-ins for [Excel](https://developer.microsoft.com/excel), [Word](https://developer.microsoft.com/word), and [PowerPoint](https://developer.microsoft.com/powerpoint) 
-- [SharePoint Framework, Add-ins, webhooks, and REST APIs](https://developer.microsoft.com/sharepoint)
-- [Microsoft Graph](https://developer.microsoft.com/graph)
+- [Excel](https://developer.microsoft.com/excel), [Outlook](https://developer.microsoft.com/outlook), [Word](https://developer.microsoft.com/word), and [PowerPoint](https://developer.microsoft.com/powerpoint) web add-ins
+- [SharePoint](https://developer.microsoft.com/sharepoint)
 - [Microsoft Teams](https://developer.microsoft.com/microsoft-teams)
+- [Microsoft Graph](https://developer.microsoft.com/graph)
+
+As a program member, you can get a free 25-seat Office 365 developer subscription to use to build your solutions. This subscription will remain active for as long as you’re actively developing and deploying solutions.
 
 For more information, see [Join the Office 365 Developer Program](office-365-developer-program.md) and [Build Office 365 solutions](build-office-365-solutions.md).
  
@@ -30,9 +30,13 @@ After joining the Office 365 Developer Program, you'll have the option to receiv
 
 For more information, see [Set up an Office 365 developer subscription](office-365-developer-program-get-started.md).
 
-### How many licenses can I add with my subscription?
+### How many users can I add with my subscription?
 
-You can add up to 25 users, including the administrator, for development and testing purposes only. Using this subscription for any purpose other than development and testing is a violation of the license agreement. For more details about the licensing restrictions, see the [terms of use](terms-and-conditions.md).
+You can add up to 25 users, including the administrator, for development and testing purposes only. This includes small scale testing for up to 24 users. Using this subscription for any purpose other than development and testing is a violation of the license agreement. For more details about the licensing restrictions, see the [Office 365 developer subscription terms of use](terms-and-conditions.md).
+
+### What if I need to do large scale testing with hundreds of users? 
+
+Any large scale testing beyond 24 users needs to be handled through your standard corporate Office 365 licensing.
 
 ### Why don’t you offer a one-year subscription anymore?
 
@@ -46,7 +50,7 @@ We use a set of algorithms and telemetry that we get from your activity in the O
 
 ### What activity do you track?
 
-To see the kinds of activity that we track, see the [terms of use](terms-and-conditions.md).
+For more information about the kinds of activities that we track, see the [Office 365 developer subscription terms of use](terms-and-conditions.md). 
 
 ### What's included in the Office 365 developer subscription?
 
@@ -104,7 +108,7 @@ You have 30 days after your subscription expires to migrate any data. For the ne
 You can sign up for the developer program by using one of the following account types:
 
 - **Microsoft account** (created by you for personal use) - Provides access to all consumer-oriented Microsoft products and cloud services, such as Outlook (Hotmail), Messenger, OneDrive, MSN, Xbox Live, or Office 365. Signing up for an Outlook.com mailbox automatically creates a Microsoft account. After a Microsoft account is created, it can be used to access consumer-related Microsoft cloud services or Azure. 
-- **Work or school account** (issued by an admin for business/academic use) - Provides access to all small, medium, and enterprise business-level Microsoft cloud services, such as Azure, Microsoft Intune, or Office 365. When you sign up to one of these services as an organization, a cloud-based directory is automatically provisioned in Azure Active Directory to represent your organization. For more information, see [Manage your Azure AD directory](https://docs.microsoft.com/azure/active-directory/active-directory-administer).
+- **Work account** (issued by an admin for business use) - Provides access to all small, medium, and enterprise business-level Microsoft cloud services, such as Azure, Microsoft Intune, or Office 365. When you sign up to one of these services as an organization, a cloud-based directory is automatically provisioned in Azure Active Directory to represent your organization. For more information, see [Manage your Azure AD directory](https://docs.microsoft.com/azure/active-directory/active-directory-administer).
 - **Visual Studio ID** (created for your Visual Studio Professional or Enterprise subscriptions) - We recommend that you use this option to join the developer program from within the Visual Studio Gallery to get the full benefits as a Visual Studio subscriber.  
 
 ### Is the program available in my language?
@@ -126,9 +130,9 @@ Yes, you can follow [these instructions](office-365-developer-program.md) to joi
 
 ## Support
 
-If you have issues setting up your subscription, please see the following support resources:
+If you have issues setting up your subscription, see the following support resources:
 
-- [Stackoverflow](https://stackoverflow.com/questions)   
+- [Stack Overflow](https://stackoverflow.com/questions)   
 - [Visual Studio customer service](https://www.visualstudio.com/subscriptions/support/)
 
 ## See also
