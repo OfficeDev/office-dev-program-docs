@@ -18,7 +18,7 @@ The Office 365 Developer Program is designed to help you build people-centric, c
 - [Microsoft Teams](https://developer.microsoft.com/microsoft-teams)
 - [Microsoft Graph](https://developer.microsoft.com/graph)
 
-As a program member, you can get a free 25-seat Office 365 developer subscription to use to build your solutions. This subscription will remain active for as long as you’re actively developing and deploying solutions.
+As a program member, you can get a free Office 365 developer subscription with 25 user licenses to use to build your solutions. This subscription will remain active for as long as you’re actively developing and deploying solutions.
 
 For more information, see [Join the Office 365 Developer Program](office-365-developer-program.md) and [Build Office 365 solutions](build-office-365-solutions.md).
  
@@ -30,9 +30,9 @@ After joining the Office 365 Developer Program, you'll have the option to receiv
 
 For more information, see [Set up an Office 365 developer subscription](office-365-developer-program-get-started.md).
 
-### How many users can I add with my subscription?
+### How many user licenses can I add with my subscription?
 
-You can add up to 25 users, including the administrator, for development and testing purposes only. This includes small scale testing for up to 24 users. Using this subscription for any purpose other than development and testing is a violation of the license agreement. For more details about the licensing restrictions, see the [Office 365 developer subscription terms of use](terms-and-conditions.md).
+You can add up to 25 user licenses, including the administrator, for development and testing purposes only. This includes small scale testing for up to 24 users. Using this subscription for any purpose other than development and testing is a violation of the license agreement. For more details about the licensing restrictions, see the [Office 365 developer subscription terms of use](terms-and-conditions.md).
 
 ### What if I need to do large scale testing with hundreds of users? 
 
