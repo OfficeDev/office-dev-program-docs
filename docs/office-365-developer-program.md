@@ -1,13 +1,13 @@
 ---
 title: Join the Office 365 Developer Program
-description: Join the Office 365 Developer Program to develop and test Office 365 solutions independent of your production environment.
+description: Join the Office 365 Developer Program to develop Office 365 solutions independent of your production environment.
 ms.date: 04/01/2019
 localization_priority: Priority
 ---
 
 # Welcome to the Office 365 Developer Program
 
-Join your friends and colleagues in the Office 365 Developer Program. Use the Office 365 developer subscription to develop and test your solutions independent of your production environment. You can build solutions for Microsoft Teams, Office Add-ins, Microsoft Graph, SharePoint Framework, SharePoint Add-ins, and more.
+Join your friends and colleagues in the Office 365 Developer Program. Use the Office 365 developer subscription to develop your solutions independent of your production environment. You can build solutions for Microsoft Teams, Office Add-ins, Microsoft Graph, SharePoint Framework, SharePoint Add-ins, and more.
 
 ## Join the Office 365 Developer Program
 
