@@ -62,7 +62,7 @@ To migrate your data from your current subscription to a new subscription, see t
 When your subscription is deleted, you will see a notification on your dashboard that the subscription and its ID were deleted, as shown in the following screenshot. 
 
 <img alt="Screenshot of a text box with the title Deleted subscription" src="images/17-deleted-subscription.png" width="500"> 
- 
+
 ## See also
 
 - [Join the Office 365 Developer Program](office-365-developer-program.md)
