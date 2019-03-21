@@ -7,58 +7,61 @@ localization_priority: Priority
 
 # Office 365 Developer Program subscription expiration and renewal
 
-This page contains information about renewing an expiring Office 365 developer subscription.
+Your Office 365 Developer Program membership includes a free Office 365 developer subscription. Your developer subscription is renewable based on your development activity; however, some older subscriptions do expire. This article describes the subscription expiration and renewal process.
 
-### What is the difference between my developer subscription expiring versus being renewed?
+## Expiring vs. renewable developer subscriptions
 
-There are two types of subscriptions, both of which expire 12 months from creation:
+With the launch of the Office 365 Developer Program, we offered 12-month developer subscriptions that expire and cannot be renewed. Beginning in the fall of 2018, we started offering renewable 12-month subscriptions. 
 
-- **Non-renewable**, which were distributed from March until Fall 2018. 
-- **Renewable**, which were distributed beginning in Fall 2018.
+Starting in April 2019, we offer renewable 90-day subscriptions.
 
-### How do I know which kind of subscription I have?
+## How do I know which type of subscription I have?
 
-#### Non-renewable subscriptions
+You can determine whether you have a renewable or non-renewable subscription on your [Office Developer Program dashboard](https://developer.microsoft.com/en-us/office/profile).
 
-If you see the following yellow or red warning in your dashboard, you have a non-renewable subscription, and it must be replaced before your old subscription expires. It will clearly state that your subscription cannot be renewed. You will also get emails to your Office Developer Program member ID to remind you about these warnings.
+### Non-renewable subscriptions
+
+If you see the following warning on your dashboard, you have a non-renewable subscription. You'll need to replace your subscription before your current one expires. The warning text will indicate that the subscription cannot be renewed. We'll also email you to remind you that your subscription is expiring.
  
-<img alt="Yellow expiration warning" src="images/13-expiration-notice-yellow.png" width="500"> 
+<img alt="Screenshot of a text box with the title This subscription expires soon and cannot be renewed" src="images/13-expiration-notice-yellow.png" width="500"> 
 
-<img alt="Red expiration warning" src="images/14-expiration-notice-red.png" width="500"> 
+When your subscription expires, you'll see the following warning text.
 
+<img alt="Screenshot of a text box with the title This subscription has expired and cannot be renewed" src="images/14-expiration-notice-red.png" width="500"> 
 
 To create a replacement subscription, choose **Set Up Subscription**. 
 
 Next, migrate any important data that you need to save to your new subscription. See tips on data migration later in this topic.
 
-#### Renewable subscriptions
+### Renewable subscriptions
 
-If you see the following yellow or red warning, this means that you have a renewable subscription, and you just need to do valid developer activity and your subscription will be renewed for another 90 days. 
+If you see the following warning on your dashboard, you have a renewable subscription. If you're an active developer, your subscription will be renewed for another 90 days. 
 
-<img alt="Yellow renewable notice" src="images/15-renewable-notice-yellow.png" width="500"> 
+<img alt="Screenshot of a text box with the title This subscription is inactive and expires soon" src="images/15-renewable-notice-yellow.png" width="500"> 
 
-<img alt="Red renewable notice" src="images/16-renewable-notice-red.png" width="500"> 
-   
+When your subscription expires, you'll see the following warning text.
 
-### Why is my current subscription not renewable?
+<img alt="Screenshot of a text box with the title This subscription expired on Feb 1, 2019" src="images/16-renewable-notice-red.png" width="500"> 
 
-Renewability is a new capability that was not available when we launched the Office 365 Developer Program in March 2018. We introduced this in Fall 2018.
+## Why isn't my current subscription renewable?
+
+We introduced renewable subscriptions in the fall of 2018. If you signed up for your subscription before then, your subscription is not renewable and you'll need to set up a new one when it expires.
 
 <a name="migrate-data"> </a>
 
-### If I have to replace my subscription, how do I migrate my data?
+## How do I migrate my data when my subscription expires?
 
-Following are some resources on how you can migrate your data from your old subscription to your new subscription:
+To migrate your data from your current subscription to a new subscription, see the following resources:
 
 - [How to migrate mailboxes from one Office 365 tenant to another](https://docs.microsoft.com/exchange/mailbox-migration/migrate-mailboxes-across-tenants)
 - [Use PowerShell to perform a staged migration to Office 365](https://docs.microsoft.com/office365/enterprise/powershell/use-powershell-to-perform-a-staged-migration-to-office-365)
 - [Migration from one Office 365 subscription to another without third party](https://social.technet.microsoft.com/Forums/en-US/ee507441-eb91-4b0a-ba6c-5bd9bb8c71b1/migration-from-one-o365-tenant-to-another-o365-without-third-party?forum=onlineservicesmigrationandcoexistence)
 
-### How do I know if my subscription was deleted?
+## How do I know if my subscription was deleted?
 
-In your dashboard, you will see the following tile that indicates which subscription and its ID were deleted. It will be in a gray colored state like the following example. 
+When your subscription is deleted, you will see a notification on your dashboard that the subscription and its ID were deleted, as shown in the following screenshot. 
 
-<img alt="Deleted subscription notice" src="images/17-deleted-subscription.png" width="500"> 
+<img alt="Screenshot of a text box with the title Deleted subscription" src="images/17-deleted-subscription.png" width="500"> 
  
 ## See also
 
