@@ -34,7 +34,7 @@ For more information, see [Set up an Office 365 developer subscription](office-3
 
 You can add up to 25 user licenses, including the administrator, for development purposes only. Using this subscription for any purpose other than application development is a violation of the license agreement. For more details about the licensing restrictions, see the [Office 365 developer subscription terms of use](terms-and-conditions.md).
 
-### Why don’t you offer a one-year subscription?
+## Why don’t you offer a one-year subscription?
 
 In April 2019, we transitioned to a new model where your subscription can be renewed perpetually every 90 days if you're actively using it for development. We believe that this model ensures that developers who are actively developing solutions have a subscription for as long as they need one. If you are developing frequently, your subscription never expires; it is automatically extended. If you're developing for a short time, and your subscription expires and is deleted, you can sign up for a new one. 
 
@@ -48,7 +48,7 @@ We use a set of algorithms and telemetry that we get from your activity in the O
 
 For more information about the types of activities that we track, see the [Office 365 developer subscription terms of use](terms-and-conditions.md). 
 
-### What's included in the Office 365 developer subscription?
+## What's included in the Office 365 developer subscription?
 
 Your developer subscription includes the following:
 
@@ -66,15 +66,15 @@ Your developer subscription includes the following:
 - [Sway](https://sway.com/)
 - [To-Do (Plan 3)](https://todo.microsoft.com)
 
-### Does the subscription also include a subscription to Azure?
+## Does the subscription also include a subscription to Azure?
 
 This offer does not include a subscription to Azure. However, to receive free access to Azure services, you can [create a free Azure account](https://azure.microsoft.com/free/). 
 
 ## How long is my subscription good for, and when does it expire?
 
-Your subscription is good for 90 days and is renewable based on valid developer activity. If you are using your subscription as a developer, it will be renewed every 3 months and will last indefinitely. You can find the expiration date, along with your subscription name, on your Office 365 Developer Program profile page. For more information, see [Renew an expiring subscription](subscription-expiration-and-renewal.md).
+Your subscription is good for 90 days and is renewable based on valid developer activity. If you're using your subscription for development, it will be renewed every 3 months and will last indefinitely. You can find the expiration date, along with your subscription name, on your Office 365 Developer Program profile page. For more information, see [Renew an expiring subscription](subscription-expiration-and-renewal.md).
 
-If you are joining the program through Visual Studio Enterprise or Visual Studio Professional, your subscription is automatically renewed until your Visual Studio subscription expires. 
+If you're joining the program through Visual Studio Enterprise or Visual Studio Professional, your subscription is automatically renewed until your Visual Studio subscription expires. 
 
 <a name="renew-subscription"> </a>
 
