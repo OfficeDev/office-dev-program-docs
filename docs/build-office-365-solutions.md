@@ -23,7 +23,7 @@ Here's how to get set up and coding with Microsoft Teams:
 
 ## Microsoft Graph
 
-You can use Microsoft Graph to interact with the data of millions of users in the Microsoft cloud. Use Microsoft Graph to build apps for organizations and consumers that connect to a wealth of resources, relationships, and intelligence, all through a single endpoint: https://graph.microsoft.com.
+You can use Microsoft Graph to interact with the data of millions of users in the Microsoft cloud. Use Microsoft Graph to build apps for organizations and consumers that connect to a wealth of resources, relationships, and intelligence, all through a single endpoint: `https://graph.microsoft.com`.
 
 To get set up and coding with Microsoft Graph, see [Getting started building Microsoft Graph apps](https://developer.microsoft.com/en-us/graph/get-started) or the Microsoft Graph [Quick Start](https://developer.microsoft.com/en-us/graph/quick-start).
 
