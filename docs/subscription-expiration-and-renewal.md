@@ -7,21 +7,19 @@ localization_priority: Priority
 
 # Office 365 Developer Program subscription expiration and renewal
 
-Your Office 365 Developer Program membership includes a free Office 365 developer subscription. Your developer subscription is renewable based on your development activity; however, some older subscriptions do expire. This article describes the subscription expiration and renewal process.
+Your Office 365 Developer Program membership includes a free Office 365 developer subscription. Your developer subscription is renewable based on your development activity; however, some older subscriptions do expire. This article describes the difference between renewable and non-renewable subscriptions and how to ensure that your subscription is renewable.
 
 ## Expiring vs. renewable developer subscriptions
 
-With the launch of the Office 365 Developer Program, we offered 12-month developer subscriptions that expire and cannot be renewed. Beginning in the fall of 2018, we started offering renewable 12-month subscriptions. 
+With the launch of the Office 365 Developer Program, we offered 12-month developer subscriptions that expire and cannot be renewed. Beginning in <date>, we started offering renewable 12-month subscriptions. 
 
 Starting in April 2019, we offer renewable 90-day subscriptions.
 
-## How do I know which type of subscription I have?
+You can determine whether you have a renewable or non-renewable subscription on your [Office 365 Developer Program dashboard](https://developer.microsoft.com/en-us/office/profile).
 
-You can determine whether you have a renewable or non-renewable subscription on your [Office Developer Program dashboard](https://developer.microsoft.com/en-us/office/profile).
+## Non-renewable subscriptions
 
-### Non-renewable subscriptions
-
-If you see the following warning on your dashboard, you have a non-renewable subscription. You'll need to replace your subscription before your current one expires. The warning text will indicate that the subscription cannot be renewed. We'll also email you to remind you that your subscription is expiring.
+If you signed up for your subscription before <date>, your subscription is not renewable, and you'll see the following warning on your dashboard. You'll need to replace your subscription before your current one expires. The warning text will indicate that the subscription cannot be renewed. We'll also email you to remind you that your subscription is expiring.
  
 <img alt="Screenshot of a text box with the title This subscription expires soon and cannot be renewed" src="images/13-expiration-notice-yellow.png" width="500"> 
 
@@ -31,11 +29,11 @@ When your subscription expires, you'll see the following warning text.
 
 To create a replacement subscription, choose **Set Up Subscription**. 
 
-Next, migrate any important data that you need to save to your new subscription. See tips on data migration later in this topic.
+Next, migrate any important data that you need to save to your new subscription. For details, see [How do I migrate my data?](#migrate-data) later in this topic.
 
-### Renewable subscriptions
+## Renewable subscriptions
 
-If you see the following warning on your dashboard, you have a renewable subscription. If you're an active developer, your subscription will be renewed for another 90 days. 
+If you signed up for your subscription after <date>, you have a renewable subscription. If your subscription is inactive, you'll see the following warning on your dashbaord. 
 
 <img alt="Screenshot of a text box with the title This subscription is inactive and expires soon" src="images/15-renewable-notice-yellow.png" width="500"> 
 
@@ -43,9 +41,11 @@ When your subscription expires, you'll see the following warning text.
 
 <img alt="Screenshot of a text box with the title This subscription expired on Feb 1, 2019" src="images/16-renewable-notice-red.png" width="500"> 
 
+If you're an active developer, your subscription will be renewed automatically for another 90 days. 
+
 ## Why isn't my current subscription renewable?
 
-We introduced renewable subscriptions in the fall of 2018. If you signed up for your subscription before then, your subscription is not renewable and you'll need to set up a new one when it expires.
+We introduced renewable subscriptions on <date>. If you signed up for your subscription before then, your subscription is not renewable and you'll need to set up a new one when it expires.
 
 <a name="migrate-data"> </a>
 
