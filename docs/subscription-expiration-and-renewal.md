@@ -11,7 +11,7 @@ Your Office 365 Developer Program membership includes a free Office 365 develope
 
 ## Expiring vs. renewable developer subscriptions
 
-With the launch of the Office 365 Developer Program, we offered 12-month developer subscriptions that expire and cannot be renewed. In November 2018, we started offering renewable 12-month subscriptions. 
+With the launch of the Office 365 Developer Program, we offered 12-month developer subscriptions that expire and cannot be renewed. Between August and November 2018, we started providing renewable subscriptions to some developer program members.
 
 Starting in April 2019, we offer renewable 90-day subscriptions.
 
@@ -33,7 +33,7 @@ You'll also need to migrate any important data that you need to save to your new
 
 ## Renewable subscriptions
 
-If you signed up for your subscription after November 2018, you have a renewable subscription. If your subscription is inactive, you'll see the following warning on your dashbaord. 
+If you signed up for your subscription between August and November 2018, you might have a renewable subscription. If your subscription is inactive, you'll see the following warning on your dashbaord. 
 
 <img alt="Screenshot of a text box with the title This subscription is inactive and expires soon" src="images/15-renewable-notice-yellow.png" width="500"> 
 
@@ -45,7 +45,7 @@ If you're an active developer, your subscription will be renewed automatically f
 
 ## Why isn't my current subscription renewable?
 
-We introduced renewable subscriptions on November 2018. If you signed up for your subscription before then, your subscription is not renewable and you'll need to set up a new one when it expires.
+We introduced renewable subscriptions between August - November 2018. If you signed up for your subscription before then, your subscription is not renewable and you'll need to set up a new one when it expires.
 
 <a name="migrate-data"> </a>
 
