@@ -57,4 +57,5 @@ To get set up and start coding SharePoint Add-ins:
 
 - [Join the Office 365 Developer Program](office-365-developer-program.md)
 - [Set up an Office 365 developer subscription](office-365-developer-program-get-started.md) 
+- [Renew an expiring subscription](subscription-expiration-and-renewal.md)
 - [Office 365 Developer Program FAQ](office-365-developer-program-faq.md) 

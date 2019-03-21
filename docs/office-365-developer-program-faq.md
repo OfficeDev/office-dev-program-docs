@@ -136,6 +136,7 @@ If you have issues setting up your subscription, see the following support resou
 - [Join the Office 365 Developer Program](office-365-developer-program.md)
 - [Set up an Office 365 developer subscription](office-365-developer-program-get-started.md)
 - [Use your subscription to build Office 365 solutions](build-office-365-solutions.md)
+- [Renew an expiring subscription](subscription-expiration-and-renewal.md)
 
 
  

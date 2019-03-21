@@ -52,4 +52,8 @@ Join your friends and colleagues in the Office 365 Developer Program. Use the Of
 
 - After you have your developer subscription, [use your subscription](build-office-365-solutions.md) to build the types of solutions that you want.
 
-- For frequently asked questions about the Office 365 Developer Program, see the [FAQ](office-365-developer-program-faq.md). 
+- For information about expiring subscriptions, see [Subscription expiration and renewal](subscription-expiration-and-renewal.md).
+
+- For frequently asked questions about the Office 365 Developer Program, see the [FAQ](office-365-developer-program-faq.md).
+
+

@@ -98,4 +98,5 @@ If you decide that you no longer want to participate in the Office 365 Developer
 
 - [Join the Office 365 Developer Program](office-365-developer-program.md)
 - [Use your subscription to build Office 365 solutions](build-office-365-solutions.md)
+- [Renew an expiring subscription](subscription-expiration-and-renewal.md)
 - [Office 365 Developer Program FAQ](office-365-developer-program-faq.md)
