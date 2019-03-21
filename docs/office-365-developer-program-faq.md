@@ -70,7 +70,7 @@ This offer does not include a subscription to Azure. However, to receive free ac
 
 ### How long is my subscription good for, and when does it expire?
 
-Your subscription is good for 90 days and is renewable based on valid developer activity. If you are using your subscription as a developer, it will be renewed every 3 months and will last indefinitely. You can find the expiration date, along with your subscription name, on your Office 365 Developer Program profile page.
+Your subscription is good for 90 days and is renewable based on valid developer activity. If you are using your subscription as a developer, it will be renewed every 3 months and will last indefinitely. You can find the expiration date, along with your subscription name, on your Office 365 Developer Program profile page. For more information, see [Renew an expiring subscription](subscription-expiration-and-renewal.md).
 
 If you are joining the program through Visual Studio Enterprise or Visual Studio Professional, your subscription is automatically renewed until your Visual Studio subscription expires. 
 
@@ -80,18 +80,7 @@ If you are joining the program through Visual Studio Enterprise or Visual Studio
 
 The only way that you can extend your subscription is to do valid developer activity. If you are using this subscription for only word processing or spreadsheets, and you are not developing custom solutions, your subscription will expire and eventually be deleted. 
 
-When your subscription is about to expire, you will receive an email reminder as well as yellow and red warning notifications in your Office 365 Dashboard that contain instructions for how to extend your subscription.
-
-These warnings look like this: 
-
-- If your subscription expires in 30 days, you will see a yellow warning:
-  
-  (_insert image_)
-
-- If your subscription has expired, you will see a red warning:
-
-  (_insert image_)
-
+For more information, see [Renew an expiring subscription](subscription-expiration-and-renewal.md).
 
 ### If my subscription is going to expire, how much time do I have before it is deleted?
 
@@ -105,12 +94,8 @@ You can sign up for the developer program by using one of the following account 
 
 - **Microsoft account** (created by you for personal use) - Provides access to all consumer-oriented Microsoft products and cloud services, such as Outlook (Hotmail), Messenger, OneDrive, MSN, Xbox Live, or Office 365. Signing up for an Outlook.com mailbox automatically creates a Microsoft account. After a Microsoft account is created, it can be used to access consumer-related Microsoft cloud services or Azure. 
 - **Work account** (issued by an admin for business use) - Provides access to all small, medium, and enterprise business-level Microsoft cloud services, such as Azure, Microsoft Intune, or Office 365. When you sign up to one of these services as an organization, a cloud-based directory is automatically provisioned in Azure Active Directory to represent your organization. For more information, see [Manage your Azure AD directory](https://docs.microsoft.com/azure/active-directory/active-directory-administer).
-- **Visual Studio ID** (created for your Visual Studio Professional or Enterprise subscriptions) - We recommend that you use this option to join the developer program from within the Visual Studio Gallery to get the full benefits as a Visual Studio subscriber.  
-
-### Is the program available in my language?
-
-The Office 365 developer subscription is only offered in English. 
-
+- **Visual Studio ID** (created for your Visual Studio Professional or Enterprise subscriptions) - We recommend that you use this option to join the developer program from within the Visual Studio Gallery to get the full benefits as a Visual Studio subscriber. 
+ 
 ### As a Microsoft Partner, can I receive a subscription? 
 
 Yes, you can follow [these instructions](office-365-developer-program.md) to join the Office 365 Developer Program and set up an Office 365 developer subscription. However, if you already have a Visual Studio Enterprise or Visual Studio Professional (MSDN) subscription, you can get an Office 365 developer subscription as a benefit. To access this, go to [Visual Studio | My Benefits](https://my.visualstudio.com/benefits). For more information, contact [Visual Studio customer service](https://www.visualstudio.com/subscriptions/support/). 
@@ -123,6 +108,13 @@ Microsoft employees cannot sign up for this offer. However, all Microsoft full-t
 
 Yes, you can follow [these instructions](office-365-developer-program.md) to join the Office 365 Developer Program and set up an Office 365 developer subscription. But even for vendors, this subscription is designed to be used _for application development only_. If you are not doing valid development activity, your subscription will not be renewed.
 
+### Is the Office 365 Developer Program available in my language?
+
+In addition to English, the Office 365 Developer Program is available in the following languages: Chinese (Simplified), French, German, Japanese, Portuguese (Brazil), Russian, and Spanish.
+
+### Is the Office 365 developer subscription available in my language?
+
+The Office 365 developer subscription is only offered in English.
 
 ## Support
 
