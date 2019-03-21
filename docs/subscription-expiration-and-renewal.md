@@ -7,15 +7,15 @@ localization_priority: Priority
 
 # Office 365 Developer Program subscription expiration and renewal
 
-Your Office 365 Developer Program membership includes a free Office 365 developer subscription. Your developer subscription is renewable based on your development activity; however, some older subscriptions do expire. This article describes the difference between renewable and non-renewable subscriptions and how to ensure that your subscription is renewable.
+Your Office 365 Developer Program membership includes a free Office 365 developer subscription. Your developer subscription is renewable based on your development activity; however, some older subscriptions do expire. This article describes the difference between renewable and non-renewable subscriptions and how to update your subscription if it expires.
 
 ## Expiring vs. renewable developer subscriptions
 
-With the launch of the Office 365 Developer Program, we offered 12-month developer subscriptions that expire and cannot be renewed. Beginning in <date>, we started offering renewable 12-month subscriptions. 
+With the launch of the Office 365 Developer Program, we offered 12-month developer subscriptions that expire and cannot be renewed. Beginning on <date>, we started offering renewable 12-month subscriptions. 
 
 Starting in April 2019, we offer renewable 90-day subscriptions.
 
-You can determine whether you have a renewable or non-renewable subscription on your [Office 365 Developer Program dashboard](https://developer.microsoft.com/en-us/office/profile).
+You can determine whether you have a renewable or non-renewable subscription by viewing your [Office 365 Developer Program dashboard](https://developer.microsoft.com/en-us/office/profile).
 
 ## Non-renewable subscriptions
 
@@ -29,7 +29,7 @@ When your subscription expires, you'll see the following warning text.
 
 To create a replacement subscription, choose **Set Up Subscription**. 
 
-Next, migrate any important data that you need to save to your new subscription. For details, see [How do I migrate my data?](#migrate-data) later in this topic.
+You'll also need to migrate any important data that you need to save to your new subscription. For details, see [How do I migrate my data?](#migrate-data) later in this topic.
 
 ## Renewable subscriptions
 
