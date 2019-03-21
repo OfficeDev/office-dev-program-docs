@@ -44,7 +44,7 @@ If you prefer to have a subscription that is available for a longer time, we rec
 
 We use a set of algorithms and telemetry that we get from your activity in the Office 365 Developer Program and on your Office 365 developer subscription to determine if you are actively developing. We check these regularly to update your status and determine whether your subscription should be extended. 
 
-### What activity do you track?
+## What activity do you track?
 
 For more information about the types of activities that we track, see the [Office 365 developer subscription terms of use](terms-and-conditions.md). 
 
