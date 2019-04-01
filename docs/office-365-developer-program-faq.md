@@ -44,7 +44,7 @@ If you prefer to have a subscription that is available for a longer time, we rec
 
 We use a set of algorithms and telemetry that we get from your activity in the Office 365 Developer Program and on your Office 365 developer subscription to determine if you are actively developing. We check these regularly to update your status and determine whether your subscription should be extended. 
 
-If you think we somehow missed tracking your development activity accurately, you can inform us through your dashboard. Use this link (shown below) in your dashboard warning to submit a form that outlines in detail how you are using your subscription for development purposes. We will review your appeal and get back to you if you qualify for an extension. 
+If you think we somehow missed tracking your development activity accurately, you can inform us through your dashboard. To submit a form that outlines in detail how you are using your subscription for development purposes, in the dashboard warning, choose the "Let us know" link (as shown in the following image). We will review your appeal and get back to you if you qualify for an extension. 
 
 <img alt="Screenshot of a text box with the title This subscription expired on March 28, 2019" src="images/appeals-ux-for-qa.jpg" width="500"> 
 
