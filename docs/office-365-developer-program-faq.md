@@ -40,13 +40,13 @@ In April 2019, we transitioned to a new model where your subscription can be ren
 
 If you prefer to have a subscription that is available for a longer time, we recommend that you get the Visual Studio Professional or Visual Studio Enterprise subscription. These programs include a free Office 365 developer subscription that is good for the life of your Visual Studio subscription. To access this, go to [Visual Studio | My Benefits](https://my.visualstudio.com/benefits). For more information, contact [Visual Studio customer service](https://www.visualstudio.com/subscriptions/support/). 
 
-## How do you define active development activity?
+## How do you define development activity?
 
-We use a set of algorithms and telemetry that we get from your activity in the Office 365 Developer Program and on your Office 365 developer subscription to determine if you are actively developing. We check these regularly to update your status and determine whether your subscription should be extended. 
+We use a set of algorithms and telemetry that we get from your activity in the Office 365 Developer Program and on your Office 365 developer subscription to determine whether you are actively developing. We check these regularly to update your status and determine whether your subscription should be extended. 
 
-If you think we somehow missed tracking your development activity accurately, you can inform us through your dashboard. To submit a form that outlines in detail how you are using your subscription for development purposes, in the dashboard warning, choose the "Let us know" link (as shown in the following image). We will review your appeal and get back to you if you qualify for an extension. 
+If you think we somehow missed tracking your development activity accurately, you can let us know via your dashboard. To submit a form that tells us how you are using your subscription for development, in the dashboard warning, choose the **Let us know** link, as shown in the following image. We will review your request and let you know if you qualify for an extension. 
 
-<img alt="Screenshot of a text box with the title This subscription expired on March 28, 2019" src="images/appeals-ux-for-qa.jpg" width="500"> 
+<img alt="Screenshot of the subscription expiration text box with the let us know link highlighted" src="images/appeals-ux-for-qa.jpg" width="500"> 
 
 ## What development activities do you track?
 
