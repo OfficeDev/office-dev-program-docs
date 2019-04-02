@@ -1,13 +1,13 @@
 ---
 title: Set up an Office 365 developer subscription
-description: Set up an Office 365 developer subscription for building and testing solutions independent of your production environment.
-ms.date: 03/20/2018
+description: Set up an Office 365 developer subscription for building solutions independent of your production environment.
+ms.date: 04/01/2019
 localization_priority: Priority
 ---
 
 # Set up an Office 365 developer subscription 
 
-Set up an Office 365 developer subscription to build and test your solutions independent of your production environment. The subscription is an Office 365 Enterprise E3 Developer subscription with 25 user licenses. It lasts for one year and is free to use for development purposes (coding and testing solutions).
+Set up an Office 365 developer subscription to build your solutions independent of your production environment. The subscription is an Office 365 Enterprise E3 Developer subscription with 25 user licenses. It lasts for 90 days and is free to use for development purposes (coding solutions).
 
 > [!NOTE] 
 > To set up a subscription, you must first [join the Office 365 Developer Program](office-365-developer-program.md). After joining, you'll see the option to set up a subscription.
@@ -26,7 +26,7 @@ Set up an Office 365 developer subscription to build and test your solutions ind
 
 4. Choose **Set up**.
 
-5. If you are asked to prove you're not a robot, follow the instructions, and then choose **Verify**.
+5. If you are asked to prove that you're not a robot, follow the instructions, and then choose **Verify**.
 
 6. After the subscription is created, your subscription name and expiration date appear on your profile page.
 
@@ -35,33 +35,33 @@ Set up an Office 365 developer subscription to build and test your solutions ind
 
 ## Configure the subscription
 
-1. On your profile page, choose the [office.com](https://www.office.com/) link and sign in with your user ID (for example, username@domain.onmicrosoft.com) and the password you specified for your developer subscription.
+1. On your profile page, choose the [office.com](https://www.office.com/) link and sign in with your user ID (for example, username@domain.onmicrosoft.com) and the password that you specified for your developer subscription.
 
    > [!NOTE] 
    > Do not sign in to your subscription with your developer program credentials.
 
 2. Use the app launcher to go to the [Admin center](https://portal.office.com/adminportal/home#/homepage).
 
-3. On the Admin center home page, choose **Go to setup**. This will take you to the **Office 365 Enterprise E3 Developer Setup** page.
+3. On the Admin center home page, choose **Go to setup**. This takes you to the **Office 365 Enterprise E3 Developer Setup** page.
 
 4. **Personalize your sign-in and email**. You can connect your subscription to a domain, or just use the existing subdomain that you created. When ready, choose **Next**.
 
   ![Personalize sign-in and email page](images/8a-set-up-personalize.png)
 
-5. **Add new users**. You can add users. These could be fictional users that you need for testing, or real users helping you with development. When ready, choose **Next**.
+5. **Add new users**. You can add users. These could be fictional users, or real users helping you with development. When ready, choose **Next**.
     
   > [!NOTE]
-  > If you need to bulk-add users, you can do this later. For more information, see [Add users individually or in bulk to Office 365 - Admin Help](https://support.office.com/en-us/article/add-users-individually-or-in-bulk-to-office-365-admin-help-1970f7d6-03b5-442f-b385-5880b9c256ec).
+  > If you need to bulk-add users, you can do this later. For more information, see [Add users individually or in bulk to Office 365 - Admin Help](https://support.office.com/article/add-users-individually-or-in-bulk-to-office-365-admin-help-1970f7d6-03b5-442f-b385-5880b9c256ec).
 
 6. **Assign licenses to unlicensed users**. For any users that you want to be able to work with the subscription, grant them a license. When ready, choose **Next**.
 
-7. **Share sign-in credentials**. For any real users who will access the subscription, you must share their sign-in credentials with them. You can choose a method, such as email, download, or print. When ready, choose **Next**.
+7. **Share sign-in credentials**. For any real users that will access the subscription, you must share their sign-in credentials with them. You can choose a method, such as email, download, or print. When ready, choose **Next**.
 
 8. **Install your Office apps**. You have the option of installing Office apps to your computer. When ready, choose **Next**.
 
   ![Install Office apps](images/11-install-office-apps.png)
 
-   > [!NOTE] 
+   > [!TIP] 
    > On subsequent visits to the Dashboard, sign in with your *username@domain*.onmicrosoft.com account before you go to the Dashboard.
 
 9. **You've reached the end of setup**. You've completed the setup for your subscription. You can optionally rate the experience. When ready, choose **Go to the Admin center**.
@@ -73,22 +73,22 @@ Set up an Office 365 developer subscription to build and test your solutions ind
 
 It will take some time for the backend services, such as SharePoint and Exchange, to provision for the subscription. During this step, some of the icons in the app launcher and on the Home page show as **Setting up (This app is still being set up)**. This will take no longer than an hour.
 
-When the provisioning is complete, you can use the new Office 365 subscription for development and testing. The subscription expires after one year.
+When the provisioning is complete, you can use the new Office 365 subscription for development. The subscription expires after 90 days. To extend it, see [When my subscription is about to expire, can I extend it?](office-365-developer-program-faq.md#renew-subscription).
 
-We also recommend that you enable release options to ensure that you get access to the latest Office 365 features as soon as possible. For more information, see [Set up the Standard or Targeted release options in Office 365](https://support.office.com/en-us/article/set-up-the-standard-or-targeted-release-options-in-office-365-3b3adfa4-1777-4ff0-b606-fb8732101f47?ui=en-US&rs=en-US&ad=US).
+We also recommend that you enable release options to ensure that you get access to the latest Office 365 features as soon as possible. For more information, see [Set up the Standard or Targeted release options in Office 365](https://support.office.com/article/set-up-the-standard-or-targeted-release-options-in-office-365-3b3adfa4-1777-4ff0-b606-fb8732101f47).
 
 ## Set up a Microsoft Azure account
 
-For some Office solutions, you might need a Microsoft Azure account to build and test using Azure services. To set up a free Azure account, see [Create your Azure free account today](https://azure.microsoft.com/en-us/free/).
+For some Office solutions, you might need a Microsoft Azure account to build using Azure services. To set up a free Azure account, see [Create your Azure free account today](https://azure.microsoft.com/free/).
 
-## Leave the Developer Program
+## Leave the Office 365 Developer Program
 
 If you decide that you no longer want to participate in the Office 365 Developer Program, you can end your subscription and leave the program.
 
   > [!WARNING]
   > The following steps will erase all of your profile information. You will lose any data stored in your developer subscription that is not backed up elsewhere.
 
-1. Sign in to the Developer Program.
+1. Sign in to the Office 365 Developer Program.
 
 2. Choose **Delete Profile**.
 
@@ -98,4 +98,5 @@ If you decide that you no longer want to participate in the Office 365 Developer
 
 - [Join the Office 365 Developer Program](office-365-developer-program.md)
 - [Use your subscription to build Office 365 solutions](build-office-365-solutions.md)
+- [Renew an expiring subscription](subscription-expiration-and-renewal.md)
 - [Office 365 Developer Program FAQ](office-365-developer-program-faq.md)
