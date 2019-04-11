@@ -19,7 +19,7 @@ Here's how to get set up and coding with Microsoft Teams:
 2. Set up your development environment. This process will vary depending on the type of app or service you are building. For details, see one of the following:
 
   - [Get started on the Microsoft Teams platform with Node.js](https://docs.microsoft.com/microsoftteams/platform/get-started/get-started-nodejs-app-studio)
-  - [Get started on the Microsoft Teams platform with C#/.NET]https://docs.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
+  - [Get started on the Microsoft Teams platform with C#/.NET](https://docs.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
 
 ## Microsoft Graph
 
