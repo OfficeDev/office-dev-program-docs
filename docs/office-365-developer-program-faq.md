@@ -65,7 +65,7 @@ Your developer subscription includes the following:
 - [Flow for Office 365 Plan 2](https://flow.microsoft.com/pricing/)
 - [Microsoft Forms (Plan E5)](https://support.office.com/article/Frequently-asked-questions-about-Microsoft-Forms-495c4242-6102-40a0-add8-df05ed6af61c)
 - [Microsoft Planner](https://products.office.com/compare-all-microsoft-office-products?tab=2)
-- [Microsoft Stream for O365 E5 SKU](https://products.office.com/business/office-365-enterprise-e5-business-software)
+- [Microsoft Stream for Office 365 E5 SKU](https://products.office.com/business/office-365-enterprise-e5-business-software)
 - [Microsoft Teams](https://products.office.com/business/office-365-enterprise-e5-business-software)
 - [Mobile Device Management for Office 365](https://support.office.com/article/Set-up-Mobile-Device-Management-MDM-in-Office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)
 - [Office 365 ProPlus](https://products.office.com/business/office-365-proplus-business-software)
