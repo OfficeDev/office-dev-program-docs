@@ -10,6 +10,8 @@ You can install sample data packs on your Office 365 developer subscription. Sam
 
 You can find sample data packs on your [Office 365 Developer Program dashboard](https://developer.microsoft.com/office/profile), at the bottom of your Office 365 subscription tile.
 
+![Screenshot of the subscription tile on the dashboard page](images/content-packs-06.png)
+
 The following sample data packs are currently available:
 
 - Users - Installs 16 fictitious users with licenses, mailboxes, and metadata, including names and photos for each user. Use Microsoft Graph APIs to work with user sample data in the following ways:
@@ -69,7 +71,7 @@ After you've installed the Users sample data pack, you can install mail and even
 ![Screenshot of the install dialog box](images/content-packs-05.png)
 
 > [!NOTE]
-> If you just created your subscription, it must be fully provisioned before installation can begin. This can take up to a few yours. After installation starts, it can take up to 20 minutes to finish.
+> If you just created your subscription, it must be fully provisioned before installation can begin. This can take up to a few hours. After installation starts, it can take up to 20 minutes to finish.
 
 3. When installation is finished, you'll be notified by email, and the box on your subscription tile will be green.
 
