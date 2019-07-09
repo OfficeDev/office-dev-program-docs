@@ -1,7 +1,6 @@
 ---
 title: Use sample data packs with your Office 365 developer subscription
 description: How to install sample data packs on your Office 365 developer subscription to help get your sandbox environment up and running quickly. 
-ms.date: 07/04/2019
 localization_priority: Priority
 ---
 
