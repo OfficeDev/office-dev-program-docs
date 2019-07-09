@@ -25,15 +25,18 @@ The following sample data packs are currently available:
   - Get upcoming events
   - Update/delete upcoming events
 
+> [!NOTE]
+> You must install the Users sample data pack before you install Mail and Events.
+
 ## What do the sample data packs add to my Office 365 subscription?
 
-The Users sample data pack, which you install first, creates 16 fictitious users on your subscription, and includes the licenses for each user, and mailboxes, names, metadata, and photos for each.
+The Users sample data pack creates 16 fictitious users on your subscription, and includes the licenses for each user, and mailboxes, names, metadata, and photos for each.
 
 The Mail and Events sample data pack adds Outlook email conversations and calendar events for each of the 16 users installed.
 
 ## How do I install the Users sample data pack?
 
-You must install the Users sample data pack first. Before you install the Users sample data pack, make sure that you have an Office 365 developer subscription and that you assign a license to yourself as the admin.
+Before you install the Users sample data pack, make sure that you have an Office 365 developer subscription and that you assign a license to yourself as the admin.
 
 To install the Users sample data pack:
 
