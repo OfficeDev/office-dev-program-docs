@@ -4,7 +4,7 @@ description: Learn how to install sample data packs on your Office 365 developer
 localization_priority: Priority
 ---
 
-## Use sample data packs with your Office 365 developer subscription
+# Use sample data packs with your Office 365 developer subscription
 
 You can install sample data packs on your Office 365 developer subscription. Sample data packs save you time by automatically installing data and content you need to build and test your solutions. This includes fictitious users, metadata, and photos to simulate a small corporate environment. You can quickly install the sample data so that you can focus on your solutions rather than spend time creating sample data yourself.
 
@@ -25,13 +25,13 @@ The following sample data packs are currently available:
   - Get upcoming events
   - Update/delete upcoming events
 
-### What do the sample data packs add to my Office 365 subscription?
+## What do the sample data packs add to my Office 365 subscription?
 
 The Users sample data pack, which you install first, creates 16 fictitious users on your subscription, and includes the licenses for each user, and mailboxes, names, metadata, and photos for each.
 
 The Mail and Events sample data pack adds Outlook email conversations and calendar events for each of the 16 users installed.
 
-### How do I install the Users sample data pack?
+## How do I install the Users sample data pack?
 
 You must install the Users sample data pack first. Before you install the Users sample data pack, make sure that you have an Office 365 developer subscription and that you assign a license to yourself as the admin.
 
@@ -56,7 +56,7 @@ To install the Users sample data pack:
 
 ![Install the Mail and Events sample data pack](images/content-packs-04.png)
 
-### How do I install the Mail and Events sample data pack?
+## How do I install the Mail and Events sample data pack?
 
 After you've installed the Users sample data pack, you can install mail and events.
 
@@ -70,10 +70,10 @@ After you've installed the Users sample data pack, you can install mail and even
 
 3. When installation is finished, you'll be notified by email, and the box on your subscription tile will be green.
 
-### Are more sample data packs coming?
+## Are more sample data packs coming?
 
 Yes. We will add sample data packs for SharePoint and OneDrive. In the future, we will consider adding sample data packs for more products and technologies, including Office Add-ins, Microsoft Teams, and more.
 
-### Can I install sample data packs on my other Office 365 subscriptions?
+## Can I install sample data packs on my other Office 365 subscriptions?
 
 No. These sample data packs are only compatible with the Office 365 Developer Subscription you get as part of the Office 365 Developer Program.
