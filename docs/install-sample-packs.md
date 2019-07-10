@@ -55,11 +55,11 @@ To install the Users sample data pack:
 
 6. The data will be installed. The installation should take about 5 minutes.
 
-![Screenshot showing the install process on the dashboard tile](images/content-packs-03.png)
+![Screenshot showing the install process on the dashboard tile](images/content-packs-03.PNG)
 
 7. When installation is finished, you'll be notified by email, and the box on your subscription tile will be green. You can now install the Mail and Events sample data pack.
 
-![Screenshot of the dashboard tile with Mail and Events ready to install](images/content-packs-04.png)
+![Screenshot of the dashboard tile with Mail and Events ready to install](images/content-packs-04.PNG)
 
 ## How do I install the Mail and Events sample data pack?
 
