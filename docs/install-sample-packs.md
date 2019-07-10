@@ -10,7 +10,7 @@ You can install sample data packs on your Office 365 developer subscription. Sam
 
 You can find sample data packs on your [Office 365 Developer Program dashboard](https://developer.microsoft.com/office/profile), at the bottom of your Office 365 subscription tile.
 
-![Screenshot of the subscription tile on the dashboard page](images/content-packs-06.png)
+![Screenshot of the subscription tile on the dashboard page](images/content-packs-06.PNG)
 
 The following sample data packs are currently available:
 
