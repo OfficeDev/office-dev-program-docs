@@ -85,7 +85,7 @@ No. These sample data packs are only compatible with the Office 365 Developer Su
 
 ## What is in my subscription after I install both sample data packs?
 
-After installation, go to your Office 365 Developer subscription and check the Microsoft 365 Admin Center. There you will see all 16 users added plus their metadata.
+After you install the sample dat packs, go to the **Microsoft 365 Admin Center** on your Office 365 developer subscription. Under **Users**, select **Active users**. You will see the list of 16 users and their metadata.
 ![Screenshot of 16 users added to Microsoft 365 Admin Center](images/content-packs-07.PNG)
 
 Then go to the Exchange admin center and you can see that each of the 16 users has mailboxes with mail and events added.
