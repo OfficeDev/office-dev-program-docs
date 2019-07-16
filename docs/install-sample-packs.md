@@ -89,7 +89,7 @@ After you install the sample dat packs, go to the **Microsoft 365 Admin Center**
 
 ![Screenshot of 16 users in the Microsoft 365 Admin Center, with metadata for a selected user](images/content-packs-07.PNG)
 
-Then go to the Exchange admin center and you can see that each of the 16 users has mailboxes with mail and events added.
+In the **Microsoft 365 Admin Center**, choose **Show all** and then select **Exchange**. In the Exchange admin center, when you select **recipients**, you can see that each of the 16 users has mailboxes with mail and events added.
 ![Screenshot of 16 users added to the Exchange Admin Center](images/content-packs-08.PNG)
 
 ## See also
