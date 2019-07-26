@@ -71,7 +71,7 @@ Your developer subscription includes the following:
 - [Microsoft Teams](https://products.office.com/business/office-365-enterprise-e5-business-software)
 - [Mobile Device Management for Office 365](https://support.office.com/article/Set-up-Mobile-Device-Management-MDM-in-Office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)
 - [Office 365 ProPlus](https://products.office.com/business/office-365-proplus-business-software)
-- [Office Online for Developer]()
+- [Office for the web](https://docs.microsoft.com/en-us/office365/servicedescriptions/office-online-service-description/office-online-service-description)
 - [PowerApps for Office 365](https://powerapps.microsoft.com/pricing/)
 - [SharePoint Online for Developer](https://products.office.com/SharePoint/compare-sharepoint-plans)
 - [Skype for Business Online (Plan 2)](https://products.office.com/skype-for-business/online-meeting-solutions)
