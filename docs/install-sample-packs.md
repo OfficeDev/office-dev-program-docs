@@ -50,11 +50,11 @@ To install the Users sample data pack:
 3. Enter your administrator ID and password on the sign in page.
 4. Consent to the permissions as an administrator of your Office 365 developer subscription.
 
-![Screenshot showing permissions consent dialog box](images/sample-data-pack-ux-tile-users-consent-with-permissions-combined.png)
+![Screenshot showing permissions consent dialog box](images/sample-data-pack-ux-tile-users-consent-with-permissions-combined.PNG)
 
 5. Configure your passwords for all sample users. You will need to have one shared password defined for easy administration of all your fictitious users.
 
-![Screenshot of dialog box to add shared user password](images/sample-data-pack-ux-tile-users-fake-user-password-creation.png)
+![Screenshot of dialog box to add shared user password](images/sample-data-pack-ux-tile-users-fake-user-password-creation.PNG)
 
 6. The data will be installed. The installation should take about 5 minutes.
 
@@ -71,7 +71,7 @@ After you've installed the Users sample data pack, you can install mail and even
 1. Choose the **Mail &amp; Events** box on your subscription tile.
 2. Select **Install** to begin installation.
 
-![Screenshot of the install dialog box](images/sample-data-pack-ux-tile-mail-and-events-begin-install.png)
+![Screenshot of the install dialog box](images/sample-data-pack-ux-tile-mail-and-events-begin-install.PNG)
 
 > [!NOTE]
 > If you just created your subscription, it must be fully provisioned before installation can begin. This can take up to a few hours. After installation starts, it can take up to 20 minutes to finish.
