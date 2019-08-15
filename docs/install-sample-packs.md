@@ -40,6 +40,9 @@ The Mail and Events sample data pack adds Outlook email conversations and calend
 
 Before you install the Users sample data pack, make sure that you have an Office 365 developer subscription and that you assign a license to yourself as the admin.
 
+> [!NOTE]
+> Make sure that you have 16 users available in your subscription. Your subscription includes 25 users. If you have already configured more than 10 users, remove some users first to ensure that your installation is successful.
+
 To install the Users sample data pack:
 
 1. Select the **Users** box at the bottom of your subscription tile.
