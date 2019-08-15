@@ -10,7 +10,7 @@ You can install sample data packs on your Office 365 developer subscription. Sam
 
 You can find sample data packs on your [Office 365 Developer Program dashboard](https://developer.microsoft.com/office/profile), at the bottom of your Office 365 subscription tile.
 
-![Screenshot of the subscription tile on the dashboard page](images/content-packs-06.PNG)
+![Screenshot of the subscription tile on the dashboard page](images/sample-data-pack-ux-tile-users-beginning.PNG)
 
 The following sample data packs are currently available:
 
@@ -50,19 +50,19 @@ To install the Users sample data pack:
 3. Enter your administrator ID and password on the sign in page.
 4. Consent to the permissions as an administrator of your Office 365 developer subscription.
 
-![Screenshot showing permissions consent dialog box](images/content-packs-01.png)
+![Screenshot showing permissions consent dialog box](images/sample-data-pack-ux-tile-users-consent-with-permissions-combined.png)
 
 5. Configure your passwords for all sample users. You will need to have one shared password defined for easy administration of all your fictitious users.
 
-![Screenshot of dialog box to add shared user password](images/content-packs-02.png)
+![Screenshot of dialog box to add shared user password](images/sample-data-pack-ux-tile-users-fake-user-password-creation.png)
 
 6. The data will be installed. The installation should take about 5 minutes.
 
-![Screenshot showing the install process on the dashboard tile](images/content-packs-03.PNG)
+![Screenshot showing the install process on the dashboard tile](images/sample-data-pack-ux-tile-users-installing-status.PNG)
 
 7. When installation is finished, you'll be notified by email, and the box on your subscription tile will be green. You can now install the Mail and Events sample data pack.
 
-![Screenshot of the dashboard tile with Mail and Events ready to install](images/content-packs-04.PNG)
+![Screenshot of the dashboard tile with Mail and Events ready to install](images/sample-data-pack-ux-tile-users-installed.PNG)
 
 ## How do I install the Mail and Events sample data pack?
 
@@ -71,7 +71,7 @@ After you've installed the Users sample data pack, you can install mail and even
 1. Choose the **Mail &amp; Events** box on your subscription tile.
 2. Select **Install** to begin installation.
 
-![Screenshot of the install dialog box](images/content-packs-05.png)
+![Screenshot of the install dialog box](images/sample-data-pack-ux-tile-mail-and-events-begin-install.png)
 
 > [!NOTE]
 > If you just created your subscription, it must be fully provisioned before installation can begin. This can take up to a few hours. After installation starts, it can take up to 20 minutes to finish.
