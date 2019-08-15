@@ -6,6 +6,8 @@
 - name: Build solutions
   href: build-office-365-solutions.md
 - name: Subscription expiration and renewal
-  href: subscription-expiration-and-renewal.md
+  href: subscription-expiration-and-renewal.
+- name: Use sample data packs
+  href: install-sample-packs.md
 - name: Developer Program FAQ
   href: office-365-developer-program-faq.md
