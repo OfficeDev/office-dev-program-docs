@@ -1,15 +1,15 @@
 ---
-title: Set up an Office 365 developer subscription
+title: Set up a Microsoft 365 developer subscription
 description: Set up an Office 365 developer subscription for building solutions independent of your production environment.
 ms.date: 04/01/2019
 localization_priority: Priority
 ---
 
-# Set up an Office 365 developer subscription 
+# Set up a Microsoft 365 developer subscription 
 
-Set up an Office 365 developer subscription to build your solutions independent of your production environment. The subscription is an Office 365 Enterprise E5 Developer subscription with 25 user licenses. It lasts for 90 days and is free to use for development purposes (coding solutions) only. 
+Set up a Microsoft 365 developer subscription to build your solutions independent of your production environment. The subscription is a Microsoft 365 E5 Developer subscription with 25 user licenses. It lasts for 90 days and is free to use for development purposes (coding solutions) only. 
 
-Customers who joined the program before August 25th, 2019 have an Office 365 Enterprise E3 Developer subscription.
+Customers who joined the program before August 25th, 2019 have an Office 365 E3 Developer subscription.
 
 > [!NOTE] 
 > To set up a subscription, you must first [join the Office 365 Developer Program](office-365-developer-program.md). After joining, you'll see the option to set up a subscription.
