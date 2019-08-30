@@ -58,8 +58,9 @@ Your activity in the Office 365 Developer Program and on your Office 365 develop
 For more information about the types of activities that we track, see the [Office 365 developer subscription terms of use](terms-and-conditions.md). 
 
 ## What's included in the Office 365 developer subscription?
+If you created your subscription after August 25, 2019, you have a Microsoft 365 E5 Developer subscription with 25 user licenses. Customers who joined the program before August 25, 2019, have an Office 365 E3 Developer subscription.
 
-Your developer subscription includes the following:
+The Office 365 E3 Developer subscription includes the following:
 
 - [Exchange Online (Plan 2)](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)
 - [Flow for Office 365](https://flow.microsoft.com/pricing/)
@@ -78,6 +79,53 @@ Your developer subscription includes the following:
 - [Sway](https://sway.com/)
 - [To-Do (Plan 3)](https://todo.microsoft.com)
 - [Whiteboard (Plan 2)](https://products.office.com/en-us/microsoft-whiteboard/digital-whiteboard-app)
+
+The Microsoft 365 E5 Developer subscription includes all the apps that are included in the Office 365 E3 Developer subscription, plus the following new features:  
+
+- Advanced analytics with Power BI  
+- Enterprise Mobility + Security (EMS) for compliance and information protection  
+- Office 365 Advanced Threat Protection 
+- Azure Active Directory for building advanced identity and access management solutions  
+
+The Microsoft 365 E5 Developer subscription includes the following: 
+
+- Azure Active Directory Premium P1 
+- Azure Active Directory Premium P2 
+-	Azure Advanced Threat Protection 
+-	Azure Information Protection Premium P1 
+-	Azure Information Protection Premium P2 
+-	Customer Lockbox 
+-	Exchange Online (Plan 2) 
+-	Flow for Office 365 
+-	Information Protection for Office 365 - Premium 
+-	Information Protection for Office 365 - Standard 
+-	Microsoft Azure Active Directory Rights 
+-	Microsoft Azure Multi-Factor Authentication 
+-	Microsoft Cloud App Security 
+-	Microsoft Forms (Plan E5) 
+-	Microsoft Intune 
+-	Microsoft MyAnalytics (Full) 
+-	Microsoft Planner 
+-	Microsoft StaffHub 
+-	Microsoft Stream for O365 E5 SKU 
+-	Microsoft Teams 
+-	Mobile Device Management for Office 365 
+-	Office 365 Advanced eDiscovery 
+-	Office 365 Advanced Security Management 
+-	Office 365 Advanced Threat Protection (Plan 1) 
+-	Office 365 Advanced Threat Protection (Plan 2) 
+-	Office 365 Privileged Access Management 
+-	Office 365 ProPlus 
+-	Office Online 
+-	Phone System 
+-	Power BI Pro 
+-	PowerApps for Office 365 Plan 3 
+-	SharePoint Online (Plan 2) 
+-	Skype for Business Online (Plan 2) 
+-	Sway 
+-	To-Do (Plan 3) 
+-	Whiteboard (Plan 3) 
+-	Yammer Enterprise 
 
 ## Does the subscription also include a subscription to Azure?
 
