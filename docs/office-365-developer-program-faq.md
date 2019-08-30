@@ -57,8 +57,8 @@ Your activity in the Office 365 Developer Program and on your Office 365 develop
 
 For more information about the types of activities that we track, see the [Office 365 developer subscription terms of use](terms-and-conditions.md). 
 
-## What's included in the Office 365 developer subscription?
-If you created your subscription after August 25, 2019, you have a Microsoft 365 E5 Developer subscription with 25 user licenses. Customers who joined the program before August 25, 2019, have an Office 365 E3 Developer subscription.
+## What's included in the developer subscription?
+If you created your subscription after August 25, 2019, you have a Microsoft 365 E5 Developer subscription with 25 user licenses. Customers who joined the program before August 25, 2019, have an Office 365 E3 Developer subscription with 25 user licenses.
 
 The Office 365 E3 Developer subscription includes the following:
 
@@ -126,6 +126,22 @@ The Microsoft 365 E5 Developer subscription includes the following:
 -	To-Do (Plan 3) 
 -	Whiteboard (Plan 3) 
 -	Yammer Enterprise 
+
+## How do I know which subscription I have?
+
+You can determine whether you have a Microsoft 365 E5 subscription or an Office 365 E3 subscription on the subscription tile on your [dashboard](https://developer.microsoft.com/office/profile). The tile will show either E3 or E5 under the subscription domain name.
+
+![Screenshot of a subscription tile with E5 highighted](images/subscription-tile-e5.png).
+
+## How can I migrate from an Office 365 E3 subscription to a Microsoft 365 E5 subscription?
+
+Currently, only new Office 365 Developer Program members will get a Microsoft 365 E5 Developer subscription automatically. Existing users will be offered a way to migrate to a Microsoft 365 E5 subscription in the future. Rest assured, we are working to enable all Office 365 Developer Program members to migrate to Microsoft 365 E5. 
+
+## Can I choose whether to have an Office 365 E3 or a Microsoft 365 E5 subscription?
+
+Currently, only new Developer Program members are offered a Microsoft 365 E5 subscription. Existing members with an Office 365 E3 subscription will have the option to keep their current subscription and continue to renew it if they don't need the new capibilities offered in Microsoft 365 E5. Developer program members can only have one subscription.  
+
+When we have a migration option for existing Developer Program members, we’ll provide more information about how to migrate. 
 
 ## Does the subscription also include a subscription to Azure?
 
