@@ -57,9 +57,10 @@ Your activity in the Office 365 Developer Program and on your Office 365 develop
 
 For more information about the types of activities that we track, see the [Office 365 developer subscription terms of use](terms-and-conditions.md). 
 
-## What's included in the Office 365 developer subscription?
+## What's included in the developer subscription?
+If you created your subscription after August 25, 2019, you have a Microsoft 365 E5 Developer subscription with 25 user licenses. Customers who joined the program before August 25, 2019, have an Office 365 E3 Developer subscription with 25 user licenses.
 
-Your developer subscription includes the following:
+The Office 365 E3 Developer subscription includes the following:
 
 - [Exchange Online (Plan 2)](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)
 - [Flow for Office 365](https://flow.microsoft.com/pricing/)
@@ -78,6 +79,69 @@ Your developer subscription includes the following:
 - [Sway](https://sway.com/)
 - [To-Do (Plan 3)](https://todo.microsoft.com)
 - [Whiteboard (Plan 2)](https://products.office.com/en-us/microsoft-whiteboard/digital-whiteboard-app)
+
+The Microsoft 365 E5 Developer subscription includes all the apps that are included in the Office 365 E3 Developer subscription, plus the following new features:  
+
+- Advanced analytics with Power BI  
+- Enterprise Mobility + Security (EMS) for compliance and information protection  
+- Office 365 Advanced Threat Protection 
+- Azure Active Directory for building advanced identity and access management solutions  
+
+The Microsoft 365 E5 Developer subscription includes the following: 
+
+- Azure Active Directory Premium P1 
+- Azure Active Directory Premium P2 
+-	Azure Advanced Threat Protection 
+-	Azure Information Protection Premium P1 
+-	Azure Information Protection Premium P2 
+-	Customer Lockbox 
+-	Exchange Online (Plan 2) 
+-	Flow for Office 365 
+-	Information Protection for Office 365 - Premium 
+-	Information Protection for Office 365 - Standard 
+-	Microsoft Azure Active Directory Rights 
+-	Microsoft Azure Multi-Factor Authentication 
+-	Microsoft Cloud App Security 
+-	Microsoft Forms (Plan E5) 
+-	Microsoft Intune 
+-	Microsoft MyAnalytics (Full) 
+-	Microsoft Planner 
+-	Microsoft StaffHub 
+-	Microsoft Stream for O365 E5 SKU 
+-	Microsoft Teams 
+-	Mobile Device Management for Office 365 
+-	Office 365 Advanced eDiscovery 
+-	Office 365 Advanced Security Management 
+-	Office 365 Advanced Threat Protection (Plan 1) 
+-	Office 365 Advanced Threat Protection (Plan 2) 
+-	Office 365 Privileged Access Management 
+-	Office 365 ProPlus 
+-	Office Online 
+-	Phone System 
+-	Power BI Pro 
+-	PowerApps for Office 365 Plan 3 
+-	SharePoint Online (Plan 2) 
+-	Skype for Business Online (Plan 2) 
+-	Sway 
+-	To-Do (Plan 3) 
+-	Whiteboard (Plan 3) 
+-	Yammer Enterprise 
+
+## How do I know which subscription I have?
+
+You can determine whether you have a Microsoft 365 E5 subscription or an Office 365 E3 subscription on the subscription tile on your [dashboard](https://developer.microsoft.com/office/profile). The tile will show either E3 or E5 under the subscription domain name.
+
+![Screenshot of a subscription tile with E5 highighted](images/subscription-tile-e5.png).
+
+## How can I migrate from an Office 365 E3 subscription to a Microsoft 365 E5 subscription?
+
+Currently, only new Office 365 Developer Program members will get a Microsoft 365 E5 Developer subscription automatically. Existing users will be offered a way to migrate to a Microsoft 365 E5 subscription in the future. Rest assured, we are working to enable all Office 365 Developer Program members to migrate to Microsoft 365 E5. 
+
+## Can I choose whether to have an Office 365 E3 or a Microsoft 365 E5 subscription?
+
+Currently, only new Developer Program members are offered a Microsoft 365 E5 subscription. Existing members with an Office 365 E3 subscription will have the option to keep their current subscription and continue to renew it if they don't need the new capibilities offered in Microsoft 365 E5. Developer program members can only have one subscription.  
+
+When we have a migration option for existing Developer Program members, we’ll provide more information about how to migrate. 
 
 ## Does the subscription also include a subscription to Azure?
 
