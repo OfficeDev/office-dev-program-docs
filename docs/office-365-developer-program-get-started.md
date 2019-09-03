@@ -18,8 +18,6 @@ Customers who joined the program before August 25th, 2019 have an Office 365 E3 
 
 1. To get an Office 365 developer subscription, on your profile page, under **Need an Office 365 subscription to use for development?**, choose **Set up subscription**.
 
-  ![Set up subscription](images/4-set-up-subscription.png)
-
 2. In the **Set up your developer subscription** dialog box, create a username and domain. This account will have global administrator permissions for the subscription. You can choose any username or domain name as long as it is not already in use. Do not use spaces.
 
   ![Set up subscription form](images/5-set-up-form.png)
