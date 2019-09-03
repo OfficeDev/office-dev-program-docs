@@ -16,7 +16,7 @@ Customers who joined the program before August 25th, 2019 have an Office 365 E3 
 
 ## Set up your subscription
 
-1. To get an Office 365 developer subscription, on your profile page, under **Need an Office 365 subscription to use for development?**, choose **Set up subscription**.
+1. To get an Office 365 developer subscription, on your profile page, choose **Set up subscription**.
 
 2. In the **Set up your developer subscription** dialog box, create a username and domain. This account will have global administrator permissions for the subscription. You can choose any username or domain name as long as it is not already in use. Do not use spaces.
 
@@ -35,14 +35,14 @@ Customers who joined the program before August 25th, 2019 have an Office 365 E3 
 
 ## Configure the subscription
 
-1. On your profile page, choose the [office.com](https://www.office.com/) link and sign in with your user ID (for example, username@domain.onmicrosoft.com) and the password that you specified for your developer subscription.
+1. On your profile page, choose **Go to subscription** and sign in with your user ID (for example, username@domain.onmicrosoft.com) and the password that you specified for your developer subscription.
 
    > [!NOTE] 
    > Do not sign in to your subscription with your developer program credentials.
 
-2. Use the app launcher to go to the [Admin center](https://portal.office.com/adminportal/home#/homepage).
+2. Use the app launcher to go to the [Admin center](https://admin.microsoft.com/AdminPortal/Home#/homepage).
 
-3. On the Admin center home page, choose **Go to setup**. This takes you to the **Office 365 Enterprise E3 Developer Setup** page.
+3. On the Admin center home page, choose **Go to setup**. This takes you to the **Microsoft 365 E5 Developer Setup** page.
 
 4. **Personalize your sign-in and email**. You can connect your subscription to a domain, or just use the existing subdomain that you created. When ready, choose **Next**.
 
