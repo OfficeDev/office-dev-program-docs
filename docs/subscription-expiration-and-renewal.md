@@ -41,7 +41,7 @@ When your subscription expires, you'll see the following warning text.
 
 <img alt="Screenshot of a text box with the title This subscription expired on Feb 1, 2019" src="images/16-renewable-notice-red.png" width="500"> 
 
-If you're an active developer, your subscription will be renewed automatically for another 90 days. 
+If you're an active developer, your subscription will be renewed automatically for another 90 days from the original date of expiration. 
 
 ## Why isn't my current subscription renewable?
 
