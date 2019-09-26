@@ -22,42 +22,29 @@ The Office 365 Developer Program is designed to help you build people-centric, c
 As a program member, you can get a free Office 365 developer subscription with 25 user licenses to use to build your solutions. This subscription will remain active for as long as you’re actively developing and deploying solutions.
 
 For more information, see [Join the Office 365 Developer Program](office-365-developer-program.md) and [Build Office 365 solutions](build-office-365-solutions.md).
- 
-## How does the Office 365 developer subscription work?  
 
-If you join the Office 365 Developer Program, you qualify to get a free Office 365 developer subscription. This is a special subscription designed to be used for application development only, and comes with 25 user licenses. 
+## What account can I use to sign up for the Office 365 Developer Program?
 
-After joining the Office 365 Developer Program, you'll have the option to receive and configure an Office 365 developer subscription. Your subscription is good for 90 days and can be renewed for another 90 days for as long as you're using it for development activity. 
+You can sign up for the developer program by using one of the following account types:
 
-For more information, see [Set up an Office 365 developer subscription](office-365-developer-program-get-started.md).
+- **Microsoft account** (created by you for personal use) - Provides access to all consumer-oriented Microsoft products and cloud services, such as Outlook (Hotmail), Messenger, OneDrive, MSN, Xbox Live, or Office 365. Signing up for an Outlook.com mailbox automatically creates a Microsoft account. After a Microsoft account is created, it can be used to access consumer-related Microsoft cloud services or Azure. 
+- **Work account** (issued by an admin for business use) - Provides access to all small, medium, and enterprise business-level Microsoft cloud services, such as Azure, Microsoft Intune, or Office 365. When you sign up to one of these services as an organization, a cloud-based directory is automatically provisioned in Azure Active Directory to represent your organization. For more information, see [Manage your Azure AD directory](https://docs.microsoft.com/azure/active-directory/active-directory-administer).
+- **Visual Studio ID** (created for your Visual Studio Professional or Enterprise subscriptions) - We recommend that you use this option to join the developer program from within the Visual Studio Gallery to get the full benefits as a Visual Studio subscriber. 
 
-## How many user licenses can I add with my subscription?
+## How can I get an Office 365 developer subscription via the Developer Program?  
 
-You can add up to 25 user licenses, including the administrator, for development purposes only. Using this subscription for any purpose other than application development is a violation of the license agreement. For more details about the licensing restrictions, see the [Office 365 developer subscription terms of use](terms-and-conditions.md).
+When you join the Office 365 Developer Program, you qualify to get a free Office 365 developer subscription. This is a special subscription designed to be used for application development only. For more information, see [Set up an Office 365 developer subscription](office-365-developer-program-get-started.md).
 
-## Why don’t you offer a one-year subscription?
+## What ID do I use to sign in to the Developer Program dashboard?
 
-In April 2019, we transitioned to a new model where your subscription can be renewed perpetually every 90 days if you're actively using it for development. We believe that this model ensures that developers who are actively developing solutions have a subscription for as long as they need one. If you're developing frequently, your subscription never expires; it is automatically extended. If you're developing for a short time, and your subscription expires and is deleted, you can sign up for a new one. 
+Use your member ID to sign in to the Developer Program dashboard to access information about your subscription. This is the Microsoft account or Azure Active Directory-enabled email that you used to sign in when you joined the program.
 
-If you prefer to have a subscription that is available for a longer time, we recommend that you get the Visual Studio Professional or Visual Studio Enterprise subscription. These programs include a free Office 365 developer subscription that is good for the life of your Visual Studio subscription. To access this, go to [Visual Studio | My Benefits](https://my.visualstudio.com/benefits). For more information, contact [Visual Studio customer service](https://www.visualstudio.com/subscriptions/support/). 
+## What ID do I use to sign in to my developer subscription?
 
-## How do you determine whether a subscription can be renewed?
-
-We use a set of algorithms and telemetry that we get from your activity in the Office 365 Developer Program and on your Office 365 developer subscription to determine whether you are actively developing. We check these regularly to update your status and determine whether your subscription should be extended. 
-
-If you think we somehow missed tracking your development activity accurately, you can let us know via your dashboard. To submit a form that tells us how you are using your subscription for development, in the dashboard warning, choose the **Let us know** link, as shown in the following image. We will review your request and let you know if you qualify for an extension. 
-
-<img alt="Screenshot of the subscription expiration text box with the let us know link highlighted" src="images/appeals-ux-for-qa.jpg" width="500"> 
-
-## How do you define development activity?
-
-Your activity in the Office 365 Developer Program and on your Office 365 developer subscription determine whether you are actively developing and whether your subscription should be extended. 
-
-## What development activities do you track?
-
-For more information about the types of activities that we track, see the [Office 365 developer subscription terms of use](terms-and-conditions.md). 
+Use the administrator ID that you created when you set up your developer subscription. You can find your administrator ID on the subscription tile on the [Developer Program dashboard](https://developer.microsoft.com/en-us/office/profile).
 
 ## What's included in the developer subscription?
+
 If you created your subscription after August 25, 2019, you have a Microsoft 365 E5 Developer subscription with 25 user licenses. Customers who joined the program before August 25, 2019, have an Office 365 E3 Developer subscription with 25 user licenses.
 
 The Office 365 E3 Developer subscription includes the following:
@@ -127,25 +114,17 @@ The Microsoft 365 E5 Developer subscription includes the following:
 -	Whiteboard (Plan 3) 
 -	Yammer Enterprise 
 
-## How do I know which subscription I have?
-
 You can determine whether you have a Microsoft 365 E5 subscription or an Office 365 E3 subscription on the subscription tile on your [dashboard](https://developer.microsoft.com/office/profile). The tile will show either E3 or E5 under the subscription domain name.
 
 ![Screenshot of a subscription tile with E5 highighted](images/subscription-tile-e5.png).
 
-## How can I migrate from an Office 365 E3 subscription to a Microsoft 365 E5 subscription?
-
-Currently, only new Office 365 Developer Program members will get a Microsoft 365 E5 Developer subscription automatically. Existing users will be offered a way to migrate to a Microsoft 365 E5 subscription in the future. Rest assured, we are working to enable all Office 365 Developer Program members to migrate to Microsoft 365 E5. 
-
-## Can I choose whether to have an Office 365 E3 or a Microsoft 365 E5 subscription?
-
-Currently, only new Developer Program members are offered a Microsoft 365 E5 subscription. Existing members with an Office 365 E3 subscription will have the option to keep their current subscription and continue to renew it if they don't need the new capibilities offered in Microsoft 365 E5. Developer program members can only have one subscription.  
-
-When we have a migration option for existing Developer Program members, we’ll provide more information about how to migrate. 
-
 ## Does the subscription also include a subscription to Azure?
 
 This offer does not include a subscription to Azure. However, to receive free access to Azure services, you can [create a free Azure account](https://azure.microsoft.com/free/). 
+
+## How many user licenses does the Office 365 developer subscription include?
+
+Your Office 365 developer subscription includes 25 user licenses, including the administrator, for development purposes only. Using this subscription for any purpose other than application development is a violation of the license agreement. For more details about the licensing restrictions, see the [Office 365 developer subscription terms of use](terms-and-conditions.md).
 
 ## How long is my subscription good for, and when does it expire?
 
@@ -154,6 +133,26 @@ Your subscription is good for 90 days and is renewable based on valid developer 
 If you're joining the program through Visual Studio Enterprise or Visual Studio Professional, your subscription is automatically renewed until your Visual Studio subscription expires. 
 
 <a name="renew-subscription"> </a>
+
+## Why don’t you offer a one-year subscription?
+
+In April 2019, we transitioned to a new model where your subscription can be renewed perpetually every 90 days if you're actively using it for development. We believe that this model ensures that developers who are actively developing solutions have a subscription for as long as they need one. If you're developing frequently, your subscription never expires; it is automatically extended. If you're developing for a short time, and your subscription expires and is deleted, you can sign up for a new one. 
+
+If you prefer to have a subscription that is available for a longer time, we recommend that you get the Visual Studio Professional or Visual Studio Enterprise subscription. These programs include a free Office 365 developer subscription that is good for the life of your Visual Studio subscription. To access this, go to [Visual Studio | My Benefits](https://my.visualstudio.com/benefits). For more information, contact [Visual Studio customer service](https://www.visualstudio.com/subscriptions/support/). 
+
+## How do you determine whether a subscription can be renewed?
+
+We use a set of algorithms and telemetry that we get from your activity in the Office 365 Developer Program and on your Office 365 developer subscription to determine whether you are actively developing. We check these regularly to update your status and determine whether your subscription should be extended. 
+
+If you think we somehow missed tracking your development activity accurately, you can let us know via your dashboard. To submit a form that tells us how you are using your subscription for development, in the dashboard warning, choose the **Let us know** link, as shown in the following image. We will review your request and let you know if you qualify for an extension. 
+
+<img alt="Screenshot of the subscription expiration text box with the let us know link highlighted" src="images/appeals-ux-for-qa.jpg" width="500"> 
+
+## How do you define development activity?
+
+Your activity in the Office 365 Developer Program and on your Office 365 developer subscription determine whether you are actively developing and whether your subscription should be extended. 
+
+For more information about the types of activities that we track, see the [Office 365 developer subscription terms of use](terms-and-conditions.md). 
 
 ## When my subscription is about to expire, can I extend it?
 
@@ -167,14 +166,16 @@ You have 30 days after your subscription expires to migrate any data. For the ne
 
 <a name="account-types"> </a>
 
-## What account can I use to sign up for the Office 365 Developer Program?
+## How can I migrate from an Office 365 E3 subscription to a Microsoft 365 E5 subscription?
 
-You can sign up for the developer program by using one of the following account types:
+Currently, only new Office 365 Developer Program members will get a Microsoft 365 E5 Developer subscription automatically. Existing users will be offered a way to migrate to a Microsoft 365 E5 subscription in the future. Rest assured, we are working to enable all Office 365 Developer Program members to migrate to Microsoft 365 E5. 
 
-- **Microsoft account** (created by you for personal use) - Provides access to all consumer-oriented Microsoft products and cloud services, such as Outlook (Hotmail), Messenger, OneDrive, MSN, Xbox Live, or Office 365. Signing up for an Outlook.com mailbox automatically creates a Microsoft account. After a Microsoft account is created, it can be used to access consumer-related Microsoft cloud services or Azure. 
-- **Work account** (issued by an admin for business use) - Provides access to all small, medium, and enterprise business-level Microsoft cloud services, such as Azure, Microsoft Intune, or Office 365. When you sign up to one of these services as an organization, a cloud-based directory is automatically provisioned in Azure Active Directory to represent your organization. For more information, see [Manage your Azure AD directory](https://docs.microsoft.com/azure/active-directory/active-directory-administer).
-- **Visual Studio ID** (created for your Visual Studio Professional or Enterprise subscriptions) - We recommend that you use this option to join the developer program from within the Visual Studio Gallery to get the full benefits as a Visual Studio subscriber. 
- 
+## Can I choose whether to have an Office 365 E3 or a Microsoft 365 E5 subscription?
+
+Currently, only new Developer Program members are offered a Microsoft 365 E5 subscription. Existing members with an Office 365 E3 subscription will have the option to keep their current subscription and continue to renew it if they don't need the new capibilities offered in Microsoft 365 E5. Developer program members can only have one subscription.  
+
+When we have a migration option for existing Developer Program members, we’ll provide more information about how to migrate. 
+
 ## As a Microsoft Partner, can I receive a subscription? 
 
 Yes, you can follow [these instructions](office-365-developer-program.md) to join the Office 365 Developer Program and set up an Office 365 developer subscription. However, if you already have a Visual Studio Enterprise or Visual Studio Professional (MSDN) subscription, you can get an Office 365 developer subscription as a benefit. To access this, go to [Visual Studio | My Benefits](https://my.visualstudio.com/benefits). For more information, contact [Visual Studio customer service](https://www.visualstudio.com/subscriptions/support/). 

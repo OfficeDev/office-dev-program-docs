@@ -13,7 +13,10 @@ Join your friends and colleagues in the Office 365 Developer Program. Use the Of
 
 1. Go to the [Join the Office 365 Developer Program](https://developer.microsoft.com/office/dev-program) page. 
 
-2. In the upper-right corner, choose **Sign in** to sign in with your Microsoft account or Azure Active Directory-enabled email. 
+2. In the upper-right corner, choose **Sign in** to sign in with your Microsoft account or Azure Active Directory-enabled email.
+
+    > [!NOTE]
+    > Remember the account that you sign in with. You’ll sign in to the [Developer Program dashboard](https://developer.microsoft.com/office/profile) with this account. This account is different than the admin ID that you'll use for your Microsoft 35 developer subscription.
 
   <img alt="Join the Office 365 Developer Program Sign-in" src="images/0-sign-in-page.png" width="700">
 
