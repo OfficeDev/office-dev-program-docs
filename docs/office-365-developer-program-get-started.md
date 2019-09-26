@@ -38,15 +38,13 @@ Customers who joined the program before August 25th, 2019 have an Office 365 E3 
 1. On your profile page, choose **Go to subscription** and sign in with your user ID (for example, username@domain.onmicrosoft.com) and the password that you specified for your developer subscription.
 
    > [!NOTE] 
-   > Do not sign in to your subscription with your developer program credentials.
+   > Do not sign in to your subscription with your Developer Program account ID.
 
 2. Use the app launcher to go to the [Admin center](https://admin.microsoft.com/AdminPortal/Home#/homepage).
 
 3. On the Admin center home page, choose **Go to setup**. This takes you to the **Microsoft 365 E5 Developer Setup** page.
 
 4. **Personalize your sign-in and email**. You can connect your subscription to a domain, or just use the existing subdomain that you created. When ready, choose **Next**.
-
-  ![Personalize sign-in and email page](images/8a-set-up-personalize.png)
 
 5. **Add new users**. You can add users. These could be fictional users, or real users helping you with development. When ready, choose **Next**.
     
@@ -58,8 +56,6 @@ Customers who joined the program before August 25th, 2019 have an Office 365 E3 
 7. **Share sign-in credentials**. For any real users that will access the subscription, you must share their sign-in credentials with them. You can choose a method, such as email, download, or print. When ready, choose **Next**.
 
 8. **Install your Office apps**. You have the option of installing Office apps to your computer. When ready, choose **Next**.
-
-  ![Install Office apps](images/11-install-office-apps.png)
 
    > [!TIP] 
    > On subsequent visits to the Dashboard, sign in with your *username@domain*.onmicrosoft.com account before you go to the Dashboard.
