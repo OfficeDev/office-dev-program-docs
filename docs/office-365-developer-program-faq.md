@@ -35,6 +35,14 @@ You can sign up for the developer program by using one of the following account 
 
 When you join the Office 365 Developer Program, you qualify to get a free Office 365 developer subscription. This is a special subscription designed to be used for application development only. For more information, see [Set up an Office 365 developer subscription](office-365-developer-program-get-started.md).
 
+## What ID do I use to sign in to the Developer Program dashboard?
+
+Use your member ID to sign in to the Developer Program dashboard to access information about your subscription. This is the Microsoft account or Azure Active Directory-enabled email that you used to sign in when you joined the program.
+
+## What ID do I use to sign in to my developer subscription?
+
+Use the administrator ID that you created when you set up your developer subscription. You can find your administrator ID on the subscription tile on the [Developer Program dashboard](https://developer.microsoft.com/en-us/office/profile).
+
 ## What's included in the developer subscription?
 
 If you created your subscription after August 25, 2019, you have a Microsoft 365 E5 Developer subscription with 25 user licenses. Customers who joined the program before August 25, 2019, have an Office 365 E3 Developer subscription with 25 user licenses.
