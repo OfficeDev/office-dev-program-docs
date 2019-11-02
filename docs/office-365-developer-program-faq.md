@@ -182,7 +182,7 @@ Yes, you can follow [these instructions](office-365-developer-program.md) to joi
 
 ## As a full-time Microsoft employee, can I receive a subscription?
 
-Microsoft employees cannot sign up for this offer. However, all Microsoft full-time employees have access to a free Visual Studio (MSDN) subscription that includes access to Office E3 Developer. You can access this benefit at [Visual Studio | My Benefits](https://my.visualstudio.com/benefits).
+Microsoft employees cannot sign up for this offer. All Microsoft full-time employees have access to a free Visual Studio (MSDN) subscription that includes access to Microsoft E5 Developer. You can access this benefit at [Visual Studio | My Benefits](https://my.visualstudio.com/benefits).
 
 ## As a vendor working at Microsoft, do I qualify for a subscription?
 
