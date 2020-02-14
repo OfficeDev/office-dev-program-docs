@@ -1,14 +1,14 @@
 ---
-title: Use sample data packs with your Office 365 developer subscription
-description: Learn how to install sample data packs on your Office 365 developer subscription to help get your sandbox environment up and running quickly. 
+title: Use sample data packs with your Microsoft 365 Developer Program subscription
+description: Learn how to install sample data packs on your developer subscription to help get your sandbox environment up and running quickly. 
 localization_priority: Priority
 ---
 
-# Use sample data packs with your Office 365 developer subscription
+# Use sample data packs with your Microsoft 365 Developer Program subscription
 
-You can install sample data packs on your Office 365 developer subscription. Sample data packs save you time by automatically installing data and content you need to build and test your solutions. This includes fictitious users, metadata, and photos to simulate a small corporate environment. You can quickly install the sample data so that you can focus on your solutions rather than spend time creating sample data yourself.
+You can install sample data packs on your Microsoft 365 Developer Program subscription. Sample data packs save you time by automatically installing data and content you need to build and test your solutions. This includes fictitious users, metadata, and photos to simulate a small corporate environment. You can quickly install the sample data so that you can focus on your solutions rather than spend time creating sample data yourself.
 
-You can find sample data packs on your [Office 365 Developer Program dashboard](https://developer.microsoft.com/office/profile), at the bottom of your Office 365 subscription tile.
+You can find sample data packs on your [Microsoft 365 Developer Program dashboard](https://developer.microsoft.com/office/profile), at the bottom of your subscription tile.
 
 ![Screenshot of the subscription tile on the dashboard page](images/sample-data-pack-ux-tile-users-beginning.PNG)
 
@@ -30,7 +30,7 @@ The following sample data packs are currently available:
 > [!NOTE]
 > You must install the Users sample data pack before you install Mail and Events.
 
-## What do the sample data packs add to my Office 365 subscription?
+## What do the sample data packs add to my subscription?
 
 The Users sample data pack creates 16 fictitious users on your subscription, and includes the licenses for each user, and mailboxes, names, metadata, and photos for each.
 
@@ -38,7 +38,7 @@ The Mail and Events sample data pack adds Outlook email conversations and calend
 
 ## How do I install the Users sample data pack?
 
-Before you install the Users sample data pack, make sure that you have an Office 365 developer subscription and that you assign a license to yourself as the admin.
+Before you install the Users sample data pack, make sure that you have a Microsoft 365 developer subscription and that you assign a license to yourself as the admin.
 
 > [!NOTE]
 > Make sure that you have 16 users available in your subscription. Your subscription includes 25 users. If you have already configured more than 10 users, remove some users first to ensure that your installation is successful.
@@ -48,7 +48,7 @@ To install the Users sample data pack:
 1. Select the **Users** box at the bottom of your subscription tile.
 2. Copy your administrator ID; you will need it to sign in to your subscription.
 3. Enter your administrator ID and password on the sign in page.
-4. Consent to the permissions as an administrator of your Office 365 developer subscription.
+4. Consent to the permissions as an administrator of your Microsoft 365 developer subscription.
 
 ![Screenshot showing permissions consent dialog box](images/sample-data-pack-ux-tile-users-consent-with-permissions-combined.PNG)
 
@@ -82,13 +82,13 @@ After you've installed the Users sample data pack, you can install mail and even
 
 Yes. We will add sample data packs for SharePoint and OneDrive. In the future, we will consider adding sample data packs for more products and technologies, including Office Add-ins, Microsoft Teams, and more.
 
-## Can I install sample data packs on my other Office 365 subscriptions?
+## Can I install sample data packs on my other Microsoft 365 subscriptions?
 
-No. These sample data packs are only compatible with the Office 365 Developer Subscription you get as part of the Office 365 Developer Program.
+No. These sample data packs are only compatible with the Microsoft 365 developer subscription you get as part of the Microsoft 365 Developer Program.
 
 ## How can I see the sample data in my subscription?
 
-After you install the Users sample data pack, to see the users that were added, go to the **Microsoft 365 Admin Center** on your Office 365 developer subscription. Under **Users**, select **Active users**. You will see the list of 16 users. You can select a user to view the associated metadata, including photos and licenses.
+After you install the Users sample data pack, to see the users that were added, go to the **Microsoft 365 Admin Center** on your Microsoft 365 developer subscription. Under **Users**, select **Active users**. You will see the list of 16 users. You can select a user to view the associated metadata, including photos and licenses.
 
 ![Screenshot of 16 users in the Microsoft 365 Admin Center, with metadata for a selected user](images/content-packs-07.PNG)
 
@@ -97,4 +97,4 @@ After you install the Mail and Events sample pack, to see the sample data, in th
 
 ## See also
 
-- [Set up an Office 365 developer subscription](office-365-developer-program-get-started.md)
+- [Set up a Microsoft 365 developer subscription](office-365-developer-program-get-started.md)
