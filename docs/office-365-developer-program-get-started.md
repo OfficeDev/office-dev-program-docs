@@ -77,6 +77,10 @@ We also recommend that you enable release options to ensure that you get access 
 
 For some Office solutions, you might need a Microsoft Azure account to build using Azure services. To set up a free Azure account, see [Create your Azure free account today](https://azure.microsoft.com/free/).
 
+## Install sample data packs
+
+You can install sample data packs on your Microsoft 365 Developer Program subscription. Sample data packs save you time by automatically installing data and content you need to build and test your solutions. This includes fictitious users, metadata, and photos to simulate a small corporate environment. For details about the sample data packs that are available and how to install them, see [Install sample data packs](install-sample-packs.md).
+
 ## See also
 
 - [Join the Microsoft 365 Developer Program](office-365-developer-program.md)
