@@ -196,6 +196,19 @@ In addition to English, the Microsoft 365 Developer Program is available in the 
 
 The Microsoft 365 developer subscription is only offered in English.
 
+## How do I leave the Microsoft 365 Developer Program?
+
+If you decide that you no longer want to participate in the Microsoft 365 Developer Program, you can end your subscription and leave the program.
+
+  > [!WARNING]
+  > The following steps will erase all of your profile information. You will lose any data stored in your developer subscription that is not backed up elsewhere.
+
+1. Sign in to the Microsoft 365 Developer Program.
+
+2. Choose **Delete Profile**.
+
+3. In the **Delete Profile** confirmation box, choose **Delete**.
+
 ## Support
 
 If you have issues setting up your subscription, see the following support resources:
