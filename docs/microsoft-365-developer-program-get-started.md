@@ -12,7 +12,7 @@ Set up a Microsoft 365 developer subscription to build your solutions independen
 Customers who joined the program before August 25th, 2019 have an Office 365 E3 Developer subscription.
 
 > [!NOTE] 
-> To set up a subscription, you must first [join the Microsoft 365 Developer Program](office-365-developer-program.md). After joining, you'll see the option to set up a subscription.
+> To set up a subscription, you must first [join the Microsoft 365 Developer Program](microsoft-365-developer-program.md). After joining, you'll see the option to set up a subscription.
 
 ## Set up your subscription
 
@@ -69,7 +69,7 @@ Customers who joined the program before August 25th, 2019 have an Office 365 E3 
 
 It will take some time for the backend services, such as SharePoint and Exchange, to provision for the subscription. During this step, some of the icons in the app launcher and on the Home page show as **Setting up (This app is still being set up)**. This will take no longer than an hour.
 
-When the provisioning is complete, you can use the new Microsoft 365 subscription for development. The subscription expires after 90 days. To extend it, see [When my subscription is about to expire, can I extend it?](office-365-developer-program-faq.md#renew-subscription).
+When the provisioning is complete, you can use the new Microsoft 365 subscription for development. The subscription expires after 90 days. To extend it, see [When my subscription is about to expire, can I extend it?](microsoft-365-developer-program-faq.md#renew-subscription).
 
 We also recommend that you enable release options to ensure that you get access to the latest Microsoft 365 features as soon as possible. For more information, see [Set up the Standard or Targeted release options](https://support.office.com/article/set-up-the-standard-or-targeted-release-options-in-office-365-3b3adfa4-1777-4ff0-b606-fb8732101f47).
 
@@ -83,7 +83,7 @@ You can install sample data packs on your Microsoft 365 Developer Program subscr
 
 ## See also
 
-- [Join the Microsoft 365 Developer Program](office-365-developer-program.md)
-- [Use your subscription to build Microsoft 365 solutions](build-office-365-solutions.md)
+- [Join the Microsoft 365 Developer Program](microsoft-365-developer-program.md)
+- [Use your subscription to build Microsoft 365 solutions](build-microsoft-365-solutions.md)
 - [Renew an expiring subscription](subscription-expiration-and-renewal.md)
-- [Microsoft 365 Developer Program FAQ](office-365-developer-program-faq.md)
+- [Microsoft 365 Developer Program FAQ](microsoft-365-developer-program-faq.md)

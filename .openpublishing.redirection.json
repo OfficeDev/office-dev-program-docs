@@ -1,4 +1,20 @@
 {
 	"redirections": [
+		{
+			"source_path": "docs/office-365-developer-program-faq.md",
+			"redirect_url": "/office/developer-program/microsoft-365-developer-program-faq"
+		},
+		{
+			"source_path": "docs/office-365-developer-program-get-started.md",
+			"redirect_url": "/office/developer-program/microsoft-365-developer-program-get-started"
+		},
+		{
+			"source_path": "docs/office-365-developer-program.md",
+			"redirect_url": "/office/developer-program/microsoft-365-developer-program"
+		},
+		{
+			"source_path": "docs/build-office-365-solutions.md",
+			"redirect_url": "/office/developer-program/build-microsoft-365-solutions"
+		}
 	]
 }

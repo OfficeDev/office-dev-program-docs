@@ -1,21 +1,20 @@
 ---
-title: Use your developer subscription to build Office 365 solutions
-description: Use your Office 365 developer subscription to build the solutions you want.
-ms.date: 03/20/2018
+title: Use your developer subscription to build Microsoft 365 solutions
+description: Use your Microsoft 365 developer subscription to build the solutions you want.
 localization_priority: Priority
 ---
 
-# Use your developer subscription to build Office 365 solutions
+# Use your developer subscription to build Microsoft 365 solutions
 
-What do you want to build with your Office 365 developer subscription? Depending on what you are interested in, you can do a lot of different things. Following are some of the products and technology areas that you can start with.
+What do you want to build with your Microsoft 365 developer subscription? Depending on what you are interested in, you can do a lot of different things. Following are some of the products and technology areas that you can start with.
 
 ## Microsoft Teams
 
-Microsoft Teams is a chat-based workspace in Office 365 that integrates with the apps and services that people use to get work done together. The Microsoft Teams developer platform makes it easy for you to integrate your own service, whether you develop custom apps for your enterprise or SaaS applications for teams around the world.
+Microsoft Teams is a chat-based workspace that integrates with the apps and services that people use to get work done together. The Microsoft Teams developer platform makes it easy for you to integrate your own service, whether you develop custom apps for your enterprise or SaaS applications for teams around the world.
 
 Here's how to get set up and coding with Microsoft Teams:
 
-1. [Prepare your Office 365 developer subscription](https://docs.microsoft.com/microsoftteams/platform/get-started/get-started-tenant).
+1. [Prepare your developer subscription](https://docs.microsoft.com/microsoftteams/platform/get-started/get-started-tenant).
 2. Set up your development environment. This process will vary depending on the type of app or service you are building. For details, see one of the following:
 
   - [Get started on the Microsoft Teams platform with Node.js](https://docs.microsoft.com/microsoftteams/platform/get-started/get-started-nodejs-app-studio)
@@ -39,7 +38,7 @@ The SharePoint Framework (SPFx) is a page and web part model that provides full 
 
 To get set up and start coding with the SharePoint FrameWork:
 
-- [Set up your Office 365 developer subscription](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-developer-tenant)
+- [Set up your developer subscription](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-developer-tenant)
 - [Set up your development environment](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment)
 
 ## SharePoint Add-ins 
@@ -55,7 +54,7 @@ To get set up and start coding SharePoint Add-ins:
 
 ## See also
 
-- [Join the Office 365 Developer Program](office-365-developer-program.md)
-- [Set up an Office 365 developer subscription](office-365-developer-program-get-started.md) 
+- [Join the Microsoft 365 Developer Program](microsoft-365-developer-program.md)
+- [Set up a Microsoft 365 developer subscription](microsoft-365-developer-program-get-started.md) 
 - [Renew an expiring subscription](subscription-expiration-and-renewal.md)
-- [Office 365 Developer Program FAQ](office-365-developer-program-faq.md) 
+- [Microsoft 365 Developer Program FAQ](microsoft-365-developer-program-faq.md) 

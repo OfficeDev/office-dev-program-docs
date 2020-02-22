@@ -21,19 +21,19 @@ The Microsoft 365 Developer Program is designed to help you build people-centric
 
 As a program member, you can get a free Microsoft 365 developer subscription with 25 user licenses to use to build your solutions. This subscription will remain active for as long as you’re actively developing and deploying solutions.
 
-For more information, see [Join the Microsoft 365 Developer Program](office-365-developer-program.md) and [Build Microsoft 365 solutions](build-office-365-solutions.md).
+For more information, see [Join the Microsoft 365 Developer Program](microsoft-365-developer-program.md) and [Build Microsoft 365 solutions](build-microsoft-365-solutions.md).
 
 ## What account can I use to sign up for the Microsoft 365 Developer Program?
 
 You can sign up for the developer program by using one of the following account types:
 
-- **Microsoft account** (created by you for personal use) - Provides access to all consumer-oriented Microsoft products and cloud services, such as Outlook (Hotmail), Messenger, OneDrive, MSN, Xbox Live, or Office 365. Signing up for an Outlook.com mailbox automatically creates a Microsoft account. After a Microsoft account is created, it can be used to access consumer-related Microsoft cloud services or Azure. 
-- **Work account** (issued by an admin for business use) - Provides access to all small, medium, and enterprise business-level Microsoft cloud services, such as Azure, Microsoft Intune, or Office 365. When you sign up to one of these services as an organization, a cloud-based directory is automatically provisioned in Azure Active Directory to represent your organization. For more information, see [Manage your Azure AD directory](https://docs.microsoft.com/azure/active-directory/active-directory-administer).
+- **Microsoft account** (created by you for personal use) - Provides access to all consumer-oriented Microsoft products and cloud services, such as Outlook (Hotmail), Messenger, OneDrive, MSN, Xbox Live, or Microsoft 365. Signing up for an Outlook.com mailbox automatically creates a Microsoft account. After a Microsoft account is created, it can be used to access consumer-related Microsoft cloud services or Azure. 
+- **Work account** (issued by an admin for business use) - Provides access to all small, medium, and enterprise business-level Microsoft cloud services, such as Azure, Microsoft Intune, or Microsoft 365. When you sign up to one of these services as an organization, a cloud-based directory is automatically provisioned in Azure Active Directory to represent your organization. For more information, see [Manage your Azure AD directory](https://docs.microsoft.com/azure/active-directory/active-directory-administer).
 - **Visual Studio ID** (created for your Visual Studio Professional or Enterprise subscriptions) - We recommend that you use this option to join the developer program from within the Visual Studio Gallery to get the full benefits as a Visual Studio subscriber. 
 
 ## How can I get a Microsoft 365 developer subscription via the Developer Program?  
 
-When you join the Microsoft 365 Developer Program, you qualify to get a free Microsoft 365 E5 developer subscription. This is a special subscription designed to be used for application development only. For more information, see [Set up a Microsoft 365 developer subscription](office-365-developer-program-get-started.md).
+When you join the Microsoft 365 Developer Program, you qualify to get a free Microsoft 365 E5 developer subscription. This is a special subscription designed to be used for application development only. For more information, see [Set up a Microsoft 365 developer subscription](microsoft-365-developer-program-get-started.md).
 
 ## What ID do I use to sign in to the Developer Program dashboard?
 
@@ -178,7 +178,7 @@ When we have a migration option for existing Developer Program members, we’ll 
 
 ## As a Microsoft Partner, can I receive a subscription? 
 
-Yes, you can follow [these instructions](office-365-developer-program.md) to join the Microsoft 365 Developer Program and set up a Microsoft 365 developer subscription. However, if you already have a Visual Studio Enterprise or Visual Studio Professional (MSDN) subscription, you can get a Microsoft 365 developer subscription as a benefit. To access this, go to [Visual Studio | My Benefits](https://my.visualstudio.com/benefits). For more information, contact [Visual Studio customer service](https://www.visualstudio.com/subscriptions/support/). 
+Yes, you can follow [these instructions](microsoft-365-developer-program.md) to join the Microsoft 365 Developer Program and set up a Microsoft 365 developer subscription. However, if you already have a Visual Studio Enterprise or Visual Studio Professional (MSDN) subscription, you can get a Microsoft 365 developer subscription as a benefit. To access this, go to [Visual Studio | My Benefits](https://my.visualstudio.com/benefits). For more information, contact [Visual Studio customer service](https://www.visualstudio.com/subscriptions/support/). 
 
 ## As a full-time Microsoft employee, can I receive a subscription?
 
@@ -186,7 +186,7 @@ Microsoft employees cannot sign up for this offer. All Microsoft full-time emplo
 
 ## As a vendor working at Microsoft, do I qualify for a subscription?
 
-Yes, you can follow [these instructions](office-365-developer-program.md) to join the Microsoft 365 Developer Program and set up a Microsoft 365 developer subscription. But even for vendors, this subscription is designed to be used _for application development only_. If you are not doing valid development activity, your subscription will not be renewed.
+Yes, you can follow [these instructions](microsoft-365-developer-program.md) to join the Microsoft 365 Developer Program and set up a Microsoft 365 developer subscription. But even for vendors, this subscription is designed to be used _for application development only_. If you are not doing valid development activity, your subscription will not be renewed.
 
 ## Is the Microsoft 365 Developer Program available in my language?
 
@@ -218,9 +218,9 @@ If you have issues setting up your subscription, see the following support resou
 
 ## See also
 
-- [Join the Microsoft 365 Developer Program](office-365-developer-program.md)
-- [Set up a Microsoft 365 developer subscription](office-365-developer-program-get-started.md)
-- [Use your subscription to build Microsoft 365 solutions](build-office-365-solutions.md)
+- [Join the Microsoft 365 Developer Program](microsoft-365-developer-program.md)
+- [Set up a Microsoft 365 developer subscription](microsoft-365-developer-program-get-started.md)
+- [Use your subscription to build Microsoft 365 solutions](build-microsoft-365-solutions.md)
 - [Renew an expiring subscription](subscription-expiration-and-renewal.md)
 
 

@@ -97,4 +97,4 @@ After you install the Mail and Events sample pack, to see the sample data, in th
 
 ## See also
 
-- [Set up a Microsoft 365 developer subscription](office-365-developer-program-get-started.md)
+- [Set up a Microsoft 365 developer subscription](microsoft-365-developer-program-get-started.md)
