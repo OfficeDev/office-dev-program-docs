@@ -41,7 +41,7 @@ Use your member ID to sign in to the Developer Program dashboard to access infor
 
 ## What ID do I use to sign in to my developer subscription?
 
-Use the administrator ID that you created when you set up your developer subscription. You can find your administrator ID on the subscription tile on the [Developer Program dashboard](https://developer.microsoft.com/en-us/office/profile).
+Use the administrator ID that you created when you set up your developer subscription. You can find your administrator ID on the subscription tile on the [Developer Program dashboard](https://aka.ms/DevProgramDashboard).
 
 ## What's included in the developer subscription?
 
@@ -128,7 +128,7 @@ Your Office 365 E3 or Microsoft 365 E5 developer subscription includes 25 user l
 
 ## How long is my subscription good for, and when does it expire?
 
-Your subscription is good for 90 days and is renewable based on valid developer activity. If you're using your subscription for development, it will be renewed every 3 months and will last indefinitely. You can find the expiration date, along with your subscription name, on your [Microsoft 365 Developer Program dashboard](https://developer.microsoft.com/en-us/office/profile). For more information, see [Subscription expiration and renewal](subscription-expiration-and-renewal.md).
+Your subscription is good for 90 days and is renewable based on valid developer activity. If you're using your subscription for development, it will be renewed every 3 months and will last indefinitely. You can find the expiration date, along with your subscription name, on your [Microsoft 365 Developer Program dashboard](https://aka.ms/DevProgramDashboard). For more information, see [Subscription expiration and renewal](subscription-expiration-and-renewal.md).
 
 If you're joining the program through Visual Studio Enterprise or Visual Studio Professional, your subscription is automatically renewed until your Visual Studio subscription expires. 
 
