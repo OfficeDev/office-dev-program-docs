@@ -125,8 +125,8 @@ c.	**Exceptions to Limitations.** The limits of liability in this Section apply 
 a.	**No additional rights granted.** We reserve all rights not expressly granted under this Agreement, and no other rights are granted under this Agreement by implication or estoppel or otherwise.
 
 b.	**Notices.**
-You must send notices by mail to the address listed for Microsoft Corporation, Attention: Office Products Group – Microsoft 365 Developer, with a copy to:
-Microsoft Corporate, External and Legal Affairs (Office Products Group – Microsoft 365 Developer)
+You must send notices by mail to the address listed for Microsoft Corporation, Attention: Microsoft 365 Products Group – Microsoft 365 Developer, with a copy to:
+Microsoft Corporate, External and Legal Affairs (Microsoft 365 Products Group – Microsoft 365 Developer)
 One Microsoft Way
 Redmond, WA 98052 USA
 You agree to receive electronic notices from us related to the Services, which will be sent by email to your specified end user or administrator contact information or presented to you in the Service experience. Notices are effective on the date on the return receipt for mail, the date sent for email, and the date presented if within the Service experience.
@@ -187,7 +187,7 @@ Any reference in this agreement to “day” will be a calendar day.
 
 “Privacy Statement” means the Services privacy statement ([http://go.microsoft.com/fwlink/?LinkID=246330](http://go.microsoft.com/fwlink/?LinkID=246330)).
 
-“Services” means the Developer Services, Documentation Portal, the [https://developer.microsoft.com/office/](https://developer.microsoft.com/office/) site, and Microsoft Software we make available to you under this Agreement.
+“Services” means the Developer Services, Documentation Portal, the [https://developer.microsoft.com/microsoft-365/](https://developer.microsoft.com/microsoft-365/) site, and Microsoft Software we make available to you under this Agreement.
 
  “Submissions” means Content, code, comments, feedback, suggestions, information or materials that you provide via the Documentation Portal or any Services for public access (rather than for your personal use or use by your authorized users). Submissions do not include Customer Data.
 
