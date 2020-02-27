@@ -15,7 +15,7 @@ With the launch of the Microsoft 365 Developer Program, we offered 12-month deve
 
 Starting in April 2019, we offer renewable 90-day subscriptions.
 
-You can determine whether you have a renewable or non-renewable subscription by viewing your [Microsoft 365 Developer Program dashboard](https://developer.microsoft.com/en-us/office/profile).
+You can determine whether you have a renewable or non-renewable subscription by viewing your [Microsoft 365 Developer Program dashboard](https://aka.ms/DevProgramDashboard).
 
 ## Non-renewable subscriptions
 

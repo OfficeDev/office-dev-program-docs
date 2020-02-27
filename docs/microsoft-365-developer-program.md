@@ -11,7 +11,7 @@ Join your friends and colleagues in the Microsoft 365 Developer Program. Use the
 
 ## Join the Microsoft 365 Developer Program
 
-1. Go to the [Join the Microsoft 365 Developer Program](https://developer.microsoft.com/office/dev-program) page. 
+1. Go to the [Join the Microsoft 365 Developer Program](https://aka.ms/Microsoft365DevProgram) page. 
 
 2. In the upper-right corner, choose **Sign in** to sign in with your Microsoft account or Azure Active Directory-enabled email.
 
