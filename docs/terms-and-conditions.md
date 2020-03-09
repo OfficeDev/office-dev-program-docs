@@ -171,7 +171,7 @@ Any reference in this agreement to “day” will be a calendar day.
 “Developer Services Portal” means the Microsoft 365 Developer Hub available in the Microsoft 365 Developer offering.
 “Developer Services Software” means Microsoft software we provide to you as part of the Developer Services for use with the Developer Services.
 
-“Documentation Portal” means the Microsoft site for developers and IT professionals available at [http://docs.microsoft.com](http://docs.microsoft.com) or at an alternate site we identify.
+“Documentation Portal” means the Microsoft site for developers and IT professionals available at [https://docs.microsoft.com](https://docs.microsoft.com) or at an alternate site we identify.
 
 “Microsoft API Terms” means the terms located at [https://docs.microsoft.com/en-us/legal/microsoft-apis/terms-of-use](https://docs.microsoft.com/en-us/legal/microsoft-apis/terms-of-use).
 
@@ -185,7 +185,7 @@ Any reference in this agreement to “day” will be a calendar day.
 
 “Preview” means preview, beta, or other pre-release versions of the Developer Services or Developer Services Software offered by Microsoft.
 
-“Privacy Statement” means the Services privacy statement ([http://go.microsoft.com/fwlink/?LinkID=246330](http://go.microsoft.com/fwlink/?LinkID=246330)).
+“Privacy Statement” means the Services privacy statement ([https://go.microsoft.com/fwlink/?LinkID=246330](https://go.microsoft.com/fwlink/?LinkID=246330)).
 
 “Services” means the Developer Services, Documentation Portal, the [https://developer.microsoft.com/microsoft-365/](https://developer.microsoft.com/microsoft-365/) site, and Microsoft Software we make available to you under this Agreement.
 
