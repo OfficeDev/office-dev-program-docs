@@ -21,9 +21,9 @@ Join your friends and colleagues in the Microsoft 365 Developer Program. Use the
 
 4. On the **Microsoft 365 Developer Program Signup** page, complete the following fields in the online form:
 
-  - **Contact Email**
-  - **Country/Region**
-  - **Company**
+    - Contact Email
+    - Country/Region
+    - Company
 
 5. Review the **terms and conditions**. You'll need to select the check box before you can join.
 
@@ -33,9 +33,9 @@ Join your friends and colleagues in the Microsoft 365 Developer Program. Use the
 
 8. On the **Microsoft 365 Developer Program Preferences** page, tell us your preferences so we can personalize your experience, including:
 
-  - The industry that you work in.
-  - The type of applications or solutions that you're interested in developing.
-  - Products, technologies, and programming languages that you're interested in.
+    - The industry that you work in.
+    - The type of applications or solutions that you're interested in developing.
+    - Products, technologies, and programming languages that you're interested in.
 
 9. When you're finished, choose **Join**. Your preferences appear on the next page in the top right, and you receive a Welcome message.
 
