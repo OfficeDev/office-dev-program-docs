@@ -1,4 +1,5 @@
 ---
+title: Terms and conditions
 localization_priority: Priority
 ---
 
@@ -147,7 +148,7 @@ i.	**Entire agreement.** This Agreement is the entire agreement concerning its s
 
 j.	**Survival.** The following provisions will survive this Agreement’s termination: 1.b, 2.a-b, 4, 5.a-d, 5.f, 6, 7, 8, 9, 10, 11, and all other definitions.
 
-k.	**U.S. export jurisdiction.** The Services are subject to U.S. export jurisdiction. You must comply with all applicable laws, including the U.S. Export Administration Regulations, the International Traffic in Arms Regulations, and end-user, end-use and destination restrictions issued by U.S. and other governments. For additional information, see [https://www.microsoft.com/en-us/exporting/default.aspx](https://www.microsoft.com/en-us/exporting/default.aspx).
+k.	**U.S. export jurisdiction.** The Services are subject to U.S. export jurisdiction. You must comply with all applicable laws, including the U.S. Export Administration Regulations, the International Traffic in Arms Regulations, and end-user, end-use and destination restrictions issued by U.S. and other governments. For additional information, see [https://www.microsoft.com/exporting/default.aspx](https://www.microsoft.com/exporting/default.aspx).
 
 l.	**International availability.** Availability of the Services, including specific features and language versions, varies by country.
 
@@ -173,7 +174,7 @@ Any reference in this agreement to “day” will be a calendar day.
 
 “Documentation Portal” means the Microsoft site for developers and IT professionals available at [https://docs.microsoft.com](https://docs.microsoft.com) or at an alternate site we identify.
 
-“Microsoft API Terms” means the terms located at [https://docs.microsoft.com/en-us/legal/microsoft-apis/terms-of-use](https://docs.microsoft.com/en-us/legal/microsoft-apis/terms-of-use).
+“Microsoft API Terms” means the terms located at [https://docs.microsoft.com/legal/microsoft-apis/terms-of-use](https://docs.microsoft.com/legal/microsoft-apis/terms-of-use).
 
 “Microsoft Content” means Content on the Services provided by Microsoft and its suppliers.
 
