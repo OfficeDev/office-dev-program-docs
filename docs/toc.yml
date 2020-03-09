@@ -1,13 +1,15 @@
 
-- name: Office 365 Developer Program
-  href: office-365-developer-program.md
+- name: Microsoft 365 Developer Program
+  href: microsoft-365-developer-program.md
 - name: Set up a developer subscription
-  href: office-365-developer-program-get-started.md
+  href: microsoft-365-developer-program-get-started.md
 - name: Build solutions
-  href: build-office-365-solutions.md
+  href: build-microsoft-365-solutions.md
 - name: Use sample data packs
   href: install-sample-packs.md
 - name: Subscription expiration and renewal
   href: subscription-expiration-and-renewal.md
 - name: Developer Program FAQ
-  href: office-365-developer-program-faq.md
+  href: microsoft-365-developer-program-faq.md
+- name: Terms and conditions
+  href: terms-and-conditions.md
