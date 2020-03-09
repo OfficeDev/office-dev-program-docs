@@ -1,7 +1,6 @@
 ---
 title: Join the Microsoft 365 Developer Program
 description: Join the Microsoft 365 Developer Program to develop Microsoft 365 solutions independent of your production environment.
-ms.date: 04/01/2019
 localization_priority: Priority
 ---
 
@@ -18,8 +17,6 @@ Join your friends and colleagues in the Microsoft 365 Developer Program. Use the
     > [!NOTE]
     > Remember the account that you sign in with. You’ll sign in to the [Developer Program dashboard](https://developer.microsoft.com/office/profile) with this account. This account is different than the admin ID that you'll use for your Microsoft 365 developer subscription.
 
-  <img alt="Join the Microsoft 365 Developer Program Sign-in" src="images/0-sign-in-page.png" width="700">
-
 3. After signing in, choose **Join now**.
 
 4. On the **Microsoft 365 Developer Program Signup** page, complete the following fields in the online form:
@@ -27,8 +24,6 @@ Join your friends and colleagues in the Microsoft 365 Developer Program. Use the
   - **Contact Email**
   - **Country/Region**
   - **Company**
-
-  <img alt="Join the Microsoft 365 Developer Program form" src="images/1-welcome-page.png" width="500">
 
 5. Review the **terms and conditions**. You'll need to select the check box before you can join.
 
@@ -42,11 +37,8 @@ Join your friends and colleagues in the Microsoft 365 Developer Program. Use the
   - The type of applications or solutions that you're interested in developing.
   - Products, technologies, and programming languages that you're interested in.
 
-  <img alt="Choose program preferences" src="images/2-preferences-page.png" width="600">
-
 9. When you're finished, choose **Join**. Your preferences appear on the next page in the top right, and you receive a Welcome message.
 
-  <img alt="Welcome message" src="images/3-welcome-popup.png" width="500">
 
 
 ## Next steps
