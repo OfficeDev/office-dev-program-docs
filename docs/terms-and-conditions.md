@@ -1,18 +1,19 @@
 ---
+title: Terms and conditions
 localization_priority: Priority
 ---
 
 # Terms and conditions
 
-Last updated: February 28, 2018
+Last updated: February 27, 2020
 
 This agreement is between you or the entity you represent and Microsoft Corporation, and consists of the terms below, Exhibit A, terms incorporated by reference, terms applicable to other Microsoft web sites and services that you use and are necessary to use the Services (for example, your Microsoft Account), Microsoft API Terms, and the Privacy Statement (together, the “Agreement”). If you are entering into this Agreement on behalf of an entity, such as your employer, you represent that you have the legal authority to bind that entity. If you specify a company name in connection with signing up for or ordering a Service, you will be deemed to have placed that order and to have entered into this Agreement on behalf of that organization or company. Key terms are defined in Section 11. By accepting this Agreement, you agree to these terms. If you do not accept and comply with this Agreement, you may not use the Services.
 
 #### 1. Services.
 
-a.	**Right to use.** We grant you the right to access and use the Services in accordance with this Agreement to design, develop, and test your applications to make them available for your Office 365 online services, on-premises deployments or for the Microsoft Office Store. You may not use the Services for production use.
+a.	**Right to use.** We grant you the right to access and use the Services in accordance with this Agreement to design, develop, and test your applications to make them available for your Microsoft 365 online services, on-premises deployments or for the Microsoft In-product Store and/or AppSource. You may not use the Services for production use.
 
-b.	**User Plan.** Each user of the Office 365 Developer portion of the Developer Services must be allocated an individual User Plan, whether they access the service directly or indirectly.
+b.	**User Plan.** Each user of the Microsoft 365 Developer portion of the Developer Services must be allocated an individual User Plan, whether they access the service directly or indirectly.
 
 c.	**Manner of use.** You may not:
     
@@ -78,7 +79,7 @@ a.	**Account creation.** If any of the Services requires you to open an account,
 
 b.	**Responsibility for your accounts.** You are responsible for: any and all activities that occur under your account; maintaining the confidentiality of any non-public authentication credentials associated with your use of the Services; and promptly notifying our customer support team about any possible misuse of your accounts or authentication credentials, or any security incident related to the Services.
 
-c.	**Your conduct and the availability of third party content and links to third party content**. For any public, community interaction you undertake on the Services you must follow the Rules of Conduct. We have no obligation to monitor the content and communications of third parties on the Services; however, we reserve the right to review and remove any such materials posted to the Documentation Portal in our sole discretion. Third parties that participate on the Services are not authorized Microsoft spokespersons, and their views do not necessarily reflect those of Microsoft.
+c.	**Your conduct and the availability of third party content and links to third party content**. For any public, community interaction you undertake on the Services you must follow the Microsoft Community Code of Conduct. We have no obligation to monitor the content and communications of third parties on the Services; however, we reserve the right to review and remove any such materials posted to the Documentation Portal in our sole discretion. Third parties that participate on the Services are not authorized Microsoft spokespersons, and their views do not necessarily reflect those of Microsoft.
 
 d.	**Identity usage across Services.** We may provide Services that supplement Microsoft Software and rely upon your user account or other identity mechanism. We may use this information to identify you and authorize access to Microsoft Content, Microsoft Software, and other resources across the Services.
 
@@ -88,13 +89,13 @@ f.	**Services accessible only to invited customers.** Elements of the Services m
 
 #### 6. Term, termination, and suspension.
 
-a.	**Agreement term and termination.** The term of this Agreement begins when you accept it. You may terminate this Agreement at any time by deleting your profile at [https://aka.ms/o365devprogramprofile](https://aka.ms/o365devprogramprofile).  Upon termination of this Agreement your contact information and preferences will be removed and your optional free subscription to Office 365 Developer obtained under this Agreement will end.
+a.	**Agreement term and termination.** The term of this Agreement begins when you accept it. You may terminate this Agreement at any time by deleting your profile at [https://aka.ms/o365devprogramprofile](https://aka.ms/o365devprogramprofile).  Upon termination of this Agreement your contact information and preferences will be removed and your optional free subscription to Microsoft 365 Developer obtained under this Agreement will end.
 
 b.	**Regulatory.** In any country where any current or future government regulation or requirement that applies to us, but not generally to businesses operating there, presents a hardship to us operating the Services without change, and/or causes us to believe this Agreement or the Services may be in conflict with any such regulation or requirement, we may change the Services or terminate the Agreement. Your sole remedy for such changes to the Services under this Section is to terminate this Agreement.
 
 c.	**Suspension.** We may suspend your use of the Services if: (1) reasonably needed to prevent unauthorized access to Customer Data; (2) you fail to respond to a claim of alleged infringement under Sections 4.k or 8 within a reasonable time; (3) you violate this Agreement; or (4) we suspect fraud. We will attempt to suspend access to the minimum necessary part of the Services while the condition or need exists. We will give notice before we suspend, except where we reasonably believe we need to suspend immediately. If you do not fully address the reasons for the suspension within 60 days after we suspend, we may terminate this Agreement and delete your Customer Data without any retention period. We may also terminate your account if your use of the Developer Services is suspended more than twice in any 12-month period.
 
-d.	**Suspension or termination of Office 365 Developer subscription for non-usage.** We may suspend or terminate your optional free Office 365 Developer subscription obtained under this Agreement and delete any Customer Data related to it if you fail to use your subscription to design, develop or test applications for Office 365, or if you otherwise fail to comply with any milestones or other requirements that we may communicate to you (e.g., through the Developer Services Portal), within any period of 90 consecutive days during the term of this Agreement. We will provide you with notice prior to any suspension or termination of your subscription and Customer Data deletion.
+d.	**Suspension or termination of Microsoft 365 Developer subscription for non-usage.** We may suspend or terminate your optional free Microsoft 365 Developer subscription obtained under this Agreement and delete any Customer Data related to it if you fail to use your subscription to design, develop or test applications for Microsoft 365, or if you otherwise fail to comply with any milestones or other requirements that we may communicate to you (e.g., through the Developer Services Portal), within any period of 90 consecutive days during the term of this Agreement. We will provide you with notice prior to any suspension or termination of your subscription and Customer Data deletion.
 
 #### 7. Disclaimer of Warranties.
 
@@ -125,8 +126,8 @@ c.	**Exceptions to Limitations.** The limits of liability in this Section apply 
 a.	**No additional rights granted.** We reserve all rights not expressly granted under this Agreement, and no other rights are granted under this Agreement by implication or estoppel or otherwise.
 
 b.	**Notices.**
-You must send notices by mail to the address listed for Microsoft Corporation, Attention: Office Products Group – Office 365 Developer, with a copy to:
-Microsoft Corporate, External and Legal Affairs (Office Products Group – Office 365 Developer)
+You must send notices by mail to the address listed for Microsoft Corporation, Attention: Microsoft 365 Products Group – Microsoft 365 Developer, with a copy to:
+Microsoft Corporate, External and Legal Affairs (Microsoft 365 Products Group – Microsoft 365 Developer)
 One Microsoft Way
 Redmond, WA 98052 USA
 You agree to receive electronic notices from us related to the Services, which will be sent by email to your specified end user or administrator contact information or presented to you in the Service experience. Notices are effective on the date on the return receipt for mail, the date sent for email, and the date presented if within the Service experience.
@@ -147,7 +148,7 @@ i.	**Entire agreement.** This Agreement is the entire agreement concerning its s
 
 j.	**Survival.** The following provisions will survive this Agreement’s termination: 1.b, 2.a-b, 4, 5.a-d, 5.f, 6, 7, 8, 9, 10, 11, and all other definitions.
 
-k.	**U.S. export jurisdiction.** The Services are subject to U.S. export jurisdiction. You must comply with all applicable laws, including the U.S. Export Administration Regulations, the International Traffic in Arms Regulations, and end-user, end-use and destination restrictions issued by U.S. and other governments. For additional information, see [https://www.microsoft.com/en-us/exporting/default.aspx](https://www.microsoft.com/en-us/exporting/default.aspx).
+k.	**U.S. export jurisdiction.** The Services are subject to U.S. export jurisdiction. You must comply with all applicable laws, including the U.S. Export Administration Regulations, the International Traffic in Arms Regulations, and end-user, end-use and destination restrictions issued by U.S. and other governments. For additional information, see [https://www.microsoft.com/exporting/default.aspx](https://www.microsoft.com/exporting/default.aspx).
 
 l.	**International availability.** Availability of the Services, including specific features and language versions, varies by country.
 
@@ -166,14 +167,14 @@ Any reference in this agreement to “day” will be a calendar day.
 
 “Customer Data” means any Content or other data, including all text, sound, video, or image files, or software, that are provided to us by, or on behalf of, you through your use of the Developer Services for use by you or your authorized users. Customer Data does not include Submissions or any other Content or data that you submit to the Documentation Portal or otherwise provide via the Developer Services for public access.
 
-“Developer Services” means the Office 365 Developer offering, the Developer Services Portal, and other services we identify as governed by this Agreement.
+“Developer Services” means the Microsoft 365 Developer offering, the Developer Services Portal, and other services we identify as governed by this Agreement.
 
-“Developer Services Portal” means the Office 365 Developer Hub available in the Office 365 Developer offering.
+“Developer Services Portal” means the Microsoft 365 Developer Hub available in the Microsoft 365 Developer offering.
 “Developer Services Software” means Microsoft software we provide to you as part of the Developer Services for use with the Developer Services.
 
-“Documentation Portal” means the Microsoft site for developers and IT professionals available at [http://docs.microsoft.com](http://docs.microsoft.com) or at an alternate site we identify.
+“Documentation Portal” means the Microsoft site for developers and IT professionals available at [https://docs.microsoft.com](https://docs.microsoft.com) or at an alternate site we identify.
 
-“Microsoft API Terms” means the terms located at [https://msdn.microsoft.com/en-us/mt825045](https://msdn.microsoft.com/en-us/mt825045).
+“Microsoft API Terms” means the terms located at [https://docs.microsoft.com/legal/microsoft-apis/terms-of-use](https://docs.microsoft.com/legal/microsoft-apis/terms-of-use).
 
 “Microsoft Content” means Content on the Services provided by Microsoft and its suppliers.
 
@@ -185,11 +186,9 @@ Any reference in this agreement to “day” will be a calendar day.
 
 “Preview” means preview, beta, or other pre-release versions of the Developer Services or Developer Services Software offered by Microsoft.
 
-“Privacy Statement” means the Services privacy statement ([http://go.microsoft.com/fwlink/?LinkID=246330](http://go.microsoft.com/fwlink/?LinkID=246330)).
+“Privacy Statement” means the Services privacy statement ([https://go.microsoft.com/fwlink/?LinkID=246330](https://go.microsoft.com/fwlink/?LinkID=246330)).
 
-“Rules of Conduct” means the Services rules of conduct ([http://go.microsoft.com/fwlink/?LinkId=303819](http://go.microsoft.com/fwlink/?LinkId=303819)).
-
-“Services” means the Developer Services, Documentation Portal, the [https://developer.microsoft.com/office/](https://developer.microsoft.com/office/) site, and Microsoft Software we make available to you under this Agreement.
+“Services” means the Developer Services, Documentation Portal, the [https://developer.microsoft.com/microsoft-365/](https://developer.microsoft.com/microsoft-365/) site, and Microsoft Software we make available to you under this Agreement.
 
  “Submissions” means Content, code, comments, feedback, suggestions, information or materials that you provide via the Documentation Portal or any Services for public access (rather than for your personal use or use by your authorized users). Submissions do not include Customer Data.
 

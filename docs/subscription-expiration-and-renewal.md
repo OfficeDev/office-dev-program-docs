@@ -1,21 +1,21 @@
 ---
-title: Office 365 Developer Program subscription expiration and renewal
+title: Microsoft 365 Developer Program subscription expiration and renewal
 description: Information about how to renew an expiring developer subscription.
 ms.date: 04/01/2019
 localization_priority: Priority
 ---
 
-# Office 365 Developer Program subscription expiration and renewal
+# Microsoft 365 Developer Program subscription expiration and renewal
 
-Your Office 365 Developer Program membership includes a free Office 365 developer subscription. Your developer subscription is renewable based on your development activity; however, some older subscriptions do expire. This article describes the difference between renewable and non-renewable subscriptions and how to update your subscription if it expires.
+Your Microsoft 365 Developer Program membership includes a free Office 365 E3 or Microsoft 365 E5 developer subscription. Your developer subscription is renewable based on your development activity; however, some older subscriptions do expire. This article describes the difference between renewable and non-renewable subscriptions and how to update your subscription if it expires.
 
 ## Expiring vs. renewable developer subscriptions
 
-With the launch of the Office 365 Developer Program, we offered 12-month developer subscriptions that expire and cannot be renewed. In August 2018, we started providing renewable subscriptions to some developer program members.
+With the launch of the Microsoft 365 Developer Program, we offered 12-month developer subscriptions that expire and cannot be renewed. In August 2018, we started providing renewable subscriptions to some developer program members.
 
 Starting in April 2019, we offer renewable 90-day subscriptions.
 
-You can determine whether you have a renewable or non-renewable subscription by viewing your [Office 365 Developer Program dashboard](https://developer.microsoft.com/en-us/office/profile).
+You can determine whether you have a renewable or non-renewable subscription by viewing your [Microsoft 365 Developer Program dashboard](https://aka.ms/DevProgramDashboard).
 
 ## Non-renewable subscriptions
 
@@ -53,9 +53,9 @@ We introduced renewable subscriptions in August 2018. If you signed up for your 
 
 To migrate your data from your current subscription to a new subscription, see the following resources:
 
-- [How to migrate mailboxes from one Office 365 tenant to another](https://docs.microsoft.com/exchange/mailbox-migration/migrate-mailboxes-across-tenants)
-- [Use PowerShell to perform a staged migration to Office 365](https://docs.microsoft.com/office365/enterprise/powershell/use-powershell-to-perform-a-staged-migration-to-office-365)
-- [Migration from one Office 365 subscription to another without third party](https://social.technet.microsoft.com/Forums/en-US/ee507441-eb91-4b0a-ba6c-5bd9bb8c71b1/migration-from-one-o365-tenant-to-another-o365-without-third-party?forum=onlineservicesmigrationandcoexistence)
+- [How to migrate mailboxes from one tenant to another](https://docs.microsoft.com/exchange/mailbox-migration/migrate-mailboxes-across-tenants)
+- [Use PowerShell to perform a staged migration](https://docs.microsoft.com/office365/enterprise/powershell/use-powershell-to-perform-a-staged-migration-to-office-365)
+- [Migration from one subscription to another without third party](https://social.technet.microsoft.com/Forums/en-US/ee507441-eb91-4b0a-ba6c-5bd9bb8c71b1/migration-from-one-o365-tenant-to-another-o365-without-third-party?forum=onlineservicesmigrationandcoexistence)
 
 ## How do I know if my subscription was deleted?
 
@@ -65,10 +65,10 @@ When your subscription is deleted, you will see a notification on your dashboard
 
 ## See also
 
-- [Join the Office 365 Developer Program](office-365-developer-program.md)
-- [Set up an Office 365 developer subscription](office-365-developer-program-get-started.md)
-- [Use your subscription to build Office 365 solutions](build-office-365-solutions.md)
-- [Office 365 Developer Program FAQ](office-365-developer-program-faq.md)
+- [Join the Microsoft 365 Developer Program](microsoft-365-developer-program.md)
+- [Set up a Microsoft 365 developer subscription](microsoft-365-developer-program-get-started.md)
+- [Use your subscription to build Microsoft 365 solutions](build-microsoft-365-solutions.md)
+- [Microsoft 365 Developer Program FAQ](microsoft-365-developer-program-faq.md)
 
 
 
