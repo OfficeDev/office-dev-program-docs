@@ -37,7 +37,7 @@ Join your friends and colleagues in the Microsoft 365 Developer Program. Use the
     - The type of applications or solutions that you're interested in developing.
     - Products, technologies, and programming languages that you're interested in.
 
-9. When you're finished, choose **Join**. Your preferences appear on the next page in the top right, and you receive a Welcome message.
+9. When you're finished, choose **Join**. Your preferences appear on the next page in the top right, and you will receive a Welcome message.
 
 
 
