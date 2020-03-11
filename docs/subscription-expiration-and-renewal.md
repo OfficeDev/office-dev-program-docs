@@ -33,7 +33,7 @@ You'll also need to migrate any important data that you need to save to your new
 
 ## Renewable subscriptions
 
-If you signed up for your subscription after August 2018, you might have a renewable subscription. If your subscription is inactive, you'll see the following warning on your dashbaord. 
+If you signed up for your subscription after August 2018, you might have a renewable subscription. If your subscription is inactive, you'll see the following warning on your dashboard. 
 
 <img alt="Screenshot of a text box with the title This subscription is inactive and expires soon" src="images/15-renewable-notice-yellow.png" width="500"> 
 
