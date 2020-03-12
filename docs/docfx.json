@@ -35,7 +35,7 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "uhfHeaderId": "MSDocsHeader-DEV_Microsoft365",
+      "uhfHeaderId": "MSDocsHeader-DEV_Microsoft365Header",
       "searchScope": ["Office dev program"],
       "breadcrumb_path": "/office/developer-program/breadcrumb/toc.json",
       "extendBreadcrumb": true,
