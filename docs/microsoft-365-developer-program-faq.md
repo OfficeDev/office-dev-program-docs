@@ -116,7 +116,7 @@ The Microsoft 365 E5 Developer subscription includes the following:
 
 You can determine whether you have a Microsoft 365 E5 subscription or an Office 365 E3 subscription on the subscription tile on your [dashboard](https://developer.microsoft.com/office/profile). The tile will show either E3 or E5 under the subscription domain name.
 
-![Screenshot of a subscription tile with E5 highighted](images/subscription-tile-e5.png).
+![Screenshot of a subscription tile with E5 highlighted](images/subscription-tile-e5.png).
 
 ## Does the subscription also include a subscription to Azure?
 
@@ -172,17 +172,17 @@ Currently, only new Microsoft 365 Developer Program members will get a Microsoft
 
 ## Can I choose whether to have an Office 365 E3 or a Microsoft 365 E5 subscription?
 
-Currently, only new Developer Program members are offered a Microsoft 365 E5 subscription. Existing members with an Office 365 E3 subscription will have the option to keep their current subscription and continue to renew it if they don't need the new capibilities offered in Microsoft 365 E5. Developer program members can only have one subscription.  
+Currently, only new Developer Program members are offered a Microsoft 365 E5 subscription. Existing members with an Office 365 E3 subscription will have the option to keep their current subscription and continue to renew it if they don't need the new capabilities offered in Microsoft 365 E5. Developer program members can only have one subscription.  
 
 When we have a migration option for existing Developer Program members, we’ll provide more information about how to migrate. 
 
 ## As a Microsoft Partner, can I receive a subscription? 
 
-Yes, you can follow [these instructions](microsoft-365-developer-program.md) to join the Microsoft 365 Developer Program and set up a Microsoft 365 developer subscription. However, if you already have a Visual Studio Enterprise or Visual Studio Professional (MSDN) subscription, you can get a Microsoft 365 developer subscription as a benefit. To access this, go to [Visual Studio | My Benefits](https://my.visualstudio.com/benefits). For more information, contact [Visual Studio customer service](https://www.visualstudio.com/subscriptions/support/). 
+Yes, you can follow [these instructions](microsoft-365-developer-program.md) to join the Microsoft 365 Developer Program and set up a Microsoft 365 developer subscription. However, if you already have a Visual Studio Enterprise or Visual Studio Professional subscription, you can get a Microsoft 365 developer subscription as a benefit. To access this, go to [Visual Studio | My Benefits](https://my.visualstudio.com/benefits). For more information, contact [Visual Studio customer service](https://www.visualstudio.com/subscriptions/support/). 
 
 ## As a full-time Microsoft employee, can I receive a subscription?
 
-Microsoft employees cannot sign up for this offer. All Microsoft full-time employees have access to a free Visual Studio (MSDN) subscription that includes access to a Microsoft 365 E5 developer subscription. You can access this benefit at [Visual Studio | My Benefits](https://my.visualstudio.com/benefits).
+Microsoft employees cannot sign up for this offer. All Microsoft full-time employees have access to a free Visual Studio subscription that includes access to a Microsoft 365 E5 developer subscription. You can access this benefit at [Visual Studio | My Benefits](https://my.visualstudio.com/benefits).
 
 ## As a vendor working at Microsoft, do I qualify for a subscription?
 
