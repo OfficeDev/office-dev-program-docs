@@ -92,7 +92,7 @@ After you install the Users sample data pack, to see the users that were added, 
 
 ![Screenshot of 16 users in the Microsoft 365 Admin Center, with metadata for a selected user](images/content-packs-07.PNG)
 
-After you install the Mail and Events sample pack, to see the sample data, in the [**Microsoft 365 Admin Center**](https://admin.microsoft.com/), choose **Show all** and then select **Exchange**. In the Exchange admin center, when you select **recipients**, you can see that each of the 16 users has mailboxes with mail and events added.
+After you install the Mail and Events sample pack, to see the sample data, in the [**Microsoft 365 Admin Center**](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide), choose **Show all** and then select **Exchange**. In the Exchange admin center, when you select **recipients**, you can see that each of the 16 users has mailboxes with mail and events added.
 ![Screenshot of 16 users added to the Exchange Admin Center](images/content-packs-08.PNG)
 
 ## See also
