@@ -88,7 +88,7 @@ The templates can be installed on your subscription. After you install one templ
 
 1. Select the Template you want from the drop down menu.
 
-![Screenshot of the SharePoint template selection screen](images/select-sharepoint-template.jpg)
+  ![Screenshot of the SharePoint template selection screen](images/select-sharepoint-template.jpg)
 
 2. Configure custom options for your sites, or accept the default values.
 3. Use the administrator ID of your sandbox tenant and password to authenticate and give permissions to install. 
