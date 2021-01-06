@@ -20,7 +20,7 @@ If you already have a Visual Studio Professional or Enterprise subscription, you
 
 ![Screen shot of the Visual Studio page with the Microsoft 365 developer subscription tile](images/visual-studio-dev-program-tile.jpg)
 
-## What is the difference between joining the Microsoft 365 Developer Program directly and joining with my Visual Studio Pro or Enterprise subscription?
+## What is the difference between joining the program directly and joining with my Visual Studio subscription?
 
 When you join the Microsoft 365 Developer Program with your Visual Studio subscription, your Microsoft 365 E5 developer sandbox subscription will automatically renew for the lifetime of your Visual Studio subscription. 
 
