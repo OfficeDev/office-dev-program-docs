@@ -21,3 +21,7 @@ If you already have a Visual Studio Professional or Enterprise subscription, you
 ![Screen shot of the Visual Studio page with the Microsoft 365 developer subscription tile](images/visual-studio-dev-program-tile.jpg)
 
 ## What is the difference between joining the Microsoft 365 Developer Program directly and joining with my Visual Studio Pro or Enterprise subscription?
+
+When you join the Microsoft 365 Developer Program with your Visual Studio subscription, your Microsoft 365 E5 developer sandbox subscription will automatically renew for the lifetime of your Visual Studio subscription. 
+
+If you join the developer program directly, your Microsoft 365 E5 developer sandbox subscription will renew every 90 days based on your development activity. For details, see [Subscription expiration and renewal](subscription-expiration-and-renewal.md).

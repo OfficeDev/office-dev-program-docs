@@ -24,7 +24,23 @@ Here's how to get set up and coding with Microsoft Teams:
 
 You can use Microsoft Graph to interact with the data of millions of users in the Microsoft cloud. Use Microsoft Graph to build apps for organizations and consumers that connect to a wealth of resources, relationships, and intelligence, all through a single endpoint: `https://graph.microsoft.com`.
 
-To get set up and coding with Microsoft Graph, see [Getting started building Microsoft Graph apps](https://developer.microsoft.com/en-us/graph/get-started) or the Microsoft Graph [Quick Start](https://developer.microsoft.com/en-us/graph/quick-start).
+To automatically configure your sandbox to try out Microsoft Graph scenarios, install the Users and Mail and events sample data packs:
+
+- Users - Installs 16 fictitious users with licenses, mailboxes, and metadata, including names and photos for each user. Use Microsoft Graph APIs to work with user sample data in the following ways:
+  - Get specific user details
+  - Update user
+  - Get direct reports
+  - Prepare organization chart
+  - Get users by department
+- Mail and events - Adds Outlook email conversations and calendar events for each of the 16 sample users. Use Microsoft Graph APIs to work with mail and events sample data in the following ways:
+  - Get emails by users
+  - Get emails filtered by date
+  - Get upcoming events
+  - Update/delete upcoming events
+
+For details, see [Use sample data packs](install-sample-packs.md). 
+
+For more ways to get started working with Microsoft Graph, see [Getting started building Microsoft Graph apps](https://developer.microsoft.com/en-us/graph/get-started) or the Microsoft Graph [Quick Start](https://developer.microsoft.com/en-us/graph/quick-start).
 
 ## Office Add-ins
 
@@ -36,9 +52,11 @@ To set up your development environment and create your first add-in, see the [Of
 
 The SharePoint Framework (SPFx) is a page and web part model that provides full support for client-side SharePoint development, easy integration with SharePoint data, and support for open source tooling. With the SharePoint Framework, you can use modern web technologies and tools in your preferred development environment to build productive experiences and apps that are responsive and mobile-ready.
 
-To get set up and start coding with the SharePoint FrameWork:
+To automatically configure your sandbox to try out different SharePoint templates and scenarios, install the SharePoint sample data pack.
+For more details, see:
 
-- [Set up your developer subscription](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-developer-tenant)
+- [Install sample data packs](install-sample-packs.md)
+- [Set up your developer subscription for SPFx](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-developer-tenant)
 - [Set up your development environment](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment)
 
 ## SharePoint Add-ins 
@@ -51,6 +69,23 @@ To get set up and start coding SharePoint Add-ins:
 - Set up your development environment: 
   - [Get started creating SharePoint-hosted SharePoint Add-ins](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/get-started-creating-sharepoint-hosted-sharepoint-add-ins)  
   - [Get started creating provider-hosted SharePoint Add-ins](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/get-started-creating-provider-hosted-sharepoint-add-ins)  
+
+## Power Apps
+
+Power Apps is included in your Microsoft 365 E5 developer subscription license. 
+
+Power Apps is a suite of apps, services, connectors and data platform that provides a rapid application development environment to build custom apps for your business needs. Using Power Apps, you can quickly build custom business apps that connect to your business data stored either in the underlying data platform (Common Data Service) or in various online and on-premises data sources (SharePoint, Microsoft 365, Dynamics 365, SQL Server, and so on).
+
+Apps built using Power Apps provide rich business logic and workflow capabilities to transform your manual business processes to digital, automated processes. Further, apps built using Power Apps have a responsive design, and can run seamlessly in browser or on mobile devices (phone or tablet). Power Apps "democratizes" the custom business app building experience by enabling users to build feature-rich, custom business apps without writing code.
+
+Power Apps also provides an extensible platform that lets pro developers programmatically interact with data and metadata, apply business logic, create custom connectors, and integrate with external data.
+
+For more information:
+
+•	[Power Apps](https://docs.microsoft.com/en-us/powerapps/)
+•	Watch [Power Apps demos](https://powerapps.microsoft.com/demo/)
+•	Watch videos on the [Power Apps channel](https://www.youtube.com/channel/UCGfWR2ekfRFckLjev6eQYLg) on YouTube
+
 
 ## See also
 
