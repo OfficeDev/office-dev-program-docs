@@ -28,7 +28,7 @@ For more information, see [Join the Microsoft 365 Developer Program](microsoft-3
 You can sign up for the developer program by using one of the following account types:
 
 - **Microsoft account** (created by you for personal use) - Provides access to all consumer-oriented Microsoft products and cloud services, such as Outlook (Hotmail), Messenger, OneDrive, MSN, Xbox Live, or Microsoft 365. Signing up for an Outlook.com mailbox automatically creates a Microsoft account. After a Microsoft account is created, it can be used to access consumer-related Microsoft cloud services or Azure. 
-- **Work account** (issued by an admin for business use) - Provides access to all small, medium, and enterprise business-level Microsoft cloud services, such as Azure, Microsoft Intune, or Microsoft 365. When you sign up to one of these services as an organization, a cloud-based directory is automatically provisioned in Azure Active Directory to represent your organization. For more information, see [Manage your Azure AD directory](https://docs.microsoft.com/azure/active-directory/active-directory-administer).
+- **Work account** (issued by an admin for business use) - Provides access to all small, medium, and enterprise business-level Microsoft cloud services, such as Azure, Microsoft Intune, or Microsoft 365. When you sign up to one of these services as an organization, a cloud-based directory is automatically provisioned in Azure Active Directory to represent your organization. For more information, see [Manage your Azure AD directory](/azure/active-directory/active-directory-administer).
 - **Visual Studio ID** (created for your Visual Studio Professional or Enterprise subscriptions) - We recommend that you use this option to join the developer program from within the Visual Studio Gallery to get the full benefits as a Visual Studio subscriber. 
 
 ## How can I get a Microsoft 365 developer subscription via the Developer Program?  
@@ -59,7 +59,7 @@ The Office 365 E3 Developer subscription includes the following:
 - [Microsoft Teams](https://products.office.com/business/office-365-enterprise-e5-business-software)
 - [Mobile Device Management for Office 365](https://support.office.com/article/Set-up-Mobile-Device-Management-MDM-in-Office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)
 - [Office 365 ProPlus](https://products.office.com/business/office-365-proplus-business-software)
-- [Office for the web](https://docs.microsoft.com/office365/servicedescriptions/office-online-service-description/office-online-service-description)
+- [Office for the web](/office365/servicedescriptions/office-online-service-description/office-online-service-description)
 - [PowerApps for Office 365](https://powerapps.microsoft.com/pricing/)
 - [SharePoint Online for Developer](https://products.office.com/SharePoint/compare-sharepoint-plans)
 - [Skype for Business Online (Plan 2)](https://products.office.com/skype-for-business/online-meeting-solutions)
