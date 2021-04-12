@@ -164,7 +164,9 @@ For more information, see [Subscription expiration and renewal](subscription-exp
 
 You have 30 days after your subscription expires to migrate any data. For the next 30 days, only the admin will have access to the subscription, and on day 60, the subscription and all data will be deleted.
 
-<a name="account-types"> </a>
+## Why should I link my GitHub account?
+
+When you join the Microsoft 365 Developer Program, on your [My settings](https://developer.microsoft.com/en-us/microsoft-365/profile/settings/preferences) page, you can link your GitHub account to your developer program account. Linking your GitHub account will accrue toward the renewal of your Microsoft 365 developer sandbox subscription. You can also choose to unlink your account by going to the [Accounts linked](https://developer.microsoft.com/en-us/microsoft-365/profile/settings/accounts-linked) section of your **My settings** page.
 
 ## How can I migrate from an Office 365 E3 subscription to a Microsoft 365 E5 subscription?
 
