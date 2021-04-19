@@ -1,20 +1,18 @@
 ---
-title: Set up a Microsoft 365 developer subscription
+title: Set up a Microsoft 365 developer sandbox subscription
 description: Set up a Microsoft 365 developer subscription for building solutions independent of your production environment.
 ms.date: 04/01/2019
 localization_priority: Priority
 ---
 
-# Set up a Microsoft 365 developer subscription 
+# Set up a Microsoft 365 developer sandbox subscription 
 
 Set up a Microsoft 365 developer subscription to build your solutions independent of your production environment. The subscription is a Microsoft 365 E5 Developer subscription with 25 user licenses. It lasts for 90 days and is free to use for development purposes (coding solutions) only. 
 
-Customers who joined the program before August 25th, 2019 have an Office 365 E3 Developer subscription.
-
 > [!NOTE] 
-> To set up a subscription, you must first [join the Microsoft 365 Developer Program](microsoft-365-developer-program.md). After joining, you'll see the option to set up a subscription.
+> To set up a subscription, you must first [join the Microsoft 365 Developer Program](microsoft-365-developer-program.md) directly or through Visual Studio Profressional or Enterprise (if you're a subscriber). After joining, you'll see the option to set up a subscription.
 
-## Set up your subscription
+## Set up your Microsoft 365 E5 sandbox subscription
 
 1. To get a Microsoft 365 developer subscription, on your profile page, choose **Set up subscription**.
 
