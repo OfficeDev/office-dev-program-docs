@@ -1,12 +1,14 @@
 ---
-title: Join the Microsoft 365 Developer Program
+title: Welcome to the Microsoft 365 Developer Program
 description: Join the Microsoft 365 Developer Program to develop Microsoft 365 solutions independent of your production environment.
 localization_priority: Priority
 ---
 
 # Welcome to the Microsoft 365 Developer Program
 
-Join your friends and colleagues in the Microsoft 365 Developer Program. Use the Microsoft 365 developer subscription to develop your solutions independent of your production environment. You can build solutions for Microsoft Teams, Office Add-ins, Microsoft Graph, SharePoint Framework, SharePoint Add-ins, and more.
+The Microsoft 365 Developer Program includes a Microsoft 365 E5 developer subscription that you can use to create your own sandbox and develop solutions independent of your production environment. You can build Microsoft Teams apps, Office Add-ins for Word, Excel, PowerPoint, or Outlook, or SharePoint Add-ins, using Microsoft Graph, the SharePoint Framework, Power Apps, and more.
+
+Do you have a Visual Studio Pro or Enteprise subscription? If so, you can take advantage of additional benefits when you join the program; for details, see [Join with Visual Studio](join-with-visual-studio.md).
 
 ## Join the Microsoft 365 Developer Program
 
@@ -31,13 +33,13 @@ Join your friends and colleagues in the Microsoft 365 Developer Program. Use the
 
 7. Choose **Next**.
 
-8. On the **Microsoft 365 Developer Program Preferences** page, tell us your preferences so we can personalize your experience, including:
+8. On the **Microsoft 365 Developer Program Preferences** page, let us know your preferences so we can personalize your experience, including:
 
     - The industry that you work in.
     - The type of applications or solutions that you're interested in developing.
     - Products, technologies, and programming languages that you're interested in.
 
-9. When you're finished, choose **Join**. Your preferences appear on the next page in the top right, and you will receive a Welcome message.
+9. When you're finished, choose **Join**. Your preferences appear on the next page in the top right, and you will see a Welcome message and will receive a welcome email.
 
 
 

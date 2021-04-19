@@ -53,8 +53,8 @@ We introduced renewable subscriptions in August 2018. If you signed up for your 
 
 To migrate your data from your current subscription to a new subscription, see the following resources:
 
-- [How to migrate mailboxes from one tenant to another](https://docs.microsoft.com/exchange/mailbox-migration/migrate-mailboxes-across-tenants)
-- [Use PowerShell to perform a staged migration](https://docs.microsoft.com/office365/enterprise/powershell/use-powershell-to-perform-a-staged-migration-to-office-365)
+- [How to migrate mailboxes from one tenant to another](/exchange/mailbox-migration/migrate-mailboxes-across-tenants)
+- [Use PowerShell to perform a staged migration](/office365/enterprise/powershell/use-powershell-to-perform-a-staged-migration-to-office-365)
 - [Migration from one subscription to another without third party](https://social.technet.microsoft.com/Forums/en-US/ee507441-eb91-4b0a-ba6c-5bd9bb8c71b1/migration-from-one-o365-tenant-to-another-o365-without-third-party?forum=onlineservicesmigrationandcoexistence)
 
 ## How do I know if my subscription was deleted?
