@@ -68,7 +68,7 @@ When your subscription is deleted, you will see a notification on your dashboard
 - [Join the Microsoft 365 Developer Program](microsoft-365-developer-program.md)
 - [Set up a Microsoft 365 developer subscription](microsoft-365-developer-program-get-started.md)
 - [Use your subscription to build Microsoft 365 solutions](build-microsoft-365-solutions.md)
-- [Microsoft 365 Developer Program FAQ](microsoft-365-developer-program-faq.md)
+- [Microsoft 365 Developer Program FAQ](microsoft-365-developer-program-faq.yml)
 
 
 

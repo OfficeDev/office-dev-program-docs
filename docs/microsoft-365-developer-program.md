@@ -48,6 +48,6 @@ Do you have a Visual Studio Pro or Enteprise subscription? If so, you can take a
 - [Set up a Microsoft 365 developer subscription](microsoft-365-developer-program-get-started.md). 
 - After you have your developer subscription, [use your subscription](build-microsoft-365-solutions.md) to build the types of solutions that you want.
 - For information about expiring subscriptions, see [Subscription expiration and renewal](subscription-expiration-and-renewal.md).
-- For frequently asked questions about the Microsoft 365 Developer Program, see the [FAQ](microsoft-365-developer-program-faq.md).
+- For frequently asked questions about the Microsoft 365 Developer Program, see the [FAQ](microsoft-365-developer-program-faq.yml).
 
 

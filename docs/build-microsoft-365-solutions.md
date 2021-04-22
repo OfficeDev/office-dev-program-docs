@@ -92,4 +92,4 @@ For more information:
 - [Join the Microsoft 365 Developer Program](microsoft-365-developer-program.md)
 - [Set up a Microsoft 365 developer subscription](microsoft-365-developer-program-get-started.md) 
 - [Renew an expiring subscription](subscription-expiration-and-renewal.md)
-- [Microsoft 365 Developer Program FAQ](microsoft-365-developer-program-faq.md)
+- [Microsoft 365 Developer Program FAQ](microsoft-365-developer-program-faq.yml)
