@@ -82,7 +82,7 @@ Power Apps also provides an extensible platform that lets pro developers program
 
 For more information:
 
-- [Power Apps](https://docs.microsoft.com/en-us/powerapps/)
+- [Power Apps](https://docs.microsoft.com/powerapps/)
 - Watch [Power Apps demos](https://powerapps.microsoft.com/demo/)
 - Watch videos on the [Power Apps channel](https://www.youtube.com/channel/UCGfWR2ekfRFckLjev6eQYLg) on YouTube
 
