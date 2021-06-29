@@ -188,6 +188,11 @@ sections:
           Currently, only new Microsoft 365 Developer Program members will get a Microsoft 365 E5 Developer subscription automatically. Existing users will be offered a way to migrate to a Microsoft 365 E5 subscription in the future. Rest assured, we are working to enable all Office 365 Developer Program members to migrate to Microsoft 365 E5. 
 
       - question: |
+          Why should I link my GitHub account?
+        answer: |
+          When you join the Microsoft 365 Developer Program, on your [My settings](https://developer.microsoft.com/microsoft-365/profile/settings/preferences) page, you can link your GitHub account to your developer program account. Linking your GitHub account will accrue toward the renewal of your Microsoft 365 developer sandbox subscription. You can also choose to unlink your account by going to the [Accounts linked](https://developer.microsoft.com/microsoft-365/profile/settings/accounts-linked) section of your **My settings** page.
+
+      - question: |
           Can I choose whether to have an Office 365 E3 or a Microsoft 365 E5 subscription?
         answer: |
           Currently, only new Developer Program members are offered a Microsoft 365 E5 subscription. Existing members with an Office 365 E3 subscription will have the option to keep their current subscription and continue to renew it if they don't need the new capabilities offered in Microsoft 365 E5. Developer program members can only have one subscription.  
