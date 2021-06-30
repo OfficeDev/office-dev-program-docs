@@ -82,7 +82,7 @@ Power Apps also provides an extensible platform that lets pro developers program
 
 For more information:
 
-- [Power Apps](https://docs.microsoft.com/en-us/powerapps/)
+- [Power Apps](/powerapps/)
 - Watch [Power Apps demos](https://powerapps.microsoft.com/demo/)
 - Watch videos on the [Power Apps channel](https://www.youtube.com/channel/UCGfWR2ekfRFckLjev6eQYLg) on YouTube
 
@@ -92,4 +92,4 @@ For more information:
 - [Join the Microsoft 365 Developer Program](microsoft-365-developer-program.md)
 - [Set up a Microsoft 365 developer subscription](microsoft-365-developer-program-get-started.md) 
 - [Renew an expiring subscription](subscription-expiration-and-renewal.md)
-- [Microsoft 365 Developer Program FAQ](microsoft-365-developer-program-faq.md)
+- [Microsoft 365 Developer Program FAQ](microsoft-365-developer-program-faq.yml)
