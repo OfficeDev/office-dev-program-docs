@@ -75,7 +75,7 @@ k.	**Claims of infringement.** We will inform you if we receive notice claiming 
 
 #### 5. Customer accounts, customer conduct, identity services, and feedback.
 
-a.	**Account creation.** If any of the Services requires you to open an account, you must complete the registration process by providing us with current, complete and accurate information. You may not select an account user name or identifier that impersonates someone else, is or may be illegal, or may be protected by trademark or other proprietary rights, is vulgar or offensive or may cause confusion. We reserve the right to reject and/or reassign these user names and Service identifiers in our sole discretion.
+a.	**Account creation.** If any of the Services requires you to open an account, you must complete the registration process by providing us with current, complete and accurate information. You must be the age of consent or older to create an account. You may not select an account user name or identifier that impersonates someone else, is or may be illegal, or may be protected by trademark or other proprietary rights, is vulgar or offensive or may cause confusion. We reserve the right to reject and/or reassign these user names and Service identifiers in our sole discretion.
 
 b.	**Responsibility for your accounts.** You are responsible for: any and all activities that occur under your account; maintaining the confidentiality of any non-public authentication credentials associated with your use of the Services; and promptly notifying our customer support team about any possible misuse of your accounts or authentication credentials, or any security incident related to the Services.
 
