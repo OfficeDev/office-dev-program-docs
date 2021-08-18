@@ -185,7 +185,13 @@ sections:
       - question: |
           How can I migrate from an Office 365 E3 subscription to a Microsoft 365 E5 subscription?
         answer: |
-          Currently, only new Microsoft 365 Developer Program members will get a Microsoft 365 E5 Developer subscription automatically. Existing users will be offered a way to migrate to a Microsoft 365 E5 subscription in the future. Rest assured, we are working to enable all Office 365 Developer Program members to migrate to Microsoft 365 E5. 
+          Currently, only new Microsoft 365 Developer Program members will get a Microsoft 365 E5 Developer subscription automatically. Existing users will be offered an option to migrate to a Microsoft 365 E5 subscription. 
+
+          If you choose to migrate to a Microsoft 365 E5 subscription, you can use the free tool [Microsoft Mover](https://mover.io/) to migrate your data. See also the following resources:
+
+          - [How to migrate mailboxes from one Microsoft 365 tenant to another](https://docs.microsoft.com/en-us/exchange/mailbox-migration/migrate-mailboxes-across-tenants)
+          - [Using PowerShell to perform a staged migration to Office 365](https://docs.microsoft.com/en-us/microsoft-365/enterprise/use-powershell-to-perform-a-staged-migration-to-microsoft-365?view=o365-worldwide)
+          - [Migrate your content to Microsoft 365](https://docs.microsoft.com/en-us/sharepointmigration/migrate-to-sharepoint-online)
 
       - question: |
           Why should I link my GitHub account?
@@ -195,9 +201,7 @@ sections:
       - question: |
           Can I choose whether to have an Office 365 E3 or a Microsoft 365 E5 subscription?
         answer: |
-          Currently, only new Developer Program members are offered a Microsoft 365 E5 subscription. Existing members with an Office 365 E3 subscription will have the option to keep their current subscription and continue to renew it if they don't need the new capabilities offered in Microsoft 365 E5. Developer program members can only have one subscription.  
-          
-          When we have a migration option for existing Developer Program members, we’ll provide more information about how to migrate. 
+          Currently, new Developer Program members are offered only a Microsoft 365 E5 subscription. Existing members with an Office 365 E3 subscription will have the option to keep their current subscription and continue to renew it if they don't need the new capabilities offered in Microsoft 365 E5, or do a one-time upgrade to a Microsoft 365 E5 subscription. Developer Program members can only have one subscription.  
           
       - question: |
           As a Microsoft Partner, can I receive a subscription? 
