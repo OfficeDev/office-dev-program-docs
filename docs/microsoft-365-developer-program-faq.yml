@@ -219,14 +219,11 @@ sections:
           Yes, you can follow [these instructions](microsoft-365-developer-program.md) to join the Microsoft 365 Developer Program and set up a Microsoft 365 developer subscription. But even for vendors, this subscription is designed to be used _for application development only_. If you are not doing valid development activity, your subscription will not be renewed.
           
       - question: |
-          Is the Microsoft 365 Developer Program available in my language?
-        answer: |
-          In addition to English, the Microsoft 365 Developer Program is available in the following languages: Chinese (Simplified), French, German, Japanese, Portuguese (Brazil), Russian, and Spanish.
-          
-      - question: |
           Is the Microsoft 365 developer subscription available in my language?
         answer: |
           The Microsoft 365 developer subscription is only offered in English.
+          
+          The Developer Program website is available in the following languages: Chinese (Simplified), French, German, Japanese, Portuguese (Brazil), Russian, and Spanish.
 
       - question: |
           How do I leave the Microsoft 365 Developer Program?
