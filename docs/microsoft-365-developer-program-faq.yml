@@ -206,7 +206,7 @@ sections:
       - question: |
           Is the Microsoft 365 developer subscription subject to the EU Data Boundary for the Microsoft Cloud (EUDB)?
         answer: |
-          No. The free Microsoft 365 developer subscription is only subject to the [Terms and conditions](terms-and-conditions.md) and not the EUDB commitments.
+          No. The free Microsoft 365 developer subscription is only subject to the [Terms and conditions](terms-and-conditions.md) and not the EUDB commitments. As part of the provisioning process, however, you have the option to choose the country/region for your subscription.
       
       - question: |
           As a Microsoft Partner, can I receive a subscription? 
