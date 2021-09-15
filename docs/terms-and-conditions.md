@@ -1,6 +1,6 @@
 ---
 title: Terms and conditions
-localization_priority: Priority
+ms.localizationpriority: high
 ---
 
 # Terms and conditions
