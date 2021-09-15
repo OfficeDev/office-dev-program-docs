@@ -2,7 +2,7 @@
 title: Set up a Microsoft 365 developer sandbox subscription
 description: Set up a Microsoft 365 developer subscription for building solutions independent of your production environment.
 ms.date: 04/01/2019
-localization_priority: Priority
+ms.localizationpriority: high
 ---
 
 # Set up a Microsoft 365 developer sandbox subscription 

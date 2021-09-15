@@ -2,7 +2,7 @@
 title: Microsoft 365 Developer Program subscription expiration and renewal
 description: Information about how to renew an expiring developer subscription.
 ms.date: 04/01/2019
-localization_priority: Priority
+ms.localizationpriority: high
 ---
 
 # Microsoft 365 Developer Program subscription expiration and renewal

@@ -1,7 +1,7 @@
 ---
 title: Join the Microsoft 365 Developer Program with a Visual Studio Professional or Enterprise subscription
 description: All new members of the Microsoft 365 Developer Program (including Visual Studio Professional and Enterprise subscribers) can sign up for a Microsoft 365 E5 developer subscription (Windows not included).
-localization_priority: Priority
+ms.localizationpriority: high
 ---
 
 # Join the Microsoft 365 Developer Program with a Visual Studio Professional or Enterprise subscription
