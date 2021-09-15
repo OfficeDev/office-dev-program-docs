@@ -1,7 +1,7 @@
 ---
 title: Welcome to the Microsoft 365 Developer Program
 description: Join the Microsoft 365 Developer Program to develop Microsoft 365 solutions independent of your production environment.
-localization_priority: Priority
+ms.localizationpriority: high
 ---
 
 # Welcome to the Microsoft 365 Developer Program

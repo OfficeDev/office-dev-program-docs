@@ -1,7 +1,7 @@
 ---
 title: Use your developer subscription to build Microsoft 365 solutions
 description: Use your Microsoft 365 developer subscription to build the solutions you want.
-localization_priority: Priority
+ms.localizationpriority: high
 ---
 
 # Use your developer subscription to build Microsoft 365 solutions
