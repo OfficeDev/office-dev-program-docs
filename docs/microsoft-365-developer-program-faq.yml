@@ -204,6 +204,11 @@ sections:
           Currently, new Developer Program members are offered only a Microsoft 365 E5 subscription. Existing members with an Office 365 E3 subscription will have the option to keep their current subscription and continue to renew it if they don't need the new capabilities offered in Microsoft 365 E5, or do a one-time upgrade to a Microsoft 365 E5 subscription. Developer Program members can only have one subscription.  
           
       - question: |
+          Is the Microsoft 365 developer subscription subject to the EU Data Boundary for the Microsoft Cloud (EUDB)?
+        answer: |
+          No. The free Microsoft 365 developer subscription is only subject to the [Terms and conditions](terms-and-conditions.md) and not the EUDB commitments. As part of the provisioning process, however, you have the option to choose the country/region for your subscription.
+      
+      - question: |
           As a Microsoft Partner, can I receive a subscription? 
         answer: |
           Yes, you can follow [these instructions](microsoft-365-developer-program.md) to join the Microsoft 365 Developer Program and set up a Microsoft 365 developer subscription. However, if you already have a Visual Studio Enterprise or Visual Studio Professional subscription, you can get a Microsoft 365 developer subscription as a benefit. To access this, go to [Visual Studio | My Benefits](https://my.visualstudio.com/benefits). For more information, contact [Visual Studio customer service](https://www.visualstudio.com/subscriptions/support/). 
