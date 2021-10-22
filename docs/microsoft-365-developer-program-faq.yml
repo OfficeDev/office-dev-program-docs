@@ -124,8 +124,6 @@ sections:
           
           You can determine whether you have a Microsoft 365 E5 subscription or an Office 365 E3 subscription on the subscription tile on your [dashboard](https://developer.microsoft.com/office/profile). The tile will show either E3 or E5 under the subscription domain name.
           
-          ![Screenshot of a subscription tile with E5 highlighted](images/subscription-tile-e5.png).
-          
       - question: |
           Does the subscription also include a subscription to Azure?
         answer: |
