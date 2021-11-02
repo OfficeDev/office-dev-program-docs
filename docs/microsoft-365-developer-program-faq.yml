@@ -192,6 +192,15 @@ sections:
           - [Migrate your content to Microsoft 365](https://docs.microsoft.com/en-us/sharepointmigration/migrate-to-sharepoint-online)
 
       - question: |
+          Should I choose an instant sandbox or a configurable sandbox?
+        answer: |
+          If you choose an instant sandbox, you can cut your sandbox configuration time from days to seconds. The Microsoft 365 instant sandbox comes pre-provisioned with Microsoft Teams, SharePoint, Outlook, and Office. It also includes licenses for 24 test users plus one admin, and the latest Microsoft 365 apps for your PC and Mac, including Power Apps, Power BI, Enterprise Mobility + Security, Office 365 Advanced Threat Protection, and Azure Active Directory.
+
+          In addition, you get pre-installed sample data, including the new Teams sample data pack, which simulate a small corporate environment to help you build solutions across the Microsoft 365 platform. For details, see Developer sandbox sample data.
+          
+          If you choose a configurable sandbox, you will have an empty sandbox that you must populate with sample data. This sandbox can take up to two days to provision. You can choose to install the sample data packs that are available on your developer program dashboard. You can customize your domain name with this option. 
+ 
+      - question: |
           Why should I link my GitHub account?
         answer: |
           When you join the Microsoft 365 Developer Program, on your [My settings](https://developer.microsoft.com/microsoft-365/profile/settings/preferences) page, you can link your GitHub account to your developer program account. Linking your GitHub account will accrue toward the renewal of your Microsoft 365 developer sandbox subscription. You can also choose to unlink your account by going to the [Accounts linked](https://developer.microsoft.com/microsoft-365/profile/settings/accounts-linked) section of your **My settings** page.
