@@ -20,6 +20,8 @@ If you choose an instant sandbox, you can cut your sandbox configuration time fr
 
 In addition, you get pre-installed sample data, including the new Teams sample data pack, as well as Microsoft Graph user, mail, and calendar data and SharePoint Framework sample data, which simulate a small corporate environment to help you build solutions across the Microsoft 365 platform. For details, see Developer sandbox sample data.
 
+> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RWOmCY]
+
 You cannot customize your domain name if you choose this option.
 
 ## Configurable sandbox
@@ -34,14 +36,14 @@ To get a Microsoft 365 developer subscription:
 
 2. In the **Set up your Microsoft 365 E5 developer subscription** dialog box, choose whether you want an instant sandbox or a configurable sandbox, and then choose **Next**.
 
-  ![Screenshot of the Set up your Microsoft 365 E5 developer subscription dialog box](images/set-up-your-subscription.png)
+    ![Screenshot of the Set up your Microsoft 365 E5 developer subscription dialog box](images/set-up-your-subscription.png)
 
 If you selected an instant sandbox:
 
 1.	Choose the **Country/region for your data center**, and provide an **Admin username** and **Admin password**, and optionally an alternative password for your fictitious users, and then choose **Continue**.
 
-  > [!IMPORTANT] 
-  > Make a note of your username and password because you'll need it to access your developer subscription.
+    > [!IMPORTANT] 
+    > Make a note of your username and password because you'll need it to access your developer subscription.
 
 2.	Provide a valid cell phone number and choose **Send code**. Enter the code that you receive, and then choose **Set up**.
 3.	After the subscription is created, your subscription domain name and expiration date appear on your profile page.
@@ -50,8 +52,8 @@ If you selected a configurable sandbox:
 
 1.	Choose your **Country/region**, and then provide a username in the **Create username** field and a domain name in the **Create domain field**. Create and confirm your password, and then choose **Continue**.
 
-  > [!IMPORTANT] 
-  > Make a note of your username and password because you'll need it to access your developer subscription.
+    > [!IMPORTANT] 
+    > Make a note of your username and password because you'll need it to access your developer subscription.
 
 2.	Provide a valid cell phone number and choose **Send code**. Enter the code that you receive, and then choose **Set up**.
 3.	After the subscription is created, your subscription domain name and expiration date appear on your profile page.
@@ -74,8 +76,8 @@ If you selected a configurable sandbox:
 
 6. **Add new users**. You can add fictitious or real users to help you with development. When ready, choose **Add users and assign licenses**.
     
-  > [!NOTE]
-  > If you have a configurable subscription, after you set up your subscription, you can install the Users sample data pack. The Users sample data pack creates 16 fictitious users on your subscription, and includes the licenses for each user, and mailboxes, names, metadata, and photos for each. For details, see [Developer sandbox sample data](install-sample-packs.md).
+    > [!NOTE]
+    > If you have a configurable subscription, after you set up your subscription, you can install the Users sample data pack. The Users sample data pack creates 16 fictitious users on your subscription, and includes the licenses for each user, and mailboxes, names, metadata, and photos for each. For details, see [Developer sandbox sample data](install-sample-packs.md).
 
 6. **Assign licenses to unlicensed users**. For any users that you want to be able to work with the subscription, grant them a license. When ready, choose **Add users and assign licenses** or **Do this later**.
 
