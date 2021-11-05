@@ -65,19 +65,19 @@ To install the Users sample data pack:
 3. Enter your administrator ID and password on the sign in page.
 4. Consent to the permissions as an administrator of your Microsoft 365 developer subscription.
 
-![Screenshot showing permissions consent dialog box](images/sample-data-pack-ux-tile-users-consent-with-permissions-combined.PNG)
+  ![Screenshot showing permissions consent dialog box](images/sample-data-pack-ux-tile-users-consent-with-permissions-combined.PNG)
 
 5. Configure your passwords for all sample users. You will need to have one shared password defined for easy administration of all your fictitious users.
 
-![Screenshot of dialog box to add shared user password](images/sample-data-pack-ux-tile-users-fake-user-password-creation.PNG)
+  ![Screenshot of dialog box to add shared user password](images/sample-data-pack-ux-tile-users-fake-user-password-creation.PNG)
 
 6. The data will be installed. The installation should take about 5 minutes.
 
-![Screenshot showing the install process on the dashboard tile](images/sample-data-pack-ux-tile-users-installing-status.PNG)
+  ![Screenshot showing the install process on the dashboard tile](images/sample-data-pack-ux-tile-users-installing-status.PNG)
 
 7. When installation is finished, you'll be notified by email, and the box on your subscription tile will be green. You can now install the Mail and Events sample data pack.
 
-![Screenshot of the dashboard tile with Mail & Events ready to install](images/sample-data-pack-ux-tile-users-installed.PNG)
+  ![Screenshot of the dashboard tile with Mail & Events ready to install](images/sample-data-pack-ux-tile-users-installed.PNG)
 
 ### Install the Mail & Events sample data pack
 
@@ -86,10 +86,10 @@ After you've installed the Users sample data pack, you can install mail and even
 1. Choose the **Mail &amp; Events** box on your subscription tile.
 2. Select **Install** to begin installation.
 
-![Screenshot of the install dialog box](images/sample-data-pack-ux-tile-mail-and-events-begin-install.PNG)
+  ![Screenshot of the install dialog box](images/sample-data-pack-ux-tile-mail-and-events-begin-install.PNG)
 
-> [!NOTE]
-> If you just created your subscription, it must be fully provisioned before installation can begin. This can take up to a few hours. After installation starts, it can take up to 20 minutes to finish.
+  > [!NOTE]
+  > If you just created your subscription, it must be fully provisioned before installation can begin. This can take up to a few hours. After installation starts, it can take up to 20 minutes to finish.
 
 3. When installation is finished, you'll be notified by email, and the box on your subscription tile will be green.
 
