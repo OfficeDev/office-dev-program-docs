@@ -46,6 +46,10 @@ If you selected an instant sandbox:
     > Make a note of your username and password because you'll need it to access your developer subscription.
 
 2.	Provide a valid cell phone number and choose **Send code**. Enter the code that you receive, and then choose **Set up**.
+
+    > [!NOTE] 
+    > You must use a valid cell phone number and not Voice over IP (VoIP).
+
 3.	After the subscription is created, your subscription domain name and expiration date appear on your profile page.
 
 If you selected a configurable sandbox:
