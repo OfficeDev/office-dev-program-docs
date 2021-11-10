@@ -10,6 +10,8 @@ Your Microsoft 365 Developer Program sandbox subscription comes with sample data
 
 ![Screenshot of the sample data pack buttons](images/sample-data-packs.PNG)
 
+## Sample data installed on the instant sandbox
+
 If you have an instant sandbox, the sample data packs are already pre-installed. Your instant sandbox includes the following sample data:
 
 - **Microsoft Graph user, mail, and calendar data** - 16 sample users with user data and content to help you model your solutions. This includes user mailboxes, calendar events, and integration into a Teams developer environment with simulated chats and team memberships.
@@ -21,12 +23,12 @@ If you have an instant sandbox, the sample data packs are already pre-installed.
     ![Screenshot of the Teams Developer Portal](images/teams-developer-portal.PNG)
 - **SharePoint Framework sample data** – Choose from six site templates that you can install and evaluate as custom solutions for your organization (with one pre-installed).
 
+## Install sample data packs in your configurable sandbox
+
 If you have a configurable sandbox, you can quickly install the sample data so that you can focus on your solutions rather than spend time creating sample data yourself.
 
 > [!NOTE] 
 > You can’t install sample data packs on any other Microsoft 365 subscription. These sample data packs are only compatible with the Microsoft 365 developer sandbox subscription you get as part of the Microsoft 365 Developer Program.
-
-## Install sample data packs in your configurable sandbox
 
 You can find sample data packs on your [Microsoft 365 Developer Program dashboard](https://developer.microsoft.com/microsoft-365/profile), at the bottom of your subscription tile.
 
