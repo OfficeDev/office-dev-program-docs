@@ -204,7 +204,12 @@ sections:
           Why should I link my GitHub account?
         answer: |
           When you join the Microsoft 365 Developer Program, on your [My settings](https://developer.microsoft.com/microsoft-365/profile/settings/preferences) page, you can link your GitHub account to your developer program account. Linking your GitHub account will accrue toward the renewal of your Microsoft 365 developer sandbox subscription. You can also choose to unlink your account by going to the [Accounts linked](https://developer.microsoft.com/microsoft-365/profile/settings/accounts-linked) section of your **My settings** page.
-
+      
+      - question: |
+          How can I find the Teams sample data in my instant sandbox?
+        answer: |
+          To see the Microsoft Teams sample data, go to **Teams** in your Microsoft 365 E5 subscription. On the Teams tab, you’ll see some pre-created teams with chats from sample users in the **Mark 8 Project Team**. The App Studio/Dev Portal app is pre-installed and pinned to the navigation pane.
+      
       - question: |
           Can I choose whether to have an Office 365 E3 or a Microsoft 365 E5 subscription?
         answer: |
