@@ -59,7 +59,7 @@ sections:
         answer:
           At this time, the Teams sample data pack is preinstalled in the instant sandbox, but is not available to install on existing or new configurable sandbox subscriptions. If you're an existing member of the Developer Program and you would like to take advantage of the new Teams sample data pack, you can set up a second Microsoft 365 E5 developer subscription and choose the **instant sandbox** option, which come preconfigured with the Teams sample data and development environment.
       
-          - question: |
+      - question: |
           Should I choose an instant sandbox or a configurable sandbox?
         answer: |
           If you choose an instant sandbox, you can cut your sandbox configuration time from days to seconds. The Microsoft 365 instant sandbox comes pre-provisioned with Microsoft Teams, SharePoint, Outlook, and Office. It also includes licenses for 24 test users plus one admin, and the latest Microsoft 365 apps for your PC and Mac, including Power Apps, Power BI, Enterprise Mobility + Security, Office 365 Advanced Threat Protection, and Azure Active Directory.
