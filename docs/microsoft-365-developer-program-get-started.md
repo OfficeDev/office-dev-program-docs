@@ -14,7 +14,7 @@ Set up a Microsoft 365 developer sandbox to build your solutions independent of 
 You can choose to set up either an instant sandbox or a configurable sandbox.
 
 > [!NOTE] 
-> If you're an existing member and you already have a configurable sandbox, you have the option to set up a new instant sandbox subscription. When you go to your [dashboard](https://developer.microsoft.com/en-us/microsoft-365/profile) page, you will see a second subscription tile. Choose **Set up subscription** and then choose the option for an instant sandbox.
+> If you're an existing member and you already have a configurable sandbox, you have the option to set up a new instant sandbox subscription. When you go to your [dashboard](https://developer.microsoft.com/en-us/microsoft-365/profile) page, you will see a second subscription tile. Choose **Start**, and then in the dialog box, choose the **instant sandbox** option.
 
 ## Instant sandbox
 
