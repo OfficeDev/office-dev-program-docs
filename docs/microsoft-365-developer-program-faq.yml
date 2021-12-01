@@ -38,8 +38,27 @@ sections:
       - question: |
           How can I get a Microsoft 365 developer subscription via the Developer Program?  
         answer: |
-          When you join the Microsoft 365 Developer Program, you qualify to get a free Microsoft 365 E5 developer subscription. This is a special subscription designed to be used for application development only. For more information, see [Set up a Microsoft 365 developer subscription](microsoft-365-developer-program-get-started.md).
-          
+          When you join the Microsoft 365 Developer Program, you qualify to get two free Microsoft 365 E5 developer subscriptions. You can choose to set up an instant sandbox or a configurable sandbox, or set up one of each. The Microsoft 365 E5 developer subscription is a special subscription designed to be used for application development only. For more information, see [Set up a Microsoft 365 developer subscription](microsoft-365-developer-program-get-started.md).
+
+      - question: |
+          As an existing member of the Developer Program, how can I get a new instant sandbox?    
+        answer:
+          As an existing member, you can set up a second Microsoft 365 E5 developer subscription to get an instant sandbox. Go to your [dashboard](https://developer.microsoft.com/en-us/microsoft-365/profile) page. Next to your subscription tile, you will see a second tile. Choose **Start**, and then choose the **instant sandbox** option in the dialog box. 
+
+          Note that both of your subscriptions are good for 90 days and are renewable based on valid developer activity. They are free to use for development purposes only.
+
+      - question: |
+          As an existing member of the Developer Program, can I set up a second configurable sandbox?
+        answer:
+          Existing members of the Developer Program have the option to set up a second subscription to take advantage of the new instant sandbox. You can choose to set up a configurable sandbox; however, we recommend that you choose the **instant sandbox** option so that you can take advantage of the turnkey development environment and Teams sample data that comes preconfigured with your subscription.
+
+          Both instant sandbox and configurable sandbox subscriptions are good for 90 days and are renewable based on valid developer activity. They are free to use for development purposes only.
+      
+      - question: |
+          I have a configurable sandbox; can I install the Teams sample data pack?
+        answer:
+          At this time, the Teams sample data pack is preinstalled in the instant sandbox, but is not available to install on existing or new configurable sandbox subscriptions. If you're an existing member of the Developer Program and you would like to take advantage of the new Teams sample data pack, you can set up a second Microsoft 365 E5 developer subscription and choose the **instant sandbox** option, which come preconfigured with the Teams sample data and development environment.
+
       - question: |
           What ID do I use to sign in to the Developer Program dashboard?
         answer: |
@@ -137,7 +156,7 @@ sections:
       - question: |
           How long is my subscription good for, and when does it expire?
         answer: |
-          Your subscription is good for 90 days and is renewable based on valid developer activity. If you're using your subscription for development, it will be renewed every 3 months and will last indefinitely. You can find the expiration date, along with your subscription name, on your [Microsoft 365 Developer Program dashboard](https://aka.ms/DevProgramDashboard). For more information, see [Subscription expiration and renewal](subscription-expiration-and-renewal.md).
+          Your instant sandbox or configurable subscription is good for 90 days and is renewable based on valid developer activity. If you're using your subscription for development, it will be renewed every 3 months and will last indefinitely. You can find the expiration date, along with your subscription name, on your [Microsoft 365 Developer Program dashboard](https://aka.ms/DevProgramDashboard). For more information, see [Subscription expiration and renewal](subscription-expiration-and-renewal.md).
           
           If you're joining the program through Visual Studio Enterprise or Visual Studio Professional, your subscription is automatically renewed until your Visual Studio subscription expires. 
           
