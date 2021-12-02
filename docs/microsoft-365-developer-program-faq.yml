@@ -22,7 +22,7 @@ sections:
           - [Microsoft Teams](https://developer.microsoft.com/microsoft-teams)
           - [Microsoft Graph](https://developer.microsoft.com/graph)
           
-          As a program member, you can get a free Microsoft 365 developer subscription with 25 user licenses to use to build your solutions. This subscription will remain active for as long as you’re actively developing and deploying solutions.
+          As a program member, you can get two free Microsoft 365 developer subscriptions with 25 user licenses to use to build your solutions. The subscriptions will remain active for as long as you’re actively developing and deploying solutions.
           
           For more information, see [Join the Microsoft 365 Developer Program](microsoft-365-developer-program.md) and [Build Microsoft 365 solutions](build-microsoft-365-solutions.md).
           
@@ -39,26 +39,7 @@ sections:
           How can I get a Microsoft 365 developer subscription via the Developer Program?  
         answer: |
           When you join the Microsoft 365 Developer Program, you qualify to get two free Microsoft 365 E5 developer subscriptions. You can choose to set up an instant sandbox or a configurable sandbox, or set up one of each. The Microsoft 365 E5 developer subscription is a special subscription designed to be used for application development only. For more information, see [Set up a Microsoft 365 developer subscription](microsoft-365-developer-program-get-started.md).
-
-      - question: |
-          As an existing member of the Developer Program, how can I get a new instant sandbox?    
-        answer:
-          As an existing member, you can set up a second Microsoft 365 E5 developer subscription to get an instant sandbox. Go to your [dashboard](https://developer.microsoft.com/en-us/microsoft-365/profile) page. Next to your subscription tile, you will see a second tile. Choose **Start**, and then in the dialog box, choose the **instant sandbox** option. 
-
-          Note that both of your subscriptions are good for 90 days and are renewable based on valid developer activity. They are free to use for development purposes only.
-
-      - question: |
-          As an existing member of the Developer Program, can I set up a second configurable sandbox?
-        answer:
-          Existing members of the Developer Program have the option to set up a second subscription to take advantage of the new instant sandbox. You can choose to set up a configurable sandbox; however, we recommend that you choose the **instant sandbox** option so that you can take advantage of the turnkey development environment and Teams sample data that comes preconfigured with your subscription.
-
-          Both instant sandbox and configurable sandbox subscriptions are good for 90 days and are renewable based on valid developer activity. They are free to use for development purposes only.
-      
-      - question: |
-          I have a configurable sandbox; can I install the Teams sample data pack?
-        answer:
-          At this time, the Teams sample data pack is preinstalled in the instant sandbox, but is not available to install on existing or new configurable sandbox subscriptions. If you're an existing member of the Developer Program and you would like to take advantage of the new Teams sample data pack, you can set up a second Microsoft 365 E5 developer subscription and choose the **instant sandbox** option, which come preconfigured with the Teams sample data and development environment.
-      
+ 
       - question: |
           Should I choose an instant sandbox or a configurable sandbox?
         answer: |
@@ -67,6 +48,31 @@ sections:
           In addition, you get pre-installed sample data, including the new Teams sample data pack, which simulate a small corporate environment to help you build solutions across the Microsoft 365 platform. For details, see Developer sandbox sample data.
           
           If you choose a configurable sandbox, you will have an empty sandbox that you must populate with sample data. This sandbox can take up to two days to provision. You can choose to install the sample data packs that are available on your developer program dashboard. You can customize your domain name with this option. 
+
+          If you joined the Developer Program before November 2021 and set up a configurable sandbox, you have the option to get a second free Microsoft 365 subscription to take advantage of the instant sandbox option.
+      
+      - question: |
+          As an existing member of the Developer Program, how can I get a new instant sandbox?    
+        answer: |
+          As an existing member, you can set up a second Microsoft 365 E5 developer subscription to get an instant sandbox. To get an instant sandbox:
+            
+          - Go to your [dashboard](https://developer.microsoft.com/en-us/microsoft-365/profile) page. 
+          - Next to your subscription tile, you will see a second tile. 
+          - Choose **Start**, and then in the dialog box, choose the **instant sandbox** option. 
+
+          Note that both of your subscriptions are good for 90 days and are renewable based on valid developer activity. They are free to use for development purposes only.
+
+      - question: |
+          As an existing member of the Developer Program, can I set up a second configurable sandbox?
+        answer: |
+          Existing members of the Developer Program have the option to set up a second subscription to take advantage of the new instant sandbox. You can choose to set up a configurable sandbox; however, we recommend that you choose the **instant sandbox** option so that you can take advantage of the turnkey development environment and Teams sample data that comes preconfigured with your subscription.
+
+          Both instant sandbox and configurable sandbox subscriptions are good for 90 days and are renewable based on valid developer activity. They are free to use for development purposes only.
+      
+      - question: |
+          I have a configurable sandbox; can I install the Teams sample data pack?
+        answer:
+          At this time, the Teams sample data pack is preinstalled in the instant sandbox, but is not available to install on existing or new configurable sandbox subscriptions. If you're an existing member of the Developer Program and you would like to take advantage of the new Teams sample data pack, you can set up a second Microsoft 365 E5 developer subscription and choose the **instant sandbox** option, which come preconfigured with the Teams sample data and development environment.
  
       - question: |
           How can I find the Teams sample data in my instant sandbox?

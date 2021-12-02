@@ -11,7 +11,7 @@ Set up a Microsoft 365 developer sandbox to build your solutions independent of 
 
 > **Note:** To set up a subscription, you must first [join the Microsoft 365 Developer Program](microsoft-365-developer-program.md) directly or through Visual Studio Professional or Enterprise (if you're a subscriber). After joining, you'll see the option to set up a subscription.
 
-You can choose to set up either an instant sandbox or a configurable sandbox.
+When you set up your subscription, you can choose to set up an instant sandbox or a configurable sandbox.
 
 > [!NOTE] 
 > If you're an existing member and you already have a configurable sandbox, you have the option to set up a new instant sandbox subscription. When you go to your [dashboard](https://developer.microsoft.com/en-us/microsoft-365/profile) page, you will see a second subscription tile. Choose **Start**, and then in the dialog box, choose the **instant sandbox** option.
