@@ -7,7 +7,7 @@ ms.localizationpriority: high
 
 # Microsoft 365 Developer Program subscription expiration and renewal
 
-Your Microsoft 365 Developer Program membership includes a free Office 365 E3 or Microsoft 365 E5 developer subscription. Your developer subscription is renewable based on your development activity; however, some older subscriptions do expire. This article describes the difference between renewable and non-renewable subscriptions and how to update your subscription if it expires.
+Your Microsoft 365 Developer Program membership includes a free Microsoft 365 E5 developer subscription. Your developer subscription is renewable based on your development activity; however, some older subscriptions do expire. This article describes the difference between renewable and non-renewable subscriptions and how to update your subscription if it expires.
 
 ## Expiring vs. renewable developer subscriptions
 
