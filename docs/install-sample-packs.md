@@ -99,7 +99,7 @@ After you've installed the Users sample data pack, you can install mail and even
 
 The SharePoint sample data pack includes six different SharePoint site templates to choose from to experience and model SharePoint solutions for collaboration, communication, engagement, and knowledge management.
 
-These are some of the most popular templates from the SharePoint PnP look book. Today, it's simple to create sample solutions of beautiful, fast sites and pages that look great on any device or screen. Get inspired with these designs or add them to your sandbox tenant to start building your next site.
+These are some of the most popular templates from the [SharePoint PnP look book](https://lookbook.microsoft.com). Today, it's simple to create sample solutions of beautiful, fast sites and pages that look great on any device or screen. Get inspired with these designs or add them to your sandbox tenant to start building your next site.
 
 The templates can be installed on your subscription. After you install one template, you have the option to install the others. The installation process includes the following steps:
 
