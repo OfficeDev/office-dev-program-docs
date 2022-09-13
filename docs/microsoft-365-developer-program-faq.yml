@@ -125,6 +125,11 @@ sections:
           You can determine whether you have a Microsoft 365 E5 subscription or an Office 365 E3 subscription on the subscription tile on your [dashboard](https://developer.microsoft.com/office/profile). The tile will show either E3 or E5 under the subscription domain name.
           
       - question: |
+          Does the instant sandbox have different capabilities than a standard Microsoft 365 E5 subscription?
+        answer: |
+          Inbound connectors for mailflow for Exchange Online are not supported. If you try to create a connector, you will get the following error: "Error executing request. For this service offering, you can't create or update inbound connectors in your organization <tenantID>."
+
+      - question: |
           Does the subscription also include a subscription to Azure?
         answer: |
           This offer does not include a subscription to Azure. However, to receive free access to Azure services, you can [create a free Azure account](https://azure.microsoft.com/free/). 
