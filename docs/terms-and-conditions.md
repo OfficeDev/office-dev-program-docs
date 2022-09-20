@@ -174,7 +174,7 @@ Any reference in this agreement to “day” will be a calendar day.
 
 “Documentation Portal” means the Microsoft site for developers and IT professionals at [learn.microsoft.com](/) or at an alternate site we identify.
 
-“Microsoft API Terms” means the terms located in [Microsoft APIs Terms of Use](/legal/microsoft-apis/terms-of-use).
+“Microsoft API Terms” means the terms located at [https://learn.microsoft.com/legal/microsoft-apis/terms-of-use](/legal/microsoft-apis/terms-of-use).
 
 “Microsoft Content” means Content on the Services provided by Microsoft and its suppliers.
 
