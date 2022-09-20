@@ -172,7 +172,7 @@ Any reference in this agreement to “day” will be a calendar day.
 “Developer Services Portal” means the Microsoft 365 Developer Hub available in the Microsoft 365 Developer offering.
 “Developer Services Software” means Microsoft software we provide to you as part of the Developer Services for use with the Developer Services.
 
-“Documentation Portal” means the Microsoft site for developers and IT professionals at [Microsoft Learn training](/) or at an alternate site we identify.
+“Documentation Portal” means the Microsoft site for developers and IT professionals at [learn.microsoft.com](/) or at an alternate site we identify.
 
 “Microsoft API Terms” means the terms located in [Microsoft APIs Terms of Use](/legal/microsoft-apis/terms-of-use).
 
