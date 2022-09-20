@@ -187,9 +187,9 @@ sections:
 
           If you choose to migrate to a Microsoft 365 E5 subscription, you can use the free tool [Microsoft Mover](https://mover.io/) to migrate your data. See also the following resources:
 
-          - [How to migrate mailboxes from one Microsoft 365 tenant to another](https://docs.microsoft.com/en-us/exchange/mailbox-migration/migrate-mailboxes-across-tenants)
-          - [Using PowerShell to perform a staged migration to Office 365](https://docs.microsoft.com/en-us/microsoft-365/enterprise/use-powershell-to-perform-a-staged-migration-to-microsoft-365?view=o365-worldwide)
-          - [Migrate your content to Microsoft 365](https://docs.microsoft.com/en-us/sharepointmigration/migrate-to-sharepoint-online)
+          - [How to migrate mailboxes from one Microsoft 365 tenant to another](/exchange/mailbox-migration/migrate-mailboxes-across-tenants)
+          - [Using PowerShell to perform a staged migration to Office 365](/microsoft-365/enterprise/use-powershell-to-perform-a-staged-migration-to-microsoft-365?view=o365-worldwide)
+          - [Migrate your content to Microsoft 365](/sharepointmigration/migrate-to-sharepoint-online)
 
       - question: |
           Should I choose an instant sandbox or a configurable sandbox?
