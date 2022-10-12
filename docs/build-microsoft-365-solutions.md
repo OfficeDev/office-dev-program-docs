@@ -72,7 +72,7 @@ To get set up and start coding SharePoint Add-ins:
 
 ## Power Apps
 
-Power Apps for Office 365 is included in your Microsoft 365 E5 developer subscription license. This means that you can create and test unlimitd apps with [standard connectors](https://docs.microsoft.com/connectors/connector-reference/connector-reference-standard-connectors). To use [premium](https://docs.microsoft.com/connectors/connector-reference/connector-reference-premium-connectors) or custom connectors, and Dataverse you need an aditional license. For development and testing purposes, you can use the [Power Apps Developer Plan](https://powerapps.microsoft.com/developerplan). 
+Power Apps for Office 365 is included in your Microsoft 365 E5 developer subscription license. This means that you can create and test unlimitd apps with [standard connectors](/connectors/connector-reference/connector-reference-standard-connectors). To use [premium](/connectors/connector-reference/connector-reference-premium-connectors) or custom connectors, and Dataverse you need an aditional license. For development and testing purposes, you can use the [Power Apps Developer Plan](https://powerapps.microsoft.com/developerplan). 
 
 Power Apps is a suite of apps, services, connectors and data platform that provides a rapid application development environment to build custom apps for your business needs. Using Power Apps, you can quickly build custom business apps that connect to your business data stored either in the underlying data platform (Common Data Service) or in various online and on-premises data sources (SharePoint, Microsoft 365, Dynamics 365, SQL Server, and so on).
 
