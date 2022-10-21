@@ -128,11 +128,20 @@ sections:
           Does the instant sandbox have different capabilities than a standard Microsoft 365 E5 subscription?
         answer: |
           In Exchange Online, inbound connectors for mailflow are not supported. If you try to create an inbound connector, you will get the following error: "Error executing request. For this service offering, you can't create or update inbound connectors in your organization."
+      
+      - question: |
+          I'm unable to sign in to my instant sandbox with my admin account. What can I do?
+        answer: |
+          If you set up your instant sandbox on or after September 30, 2022, your ability to sign in with your admin account may have expired. In this case, we have pre-expired your instant sandbox and you will need to set up a new one. Please go to your [Microsoft 365 Developer Program dashboard](https://aka.ms/DevProgramDashboard), sign in with your Developer Program account, and choose **Set up subscription** to get your new instant sandbox.  
+
+          After you set up your new instant sandbox, please sign in with your admin account within 14 days.
 
       - question: |
           Does the subscription also include a subscription to Azure?
         answer: |
-          This offer does not include a subscription to Azure. However, to receive free access to Azure services, you can [create a free Azure account](https://azure.microsoft.com/free/). 
+          This offer does not include a subscription to Azure. Commercial transactions, such as purchasing additional paid services, are not supported on your Microsoft 365 Developer Program subscription; it is only for developing and testing your solutions. 
+          
+          To receive free access to Azure services, you can [create a free Azure account](https://azure.microsoft.com/free/). 
           
       - question: |
           How many user licenses does the developer subscription include?
