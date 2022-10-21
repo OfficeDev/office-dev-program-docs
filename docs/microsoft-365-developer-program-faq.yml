@@ -130,6 +130,11 @@ sections:
           In Exchange Online, inbound connectors for mailflow are not supported. If you try to create an inbound connector, you will get the following error: "Error executing request. For this service offering, you can't create or update inbound connectors in your organization."
       
       - question: |
+          Why can't I sign in to my Developer Program dashboard?
+        answer: |
+          We require members of the Microsoft 365 Developer Program to adhere to the [Terms and conditions](terms-and-conditions.md). In some instances, we may not allow members who violate our terms to sign in to the program.
+      
+      - question: |
           I'm unable to sign in to my instant sandbox with my admin account. What can I do?
         answer: |
           If you set up your instant sandbox on or after September 30, 2022, your ability to sign in with your admin account may have expired. In this case, we have pre-expired your instant sandbox and you will need to set up a new one. Please go to your [Microsoft 365 Developer Program dashboard](https://aka.ms/DevProgramDashboard), sign in with your Developer Program account, and choose **Set up subscription** to get your new instant sandbox.  
