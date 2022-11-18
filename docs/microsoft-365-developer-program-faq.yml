@@ -40,6 +40,8 @@ sections:
         answer: |
           You can only have one Microsoft 365 Developer Program account associated with your phone number. If you need to set up a new Developer Program account, for example to use a different email account or account type, you must delete your existing account first. To delete your account, sign in to your [dashboard](https://developer.microsoft.com/en-us/microsoft-365/profile) and choose **Delete Profile**.
 
+          Note that if you delete your Developer Program account, you can only get a subscription after you have had your existing subscription for 90 days.
+
       - question: |
           How can I get a Microsoft 365 developer subscription via the Developer Program?  
         answer: |
