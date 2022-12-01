@@ -63,7 +63,7 @@ If you selected a configurable sandbox:
 
  > [!NOTE] 
     > You must use a valid cell phone number and not Voice over IP (VoIP). You can only have one Microsoft 365 Developer Program account associated with your phone number. 
-    > 
+
 4.	After the subscription is created, your subscription domain name and expiration date appear on your profile page.
 
 
