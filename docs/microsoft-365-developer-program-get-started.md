@@ -48,7 +48,7 @@ If you selected an instant sandbox:
 2.	Provide a valid cell phone number and choose **Send code**. Enter the code that you receive, and then choose **Set up**.
 
     > [!NOTE] 
-    > You must use a valid cell phone number and not Voice over IP (VoIP).
+    > You must use a valid cell phone number and not Voice over IP (VoIP). You can only have one Microsoft 365 Developer Program account associated with your phone number. 
 
 3.	After the subscription is created, your subscription domain name and expiration date appear on your profile page.
 

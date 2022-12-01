@@ -36,6 +36,13 @@ sections:
           - **Visual Studio ID** (created for your Visual Studio Professional or Enterprise subscriptions) - We recommend that you use this option to join the developer program from within the Visual Studio Gallery to get the full benefits as a Visual Studio subscriber. 
           
       - question: |
+          How many Microsoft 365 Developer Program accounts can I create?
+        answer: |
+          You can only have one Microsoft 365 Developer Program account associated with your phone number. If you need to set up a new Developer Program account, for example to use a different email account or account type, you must delete your existing account first. To delete your account, sign in to your [dashboard](https://developer.microsoft.com/en-us/microsoft-365/profile) and choose **Delete Profile**.
+
+          Note that if you delete your Developer Program account, you can only get a subscription after you have had your existing subscription for more than 60 days.
+
+      - question: |
           How can I get a Microsoft 365 developer subscription via the Developer Program?  
         answer: |
           When you join the Microsoft 365 Developer Program, you qualify to get a free Microsoft 365 E5 developer subscription. This is a special subscription designed to be used for application development only. For more information, see [Set up a Microsoft 365 developer subscription](microsoft-365-developer-program-get-started.md).
@@ -124,6 +131,11 @@ sections:
           
           You can determine whether you have a Microsoft 365 E5 subscription or an Office 365 E3 subscription on the subscription tile on your [dashboard](https://developer.microsoft.com/office/profile). The tile will show either E3 or E5 under the subscription domain name.
           
+      - question: |
+          How can I get a new subscription?
+        answer: |
+          You can only have one Microsoft 365 developer subscription associated with your Developer Program account. If you want to get a new instant or configurable sandbox, you can [delete your account](#how-many-microsoft-365-developer-program-accounts-can-i-create) and set up a new one. Note that you can only get a new subscription after you have had your subscription for more than 60 days.
+      
       - question: |
           Does the instant sandbox have different capabilities than a standard Microsoft 365 E5 subscription?
         answer: |
