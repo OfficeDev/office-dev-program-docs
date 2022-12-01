@@ -40,7 +40,7 @@ sections:
         answer: |
           You can only have one Microsoft 365 Developer Program account associated with your phone number. If you need to set up a new Developer Program account, for example to use a different email account or account type, you must delete your existing account first. To delete your account, sign in to your [dashboard](https://developer.microsoft.com/en-us/microsoft-365/profile) and choose **Delete Profile**.
 
-          Note that if you delete your Developer Program account, you can only get a subscription after you have had your existing subscription for 90 days.
+          Note that if you delete your Developer Program account, you can only get a subscription after you have had your existing subscription for more than 60 days.
 
       - question: |
           How can I get a Microsoft 365 developer subscription via the Developer Program?  
@@ -134,7 +134,7 @@ sections:
       - question: |
           How can I get a new subscription?
         answer: |
-          You can only have one Microsoft 365 developer subscription associated with your Developer Program account. If you want to get a new instant or configurable sandbox, you can [delete your account](#how-many-microsoft-365-developer-program-accounts-can-i-create) and set up a new one. Note that you can only get a new subscription after you have had your subscription for 90 days.
+          You can only have one Microsoft 365 developer subscription associated with your Developer Program account. If you want to get a new instant or configurable sandbox, you can [delete your account](#how-many-microsoft-365-developer-program-accounts-can-i-create) and set up a new one. Note that you can only get a new subscription after you have had your subscription for more than 60 days.
       
       - question: |
           Does the instant sandbox have different capabilities than a standard Microsoft 365 E5 subscription?
