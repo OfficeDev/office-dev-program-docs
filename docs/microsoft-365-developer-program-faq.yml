@@ -46,6 +46,11 @@ sections:
           How can I get a Microsoft 365 developer subscription via the Developer Program?  
         answer: |
           When you join the Microsoft 365 Developer Program, you qualify to get a free Microsoft 365 E5 developer subscription. This is a special subscription designed to be used for application development only. For more information, see [Set up a Microsoft 365 developer subscription](microsoft-365-developer-program-get-started.md).
+      
+      - question: |
+          How many Microsoft 365 developer subscriptions can I get via the Developer Program?  
+        answer: |
+          You can have only one Microsoft 365 developer subscription through your membership in the Developer Program. If you want a new developer subscription, see [How can I get a new subscription?](#how-can-i-get-a-new-subscription).
           
       - question: |
           What ID do I use to sign in to the Developer Program dashboard?
