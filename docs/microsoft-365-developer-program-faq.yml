@@ -156,9 +156,9 @@ sections:
         answer: |
           If you don't remember the email address you used to sign in to the program:
           - On the **Sign in** page, choose **Sign in with a security key**.
-          - On the **Sign-in** options page, choose **Sign in with a security key**.
+          - On the **Sign-in options** page, choose **Sign in with a security key**.
           - On the **Recover your username** page, enter the phone number that you used to join the Microsoft 365 Developer Program.
-          - On the **Enter your security code** page, enter the security code that you received.
+          - Enter the security code that you received.
           - Select the email address that you used to join the Developer Program, and choose **Sign in**.
       
       - question: |
