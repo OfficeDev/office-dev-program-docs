@@ -1,6 +1,10 @@
 {
 	"redirections": [
 		{
+			"source_path": "docs/subscription-expiration-and-renewal.md",
+			"redirect_url": "/office/developer-program/microsoft-365-developer-program-faq"
+		},
+		{
 			"source_path": "docs/office-365-developer-program-faq.md",
 			"redirect_url": "/office/developer-program/microsoft-365-developer-program-faq"
 		},
