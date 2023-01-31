@@ -152,6 +152,16 @@ sections:
           We require members of the Microsoft 365 Developer Program to adhere to the [Terms and conditions](terms-and-conditions.md). In some instances, we may not allow members who violate our terms to sign in to the program.
 
       - question: |
+          I forgot my email address. How can I sign in to the Developer Program?
+        answer: |
+          If you don't remember the email address you used to sign in to the program:
+          - On the **Sign in** page, choose **Sign-in options**.
+          - On the **Sign-in options** page, choose **Forgot my username**.
+          - On the **Recover your username** page, enter the phone number that you used to join the Microsoft 365 Developer Program.
+          - Enter the security code that you received.
+          - Select the email address that you used to join the Developer Program, and choose **Sign in**.
+      
+      - question: |
           Does the subscription also include a subscription to Azure?
         answer: |
           This offer does not include a subscription to Azure. Commercial transactions, such as purchasing additional paid services, are not supported on your Microsoft 365 Developer Program subscription; it is only for developing and testing your solutions. 
