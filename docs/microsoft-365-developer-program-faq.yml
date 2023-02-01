@@ -154,7 +154,7 @@ sections:
       - question: |
           I forgot my email address. How can I sign in to the Developer Program?
         answer: |
-          If you don't remember the email address you used to sign in to the program:
+          If you don't remember the email address you used to sign in to the program, you can use your phone number to recover it. For example, to recover a Microsoft account:
           - On the **Sign in** page, choose **Sign-in options**.
           - On the **Sign-in options** page, choose **Forgot my username**.
           - On the **Recover your username** page, enter the phone number that you used to join the Microsoft 365 Developer Program.
