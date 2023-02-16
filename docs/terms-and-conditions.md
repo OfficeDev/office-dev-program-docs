@@ -5,7 +5,7 @@ ms.localizationpriority: high
 
 # Terms and conditions
 
-Last updated: August 25, 2021
+Last updated: February 15, 2023
 
 This agreement is between you or the entity you represent and Microsoft Corporation, and consists of the terms below, Exhibit A, terms incorporated by reference, terms applicable to other Microsoft web sites and services that you use and are necessary to use the Services (for example, your Microsoft Account), Microsoft API Terms, and the Privacy Statement (together, the “Agreement”). If you are entering into this Agreement on behalf of an entity, such as your employer, you represent that you have the legal authority to bind that entity. If you specify a company name in connection with signing up for or ordering a Service, you will be deemed to have placed that order and to have entered into this Agreement on behalf of that organization or company. Key terms are defined in Section 11. By accepting this Agreement, you agree to these terms. If you do not accept and comply with this Agreement, you may not use the Services.
 
@@ -13,7 +13,7 @@ This agreement is between you or the entity you represent and Microsoft Corporat
 
 a.	**Right to use.** We grant you the right to access and use the Services in accordance with this Agreement to design, develop, and test your applications to make them available for your Microsoft 365 online services, on-premises deployments or for the Microsoft In-product Store and/or AppSource. You may not use the Services for production use.
 
-b.	**User Plan.** Each user of the Microsoft 365 Developer portion of the Developer Services must be allocated an individual User Plan, whether they access the service directly or indirectly.
+b.	**User Plan.** Each user of the Microsoft 365 Developer portion of the Developer Services must be allocated an individual User Plan, whether they access the service directly or indirectly. You are entitled to **one** free subscription to Microsoft 365 Developer under this Agreement.   
 
 c.	**Manner of use.** You may not:
     
@@ -75,7 +75,7 @@ k.	**Claims of infringement.** We will inform you if we receive notice claiming 
 
 #### 5. Customer accounts, customer conduct, identity services, and feedback.
 
-a.	**Account creation.** If any of the Services requires you to open an account, you must complete the registration process by providing us with current, complete and accurate information. You must be the age of consent or older to create an account. You may not select an account user name or identifier that impersonates someone else, is or may be illegal, or may be protected by trademark or other proprietary rights, is vulgar or offensive or may cause confusion. We reserve the right to reject and/or reassign these user names and Service identifiers in our sole discretion.
+a.	**Account creation.** If any of the Services requires you to open an account, you must complete the registration process by providing us with current, complete and accurate information. You must be the age of consent or older to create an account. You may not select an account user name or identifier that impersonates someone else, is or may be illegal, or may be protected by trademark or other proprietary rights, is vulgar or offensive or may cause confusion. We reserve the right to reject and/or reassign these user names and Service identifiers in our sole discretion. Each individual is entitled to one account to use with these Services and a user may not register for an additional account using other information. If a user creates multiple accounts, Microsoft may suspend or delete such additional accounts at its discretion.
 
 b.	**Responsibility for your accounts.** You are responsible for: any and all activities that occur under your account; maintaining the confidentiality of any non-public authentication credentials associated with your use of the Services; and promptly notifying our customer support team about any possible misuse of your accounts or authentication credentials, or any security incident related to the Services.
 
@@ -89,7 +89,7 @@ f.	**Services accessible only to invited customers.** Elements of the Services m
 
 #### 6. Term, termination, and suspension.
 
-a.	**Agreement term and termination.** The term of this Agreement begins when you accept it. You may terminate this Agreement at any time by deleting your profile at [https://aka.ms/o365devprogramprofile](https://aka.ms/o365devprogramprofile).  Upon termination of this Agreement your contact information and preferences will be removed and your optional free subscription to Microsoft 365 Developer obtained under this Agreement will end.
+a.	**Agreement term and termination.** The term of this Agreement begins when you accept it. You may terminate this Agreement at any time by deleting your profile at [https://aka.ms/DevProgramDashboard](https://aka.ms/DevProgramDashboard).  Upon termination of this Agreement your contact information and preferences will be removed; your optional free subscription to Microsoft 365 Developer obtained under this Agreement will end and your access to Developer Services will end.
 
 b.	**Regulatory.** In any country where any current or future government regulation or requirement that applies to us, but not generally to businesses operating there, presents a hardship to us operating the Services without change, and/or causes us to believe this Agreement or the Services may be in conflict with any such regulation or requirement, we may change the Services or terminate the Agreement. Your sole remedy for such changes to the Services under this Section is to terminate this Agreement.
 
