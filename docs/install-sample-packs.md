@@ -4,7 +4,7 @@ description: Learn how to install sample data packs on your developer subscripti
 ms.localizationpriority: high
 ---
 
-# Developer sandbox sample data
+# Use sample data packs with your Microsoft 365 Developer Program subscription
 
 Your Microsoft 365 Developer Program sandbox subscription comes with sample data to save you time by providing data and content you need to build and test your solutions.
 
