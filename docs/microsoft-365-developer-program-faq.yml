@@ -17,12 +17,12 @@ sections:
         answer: |
           The Microsoft 365 Developer Program is designed to help you build people-centric, cross-platform productivity experiences that extend Microsoft 365. Join our program to get access to the tools, documentation, training, experts, and community events that you need to build great solutions for Microsoft 365 products and technologies, including:
           
-          - [Excel](https://developer.microsoft.com/excel), [Outlook](https://developer.microsoft.com/outlook), [Word](https://developer.microsoft.com/word), and [PowerPoint](https://developer.microsoft.com/powerpoint) web add-ins
-          - [SharePoint](https://developer.microsoft.com/sharepoint)
-          - [Microsoft Teams](https://developer.microsoft.com/microsoft-teams)
-          - [Microsoft Graph](https://developer.microsoft.com/graph)
+          - [Excel](https://developer.microsoft.com/en-us/excel), [Outlook](https://developer.microsoft.com/en-us/outlook), [Word](https://developer.microsoft.com/en-us/word), and [PowerPoint](https://developer.microsoft.com/en-us/powerpoint) web add-ins
+          - [SharePoint](https://developer.microsoft.com/en-us/sharepoint)
+          - [Microsoft Teams](https://developer.microsoft.com/en-us/microsoft-teams)
+          - [Microsoft Graph](https://developer.microsoft.com/en-us/graph)
           
-          As a program member, you can get a free Microsoft 365 developer subscription with 25 user licenses to use to build your solutions. This subscription will remain active for as long as you’re actively developing and deploying solutions.
+          As a program member, you can get a free Microsoft 365 developer subscription with 25 user licenses to use to build your solutions. This subscription will remain active for as long as you're actively developing and deploying solutions.
           
           For more information, see [Join the Microsoft 365 Developer Program](microsoft-365-developer-program.md) and [Build Microsoft 365 solutions](build-microsoft-365-solutions.md).
           
@@ -134,7 +134,7 @@ sections:
           -	Whiteboard (Plan 3) 
           -	Yammer Enterprise 
           
-          You can determine whether you have a Microsoft 365 E5 subscription or an Office 365 E3 subscription on the subscription tile on your [dashboard](https://developer.microsoft.com/office/profile). The tile will show either E3 or E5 under the subscription domain name.
+          You can determine whether you have a Microsoft 365 E5 subscription or an Office 365 E3 subscription on the subscription tile on your [dashboard](https://developer.microsoft.com/en-us/microsoft-365/profile). The tile will show either E3 or E5 under the subscription domain name.
           
       - question: |
           How can I get a new subscription?
@@ -183,7 +183,7 @@ sections:
           <a name="renew-subscription"> </a>
           
       - question: |
-          Why don’t you offer a one-year subscription?
+          Why don't you offer a one-year subscription?
         answer: |
           In April 2019, we transitioned to a new model where your subscription can be renewed perpetually every 90 days if you're actively using it for development. We believe that this model ensures that developers who are actively developing solutions have a subscription for as long as they need one. If you're developing frequently, your subscription never expires; it is automatically extended. If you're developing for a short time, and your subscription expires and is deleted, you can sign up for a new one. 
           
@@ -242,12 +242,12 @@ sections:
       - question: |
           How can I find the Teams sample data in my instant sandbox?
         answer: |
-          To see the Microsoft Teams sample data, go to **Teams** in your Microsoft 365 E5 subscription. On the Teams tab, you’ll see some pre-created teams with chats from sample users in the **Mark 8 Project Team**. The App Studio/Dev Portal app is pre-installed and pinned to the navigation pane.
+          To see the Microsoft Teams sample data, go to **Teams** in your Microsoft 365 E5 subscription. On the Teams tab, you'll see some pre-created teams with chats from sample users in the **Mark 8 Project Team**. The App Studio/Dev Portal app is pre-installed and pinned to the navigation pane.
 
       - question: |
           Why should I link my GitHub account?
         answer: |
-          When you join the Microsoft 365 Developer Program, on your [My settings](https://developer.microsoft.com/microsoft-365/profile/settings/preferences) page, you can link your GitHub account to your developer program account. Linking your GitHub account will accrue toward the renewal of your Microsoft 365 developer sandbox subscription. You can also choose to unlink your account by going to the [Accounts linked](https://developer.microsoft.com/microsoft-365/profile/settings/accounts-linked) section of your **My settings** page.
+          When you join the Microsoft 365 Developer Program, on your [My settings](https://developer.microsoft.com/en-us/microsoft-365/profile/settings/preferences) page, you can link your GitHub account to your developer program account. Linking your GitHub account will accrue toward the renewal of your Microsoft 365 developer sandbox subscription. You can also choose to unlink your account by going to the [Accounts linked](https://developer.microsoft.com/en-us/microsoft-365/profile/settings/accounts-linked) section of your **My settings** page.
             
       - question: |
           Can I choose whether to have an Office 365 E3 or a Microsoft 365 E5 subscription?
