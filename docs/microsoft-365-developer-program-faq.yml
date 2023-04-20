@@ -50,7 +50,7 @@ sections:
       - question: |
           How many Microsoft 365 developer subscriptions can I get via the Developer Program?  
         answer: |
-          You can have only one Microsoft 365 developer subscription through your membership in the Developer Program. If you want a new developer subscription, see [How can I get a new subscription?](#how-can-i-get-a-new-subscription).
+          You can have only one Microsoft 365 developer subscription through your membership in the Developer Program. If you want a new developer subscription, see [How can I get a new subscription?](#how-can-i-get-a-new-subscription-).
           
       - question: |
           What ID do I use to sign in to the Developer Program dashboard?

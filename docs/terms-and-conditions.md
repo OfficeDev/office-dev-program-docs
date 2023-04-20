@@ -1,6 +1,7 @@
 ---
 title: Terms and conditions
 ms.localizationpriority: high
+description: Learn about the Microsoft 365 Developer Program terms and conditions.
 ---
 
 # Terms and conditions

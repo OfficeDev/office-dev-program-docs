@@ -199,10 +199,10 @@ To see the Users sample data, go to the [**Microsoft 365 Admin Center**](https:/
 
 ![Screenshot of 16 users in the Microsoft 365 Admin Center, with metadata for a selected user](images/content-packs-07.PNG)
 
-To see the Mail & Events sample data, in the [**Microsoft 365 Admin Center**](/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide), choose **Show all** and then select **Exchange**. In the Exchange admin center, when you select **recipients**, you can see that each of the 16 users has mailboxes with mail and events added.
+To see the Mail & Events sample data, in the [**Microsoft 365 Admin Center**](/microsoft-365/admin/admin-overview/about-the-admin-center), choose **Show all** and then select **Exchange**. In the Exchange admin center, when you select **recipients**, you can see that each of the 16 users has mailboxes with mail and events added.
 ![Screenshot of 16 users added to the Exchange Admin Center](images/content-packs-08.PNG)
 
-To see the Microsoft Teams sample data, go to **Teams** in your Microsoft 365 E5 subscription. On the Teams tab, you’ll see some pre-created teams with chats from sample users in the **Mark 8 Project Team**. The App Studio/Dev Portal app is pre-installed and pinned to the navigation pane.
+To see the Microsoft Teams sample data, go to **Teams** in your Microsoft 365 E5 subscription. On the Teams tab, you'll see some pre-created teams with chats from sample users in the **Mark 8 Project Team**. The App Studio/Dev Portal app is pre-installed and pinned to the navigation pane.
 
 To see the SharePoint sample data, go to the SharePoint admin center, and choose **Active sites** in the left navigation. You can see the sample sites that are pre-installed and any additional site templates that you install in your sandbox.
 
