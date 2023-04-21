@@ -1,6 +1,7 @@
 ---
 title: Terms and conditions
 ms.localizationpriority: high
+description: Learn about the Microsoft 365 Developer Program terms and conditions.
 ---
 
 # Terms and conditions
@@ -188,7 +189,7 @@ Any reference in this agreement to “day” will be a calendar day.
 
 “Privacy Statement” means the Services privacy statement ([https://go.microsoft.com/fwlink/?LinkID=246330](https://go.microsoft.com/fwlink/?LinkID=246330)).
 
-“Services” means the Developer Services, Documentation Portal, the [https://developer.microsoft.com/microsoft-365/](https://developer.microsoft.com/microsoft-365/) site, and Microsoft Software we make available to you under this Agreement.
+“Services” means the Developer Services, Documentation Portal, the [https://developer.microsoft.com/en-us/microsoft-365/](https://developer.microsoft.com/en-us/microsoft-365/) site, and Microsoft Software we make available to you under this Agreement.
 
  “Submissions” means Content, code, comments, feedback, suggestions, information or materials that you provide via the Documentation Portal or any Services for public access (rather than for your personal use or use by your authorized users). Submissions do not include Customer Data.
 
