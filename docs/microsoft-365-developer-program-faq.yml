@@ -61,7 +61,12 @@ sections:
           What ID do I use to sign in to my developer subscription?
         answer: |
           Use the administrator ID that you created when you set up your developer subscription. You can find your administrator ID on the subscription tile on the [Developer Program dashboard](https://aka.ms/DevProgramDashboard).
-          
+
+      - question: |
+          Does the Microsoft 365 E5 developer subscription include all the same capabilities that the regular Microsoft 365 E5 subscription includes?
+        answer: |
+          The Microsoft 365 E5 developer subscription has the same licensing and capabilities that a regular Microsoft 365 E5 subscription includes except that Exchange Online and inbound connectors for mailflow are not supported, and you cannot purchase additional services via your tenant admin account. Any additional services (like Azure) must be purchased using your personal/enterprise account (for example, {myusername}@{myorg}.com rather than admin@{mytestdomain}.onmicrosoft.com) and then moved into the subscription.
+
       - question: |
           What's included in the developer subscription?
         answer: |
@@ -135,7 +140,30 @@ sections:
           -	Yammer Enterprise 
           
           You can determine whether you have a Microsoft 365 E5 subscription or an Office 365 E3 subscription on the subscription tile on your [dashboard](https://developer.microsoft.com/en-us/microsoft-365/profile). The tile will show either E3 or E5 under the subscription domain name.
+
+      - question: |     
+          What Power Automate capabilities are included in the Microsoft 365 E5 developer subscription?
+        answer: |
+          Limited Power Automate use rights are included with select Office 365 licenses to allow users to customize and extend Office 365 for personal productivity scenarios. For enterprise scenarios, Microsoft recommends standalone licenses.
           
+          Microsoft 365 licenses include the following Power Automate capabilities:
+          - Create and run automated, scheduled, and button flows.
+          - Access to [standard connectors](/power-platform/admin/power-automate-licensing/types#standard-connectors).
+          - 2,000 [Power Platform requests/day](/power-platform/admin/power-automate-licensing/types#power-platform-requests). 10,000 requests/day during the [transition period](/power-platform/admin/power-automate-licensing/types#transition-period).
+          
+          The following Power Automate capabilities aren't included:
+          - Access to [premium connectors](/power-platform/admin/power-automate-licensing/types#premium-connectors), except in Dataverse for Teams environments. For details, see [Dataverse capabilities](/power-platform/admin/pricing-billing-skus#dataverse-capabilities-with-microsoft-365-licenses).
+          - [Business process flows](/power-platform/admin/power-automate-licensing/types#business-process-flows).
+          - [Custom connectors](/power-platform/admin/power-automate-licensing/types#custom-connectors).
+          - [On-premises gateways](/power-platform/admin/power-automate-licensing/types#on-premises-gateway).
+          - [Robotic Process Automation](/power-platform/admin/power-automate-licensing/types#robotic-process-automation).
+          - [AI Builder capacity](/power-platform/admin/power-automate-licensing/types#ai-builder-credits).
+
+      - question: |
+          What Power BI capabilities are included in the Microsoft 365 E5 developer subscription?
+        answer: |
+          The Microsoft 365 E5 developer subscriptions includes a Power BI Pro license. It does not include Power BI Premium.
+      
       - question: |
           How can I get a new subscription?
         answer: |
@@ -172,7 +200,12 @@ sections:
           How many user licenses does the developer subscription include?
         answer: |
           Your Office 365 E3 or Microsoft 365 E5 developer subscription includes 25 user licenses, including the administrator, for development purposes only. Using this subscription for any purpose other than application development is a violation of the license agreement. For more details about the licensing restrictions, see the [terms of use](terms-and-conditions.md).
-          
+
+      - question: |
+          Can I control and manage the user licenses in the subscription?
+        answer: |
+          Your subscription includes 25 user accounts plus one administrator account. If you set up an instant sandbox or installed the [Users sample data pack](install-sample-packs.md#install-the-users-sample-data-pack) on your configurable sandbox, 16 of the 25 user accounts are prepopulated for you. You can manage the users in your subscription via the admin center.
+
       - question: |
           How long is my subscription good for, and when does it expire?
         answer: |
@@ -182,6 +215,11 @@ sections:
           
           <a name="renew-subscription"> </a>
           
+      - question: |
+          Can I share my developer subscription with my team?
+        answer: |
+          As a member of the Microsoft 365 Developer Program, you are entitled to one free Microsoft 365 developer subscription. Your subscription is associated with your developer program account. You can't transfer owership of your subscription to a different account.  
+      
       - question: |
           Why don't you offer a one-year subscription?
         answer: |
@@ -278,8 +316,6 @@ sections:
           Is the Microsoft 365 developer subscription available in my language?
         answer: |
           The Microsoft 365 developer subscription is only offered in English.
-          
-          The Developer Program website is available in the following languages: Chinese (Simplified), French, German, Japanese, Portuguese (Brazil), Russian, and Spanish.
 
       - question: |
           How do I leave the Microsoft 365 Developer Program?
@@ -294,18 +330,3 @@ sections:
           2. Choose **Delete Profile**.
           
           3. In the **Delete Profile** confirmation box, choose **Delete**.
-          
-      - question: |
-          Support
-        answer: |
-          If you have issues setting up your subscription, see the following support resource:
-          
-          - [Stack Overflow](https://stackoverflow.com/questions)   
-          
-      - question: |
-          See also
-        answer: |
-          - [Join the Microsoft 365 Developer Program](microsoft-365-developer-program.md)
-          - [Set up a Microsoft 365 developer subscription](microsoft-365-developer-program-get-started.md)
-          - [Use your subscription to build Microsoft 365 solutions](build-microsoft-365-solutions.md)
-          - [Renew an expiring subscription](subscription-expiration-and-renewal.md)

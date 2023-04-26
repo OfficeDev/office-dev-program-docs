@@ -28,7 +28,7 @@ If you have an instant sandbox, the sample data packs are already pre-installed.
 If you have a configurable sandbox, you can quickly install the sample data so that you can focus on your solutions rather than spend time creating sample data yourself.
 
 > [!NOTE] 
-> You can’t install sample data packs on any other Microsoft 365 subscription. These sample data packs are only compatible with the Microsoft 365 developer sandbox subscription you get as part of the Microsoft 365 Developer Program.
+> You can't install sample data packs on any other Microsoft 365 subscription. These sample data packs are only compatible with the Microsoft 365 developer sandbox subscription you get as part of the Microsoft 365 Developer Program.
 
 You can find sample data packs on your [Microsoft 365 Developer Program dashboard](https://developer.microsoft.com/en-us/microsoft-365/profile), at the bottom of your subscription tile.
 

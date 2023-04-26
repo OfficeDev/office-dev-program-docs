@@ -101,6 +101,10 @@ If you selected a configurable sandbox:
    > [!NOTE] 
    > At this time, the subscription's region defaults to North America regardless of which country/region you are in. You can still proceed with setting up and using your developer subscription.
 
+## Set up multifactor authentication
+
+Set up multifactor authentication to safeguard your access to your sandbox. To set up multifactor authentication, sign in to your new sandbox with your admin account. In the left pane, choose **Admin**, choose **Setup**, and then choose **Configure multifcator authentication (MFA)**. Link the MFA to the email and phone number you used when you set up your sandbox. You will be able to use them to recover your sandbox if you forget your password.
+
 ## Provision Microsoft 365 services in your configurable sandbox
 
 If you have a configurable sandbox, it will take some time for the backend services, such as SharePoint and Exchange, to provision for the subscription. During this step, some of the icons in the app launcher and on the Home page show as **Setting up (This app is still being set up)**. This will take no longer than an hour.
@@ -118,6 +122,10 @@ For some Office solutions, you might need a Microsoft Azure account to build usi
 You can install sample data packs on your configurable sandbox. If you chose the instant sandbox, the sample date packs come pre-installed.
 
 Sample data packs save you time by automatically installing data and content you need to build and test your solutions. This includes fictitious users, metadata, and photos to simulate a small corporate environment. For details about the sample data packs that are available and how to install them, see [Developer sandbox sample data](install-sample-packs.md).
+
+## Set up a development environment and deployment pipeline
+
+For resources to help you set up your development environment and deployment pipeline, engage with the [Microsoft 365 and Power Platform Community](https://pnp.github.io/).
 
 ## See also
 
