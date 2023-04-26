@@ -15,7 +15,7 @@ Visual Studio Professional and Enterprise subscribers can join the Microsoft 365
 
 If you don't have a Visual Studio Professional or Enterprise subscription and you want one, see the [Visual Studio subscription](https://visualstudio.microsoft.com/vs/pricing/) page.
 
-If you already have a Visual Studio Professional or Enterprise subscription, you can join the Microsoft 365 Developer Program and get a Microsoft 365 developer subscription from your Visual Studio subscriber portal. Go to [Visual Studio | My Benefits](https://myvisualstudio.com/benefits) and click the **Microsoft 365 Developer subscription (E5)** tile, and you will automatically join the Microsoft 365 developer program with your Visual Studio ID.
+If you already have a Visual Studio Professional or Enterprise subscription, you can join the Microsoft 365 Developer Program and get a Microsoft 365 developer subscription from your Visual Studio subscriber portal. Go to [Visual Studio | My Benefits](https://my.visualstudio.com/benefits) and click the **Microsoft 365 Developer subscription (E5)** tile, and you will automatically join the Microsoft 365 developer program with your Visual Studio ID.
 
 ![Screen shot of the Visual Studio page with the Microsoft 365 developer subscription tile](images/visual-studio-dev-program-tile.jpg)
 
