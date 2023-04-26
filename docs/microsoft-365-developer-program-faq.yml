@@ -63,9 +63,9 @@ sections:
           Use the administrator ID that you created when you set up your developer subscription. You can find your administrator ID on the subscription tile on the [Developer Program dashboard](https://aka.ms/DevProgramDashboard).
 
       - question: |
-          Does the Microsoft 365 E5 developer subscription include all the same capabilities that the regular Microsoft 365 E5 subscription includes?
+          Does the Microsoft 365 E5 developer subscription include the same capabilities that the regular Microsoft 365 E5 subscription includes?
         answer: |
-          The Microsoft 365 E5 developer subscription has the same licensing and capabilities that a regular Microsoft 365 E5 subscription includes except that Exchange Online and inbound connectors for mailflow are not supported, and you cannot purchase additional services via your tenant admin account. Any additional services (like Azure) must be purchased using your personal/enterprise account (for example, {myusername}@{myorg}.com rather than admin@{mytestdomain}.onmicrosoft.com) and then moved into the subscription.
+          The Microsoft 365 E5 developer subscription has the same licensing and capabilities that a regular Microsoft 365 E5 subscription includes except that in Exchange Online, inbound connectors for mailflow are not supported, and you cannot purchase additional services via your tenant admin account. Any additional services (like Azure) must be purchased using your personal/enterprise account (for example, {myusername}@{myorg}.com rather than admin@{mytestdomain}.onmicrosoft.com), and then moved into the subscription.
 
       - question: |
           What's included in the developer subscription?
@@ -142,7 +142,7 @@ sections:
           You can determine whether you have a Microsoft 365 E5 subscription or an Office 365 E3 subscription on the subscription tile on your [dashboard](https://developer.microsoft.com/en-us/microsoft-365/profile). The tile will show either E3 or E5 under the subscription domain name.
 
       - question: |     
-          What Power Automate capabilities are included in the Microsoft 365 E5 developer subscription?
+          What Power Automate capabilities are included in the developer subscription?
         answer: |
           Limited Power Automate use rights are included with select Office 365 licenses to allow users to customize and extend Office 365 for personal productivity scenarios. For enterprise scenarios, Microsoft recommends standalone licenses.
           
@@ -160,7 +160,7 @@ sections:
           - [AI Builder capacity](/power-platform/admin/power-automate-licensing/types#ai-builder-credits).
 
       - question: |
-          What Power BI capabilities are included in the Microsoft 365 E5 developer subscription?
+          What Power BI capabilities are included in the developer subscription?
         answer: |
           The Microsoft 365 E5 developer subscriptions includes a Power BI Pro license. It does not include Power BI Premium.
       
@@ -168,11 +168,6 @@ sections:
           How can I get a new subscription?
         answer: |
           You can only have one Microsoft 365 developer subscription associated with your Developer Program account. If you want to get a new instant or configurable sandbox, you can [delete your account](#how-many-microsoft-365-developer-program-accounts-can-i-create-) and set up a new one. Note that you can only get a new subscription after you have had your subscription for more than 60 days.
-      
-      - question: |
-          Does the instant sandbox have different capabilities than a standard Microsoft 365 E5 subscription?
-        answer: |
-          In Exchange Online, inbound connectors for mailflow are not supported. If you try to create an inbound connector, you will get the following error: "Error executing request. For this service offering, you can't create or update inbound connectors in your organization."
       
       - question: |
           Why can't I sign in to my Developer Program dashboard?

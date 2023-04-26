@@ -12,8 +12,8 @@ Do you have a Visual Studio Pro or Enterprise subscription? If so, you can take 
 
 ## Join the Microsoft 365 Developer Program
 
-> [!NOTE]
-> If you're a paid Visual Studio subscriber, we recommend that you joim the program by activating the benefit through the Visual Studio membership portal. For details, see [Join with Visual Studio](join-with-visual-studio.md).
+> [!IMPORTANT]
+> If you're a paid Visual Studio subscriber, we recommend that you join the program by activating the benefit through the Visual Studio membership portal. For details, see [Join with Visual Studio](join-with-visual-studio.md).
 
 1. Go to the [Join the Microsoft 365 Developer Program](https://developer.microsoft.com/en-us/microsoft-365/dev-program) page. 
 
