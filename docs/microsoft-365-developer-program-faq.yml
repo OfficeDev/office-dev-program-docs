@@ -173,6 +173,12 @@ sections:
           Why can't I sign in to my Developer Program dashboard?
         answer: |
           We require members of the Microsoft 365 Developer Program to adhere to the [Terms and conditions](terms-and-conditions.md). In some instances, we may not allow members who violate our terms to sign in to the program.
+         
+      - question: |
+          I'm unable to sign in to my instant sandbox with my admin account. What can I do?
+        answer: |
+          If you set up your instant sandbox between May 31, 2023 and June 5, 2023, you will not be able to access your tenant due to a technical issue. Please go to your [Microsoft 365 Developer Program dashboard](https://aka.ms/DevProgramDashboard), sign in with your Developer Program account, and choose **Set up subscription** to get your new instant sandbox.  
+          After you set up your new instant sandbox, please sign in with your admin account within 14 days. We apologize for the inconvenience.
 
       - question: |
           I forgot my email address. How can I sign in to the Developer Program?
