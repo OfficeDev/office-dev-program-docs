@@ -23,4 +23,4 @@ If you already have a Visual Studio Professional or Enterprise subscription, you
 
 When you join the Microsoft 365 Developer Program with your Visual Studio subscription, your Microsoft 365 E5 developer sandbox subscription will automatically renew for the lifetime of your Visual Studio subscription. 
 
-If you join the developer program directly, your Microsoft 365 E5 developer sandbox subscription is good for 90 days and will renew indefinitely based on your development activity.
+If you join the developer program directly, your Microsoft 365 E5 developer sandbox subscription is good for 90 days and will renew regularly based on your development activity.
