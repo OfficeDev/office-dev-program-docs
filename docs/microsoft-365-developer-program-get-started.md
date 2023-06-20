@@ -36,8 +36,6 @@ To get a Microsoft 365 developer subscription:
 
 2. In the **Set up your Microsoft 365 E5 developer subscription** dialog box, choose whether you want an instant sandbox or a configurable sandbox, and then choose **Next**.
 
-    ![Screenshot of the Set up your Microsoft 365 E5 developer subscription dialog box](images/set-up-your-subscription.png)
-
 If you selected an instant sandbox:
 
 1.	Choose the **Country/region for your data center**, and provide an **Admin username** and **Admin password**, and optionally an alternative password for your fictitious users, and then choose **Continue**.
