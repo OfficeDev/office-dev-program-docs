@@ -6,7 +6,7 @@ ms.localizationpriority: high
 
 # Join the Microsoft 365 Developer Program with a Visual Studio Professional or Enterprise subscription
 
-Visual Studio Professional and Enterprise subscribers can join the Microsoft 365 Developer Program through Visual Studio. When you join from Visual Studio, you can set up a Microsoft 365 E5 developer subscription that renews automatically, regardless of activity signals, for as long as you remain a subscriber. It will not be subject to expiration due to inactivity (or our failure to detect activity that is not be in scope for our renewal monitoring).
+Visual Studio Professional and Enterprise subscribers qualify for a Microsoft 365 E5 developer subscription that renews automatically, regardless of activity signals, for as long as you remain a subscriber. When you join the program as a Visual Studio subscriber, you can set up a developer sandbox subscription that is linked to your Visual Studio subscription, and it will not be subject to expiration due to inactivity (or our failure to detect activity that is not be in scope for our renewal monitoring).
 
 > [!NOTE]
 > Your Microsoft 365 E5 developer subscription is for development purposes only and can be revoked if you use it for purposes other than development. For details, see the [Microsoft 365 Developer Program Terms and Conditions](terms-and-conditions.md).
@@ -15,9 +15,13 @@ Visual Studio Professional and Enterprise subscribers can join the Microsoft 365
 
 If you don't have a Visual Studio Professional or Enterprise subscription and you want one, see the [Visual Studio subscription](https://visualstudio.microsoft.com/vs/pricing/) page.
 
-If you already have a Visual Studio Professional or Enterprise subscription, you can join the Microsoft 365 Developer Program and get a Microsoft 365 developer subscription from your Visual Studio subscriber portal. Go to [Visual Studio | My Benefits](https://my.visualstudio.com/benefits) and click the **Microsoft 365 Developer subscription (E5)** tile, and you will automatically join the Microsoft 365 developer program with your Visual Studio ID.
+If you already have a Visual Studio Professional or Enterprise subscription, after you join the program, when you set up your Microsoft 365 developer subscription, you have the option to link it to your Visual Studio subscription. 
 
-![Screen shot of the Visual Studio page with the Microsoft 365 developer subscription tile](images/visual-studio-dev-program-tile.jpg)
+You can also join the Microsoft 365 Developer Program and get a Microsoft 365 developer subscription from your Visual Studio subscriber portal. Go to [Visual Studio | My Benefits](https://my.visualstudio.com/benefits) and click the **Microsoft 365 Developer subscription (E5)** tile, and you will automatically join the Microsoft 365 developer program with your Visual Studio ID. 
+
+When you link your Microsoft 365 developer subscription to Visual Studio, it will renew automatically for as long as your Visual Studio subscription is active.
+
+![Screenshot of the Microsoft 365 developer subscription tile on the Visual Studio page](images/visual-studio-microsoft-365-tile.png)
 
 ## What is the difference between joining the program directly and joining with my Visual Studio subscription?
 
