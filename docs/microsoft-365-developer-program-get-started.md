@@ -43,7 +43,7 @@ If you selected an instant sandbox:
     > [!IMPORTANT] 
     > Make a note of your username and password because you'll need it to access your developer subscription.
 
-2. If you're a Visual Studio subscriber, on the **Link with Visual Studio** dialog box, select an option from the dropdown menu, and choose **Continue**.
+2. If you're a Visual Studio subscriber, on the **Link with Visual Studio** dialog box, select an option from the dropdown menu, and choose **Continue**. Otherwise, continue to step 3.
 
 3.	Provide a valid cell phone number and choose **Send code**. Enter the code that you receive, and then choose **Set up**.
 
@@ -59,9 +59,9 @@ If you selected a configurable sandbox:
     > [!IMPORTANT] 
     > Make a note of your username and password because you'll need it to access your developer subscription.
 
-2. If you're a Visual Studio subscriber, on the **Link with Visual Studio** dialog box, select an option from the dropdown menu, and choose **Continue**.
+2. (Optional) If you're a Visual Studio subscriber, on the **Link with Visual Studio** dialog box, select an option from the dropdown menu, and choose **Continue**. Otherwise, continue to step 3.
 
-2.	Provide a valid cell phone number and choose **Send code**. Enter the code that you receive, and then choose **Set up**.
+3.	Provide a valid cell phone number and choose **Send code**. Enter the code that you receive, and then choose **Set up**.
 
     > [!NOTE] 
     > You must use a valid cell phone number and not Voice over IP (VoIP). You can only have one Microsoft 365 Developer Program account associated with your phone number. 
