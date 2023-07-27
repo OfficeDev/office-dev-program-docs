@@ -3,9 +3,8 @@
   href: microsoft-365-developer-program.md
 - name: Set up a developer subscription
   href: microsoft-365-developer-program-get-started.md
-  items:
-  - name: Join as a Visual Studio subscriber
-    href: join-with-visual-studio.md
+- name: Join as a Visual Studio subscriber
+  href: join-with-visual-studio.md
 - name: Build solutions
   href: build-microsoft-365-solutions.md
 - name: Use sample data packs
