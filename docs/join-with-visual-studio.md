@@ -15,7 +15,9 @@ Visual Studio Professional and Enterprise subscribers qualify for a Microsoft 36
 
 If you don't have a Visual Studio Professional or Enterprise subscription and you want one, see the [Visual Studio subscription](https://visualstudio.microsoft.com/vs/pricing/) page.
 
-If you already have a Visual Studio Professional or Enterprise subscription, after you join the program, when you set up your Microsoft 365 developer subscription, you have the option to link it to your Visual Studio subscription. 
+If you already have a Visual Studio Professional or Enterprise subscription, after you join the program, when you set up your Microsoft 365 developer subscription, you have the option to link it to your Visual Studio subscription.
+
+If you have already set up your developer subscription, you can link your existing subscription to an active Visual Studio subscription. On the subscription tile on your Developer Program dashboard, click **Link with your Visual Studio subscription**.
 
 You can also join the Microsoft 365 Developer Program and get a Microsoft 365 developer subscription from your Visual Studio subscriber portal. Go to [Visual Studio | My Benefits](https://my.visualstudio.com/benefits) and click the **Microsoft 365 Developer subscription (E5)** tile, and you will automatically join the Microsoft 365 developer program with your Visual Studio ID. 
 
