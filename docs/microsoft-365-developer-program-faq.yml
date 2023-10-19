@@ -32,7 +32,7 @@ sections:
           You can sign up for the developer program by using one of the following account types:
           
           - **Microsoft account** (created by you for personal use) - Provides access to all consumer-oriented Microsoft products and cloud services, such as Outlook (Hotmail), Messenger, OneDrive, MSN, Xbox Live, or Microsoft 365. Signing up for an Outlook.com mailbox automatically creates a Microsoft account. After a Microsoft account is created, it can be used to access consumer-related Microsoft cloud services or Azure. 
-          - **Work account** (issued by an admin for business use) - Provides access to all small, medium, and enterprise business-level Microsoft cloud services, such as Azure, Microsoft Intune, or Microsoft 365. When you sign up to one of these services as an organization, a cloud-based directory is automatically provisioned in Azure Active Directory to represent your organization. For more information, see [Manage your Azure AD directory](/azure/active-directory/active-directory-administer).
+          - **Work account** (issued by an admin for business use) - Provides access to all small, medium, and enterprise business-level Microsoft cloud services, such as Azure, Microsoft Intune, or Microsoft 365. When you sign up to one of these services as an organization, a cloud-based directory is automatically provisioned in Microsoft Entra ID to represent your organization. For more information, see [Manage your Microsoft Entra directory](/azure/active-directory/active-directory-administer).
           - **Visual Studio ID** (created for your Visual Studio Professional or Enterprise subscriptions) - We recommend that you use this option to join the developer program from within the Visual Studio Gallery to get the full benefits as a Visual Studio subscriber. You can also link your Visual Studio subscription to your Microsoft 365 developer sandbox during the setup process.
           
       - question: |
@@ -55,7 +55,7 @@ sections:
       - question: |
           What ID do I use to sign in to the Developer Program dashboard?
         answer: |
-          Use your member ID to sign in to the Developer Program dashboard to access information about your subscription. This is the Microsoft account or Azure Active Directory-enabled email that you used to sign in when you joined the program.
+          Use your member ID to sign in to the Developer Program dashboard to access information about your subscription. This is the Microsoft account or Microsoft Entra enabled email that you used to sign in when you joined the program.
 
       - question: |
           What ID do I use to sign in to my developer subscription?
@@ -97,12 +97,12 @@ sections:
           - Advanced analytics with Power BI  
           - Enterprise Mobility + Security (EMS) for compliance and information protection  
           - Office 365 Advanced Threat Protection 
-          - Azure Active Directory for building advanced identity and access management solutions  
+          - Microsoft Entra ID for building advanced identity and access management solutions  
           
           The Microsoft 365 E5 Developer subscription includes the following: 
           
-          - Azure Active Directory Premium P1 
-          - Azure Active Directory Premium P2 
+          - Microsoft Entra ID P1 
+          - Microsoft Entra ID P2 
           -	Azure Advanced Threat Protection 
           -	Azure Information Protection Premium P1 
           -	Azure Information Protection Premium P2 
@@ -111,7 +111,7 @@ sections:
           -	Flow for Office 365 
           -	Information Protection for Office 365 - Premium 
           -	Information Protection for Office 365 - Standard 
-          -	Microsoft Azure Active Directory Rights 
+          -	Microsoft Entra Rights 
           -	Microsoft Azure Multi-Factor Authentication 
           -	Microsoft Cloud App Security 
           -	Microsoft Forms (Plan E5) 
@@ -272,7 +272,7 @@ sections:
       - question: |
           Should I choose an instant sandbox or a configurable sandbox?
         answer: |
-          If you choose an instant sandbox, you can cut your sandbox configuration time from days to seconds. The Microsoft 365 instant sandbox comes pre-provisioned with Microsoft Teams, SharePoint, Outlook, and Office. It also includes licenses for 24 test users plus one admin, and the latest Microsoft 365 apps for your PC and Mac, including Power Apps, Power BI, Enterprise Mobility + Security, Office 365 Advanced Threat Protection, and Azure Active Directory.
+          If you choose an instant sandbox, you can cut your sandbox configuration time from days to seconds. The Microsoft 365 instant sandbox comes pre-provisioned with Microsoft Teams, SharePoint, Outlook, and Office. It also includes licenses for 24 test users plus one admin, and the latest Microsoft 365 apps for your PC and Mac, including Power Apps, Power BI, Enterprise Mobility + Security, Office 365 Advanced Threat Protection, and Microsoft Entra ID.
 
           In addition, you get pre-installed sample data, including the new Teams sample data pack, which simulate a small corporate environment to help you build solutions across the Microsoft 365 platform. For details, see Developer sandbox sample data.
           
