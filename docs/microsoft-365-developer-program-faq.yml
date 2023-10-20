@@ -55,7 +55,7 @@ sections:
       - question: |
           What ID do I use to sign in to the Developer Program dashboard?
         answer: |
-          Use your member ID to sign in to the Developer Program dashboard to access information about your subscription. This is the Microsoft account or Microsoft Entra enabled email that you used to sign in when you joined the program.
+          Use your member ID to sign in to the Developer Program dashboard to access information about your subscription. This is the Microsoft account or Microsoft Entra-enabled email that you used to sign in when you joined the program.
 
       - question: |
           What ID do I use to sign in to my developer subscription?
