@@ -39,7 +39,6 @@
       "uhfHeaderId": "MSDocsHeader-Dev_Office",
       "searchScope": ["Office dev program"],
       "breadcrumb_path": "/office/developer-program/breadcrumb/toc.json",
-      "extendBreadcrumb": true,
       "ms.suite": "office365",
       "ms.author": "o365devx",
       "author": "o365devx",
