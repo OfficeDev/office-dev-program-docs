@@ -35,6 +35,7 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
+      "ms.service": "office",
       "feedback_system": "Standard",
       "uhfHeaderId": "MSDocsHeader-Dev_Office",
       "searchScope": ["Office dev program"],
@@ -43,7 +44,6 @@
       "ms.author": "o365devx",
       "author": "o365devx",
       "ms.topic": "conceptual",
-      "ms.prod": "office",
       "ms.custom": "dev-program"
     },
     "fileMetadata": {},
