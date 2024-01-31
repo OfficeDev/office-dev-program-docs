@@ -1,18 +1,25 @@
 ---
-title: Set up a Microsoft 365 developer sandbox subscription
+title: Request a Microsoft 365 developer sandbox subscription
 description: Set up a Microsoft 365 developer subscription for building solutions independent of your production environment.
 ms.date: 04/01/2019
 ms.localizationpriority: high
 ---
 
-# Set up a Microsoft 365 developer sandbox subscription 
+# Request a Microsoft 365 developer sandbox subscription 
 
-Set up a Microsoft 365 developer sandbox to build your solutions independent of your production environment. Your developer program membership, which you join as a regular member or through Visual Studio enterprise, includes a Microsoft 365 E5 developer sandbox subscription with 25 user licenses. It lasts for 90 days and is free to use for development purposes (coding solutions) only. Commercial transactions, including purchasing paid services, are not supported.
+Qualifying Microsoft 365 Developer Program members can set up a Microsoft 365 E5 developer subscription for use in building solutions independent of your production environment. The Microsoft 365 E5 developer sandbox subscription includes 25 user licenses and lasts for 90 days. If you use your subscription for valid development activity, it will renew automatically. Commercial transactions, including purchasing paid services, are not currently supported.
 
 > [!NOTE] 
-> To set up a subscription, you must first [join the Microsoft 365 Developer Program](microsoft-365-developer-program.md) directly or through Visual Studio Professional or Enterprise (if you're a subscriber). After joining, you'll see the option to set up a subscription.
+> Before you request a developer subscription, you must first [join the Microsoft 365 Developer Program](microsoft-365-developer-program.md) directly or through Visual Studio Professional or Enterprise (if you're a subscriber). 
 
-You can choose to set up either an instant sandbox or a configurable sandbox.
+If you qualify for a Microsoft 365 E5 subscription through the developer program, the set up flow will start automatically on your dashboard after you join the program. If you choose not to set up your subscription right away, the option to set up a subscription will be available on your [Microsoft 365 Developer Program dashboard](https://developer.microsoft.com/en-us/microsoft-365/profile).
+
+If you don't automatically qualify for a developer subscription, after you join the program, you will see an option to provide additional information to validate that you are a qualified member. Submit the information and if you qualify, you will receive an email inviting you to set up your subscription within two weeks. If you don't receive an email, you don't currently qualify for a subscription.
+
+Qualifying members can choose to set up either an instant sandbox or a configurable sandbox.
+
+> [!NOTE]
+> Your Microsoft 365 E5 developer subscription is for development purposes only and can be revoked if you use it for purposes other than development. For details, see the [Microsoft 365 Developer Program Terms and Conditions](terms-and-conditions.md).
 
 ## Instant sandbox
 
@@ -129,8 +136,7 @@ Sample data packs save you time by automatically installing data and content you
 
 For resources to help you set up your development environment and deployment pipeline, engage with the [Microsoft 365 and Power Platform Community](https://pnp.github.io/).
 
-## See also
+## Related content
 
 - [Use your subscription to build Microsoft 365 solutions](build-microsoft-365-solutions.md)
-- [Renew an expiring subscription](subscription-expiration-and-renewal.md)
 - [Microsoft 365 Developer Program FAQ](microsoft-365-developer-program-faq.yml)
