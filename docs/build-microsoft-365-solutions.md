@@ -59,17 +59,6 @@ For more details, see:
 - [Set up your developer subscription for SPFx](/sharepoint/dev/spfx/set-up-your-developer-tenant)
 - [Set up your development environment](/sharepoint/dev/spfx/set-up-your-development-environment)
 
-## SharePoint Add-ins 
-
-A SharePoint Add-in is a self-contained piece of functionality that extends the capabilities of SharePoint websites to solve a well-defined business problem. You can create two types of SharePoint Add-ins: SharePoint-hosted and provider-hosted. For more information, see [SharePoint Add-ins](/sharepoint/dev/sp-add-ins/sharepoint-add-ins).
-
-To get set up and start coding SharePoint Add-ins:
-
-- [Set up your subscription](/sharepoint/dev/spfx/set-up-your-developer-tenant).  
-- Set up your development environment: 
-  - [Get started creating SharePoint-hosted SharePoint Add-ins](/sharepoint/dev/sp-add-ins/get-started-creating-sharepoint-hosted-sharepoint-add-ins)  
-  - [Get started creating provider-hosted SharePoint Add-ins](/sharepoint/dev/sp-add-ins/get-started-creating-provider-hosted-sharepoint-add-ins)  
-
 ## Power Apps
 
 Power Apps for Office 365 is included in your Microsoft 365 E5 developer subscription license. This means that you can create and test unlimited apps with [standard connectors](/connectors/connector-reference/connector-reference-standard-connectors). To use [premium](/connectors/connector-reference/connector-reference-premium-connectors) or custom connectors, and Dataverse you need an additional license. For development and testing purposes, you can use the [Power Apps Developer Plan](https://powerapps.microsoft.com/developerplan). 
@@ -91,6 +80,5 @@ For more information:
 
 - [Join the Microsoft 365 Developer Program](microsoft-365-developer-program.md)
 - [Set up a Microsoft 365 developer subscription](microsoft-365-developer-program-get-started.md) 
-- [Renew an expiring subscription](subscription-expiration-and-renewal.md)
 - [Microsoft 365 Developer Program FAQ](microsoft-365-developer-program-faq.yml)
 - [Microsoft 365 developer documentation](/microsoft-365/developer)

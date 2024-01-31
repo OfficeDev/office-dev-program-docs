@@ -35,16 +35,15 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
+      "ms.service": "office",
       "feedback_system": "Standard",
       "uhfHeaderId": "MSDocsHeader-Dev_Office",
       "searchScope": ["Office dev program"],
       "breadcrumb_path": "/office/developer-program/breadcrumb/toc.json",
-      "extendBreadcrumb": true,
       "ms.suite": "office365",
       "ms.author": "o365devx",
       "author": "o365devx",
       "ms.topic": "conceptual",
-      "ms.prod": "office",
       "ms.custom": "dev-program"
     },
     "fileMetadata": {},

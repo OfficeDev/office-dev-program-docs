@@ -1,6 +1,6 @@
-- name: Office
+- name: Microsoft 365
   tocHref: /office/
-  topicHref: /office/index
+  topicHref: /microsoft-365/index
   items:
   - name: Developer Program
     tocHref: /office/developer-program/
