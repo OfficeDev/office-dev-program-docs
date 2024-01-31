@@ -99,7 +99,7 @@ The templates can be installed on your subscription. After you install one templ
 
 Installation will proceed automatically.
 
->**Note:** The provisioning of these site templates only works with English Office 365 E3 or Microsoft 365 E5 developer subscriptions, and all content included is English only.
+>**Note:** The provisioning of these site templates only works with English Microsoft 365 E5 developer subscriptions, and all content included is English only.
 
 #### What SharePoint templates are available?
 

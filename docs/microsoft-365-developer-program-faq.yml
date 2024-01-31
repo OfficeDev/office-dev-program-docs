@@ -69,36 +69,7 @@ sections:
 
       - question: |
           What's included in the developer subscription?
-        answer: |
-          If you created your subscription after August 25, 2019, you have a Microsoft 365 E5 Developer subscription with 25 user licenses. Customers who joined the program before August 25, 2019, have an Office 365 E3 Developer subscription with 25 user licenses.
-          
-          The Office 365 E3 Developer subscription includes the following:
-          
-          - [Exchange Online (Plan 2)](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)
-          - [Flow for Office 365](https://flow.microsoft.com/pricing/)
-          - [Information Protection for Office 365 - Standard](https://products.office.com/en-us/business/azure-information-protection-for-office-365)
-          - [Microsoft Forms (Plan E5)](https://support.office.com/article/Frequently-asked-questions-about-Microsoft-Forms-495c4242-6102-40a0-add8-df05ed6af61c)
-          - [Microsoft Planner](https://products.office.com/compare-all-microsoft-office-products?tab=2)
-          - [Microsoft Search](https://products.office.com/en-us/business/intelligent-search?tab=Discovery)
-          - [Microsoft Stream for Office 365 E5 SKU](https://products.office.com/business/office-365-enterprise-e5-business-software)
-          - [Microsoft Teams](https://products.office.com/business/office-365-enterprise-e5-business-software)
-          - [Mobile Device Management for Office 365](https://support.office.com/article/Set-up-Mobile-Device-Management-MDM-in-Office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)
-          - [Office 365 ProPlus](https://products.office.com/business/office-365-proplus-business-software)
-          - [Office for the web](/office365/servicedescriptions/office-online-service-description/office-online-service-description)
-          - [PowerApps for Office 365](https://powerapps.microsoft.com/pricing/)
-          - [SharePoint Online for Developer](https://products.office.com/SharePoint/compare-sharepoint-plans)
-          - [Skype for Business Online (Plan 2)](/office365/servicedescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description)
-          - [Sway](https://sway.com/)
-          - [To-Do (Plan 3)](https://todo.microsoft.com)
-          - [Whiteboard (Plan 2)](https://products.office.com/en-us/microsoft-whiteboard/digital-whiteboard-app)
-          
-          The Microsoft 365 E5 Developer subscription includes all the apps that are included in the Office 365 E3 Developer subscription, plus the following new features:  
-          
-          - Advanced analytics with Power BI  
-          - Enterprise Mobility + Security (EMS) for compliance and information protection  
-          - Office 365 Advanced Threat Protection 
-          - Microsoft Entra ID for building advanced identity and access management solutions  
-          
+        answer: |          
           The Microsoft 365 E5 Developer subscription includes the following: 
           
           - Microsoft Entra ID P1 
@@ -138,8 +109,6 @@ sections:
           -	To-Do (Plan 3) 
           -	Whiteboard (Plan 3) 
           -	Yammer Enterprise 
-          
-          You can determine whether you have a Microsoft 365 E5 subscription or an Office 365 E3 subscription on the subscription tile on your [dashboard](https://developer.microsoft.com/en-us/microsoft-365/profile). The tile will show either E3 or E5 under the subscription domain name.
 
       - question: |     
           What Power Automate capabilities are included in the developer subscription?
@@ -200,7 +169,7 @@ sections:
       - question: |
           How many user licenses does the developer subscription include?
         answer: |
-          Your Office 365 E3 or Microsoft 365 E5 developer subscription includes 25 user licenses, including the administrator, for development purposes only. Using this subscription for any purpose other than application development is a violation of the license agreement. For more details about the licensing restrictions, see the [terms of use](terms-and-conditions.md).
+          Your Microsoft 365 E5 developer subscription includes 25 user licenses, including the administrator, for development purposes only. Using this subscription for any purpose other than application development is a violation of the license agreement. For more details about the licensing restrictions, see the [terms of use](terms-and-conditions.md).
 
       - question: |
           Can I control and manage the user licenses in the subscription?
@@ -231,7 +200,7 @@ sections:
       - question: |
           How do you determine whether a subscription can be renewed?
         answer: |
-          We use a set of algorithms and telemetry that we get from your activity in the Microsoft 365 Developer Program and on your Office 365 E3 or Microsoft 365 E5 developer subscription to determine whether you are actively developing. We check these regularly to update your status and determine whether your subscription should be extended. 
+          We use a set of algorithms and telemetry that we get from your activity in the Microsoft 365 Developer Program and on your Microsoft 365 E5 developer subscription to determine whether you are actively developing. We check these regularly to update your status and determine whether your subscription should be extended. 
           
           If you think we somehow missed tracking your development activity accurately, you can let us know via your dashboard. To submit a form that tells us how you are using your subscription for development, in the dashboard warning, choose the **Let us know** link, as shown in the following image. We will review your request and let you know if you qualify for an extension. 
           
@@ -261,7 +230,7 @@ sections:
       - question: |
           How can I migrate from an Office 365 E3 subscription to a Microsoft 365 E5 subscription?
         answer: |
-          Currently, only new Microsoft 365 Developer Program members will get a Microsoft 365 E5 Developer subscription automatically. Existing users will be offered an option to migrate to a Microsoft 365 E5 subscription. 
+          Currently, qualifying Microsoft 365 Developer Program members get a Microsoft 365 E5 Developer subscription. Existing members who have not migrated to a new Microsoft 365 E5 subscription have the option to migrate to a Microsoft 365 E5 subscription through March 31, 2024. On April 1, 2024, all Office 365 E3 subscriptions and data will be deleted. If you don't accept the offer to migrate to a Microsoft 365 E5 subscription by March 31, 2024, your Office 365 E3 subscription will be removed, and you will have the option to request a new subscription after 60 days.
 
           If you choose to migrate to a Microsoft 365 E5 subscription, you can use the free tool [Microsoft Mover](https://mover.io/) to migrate your data. See also the following resources:
 
