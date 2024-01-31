@@ -47,7 +47,7 @@ sections:
         answer: |
           For qualified members, you are invited to set up a Microsoft 365 E5 developer subscription after you join the Microsoft 365 Developer Program. If you don't immediately qualify for a developer subscription, after you join the program, you will have the option to provide additional information to validate that you are a qualified member. Submit the information and if you qualify, you will receive an email inviting you to set up your subscription within two weeks. If you don't receive an email, you don't currently qualify for a subscription.
           
-          The Microsoft 365 E5 developer subscription is designed to be used for application development only. For more information, see [Set up a Microsoft 365 developer subscription](microsoft-365-developer-program-get-started.md).
+          The Microsoft 365 E5 developer subscription is designed to be used for application development only. For more information, see [Request a Microsoft 365 developer subscription](microsoft-365-developer-program-get-started.md).
       
       - question: |
           How many Microsoft 365 developer subscriptions can I get via the Developer Program?  
@@ -260,7 +260,7 @@ sections:
       - question: |
           Can I choose whether to have an Office 365 E3 or a Microsoft 365 E5 subscription?
         answer: |
-          Currently, qualified new Developer Program members are offered only a Microsoft 365 E5 subscription. Existing members with an Office 365 E3 subscription  have the option to do a one-time migration to a Microsoft 365 E5 subscription. All Office 365 E3 subscriptions expire on March 1, 2024, and will be deleted on April 1, 2024. If you don't migrate to a Microsoft 365 E5 subscription before April 1, 2024, your Office 365 E3 subscription and all data will be deleted on April 1, 2024. You will still have the option to set up a Microsot 365 E5 subscription in the future.
+          Currently, qualified new Developer Program members are offered only a Microsoft 365 E5 subscription. Existing members with an Office 365 E3 subscription have the option to do a one-time migration to a Microsoft 365 E5 subscription. All Office 365 E3 subscriptions expire on March 1, 2024, and will be deleted on April 1, 2024. If you don't migrate to a Microsoft 365 E5 subscription before April 1, 2024, your Office 365 E3 subscription and all data will be deleted on April 1, 2024. You will still have the option to set up a Microsot 365 E5 subscription in the future.
           
           Developer Program members can only have one subscription.  
           
