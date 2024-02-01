@@ -6,7 +6,7 @@ ms.localizationpriority: high
 
 # Use your developer subscription to build Microsoft 365 solutions
 
-What do you want to build with your Microsoft 365 developer subscription? Depending on what you are interested in, you can do a lot of different things. Following are some of the products and technology areas that you can start with.
+What do you want to build with your Microsoft 365 developer subscription? Depending on what you are interested in, you can do a lot of different things. The following are some of the products and technology areas that you can start with.
 
 ## Microsoft Teams
 

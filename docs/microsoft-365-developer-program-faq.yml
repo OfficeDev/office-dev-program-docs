@@ -45,7 +45,7 @@ sections:
       - question: |
           How can I get a Microsoft 365 E5 developer subscription via the Developer Program?  
         answer: |
-          Qualified members are invited to set up a Microsoft 365 E5 developer subscription after joining the Microsoft 365 Developer Program. If you don't immediately qualify, after you join the program, you will have the option to provide additional information to validate your qualification. After you submit the required details, if you qualify, you will receive an email inviting you to set up your subscription within two weeks. If you don't receive an email, that means you don't currently qualify for a subscription.
+          Qualified members are invited to set up a Microsoft 365 E5 developer subscription after joining the Microsoft 365 Developer Program. 
           
           The Microsoft 365 E5 developer subscription is designed to be used for application development only. For more information, see [Request a Microsoft 365 developer subscription](microsoft-365-developer-program-get-started.md).
       
@@ -272,7 +272,7 @@ sections:
       - question: |
           As a Microsoft Partner, can I receive a subscription? 
         answer: |
-          All Developer Program members must qualify for a Microsoft 365 E5 subscription. If you're a qualified member, you'll be invited to set up a developer subscription after you join the program. If you don't immediately qualify, after you join the program, you'll have an option to submit additional information to validate that you're a qualified member. Submit the information and if you qualify, you'll receive an email inviting you to set up your subscription within two weeks. If you don't receive an email, you don't currently qualify for a subscription.
+          All Developer Program members must qualify for a Microsoft 365 E5 subscription. If you're a qualified member, you'll be invited to set up a developer subscription after you join the program.
           
           If you have a Visual Studio Enterprise or Visual Studio Professional subscription, you can get a Microsoft 365 developer subscription as a benefit. To access this, go to [Visual Studio | My Benefits](https://my.visualstudio.com/benefits). For more information, contact [Visual Studio customer service](https://www.visualstudio.com/subscriptions/support/). 
           
@@ -284,7 +284,7 @@ sections:
       - question: |
           As a vendor working at Microsoft, do I qualify for a subscription?
         answer: |
-          All Developer Program members must qualify for a Microsoft 365 E5 subscription. If you're a qualified member, you'll be invited to set up a developer subscription after you join the program. If you don't immediately qualify, after you join the program, you'll have an option to submit additional information to validate that you're a qualified member. Submit the information and if you qualify, you'll receive an email inviting you to set up your subscription within two weeks. If you don't receive an email, you don't currently qualify for a subscription.
+          All Developer Program members must qualify for a Microsoft 365 E5 subscription. If you're a qualified member, you'll be invited to set up a developer subscription after you join the program. 
           
       - question: |
           Is the Microsoft 365 developer subscription available in my language?

@@ -14,8 +14,6 @@ Qualifying Microsoft 365 Developer Program members can set up a Microsoft 365 E5
 
 If you qualify for a Microsoft 365 E5 subscription through the developer program, the subscription set up flow will start automatically after you join the program. If you choose not to set up your subscription right away, the option to set up a subscription will be available on your [Microsoft 365 Developer Program dashboard](https://developer.microsoft.com/en-us/microsoft-365/profile).
 
-If you don't automatically qualify for a developer subscription, after you join the program, you'll see an option to provide additional information to validate that you're a qualified member. Submit the information and if you qualify, you'll receive an email inviting you to set up your subscription within two weeks. If you don't receive an email, you don't currently qualify for a subscription.
-
 Qualifying members can choose to set up either an instant sandbox or a configurable sandbox.
 
 > [!NOTE]
