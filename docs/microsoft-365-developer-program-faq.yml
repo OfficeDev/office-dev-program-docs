@@ -45,7 +45,7 @@ sections:
       - question: |
           How can I get a Microsoft 365 E5 developer subscription via the Developer Program?  
         answer: |
-          For qualified members, you're invited to set up a Microsoft 365 E5 developer subscription after you join the Microsoft 365 Developer Program. If you don't immediately qualify for a developer subscription, after you join the program, you'll have the option to provide additional information to validate that you're a qualified member. Submit the information and if you qualify, you'll receive an email inviting you to set up your subscription within two weeks. If you don't receive an email, you don't currently qualify for a subscription.
+          Qualified members are invited to set up a Microsoft 365 E5 developer subscription after joining the Microsoft 365 Developer Program. If you don't immediately qualify, after you join the program, you will have the option to provide additional information to validate your qualification. After you submit the required details, if you qualify, you will receive an email inviting you to set up your subscription within two weeks. If you don't receive an email, that means you don't currently qualify for a subscription.
           
           The Microsoft 365 E5 developer subscription is designed to be used for application development only. For more information, see [Request a Microsoft 365 developer subscription](microsoft-365-developer-program-get-started.md).
       
@@ -138,7 +138,7 @@ sections:
       - question: |
           How can I get a new subscription?
         answer: |
-          If you're a qualified program member, you're entitled to one Microsoft 365 developer subscription associated with your developer program account. If you want to get a new instant or configurable sandbox, you should [delete your account](#how-many-microsoft-365-developer-program-accounts-can-i-create-) and set up a new one. Note that you can only get a new subscription after you've had your current subscription for more than 60 days.
+          If you're a qualified program member, you're entitled to one Microsoft 365 developer subscription associated with your developer program account. If you want to get a new subscription, [delete your account](#how-many-microsoft-365-developer-program-accounts-can-i-create-) and set up a new one. Note that you can only get a new subscription after you've had your current subscription for more than 60 days.
       
       - question: |
           Why can't I sign in to my Developer Program dashboard?
@@ -190,7 +190,7 @@ sections:
       - question: |
           Can I share my developer subscription with my team?
         answer: |
-          Qualified members of the Microsoft 365 Developer Program are entitled to one Microsoft 365 E5 developer subscription. If you qualify for a subscription, your subscription is associated with your developer program account. You can't transfer owership of your subscription to a different account.  
+          Qualified members of the Microsoft 365 Developer Program are entitled to one Microsoft 365 E5 developer subscription. If you qualify for a subscription, your subscription will be associated with your developer program account. You may not transfer ownership to a different account.
       
       - question: |
           Why don't you offer a one-year subscription?
