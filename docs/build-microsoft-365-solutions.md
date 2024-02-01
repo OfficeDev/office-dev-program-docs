@@ -76,9 +76,7 @@ For more information:
 - Watch videos on the [Power Apps channel](https://www.youtube.com/channel/UCGfWR2ekfRFckLjev6eQYLg) on YouTube
 
 
-## See also
+## Related content
 
-- [Join the Microsoft 365 Developer Program](microsoft-365-developer-program.md)
-- [Set up a Microsoft 365 developer subscription](microsoft-365-developer-program-get-started.md) 
 - [Microsoft 365 Developer Program FAQ](microsoft-365-developer-program-faq.yml)
 - [Microsoft 365 developer documentation](/microsoft-365/developer)
