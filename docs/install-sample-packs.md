@@ -193,6 +193,6 @@ To see the Microsoft Teams sample data, go to **Teams** in your Microsoft 365 E5
 
 To see the SharePoint sample data, go to the SharePoint admin center, and choose **Active sites** in the left navigation. You can see the sample sites that are pre-installed and any additional site templates that you install in your sandbox.
 
-## See also
+## Related content
 
-- [Set up a Microsoft 365 developer subscription](microsoft-365-developer-program-get-started.md)
+- [Request a Microsoft 365 developer subscription](microsoft-365-developer-program-get-started.md)
