@@ -1,11 +1,11 @@
 ---
-title: Request a Microsoft 365 developer sandbox subscription
+title: Set up a Microsoft 365 developer sandbox subscription
 description: Set up a Microsoft 365 developer subscription for building solutions independent of your production environment.
 ms.date: 04/01/2019
 ms.localizationpriority: high
 ---
 
-# Request a Microsoft 365 developer sandbox subscription 
+# Set up a Microsoft 365 developer sandbox subscription 
 
 Qualifying Microsoft 365 Developer Program members can set up a Microsoft 365 E5 developer subscription for use in building solutions independent of your production environment. The Microsoft 365 E5 developer sandbox subscription includes 25 user licenses and lasts for 90 days. If you use your subscription for valid development activity, it will renew automatically. Commercial transactions, including purchasing paid services, are not currently supported.
 
