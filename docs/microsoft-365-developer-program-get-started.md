@@ -1,11 +1,11 @@
 ---
-title: Request a Microsoft 365 developer sandbox subscription
+title: Set up a Microsoft 365 developer sandbox subscription
 description: Set up a Microsoft 365 developer subscription for building solutions independent of your production environment.
 ms.date: 04/01/2019
 ms.localizationpriority: high
 ---
 
-# Request a Microsoft 365 developer sandbox subscription 
+# Set up a Microsoft 365 developer sandbox subscription 
 
 Qualifying Microsoft 365 Developer Program members can set up a Microsoft 365 E5 developer subscription for use in building solutions independent of your production environment. The Microsoft 365 E5 developer sandbox subscription includes 25 user licenses and lasts for 90 days. If you use your subscription for valid development activity, it will renew automatically. Commercial transactions, including purchasing paid services, are not currently supported.
 
@@ -13,8 +13,6 @@ Qualifying Microsoft 365 Developer Program members can set up a Microsoft 365 E5
 > Before you request a developer subscription, you must first [join the Microsoft 365 Developer Program](microsoft-365-developer-program.md) directly or through Visual Studio Professional or Enterprise (if you're a subscriber). 
 
 If you qualify for a Microsoft 365 E5 subscription through the developer program, the subscription set up flow will start automatically after you join the program. If you choose not to set up your subscription right away, the option to set up a subscription will be available on your [Microsoft 365 Developer Program dashboard](https://developer.microsoft.com/en-us/microsoft-365/profile).
-
-If you don't automatically qualify for a developer subscription, after you join the program, you'll see an option to provide additional information to validate that you're a qualified member. Submit the information and if you qualify, you'll receive an email inviting you to set up your subscription within two weeks. If you don't receive an email, you don't currently qualify for a subscription.
 
 Qualifying members can choose to set up either an instant sandbox or a configurable sandbox.
 
