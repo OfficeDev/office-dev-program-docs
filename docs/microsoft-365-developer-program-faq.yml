@@ -50,6 +50,11 @@ sections:
           The Microsoft 365 E5 developer subscription is designed to be used for application development only. For more information, see [Request a Microsoft 365 developer subscription](microsoft-365-developer-program-get-started.md).
       
       - question: |
+          Who qualifies for a Microsoft 365 E5 developer subscription?
+        answer: |
+          We are currently adjusting the qualifications for the free developer subscription. The changing risk landscape and increasing security challenges require us to align to our larger corporate initiatives that address cyberthreats. As such, we are prioritizing members who have an existing relationship with Microsoft, including valued partners and strategic customers. We are piloting a new verification process that allows developer program members to request a tenant, go through a validation process, and receive an invitation to set up a subscription. For the latest updates, follow the [Microsoft 365 developer blog](https://devblogs.microsoft.com/microsoft365dev/tag/microsoft-365-developer-program/).
+      
+      - question: |
           How many Microsoft 365 developer subscriptions can I get via the Developer Program?  
         answer: |
           You can have only one Microsoft 365 developer subscription through your membership in the Developer Program. If you want a new developer subscription, see [How can I get a new subscription?](#how-can-i-get-a-new-subscription-).
