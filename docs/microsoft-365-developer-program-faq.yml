@@ -52,7 +52,7 @@ sections:
       - question: |
           Who qualifies for a Microsoft 365 E5 developer subscription?
         answer: |
-          Any paid Visual Studio subscriber currently qualifies for a free subscription that renews automatically. We are currently piloting a new verification process that will allow additional member types to qualify for a subscription. The new process will enable developer program members to request a tenant, go through a validation process, and receive an invitation to set up a subscription. For the latest updates, including when the new verification process will be broadly available, follow the [Microsoft 365 developer blog](https://devblogs.microsoft.com/microsoft365dev/tag/microsoft-365-developer-program/).
+          Any paid Visual Studio subscriber qualifies for a subscription that renews automatically. We are currently piloting a new verification process that will allow Microsoft AI Cloud Partner Program members, MVPs, Premier customers, and other members of Microsoft sponsored programs to qualify for a subscription. The new process will enable developer program members to request a Microsoft 365 E5 subscription, go through a validation process, and receive an invitation to set up a subscription. For the latest updates, including when the new verification process will be broadly available, follow the [Microsoft 365 developer blog](https://devblogs.microsoft.com/microsoft365dev/tag/microsoft-365-developer-program/).
       
       - question: |
           How many Microsoft 365 developer subscriptions can I get via the Developer Program?  
