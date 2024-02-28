@@ -13,7 +13,7 @@ Visual Studio subscribers with standard Professional or standard or monthly Ente
 
 ## How do I get a renewable Microsoft 365 developer subscription?
 
-If you don't have a Visual Studio standard Professional or montly or standard Enterprise subscription and you want one, see the [Visual Studio subscription](https://visualstudio.microsoft.com/vs/pricing/) page.
+If you don't have a Visual Studio standard Professional or monthly or standard Enterprise subscription and you want one, see the [Visual Studio subscription](https://visualstudio.microsoft.com/vs/pricing/) page.
 
 If you already have a Visual Studio standard Professional or standard or monthly Enterprise subscription, after you join the program, when you set up your Microsoft 365 developer subscription, you have the option to link it to your Visual Studio subscription. For details, see [Set up your Microsoft 365 E5 sandbox subscription](microsoft-365-developer-program-get-started.md#set-up-your-microsoft-365-e5-sandbox-subscription).
 
@@ -30,4 +30,4 @@ When you link your Microsoft 365 developer subscription to Visual Studio, it wil
 
 When you join the Microsoft 365 Developer Program with your Visual Studio subscription, your Microsoft 365 E5 developer sandbox subscription will automatically renew for the lifetime of your Visual Studio subscription. 
 
-If you join the developer program directly, your Microsoft 365 E5 developer sandbox subscription is good for 90 days and will renew regularly based on your development activity.
+If you join the developer program directly, your Microsoft 365 E5 developer sandbox subscription is good for up to 90 days, depending on your development activity, and will renew regularly for as long as you use it for qualified activities.
