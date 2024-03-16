@@ -78,6 +78,20 @@ sections:
           Use the administrator ID that you created when you set up your developer subscription. You can find your administrator ID on the subscription tile on the [Developer Program dashboard](https://aka.ms/DevProgramDashboard).
 
       - question: |
+          How do I change the email account that's associated with my developer program membership?
+
+        answer: |
+          Your developer program account is associated with your general Microsoft account. You can associate one or more email accounts with your Microsoft account and then set a specific one as your primary account. 
+          
+          To change the email account that's associated with your Microsoft 365 Developer Program profile:
+1. Go to the [Microsoft 365 Developer Program dashboard](https://developer.microsoft.com/en-us/microsoft-365/profile).
+2. On the top right, choose your profile image.
+3. Select **My Microsoft Account**. This opens a new tab that takes you to your general Microsoft account page.
+4. On the left pane, choose Your Info (person icon).
+5. Scroll down to the Account Info section. Here you will find one or more email addresses associated with your account. You can add or remove accounts. You can also choose which one to be primary.
+Change the email address or phone number for your Microsoft account – Microsoft Support
+
+      - question: |
           Does the Microsoft 365 E5 developer subscription include the same capabilities that the regular Microsoft 365 E5 subscription includes?
         answer: |
           The Microsoft 365 E5 developer subscription has the same licensing and capabilities that a regular Microsoft 365 E5 subscription includes except that in Exchange Online, inbound connectors for mailflow are not supported, and you cannot purchase additional services via your tenant admin account. Any additional services (like Azure) must be purchased using your personal/enterprise account (for example, {myusername}@{myorg}.com rather than admin@{mytestdomain}.onmicrosoft.com), and then moved into the subscription.
