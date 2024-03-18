@@ -78,6 +78,25 @@ sections:
           Use the administrator ID that you created when you set up your developer subscription. You can find your administrator ID on the subscription tile on the [Developer Program dashboard](https://aka.ms/DevProgramDashboard).
 
       - question: |
+          How do I change the email account that's associated with my developer program membership?
+
+        answer: |
+          If you're using your Microsoft account to sign in to the developer program, you can associate multiple email accounts with your Microsoft account and then set a specific email to be your primary account. The primary email account is the one that's associated with your developer program membership. 
+          
+          To change the email account that's associated with your developer program membership, use the following steps to update your primary email account:
+
+          1. Go to the [Microsoft 365 Developer Program dashboard](https://developer.microsoft.com/en-us/microsoft-365/profile).
+          2. On the top right, choose your profile image.
+          3. Select **My Microsoft Account**. This opens a new tab that takes you to your general Microsoft account page.
+          4. On the left pane, choose **Your Info**.
+          5. In the **Account Info** section, choose **Edit account info**.
+          6. On the **Manage how you sign in to Microsoft** page, either:
+             - Add an email account and choose **Make primary**.
+             - Select **Make primary** next to an existing email account to make it the primary email account.
+
+          The new primary email account is now associated with your developer program membership. 
+
+      - question: |
           Does the Microsoft 365 E5 developer subscription include the same capabilities that the regular Microsoft 365 E5 subscription includes?
         answer: |
           The Microsoft 365 E5 developer subscription has the same licensing and capabilities that a regular Microsoft 365 E5 subscription includes except that in Exchange Online, inbound connectors for mailflow are not supported, and you cannot purchase additional services via your tenant admin account. Any additional services (like Azure) must be purchased using your personal/enterprise account (for example, {myusername}@{myorg}.com rather than admin@{mytestdomain}.onmicrosoft.com), and then moved into the subscription.
