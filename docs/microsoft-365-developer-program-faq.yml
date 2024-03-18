@@ -81,9 +81,9 @@ sections:
           How do I change the email account that's associated with my developer program membership?
 
         answer: |
-          If you're using your Microsoft account to sign in to the developer program, the email account that's associated with your membership is the one that's marked as primary on your Microsoft account. You can associate multiple email accounts with your Microsoft account and then set a specific email to be your primary account. 
+          If you're using your Microsoft account to sign in to the developer program, you can associate multiple email accounts with your Microsoft account and then set a specific email to be your primary account. The primary email account is the one that's associated with your developer program membership. 
           
-          To change the email account that's associated with your Microsoft 365 Developer Program profile, use the following steps to update the the primary email on your Microsoft account:
+          To change the email account that's associated with your Microsoft 365 Developer Program profile, use the following steps to update your primary email account:
 
           1. Go to the [Microsoft 365 Developer Program dashboard](https://developer.microsoft.com/en-us/microsoft-365/profile).
           2. On the top right, choose your profile image.
