@@ -235,11 +235,7 @@ sections:
           How do you determine whether a subscription can be renewed?
         answer: |
           We use a set of algorithms and telemetry that we get from your activity in the Microsoft 365 Developer Program and on your Microsoft 365 E5 developer subscription to determine whether you are actively developing. We check these regularly to update your status and determine whether your subscription should be extended. 
-          
-          If you think we somehow missed tracking your development activity accurately, you can let us know via your dashboard. To submit a form that tells us how you are using your subscription for development, in the dashboard warning, choose the **Let us know** link, as shown in the following image. We will review your request and let you know if you qualify for an extension. 
-          
-          <img alt="Screenshot of the subscription expiration text box with the let us know link highlighted" src="images/appeals-ux-for-qa.jpg" width="500"> 
-          
+                    
       - question: |
           How do you define development activity?
         answer: |
