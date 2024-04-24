@@ -52,7 +52,20 @@ sections:
       - question: |
           Who qualifies for a Microsoft 365 E5 developer subscription?
         answer: |
-          Any Visual Studio subscriber with a standard Professional or Enterprise subscription qualifies for a subscription that renews automatically. In addition, the following [Microsoft AI Cloud Partner Program](https://partner.microsoft.com/) participants can contact their Microsoft partner to be added to an allow list to receive access to a developer subscription:
+          Any Visual Studio subscriber with one of the following Visual Studio subscription types qualifies for a Microsoft 365 E5 developer subscription that renews automatically:
+
+          - Visual Studio Enterprise
+          - Visual Studio Enterprise Not for Resale
+          - Visual Studio Enterprise with MSDN (Bizspark)
+          - Visual Studio Enterprise - annual
+          - Visual Studio Enterprise with GitHub
+          - Visual Studio Enterprise (FTE)
+          - MCT Software & Services
+          - Visual Studio Professional with MSDN
+          - Visual Studio Professional - annual
+          - Visual Studio Professional with GitHub
+        
+          In addition, the following [Microsoft AI Cloud Partner Program](https://partner.microsoft.com/) participants can contact their Microsoft partner to be added to an allow list to receive access to a developer subscription:
 
           - ISV Success
           - Solutions Partner
@@ -60,7 +73,9 @@ sections:
           - Managed Partners
           - Premier or Unified Support plan members
           
-          We are piloting a new verification process that will allow more member types to qualify for a subscription. The new process will enable developer program members to request a Microsoft 365 E5 subscription, go through a validation process, and receive an invitation to set up a subscription. For the latest updates, follow the [Microsoft 365 developer blog](https://devblogs.microsoft.com/microsoft365dev/tag/microsoft-365-developer-program/).
+          Your Microsoft partner might be a Customer Sucess Account Manager (CSAM) (premier and unified support), Partner Development Manager (PDM) (managed partner), or a customer support engineer (ISV).
+
+          We're piloting a new verification process that will allow more member types to qualify for a subscription. The new process will enable developer program members to request a Microsoft 365 E5 subscription, go through a validation process, and receive an invitation to set up a subscription. For the latest updates, follow the [Microsoft 365 developer blog](https://devblogs.microsoft.com/microsoft365dev/tag/microsoft-365-developer-program/).
       
       - question: |
           How many Microsoft 365 developer subscriptions can I get via the Developer Program?  
