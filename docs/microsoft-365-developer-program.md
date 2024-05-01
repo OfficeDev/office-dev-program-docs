@@ -20,8 +20,9 @@ Do you have a Visual Studio Pro or Enterprise subscription? If so, you can take 
 2. In the upper-right corner, choose **Sign in** to sign in with your Microsoft account or Microsoft Entra-enabled email.
 
     > [!NOTE]
-    > - Email accounts with the **\*.onmicrosoft.com** domain are not supported. If you sign in with an **\*.onmicrosoft.com** email address, you'll get an error and will need to sign in with a different account.
-    > - Remember the account that you sign in with. You'll sign in to the [Developer Program dashboard](https://developer.microsoft.com/en-us/microsoft-365/profile) with this account. This account is different than the admin ID that you'll use for your Microsoft 365 developer subscription.
+    > Email accounts with the **\*.onmicrosoft.com** domain are not supported. If you sign in with an **\*.onmicrosoft.com** email address, you'll get an error and will need to sign in with a different account. For more information, see [What account can I use to sign up for the Developer Program?](/office/developer-program/microsoft-365-developer-program-faq?source=docs#what-account-can-i-use-to-sign-up-for-the-microsoft-365-developer-program-)
+    
+    Remember the account that you sign in with. You'll sign in to the [Developer Program dashboard](https://developer.microsoft.com/en-us/microsoft-365/profile) with this account. This account is different than the admin ID that you'll use for your Microsoft 365 developer subscription.
 
 3. After signing in, choose **Join now**.
 
