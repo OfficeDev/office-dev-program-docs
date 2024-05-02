@@ -36,8 +36,8 @@ sections:
           - **Visual Studio ID** (created for your Visual Studio Professional or Enterprise subscriptions) - We recommend that you use this option to join the developer program from within the Visual Studio Gallery to get the full benefits as a Visual Studio subscriber. You can also link your Visual Studio subscription to your Microsoft 365 developer sandbox during the setup process.
           
            > [!NOTE]
-           > - Email accounts with the **\*.onmicrosoft.com** domain are not supported. If you sign in with an **\*.onmicrosoft.com** email address, you'll get an error and will need to sign in with a different account.
-           
+           > - Phone numbers and Email accounts with the **\*.onmicrosoft.com** domain are not supported. If you sign in with a phone number or **\*.onmicrosoft.com** account, you'll get an error and will need to sign in with a different account.
+
       - question: |
           How many Microsoft 365 Developer Program accounts can I create?
         answer: |
