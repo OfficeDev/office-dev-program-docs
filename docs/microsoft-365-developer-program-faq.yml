@@ -125,6 +125,8 @@ sections:
         answer: |          
           The Microsoft 365 E5 Developer subscription includes the following: 
           
+          - Avatars for Teams
+          - Immersive spaces in Teams
           - Microsoft Entra ID P1 
           - Microsoft Entra ID P2 
           -	Azure Advanced Threat Protection 
