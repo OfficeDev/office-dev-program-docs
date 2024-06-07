@@ -47,9 +47,6 @@ The following sample data packs are currently available:
   > [!NOTE]
   > You must install the Users sample data pack before you install Mail and Events.
     
-- SharePoint Framework sample data – Choose from six site templates that you can install and evaluate as custom solutions for your organization (with one pre-installed).
-
-
 ### Install the Users sample data pack
 
 Before you install the Users sample data pack, make sure that you have a Microsoft 365 developer subscription and that you assign a license to yourself as the admin.

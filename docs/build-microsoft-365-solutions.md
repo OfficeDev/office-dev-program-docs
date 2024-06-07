@@ -39,7 +39,7 @@ To automatically configure your sandbox to try out Microsoft Graph scenarios, in
 
 For details, see [Use sample data packs](install-sample-packs.md). 
 
-For more ways to get started working with Microsoft Graph, see the Microsoft Graph [Quick Start](https://developer.microsoft.com/en-us/graph/quick-start) and [documentation](https://learn.microsoft.com/en-us/graph/).
+For more ways to get started working with Microsoft Graph, see the Microsoft Graph [Quick Start](https://developer.microsoft.com/graph/quick-start) and [documentation](/graph/).
 
 ## Office Add-ins
 
