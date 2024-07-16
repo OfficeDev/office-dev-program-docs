@@ -48,9 +48,9 @@ sections:
       - question: |
           How can I get a Microsoft 365 E5 developer subscription via the Developer Program?  
         answer: |
-          Qualified members are invited to set up a Microsoft 365 E5 developer subscription after joining the Microsoft 365 Developer Program. 
+          Qualified members are invited to set up a Microsoft 365 E5 developer subscription after joining the Microsoft 365 Developer Program. For details about qualified members, see [Who qualifies for a Microsoft 365 E5 developer subscription?](#who-qualifies-for-a-microsoft-365-e5-developer-subscription-).
           
-          The Microsoft 365 E5 developer subscription is designed to be used for application development only. For more information, see [Request a Microsoft 365 developer subscription](microsoft-365-developer-program-get-started.md).
+          The Microsoft 365 E5 developer subscription is designed to be used for application development only.
       
       - question: |
           Who qualifies for a Microsoft 365 E5 developer subscription?
@@ -72,9 +72,15 @@ sections:
 
           In addition, the following [Microsoft AI Cloud Partner Program](https://partner.microsoft.com/) participants can contact their Microsoft partner to be added to an allow list to receive access to a developer subscription:
 
-          - Solutions Partner
-          - Specialization/Expert
+          - Azure Expert MSP
+          - Legacy Gold/Silver
           - Managed Partners
+          - Microsoft Action Pack
+          - Partner Launch Benefits
+          - Partner Success Core Benefits
+          - Partner Success Expanded Benefits
+          - Solutions Partner
+          - Specialization Partner
           - Premier or Unified Support plan members
           
           Your Microsoft partner might be a Customer Sucess Account Manager (CSAM) (premier and unified support), Partner Development Manager (PDM) (managed partner), or a customer support engineer (ISV).
