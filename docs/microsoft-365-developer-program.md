@@ -20,7 +20,13 @@ Do you have a Visual Studio Pro or Enterprise subscription? If so, you can take 
 2. In the upper-right corner, choose **Sign in** to sign in with your Microsoft account or Microsoft Entra-enabled email.
 
     > [!NOTE]
-    > Remember the account that you sign in with. You'll sign in to the [Developer Program dashboard](https://developer.microsoft.com/en-us/microsoft-365/profile) with this account. This account is different than the admin ID that you'll use for your Microsoft 365 developer subscription.
+    > The following sign-in options are not supported:
+    > - Phone numbers. 
+    > - Email accounts with the **\*.onmicrosoft.com** domain. 
+    >
+    > If you're signed in with one of these options, you'll get an error message and will need to sign in with a supported email account. For more information, see [What account can I use to sign up for the Developer Program?](/office/developer-program/microsoft-365-developer-program-faq?source=docs#what-account-can-i-use-to-sign-up-for-the-microsoft-365-developer-program-)
+    
+    Remember the email account that you sign in with. You'll sign in to the [Developer Program dashboard](https://developer.microsoft.com/en-us/microsoft-365/profile) with this account. This account is different than the admin ID that you'll use for your Microsoft 365 developer subscription.
 
 3. After signing in, choose **Join now**.
 
@@ -46,10 +52,7 @@ Do you have a Visual Studio Pro or Enterprise subscription? If so, you can take 
 
 
 
-## Next steps
+## Related content
 
-- [Set up a Microsoft 365 developer subscription](microsoft-365-developer-program-get-started.md). 
-- After you have your developer subscription, [use your subscription](build-microsoft-365-solutions.md) to build the types of solutions that you want.
-- For information about expiring subscriptions, see [Subscription expiration and renewal](subscription-expiration-and-renewal.md).
 - For frequently asked questions about the Microsoft 365 Developer Program, see the [FAQ](microsoft-365-developer-program-faq.yml).
 - Explore the [Microsoft 365 developer documentation](/microsoft-365/developer).
