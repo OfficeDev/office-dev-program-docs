@@ -35,6 +35,9 @@ sections:
           - **Work account** (issued by an admin for business use) - Provides access to all small, medium, and enterprise business-level Microsoft cloud services, such as Azure, Microsoft Intune, or Microsoft 365. When you sign up to one of these services as an organization, a cloud-based directory is automatically provisioned in Microsoft Entra ID to represent your organization. For more information, see [Manage your Microsoft Entra directory](/azure/active-directory/active-directory-administer).
           - **Visual Studio ID** (created for your Visual Studio Professional or Enterprise subscriptions) - We recommend that you use this option to join the developer program from within the Visual Studio Gallery to get the full benefits as a Visual Studio subscriber. You can also link your Visual Studio subscription to your Microsoft 365 developer sandbox during the setup process.
           
+           > [!NOTE]
+           > Phone numbers and email accounts with the **\*.onmicrosoft.com** domain are not supported. If you sign in with a phone number or **\*.onmicrosoft.com** account, you'll get an error and will need to sign in with a different account.
+
       - question: |
           How many Microsoft 365 Developer Program accounts can I create?
         answer: |
@@ -45,14 +48,30 @@ sections:
       - question: |
           How can I get a Microsoft 365 E5 developer subscription via the Developer Program?  
         answer: |
-          Qualified members are invited to set up a Microsoft 365 E5 developer subscription after joining the Microsoft 365 Developer Program. 
+          Qualified members are invited to set up a Microsoft 365 E5 developer subscription after joining the Microsoft 365 Developer Program. For details about qualified members, see [Who qualifies for a Microsoft 365 E5 developer subscription?](#who-qualifies-for-a-microsoft-365-e5-developer-subscription-).
           
-          The Microsoft 365 E5 developer subscription is designed to be used for application development only. For more information, see [Request a Microsoft 365 developer subscription](microsoft-365-developer-program-get-started.md).
+          The Microsoft 365 E5 developer subscription is designed to be used for application development only.
       
       - question: |
           Who qualifies for a Microsoft 365 E5 developer subscription?
         answer: |
-          Any Visual Studio subscriber with a standard Professional or standard Enterprise subscription qualifies for a subscription that renews automatically. We are currently piloting a new verification process that will allow more member types to qualify for a subscription. The new process will enable developer program members to request a Microsoft 365 E5 subscription, go through a validation process, and receive an invitation to set up a subscription. For the latest updates, including when the new verification process will be broadly available, follow the [Microsoft 365 developer blog](https://devblogs.microsoft.com/microsoft365dev/tag/microsoft-365-developer-program/).
+          Any Visual Studio subscriber with a standard Professional or standard Enterprise subscription qualifies for a subscription that renews automatically. We are currently piloting a new verification process that will allow more member types to qualify for a subscription. 
+          The new process will enable developer program members to request a Microsoft 365 E5 subscription, go through a validation process, and receive an invitation to set up a subscription. For the latest updates, including when the new verification process will be broadly available, follow the [Microsoft 365 developer blog](https://devblogs.microsoft.com/microsoft365dev/tag/microsoft-365-developer-program/)       
+
+          In addition, the following [Microsoft AI Cloud Partner Program](https://partner.microsoft.com/) participants can contact their Microsoft partner to be added to an allow list to receive access to a developer subscription:
+          
+          - Azure Expert MSP
+          - Legacy Gold/Silver
+          - Managed Partners
+          - Microsoft Action Pack
+          - Partner Launch Benefits
+          - Partner Success Core Benefits
+          - Partner Success Expanded Benefits
+          - Solutions Partner
+          - Specialization Partner
+          - Premier or Unified Support plan members
+          
+          Your Microsoft partner might be a Customer Sucess Account Manager (CSAM) (premier and unified support), Partner Development Manager (PDM) (managed partner), or a customer support engineer (ISV). ISV Success partners may qualify for a Microsoft 365 E5 developer subscription that renews based on development activity.
       
       - question: |
           How many Microsoft 365 developer subscriptions can I get via the Developer Program?  
@@ -70,6 +89,25 @@ sections:
           Use the administrator ID that you created when you set up your developer subscription. You can find your administrator ID on the subscription tile on the [Developer Program dashboard](https://aka.ms/DevProgramDashboard).
 
       - question: |
+          How do I change the email account that's associated with my developer program membership?
+
+        answer: |
+          If you're using your Microsoft account to sign in to the developer program, you can associate multiple email accounts with your Microsoft account and then set a specific email to be your primary account. The primary email account is the one that's associated with your developer program membership. 
+          
+          To change the email account that's associated with your developer program membership, use the following steps to update your primary email account:
+
+          1. Go to the [Microsoft 365 Developer Program dashboard](https://developer.microsoft.com/en-us/microsoft-365/profile).
+          2. On the top right, choose your profile image.
+          3. Select **My Microsoft Account**. This opens a new tab that takes you to your general Microsoft account page.
+          4. On the left pane, choose **Your Info**.
+          5. In the **Account Info** section, choose **Edit account info**.
+          6. On the **Manage how you sign in to Microsoft** page, either:
+             - Add an email account and choose **Make primary**.
+             - Select **Make primary** next to an existing email account to make it the primary email account.
+
+          The new primary email account is now associated with your developer program membership. 
+
+      - question: |
           Does the Microsoft 365 E5 developer subscription include the same capabilities that the regular Microsoft 365 E5 subscription includes?
         answer: |
           The Microsoft 365 E5 developer subscription has the same licensing and capabilities that a regular Microsoft 365 E5 subscription includes except that in Exchange Online, inbound connectors for mailflow are not supported, and you cannot purchase additional services via your tenant admin account. Any additional services (like Azure) must be purchased using your personal/enterprise account (for example, {myusername}@{myorg}.com rather than admin@{mytestdomain}.onmicrosoft.com), and then moved into the subscription.
@@ -79,6 +117,8 @@ sections:
         answer: |          
           The Microsoft 365 E5 Developer subscription includes the following: 
           
+          - Avatars for Teams
+          - Immersive spaces in Teams
           - Microsoft Entra ID P1 
           - Microsoft Entra ID P2 
           -	Azure Advanced Threat Protection 
@@ -186,7 +226,7 @@ sections:
       - question: |
           How long is my subscription good for, and when does it expire?
         answer: |
-          Your subscription is good for 90 days and is renewable based on valid developer activity. If you're using your subscription for development, it will be renewed regularly. You can find the expiration date, along with your subscription name, on your [Microsoft 365 Developer Program dashboard](https://aka.ms/DevProgramDashboard).
+          Your subscription is good for up to 90 days, depending on your activity, and is renewable based on qualified developer activity. If you're using your subscription for development, it will be renewed regularly. You can find the expiration date, along with your subscription name, on your [Microsoft 365 Developer Program dashboard](https://aka.ms/DevProgramDashboard).
           
           If you're joining the program with your Visual Studio standard Professional or standard Enterprise subscription, your subscription is automatically renewed until your Visual Studio subscription expires. 
           
@@ -200,19 +240,15 @@ sections:
       - question: |
           Why don't you offer a one-year subscription?
         answer: |
-          In April 2019, we transitioned to a new model where your subscription can be renewed perpetually every 90 days if you're actively using it for development. We believe that this model ensures that developers who are actively developing solutions have a subscription for as long as they need one. If you're developing frequently, your subscription never expires; it is automatically extended. If you qualify for a subscription and you're developing for a short time, and your subscription expires due to inactivity and is deleted, you can set up a new one. 
-          
+          In April 2019, we transitioned to a new model where your subscription can be renewed periodically every 60-90 days, depending on your activity, for as long as you're actively using it for development. We believe that this model ensures that developers who are actively developing solutions have a subscription for as long as they need one. If you're developing frequently, your subscription never expires; it is automatically extended. If you qualify for a subscription and you're developing for a short time, and your subscription expires due to inactivity and is deleted, you can set up a new one.
+
           If you prefer to have a subscription that is available for a longer time, we recommend that you get the Visual Studio standard Professional or standard Enterprise subscription. These programs include a free Microsoft 365 developer subscription that is good for the life of your Visual Studio subscription. To access this, go to [Visual Studio | My Benefits](https://my.visualstudio.com/benefits). For more information, contact [Visual Studio customer service](https://www.visualstudio.com/subscriptions/support/). 
           
       - question: |
           How do you determine whether a subscription can be renewed?
         answer: |
           We use a set of algorithms and telemetry that we get from your activity in the Microsoft 365 Developer Program and on your Microsoft 365 E5 developer subscription to determine whether you are actively developing. We check these regularly to update your status and determine whether your subscription should be extended. 
-          
-          If you think we somehow missed tracking your development activity accurately, you can let us know via your dashboard. To submit a form that tells us how you are using your subscription for development, in the dashboard warning, choose the **Let us know** link, as shown in the following image. We will review your request and let you know if you qualify for an extension. 
-          
-          <img alt="Screenshot of the subscription expiration text box with the let us know link highlighted" src="images/appeals-ux-for-qa.jpg" width="500"> 
-          
+                    
       - question: |
           How do you define development activity?
         answer: |
@@ -280,6 +316,7 @@ sections:
           All Developer Program members must qualify for a Microsoft 365 E5 subscription. If you're a qualified member, you'll be invited to set up a developer subscription after you join the program.
           
           If you have a Visual Studio standard Professional or standard Enterprise subscription, you can get a Microsoft 365 developer subscription as a benefit. To access this, go to [Visual Studio | My Benefits](https://my.visualstudio.com/benefits). For more information, contact [Visual Studio customer service](https://www.visualstudio.com/subscriptions/support/). 
+
           
       - question: |
           As a full-time Microsoft employee, can I receive a subscription?
