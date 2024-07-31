@@ -12,13 +12,12 @@ What do you want to build with your Microsoft 365 developer subscription? Depend
 
 Microsoft Teams is a chat-based workspace that integrates with the apps and services that people use to get work done together. The Microsoft Teams developer platform makes it easy for you to integrate your own service, whether you develop custom apps for your enterprise or SaaS applications for teams around the world.
 
-Here's how to get set up and coding with Microsoft Teams:
+To get started building with Microsoft Teams:
 
 1. [Prepare your developer subscription](/microsoftteams/platform/get-started/get-started-tenant).
 2. Set up your development environment. This process will vary depending on the type of app or service you are building. For details, see one of the following:
-
-  - [Get started on the Microsoft Teams platform with Node.js](/microsoftteams/platform/get-started/get-started-nodejs-app-studio)
-  - [Get started on the Microsoft Teams platform with C#/.NET](/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
+      - [Get started on the Microsoft Teams platform with Node.js](/microsoftteams/platform/get-started/get-started-nodejs-app-studio)
+      - [Get started on the Microsoft Teams platform with C#/.NET](/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
 
 ## Microsoft Graph
 
@@ -40,7 +39,7 @@ To automatically configure your sandbox to try out Microsoft Graph scenarios, in
 
 For details, see [Use sample data packs](install-sample-packs.md). 
 
-For more ways to get started working with Microsoft Graph, see the Microsoft Graph [Quick Start](https://developer.microsoft.com/en-us/graph/quick-start).
+For more ways to get started working with Microsoft Graph, see the Microsoft Graph [Quick Start](https://developer.microsoft.com/graph/quick-start) and [documentation](/graph/).
 
 ## Office Add-ins
 
