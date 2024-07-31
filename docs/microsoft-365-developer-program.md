@@ -6,7 +6,7 @@ ms.localizationpriority: high
 
 # Welcome to the Microsoft 365 Developer Program
 
-The Microsoft 365 Developer Program is a resource for developers who want to build solutions on the Microsoft 365 platform. The program offers a Microsoft 365 E5 developer subscription to members who qualify. As a qualified program member, you can use the developer subscription to build solutions independent of your production environment. You can build Microsoft Teams apps, Office Add-ins for Word, Excel, PowerPoint, or Outlook, or SharePoint solutions, using Microsoft Graph, the SharePoint Framework, Power Apps, and more.
+The Microsoft 365 Developer Program includes a Microsoft 365 E5 developer subscription that you can use to create your own sandbox and develop solutions independent of your production environment. You can build Microsoft Teams apps, Office Add-ins for Word, Excel, PowerPoint, or Outlook, or SharePoint Add-ins, using Microsoft Graph, the SharePoint Framework, Power Apps, and more. You also get access to [Microsoft Intune](/mem/intune/fundamentals/what-is-intune).
 
 Do you have a Visual Studio Pro or Enterprise subscription? If so, you can take advantage of additional benefits when you join the program; for details, see [Join with Visual Studio](join-with-visual-studio.md).
 
