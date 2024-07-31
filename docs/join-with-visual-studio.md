@@ -15,7 +15,7 @@ Visual Studio subscribers with standard Professional or standard or monthly Ente
 
 If you don't have a Visual Studio Professional (standard or monthly) or Enterprise (standard or monthly) subscription and you're interested in obtaining one, please visit the [Visual Studio subscription](https://visualstudio.microsoft.com/vs/pricing/) page.
 
-If you already hold a Visual Studio Professional (standard or monthly) or an Enterprise (standard or monthly) subscription, you will have the option to link it to your Microsoft 365 developer subscription once you join the program and begin setting it up. For more details, see [Set up your Microsoft 365 E5 sandbox subscription](microsoft-365-developer-program-get-started.md#set-up-your-microsoft-365-e5-sandbox-subscription).
+If you already hold a Visual Studio Professional (standard or monthly) or an Enterprise (standard or monthly) subscription, you'll have the option to link it to your Microsoft 365 developer subscription once you join the program and begin setting it up. For more details, see [Set up your Microsoft 365 E5 sandbox subscription](microsoft-365-developer-program-get-started.md#set-up-your-microsoft-365-e5-sandbox-subscription).
 
 You can also join the Microsoft 365 Developer Program and get a Microsoft 365 developer subscription from your Visual Studio subscriber portal. Go to [Visual Studio | My Benefits](https://my.visualstudio.com/benefits) and click the **Microsoft 365 Developer subscription (E5)** tile, and you will automatically join the Microsoft 365 developer program with your Visual Studio ID. 
 
