@@ -78,4 +78,4 @@ For more information:
 ## Related content
 
 - [Microsoft 365 Developer Program FAQ](microsoft-365-developer-program-faq.yml)
-- [Microsoft 365 developer documentation](/microsoft-365/developer)
+- [Extend Teams apps across Microsoft 365](/microsoftteams/platform/m365-apps/overview)
