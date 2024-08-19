@@ -55,4 +55,4 @@ Do you have a Visual Studio Pro or Enterprise subscription? If so, you can take 
 ## Related content
 
 - For frequently asked questions about the Microsoft 365 Developer Program, see the [FAQ](microsoft-365-developer-program-faq.yml).
-- Explore the [Microsoft 365 developer documentation](/microsoft-365/developer).
+- [Extend Teams apps across Microsoft 365](/microsoftteams/platform/m365-apps/overview).
