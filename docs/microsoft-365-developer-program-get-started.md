@@ -25,7 +25,7 @@ If you choose an instant sandbox, you can cut your sandbox configuration time fr
 
 In addition, you get pre-installed sample data, including the new Teams sample data pack, as well as Microsoft Graph user, mail, and calendar data and SharePoint Framework sample data, which simulate a small corporate environment to help you build solutions across the Microsoft 365 platform. For details, see [Developer sandbox sample data](install-sample-packs.md).
 
-> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RWOmCY]
+> [!VIDEO b716d805-224b-4934-958a-76d8790ff797]
 
 You cannot customize your domain name if you choose this option.
 
