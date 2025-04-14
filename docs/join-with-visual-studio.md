@@ -13,6 +13,12 @@ Visual Studio subscribers with standard Professional or Enterprise subscriptions
 
 ## How do I get a renewable Microsoft 365 developer subscription?
 
+> [!NOTE]
+> Only Visual Studio "standard" type subscriptions are eligible.
+> You must have either a Visual Studio Professional standard or Visual Studio Enterprise standard subscription to receive an automatically renewable Microsoft 365 E5 developer subscription.<br>
+> Monthly Visual Studio subscriptions (such as "Professional monthly" or "Enterprise monthly") are not eligible.
+>
+
 If you don't have a Visual Studio standard Professional or Enterprise subscription and you want one, see the [Visual Studio subscription](https://visualstudio.microsoft.com/vs/pricing/) page.
 
 If you already have a Visual Studio standard Professional or Enterprise subscription, after you join the program, when you set up your Microsoft 365 developer subscription, you have the option to link it to your Visual Studio subscription. For details, see [Set up your Microsoft 365 E5 sandbox subscription](microsoft-365-developer-program-get-started.md#set-up-your-microsoft-365-e5-sandbox-subscription).
