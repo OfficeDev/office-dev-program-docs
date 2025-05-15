@@ -2,7 +2,7 @@
 metadata:
   title: Microsoft 365 Developer Program FAQ
   description: Frequently asked questions about the Microsoft 365 Developer Program.
-  ms.date: 06/06/23
+  ms.date: 05/19/25
   ms.localizationpriority: high
     
 title: Microsoft 365 Developer Program FAQ
@@ -41,6 +41,49 @@ sections:
           You can only have one Microsoft 365 Developer Program account associated with your phone number. If you need to set up a new Developer Program account, for example to use a different email account or account type, you must delete your existing account first. To delete your account, sign in to your [dashboard](https://developer.microsoft.com/en-us/microsoft-365/profile) and choose **Delete Profile**.
 
           Note that if you delete your Developer Program account, you can only get a subscription after you have had your existing subscription for more than 60 days.
+
+      - question: |
+        Who qualifies for a Microsoft 365 E5 developer subscription?
+        
+        answer: |
+
+        - **Visual Studio Subscribers** - If you have a **Visual Studio Professional** or **Visual Studio Enterprise** standard subscription, you automatically qualify for a Microsoft 365 developer subscription that **renews automatically**. 
+          For more information, see [Learn how to join the Microsoft 365 Developer Program with Visual Studio](https://learn.microsoft.com/office/developer-program/join-with-visual-studio).
+        - **Developers from ISV Success Program or Microsoft AI Cloud Partner Program (MAICPP)** - If your company is enrolled in Microsoft's **ISV Success Program** or the **Microsoft AI Cloud Partner Program (MAICPP)** (with certain levels), you may qualify for a Microsoft 365 E5 developer subscription that **renews based on active development usage**.
+
+          **Check to see if you qualify**
+        
+          - Sign in to the Microsoft 365 Developer Program using your **corporate email address**. 
+          - If eligible, you'll see the option to request a Microsoft 365 E5 developer subscription.
+
+          [Learn more about the ISV Success Program](https://learn.microsoft.com/en-us/partner-center/membership/isv-success)
+          [Learn more about the MAICPP Program](https://www.microsoft.com/en-us/americas-partner-one/maicpp?msockid=111adc8963d469eb14c7c9c562866859)
+ 
+          **Important** - Not all MAICPP partner levels qualify for the Microsoft 365 Developer Program benefit.
+
+          Eligible partner types include:
+          - Azure Expert MSP
+          - Legacy Gold/Silver partners
+          - Managed Partners
+          - Microsoft Action Pack subscribers
+          - Partner Launch Benefits recipients
+          - Partner Success Core Benefits recipients
+          - Partner Success Expanded Benefits recipients
+          - Solutions Partners
+          - Specialization Partners
+
+          [Learn more about MAICPP partner types](https://learn.microsoft.com/en-us/partner-center/membership/mpn-overview#services-partner)
+
+        - **Developers from Premier or Unified Support Customers++** - If your company has signed up for a **Premier** or **Unified Support** contract with Microsoft, you're also eligible for a Microsoft 365 E5 developer subscription.
+        **How to request access:**
+          - Contact your **Customer Success Account Manager (CSAM)**.
+          - Request a Microsoft 365 E5 developer subscription for your corporate email address (your CSAM will manage the request process).
+          - After validation, you'll receive a welcome email with instructions to activate your subscription.
+        
+        **Microsoft partner contacts could include:""
+          - Customer Success Account Manager (CSAM) (for Premier or Unified Support customers)
+          - Partner Development Manager (PDM) (for Managed Partners)
+          - Customer Support Engineer (for ISV Partners)
 
       - question: |
           How can I get a Microsoft 365 developer subscription via the Developer Program?  
