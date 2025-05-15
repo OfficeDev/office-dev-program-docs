@@ -29,12 +29,12 @@ sections:
       - question: |
           What account can I use to sign up for the Microsoft 365 Developer Program?
         answer: |
-          You can sign up for the developer program by using one of the following account types:
-          
-          - **Microsoft account** (created by you for personal use) - Provides access to all consumer-oriented Microsoft products and cloud services, such as Outlook (Hotmail), Messenger, OneDrive, MSN, Xbox Live, or Microsoft 365. Signing up for an Outlook.com mailbox automatically creates a Microsoft account. After a Microsoft account is created, it can be used to access consumer-related Microsoft cloud services or Azure. 
-          - **Work account** (issued by an admin for business use) - Provides access to all small, medium, and enterprise business-level Microsoft cloud services, such as Azure, Microsoft Intune, or Microsoft 365. When you sign up to one of these services as an organization, a cloud-based directory is automatically provisioned in Azure Active Directory to represent your organization. For more information, see [Manage your Azure AD directory](/azure/active-directory/active-directory-administer).
+          Sign up for the developer program by using one of the following account types:
+          **Important** Try signing up with your corporate or work account first to ensure you haven't already signed up with that email address.
+          - **Work account** (issued by an admin for business use) - Provides access to all small, medium, and enterprise business-level Microsoft cloud services, such as Azure, Microsoft Intune, or Microsoft 365. When you sign up to one of these services as an organization, a cloud-based directory is automatically provisioned in Azure Active Directory to represent your organization. For more information, see [What is Microsoft Entra ID](/entra/fundamentals/whatis).
           - **Visual Studio ID** (created for your Visual Studio Professional or Enterprise subscriptions) - We recommend that you use this option to join the developer program from within the Visual Studio Gallery to get the full benefits as a Visual Studio subscriber. 
-          
+          - **Microsoft account** (created by you for personal use) - Provides access to all consumer-oriented Microsoft products and cloud services, such as Outlook (Hotmail), Messenger, OneDrive, MSN, Xbox Live, or Microsoft 365. Signing up for an Outlook.com mailbox automatically creates a Microsoft account. After a Microsoft account is created, it can be used to access consumer-related Microsoft cloud services or Azure. 
+ 
       - question: |
           How many Microsoft 365 Developer Program accounts can I create?
         answer: |
@@ -43,47 +43,46 @@ sections:
           Note that if you delete your Developer Program account, you can only get a subscription after you have had your existing subscription for more than 60 days.
 
       - question: |
-        Who qualifies for a Microsoft 365 E5 developer subscription?
-        
+          Who qualifies for a Microsoft 365 E5 developer subscription?
         answer: |
+          - **Visual Studio Subscribers** - If you have a **Visual Studio Professional** or **Visual Studio Enterprise** standard subscription, you automatically qualify for a Microsoft 365 developer subscription that **renews automatically**. 
+            For more information, see [Learn how to join the Microsoft 365 Developer Program with Visual Studio](https://learn.microsoft.com/office/developer-program/join-with-visual-studio).
+          - **Developers from ISV Success Program or Microsoft AI Cloud Partner Program (MAICPP)** - If your company is enrolled in Microsoft's **ISV Success Program** or the **Microsoft AI Cloud Partner Program (MAICPP)** (with certain levels), you may qualify for a Microsoft 365 E5 developer subscription that **renews based on active development usage**.
 
-        - **Visual Studio Subscribers** - If you have a **Visual Studio Professional** or **Visual Studio Enterprise** standard subscription, you automatically qualify for a Microsoft 365 developer subscription that **renews automatically**. 
-          For more information, see [Learn how to join the Microsoft 365 Developer Program with Visual Studio](https://learn.microsoft.com/office/developer-program/join-with-visual-studio).
-        - **Developers from ISV Success Program or Microsoft AI Cloud Partner Program (MAICPP)** - If your company is enrolled in Microsoft's **ISV Success Program** or the **Microsoft AI Cloud Partner Program (MAICPP)** (with certain levels), you may qualify for a Microsoft 365 E5 developer subscription that **renews based on active development usage**.
+            **Check to see if you qualify**
+          
+            - Sign in to the Microsoft 365 Developer Program using your **corporate email address**. 
+            - If eligible, you'll see the option to request a Microsoft 365 E5 developer subscription.
 
-          **Check to see if you qualify**
-        
-          - Sign in to the Microsoft 365 Developer Program using your **corporate email address**. 
-          - If eligible, you'll see the option to request a Microsoft 365 E5 developer subscription.
+            [Learn more about the ISV Success Program](https://learn.microsoft.com/en-us/partner-center/membership/isv-success)
+            [Learn more about the MAICPP Program](https://www.microsoft.com/en-us/americas-partner-one/maicpp?msockid=111adc8963d469eb14c7c9c562866859)
+  
+            **Important** - Not all MAICPP partner levels qualify for the Microsoft 365 Developer Program benefit. Eligible partner types include:
+            - Azure Expert MSP
+            - Legacy Gold/Silver partners
+            - Managed Partners
+            - Microsoft Action Pack subscribers
+            - Partner Launch Benefits recipients
+            - Partner Success Core Benefits recipients
+            - Partner Success Expanded Benefits recipients
+            - Solutions Partners
+            - Specialization Partners
 
-          [Learn more about the ISV Success Program](https://learn.microsoft.com/en-us/partner-center/membership/isv-success)
-          [Learn more about the MAICPP Program](https://www.microsoft.com/en-us/americas-partner-one/maicpp?msockid=111adc8963d469eb14c7c9c562866859)
- 
-          **Important** - Not all MAICPP partner levels qualify for the Microsoft 365 Developer Program benefit.
+            [Learn more about MAICPP partner types](https://learn.microsoft.com/en-us/partner-center/membership/mpn-overview#services-partner)
 
-          Eligible partner types include:
-          - Azure Expert MSP
-          - Legacy Gold/Silver partners
-          - Managed Partners
-          - Microsoft Action Pack subscribers
-          - Partner Launch Benefits recipients
-          - Partner Success Core Benefits recipients
-          - Partner Success Expanded Benefits recipients
-          - Solutions Partners
-          - Specialization Partners
+          - **Developers from Premier or Unified Support Customers++** - If your company has signed up for a **Premier** or **Unified Support** contract with Microsoft, you're also eligible for a Microsoft 365 E5 developer subscription.
+           
+            **How to request access:**
+            - Contact your **Customer Success Account Manager (CSAM)**.
+            - Request a Microsoft 365 E5 developer subscription for your corporate email address (your CSAM will manage the request process).
+            - After validation, you'll receive a welcome email with instructions to activate your subscription.
+          
+            **Microsoft partner contacts could include:**
+            - Customer Success Account Manager (CSAM) (for Premier or Unified Support customers)
+            - Partner Development Manager (PDM) (for Managed Partners)
+            - Customer Support Engineer (for ISV Partners)
 
-          [Learn more about MAICPP partner types](https://learn.microsoft.com/en-us/partner-center/membership/mpn-overview#services-partner)
-
-        - **Developers from Premier or Unified Support Customers++** - If your company has signed up for a **Premier** or **Unified Support** contract with Microsoft, you're also eligible for a Microsoft 365 E5 developer subscription.
-        **How to request access:**
-          - Contact your **Customer Success Account Manager (CSAM)**.
-          - Request a Microsoft 365 E5 developer subscription for your corporate email address (your CSAM will manage the request process).
-          - After validation, you'll receive a welcome email with instructions to activate your subscription.
-        
-        **Microsoft partner contacts could include:""
-          - Customer Success Account Manager (CSAM) (for Premier or Unified Support customers)
-          - Partner Development Manager (PDM) (for Managed Partners)
-          - Customer Support Engineer (for ISV Partners)
+            **placeholder for Quick reference table: Microsoft 365 Developer Program elibibility**
 
       - question: |
           How can I get a Microsoft 365 developer subscription via the Developer Program?  
@@ -220,7 +219,7 @@ sections:
       - question: |
           I'm unable to sign in to my instant sandbox with my admin account. What can I do?
         answer: |
-          If you set up your instant sandbox between May 31, 2023 and June 5, 2023, you will not be able to access your tenant due to a technical issue. Please go to your [Microsoft 365 Developer Program dashboard](https://aka.ms/DevProgramDashboard), sign in with your Developer Program account, and choose **Set up subscription** to get your new instant sandbox.  
+          If you set up your instant sandbox between May 31, 2023 and June 5, 2023, you won't be able to access your tenant due to a technical issue. Please go to your [Microsoft 365 Developer Program dashboard](https://aka.ms/DevProgramDashboard), sign in with your Developer Program account, and choose **Set up subscription** to get your new instant sandbox.  
           After you set up your new instant sandbox, please sign in with your admin account within 14 days. We apologize for the inconvenience.
 
       - question: |
@@ -308,9 +307,9 @@ sections:
 
           If you choose to migrate to a Microsoft 365 E5 subscription, you can use the free tool [Microsoft Mover](https://mover.io/) to migrate your data. See also the following resources:
 
-          - [How to migrate mailboxes from one Microsoft 365 tenant to another](/exchange/mailbox-migration/migrate-mailboxes-across-tenants)
-          - [Using PowerShell to perform a staged migration to Office 365](/microsoft-365/enterprise/use-powershell-to-perform-a-staged-migration-to-microsoft-365?view=o365-worldwide)
-          - [Migrate your content to Microsoft 365](/sharepointmigration/migrate-to-sharepoint-online)
+          - [How to migrate mailboxes from one Microsoft 365 tenant to another](/exchange/mailbox-migration/migrate-mailboxes-across-tenants).
+          - [Using PowerShell to perform a staged migration to Office 365](/microsoft-365/enterprise/use-powershell-to-perform-a-staged-migration-to-microsoft-365?view=o365-worldwide).
+          - [Migrate your content to Microsoft 365](/sharepointmigration/migrate-to-sharepoint-online).
 
       - question: |
           Should I choose an instant sandbox or a configurable sandbox?
@@ -319,7 +318,7 @@ sections:
 
           In addition, you get pre-installed sample data, including the new Teams sample data pack, which simulate a small corporate environment to help you build solutions across the Microsoft 365 platform. For details, see Developer sandbox sample data.
           
-          If you choose a configurable sandbox, you will have an empty sandbox that you must populate with sample data. This sandbox can take up to two days to provision. You can choose to install the sample data packs that are available on your developer program dashboard. You can customize your domain name with this option. 
+          If you choose a configurable sandbox, you'll have an empty sandbox that you must populate with sample data. This sandbox can take up to two days to provision. You can choose to install the sample data packs that are available on your developer program dashboard. You can customize your domain name with this option. 
  
       - question: |
           How can I find the Teams sample data in my instant sandbox?
