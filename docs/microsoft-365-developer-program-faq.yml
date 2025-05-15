@@ -34,7 +34,7 @@ sections:
           > [!IMPORTANT]
           > Try signing up with your corporate or work account first to ensure you haven't already signed up with that email address.
 
-          - **Work account** (issued by an admin for business use) - Provides access to all small, medium, and enterprise business-level Microsoft cloud services, such as Azure, Microsoft Intune, or Microsoft 365. When you sign up to one of these services as an organization, a cloud-based directory is automatically provisioned in Azure Active Directory to represent your organization. For more information, see [What is Microsoft Entra ID](/entra/fundamentals/whatis).
+          - **Work account** (issued by an admin for business use) - Provides access to all small, medium, and enterprise business-level Microsoft cloud services, such as Azure, Microsoft Intune, or Microsoft 365. When you sign up to one of these services as an organization, a cloud-based directory is automatically provisioned in Microsoft Entra ID to represent your organization. For more information, see [What is Microsoft Entra ID](/entra/fundamentals/whatis).
           - **Visual Studio ID** (created for your Visual Studio Professional or Enterprise subscriptions) - We recommend that you use this option to join the developer program from within the Visual Studio Gallery to get the full benefits as a Visual Studio subscriber. 
           - **Microsoft account** (created by you for personal use) - Provides access to all consumer-oriented Microsoft products and cloud services, such as Outlook (Hotmail), Messenger, OneDrive, MSN, Xbox Live, or Microsoft 365. Signing up for an Outlook.com mailbox automatically creates a Microsoft account. After a Microsoft account is created, it can be used to access consumer-related Microsoft cloud services or Azure. 
         
@@ -97,7 +97,7 @@ sections:
             | ISV Success Program Members | Companies enrolled in ISV Success Program or eligible MAICPP tiers | Sign in with corporate email; eligible option will appear | ISV Success Program OverviewMAICPP Program Details |
             | AI Cloud Partner Program Participants   | Specific MAICPP partner levels (e.g. | Azure Expert MSP | Managed Partners) |
             | Premier or Unified Support Plan Members | Companies with a Premier or Unified Support contract | Contact CSAM to request subscription | N/A |
-            
+
       - question: |
           How can I get a Microsoft 365 developer subscription via the Developer Program?  
         answer: |
