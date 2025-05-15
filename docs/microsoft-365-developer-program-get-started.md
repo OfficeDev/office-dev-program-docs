@@ -7,20 +7,25 @@ ms.localizationpriority: high
 
 # Set up a Microsoft 365 developer sandbox subscription 
 
-Set up a Microsoft 365 developer sandbox to build your solutions independent of your production environment. Your developer program membership, which you join as a regular member or through Visual Studio enterprise, includes a Microsoft 365 E5 developer sandbox subscription with 25 user licenses. It lasts for 90 days and is free to use for development purposes (coding solutions) only. Commercial transactions, including purchasing paid services, are not supported.
+Qualifying Microsoft 365 Developer Program members can set up a Microsoft 365 E5 developer subscription for use in building solutions independent of your production environment. The Microsoft 365 E5 developer sandbox subscription includes 25 user licenses and lasts for up to 90 days, depending on your activity. If you use your subscription for valid development activity, it will renew automatically. Commercial transactions, including purchasing paid services, are not currently supported.
 
 > [!NOTE] 
-> To set up a subscription, you must first [join the Microsoft 365 Developer Program](microsoft-365-developer-program.md) directly or through Visual Studio Professional or Enterprise (if you're a subscriber). After joining, you'll see the option to set up a subscription.
+> Before you request a developer subscription, you must first [join the Microsoft 365 Developer Program](microsoft-365-developer-program.md) directly or through Visual Studio Professional or Enterprise (if you're a subscriber). 
 
-You can choose to set up either an instant sandbox or a configurable sandbox.
+If you qualify for a Microsoft 365 E5 subscription through the developer program, the subscription set up flow will start automatically after you join the program. If you choose not to set up your subscription right away, the option to set up a subscription will be available on your [Microsoft 365 Developer Program dashboard](https://developer.microsoft.com/en-us/microsoft-365/profile).
+
+Qualifying members can choose to set up either an instant sandbox or a configurable sandbox.
+
+> [!NOTE]
+> Your Microsoft 365 E5 developer subscription is for development purposes only and can be revoked if you use it for purposes other than development. For details, see the [Microsoft 365 Developer Program Terms and Conditions](terms-and-conditions.md).
 
 ## Instant sandbox
 
-If you choose an instant sandbox, you can cut your sandbox configuration time from days to seconds. The Microsoft 365 instant sandbox comes pre-provisioned with Microsoft Teams, SharePoint, Outlook, and Office. It also includes licenses for 24 test users plus one admin, and the latest Microsoft 365 apps for your PC and Mac, including Power Apps, Power BI, Enterprise Mobility + Security, Office 365 Advanced Threat Protection, and Azure Active Directory.
+If you choose an instant sandbox, you can cut your sandbox configuration time from days to seconds. The Microsoft 365 instant sandbox comes pre-provisioned with Microsoft Teams, SharePoint, Outlook, and Office. It also includes licenses for 24 test users plus one admin, and the latest Microsoft 365 apps for your PC and Mac, including Power Apps, Power BI, Enterprise Mobility + Security, Office 365 Advanced Threat Protection, and Microsoft Entra ID.
 
 In addition, you get pre-installed sample data, including the new Teams sample data pack, as well as Microsoft Graph user, mail, and calendar data and SharePoint Framework sample data, which simulate a small corporate environment to help you build solutions across the Microsoft 365 platform. For details, see [Developer sandbox sample data](install-sample-packs.md).
 
-> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RWOmCY]
+> [!VIDEO b716d805-224b-4934-958a-76d8790ff797]
 
 You cannot customize your domain name if you choose this option.
 
@@ -36,8 +41,6 @@ To get a Microsoft 365 developer subscription:
 
 2. In the **Set up your Microsoft 365 E5 developer subscription** dialog box, choose whether you want an instant sandbox or a configurable sandbox, and then choose **Next**.
 
-    ![Screenshot of the Set up your Microsoft 365 E5 developer subscription dialog box](images/set-up-your-subscription.png)
-
 If you selected an instant sandbox:
 
 1.	Choose the **Country/region for your data center**, and provide an **Admin username** and **Admin password**, and optionally an alternative password for your fictitious users, and then choose **Continue**.
@@ -45,12 +48,14 @@ If you selected an instant sandbox:
     > [!IMPORTANT] 
     > Make a note of your username and password because you'll need it to access your developer subscription.
 
-2.	Provide a valid cell phone number and choose **Send code**. Enter the code that you receive, and then choose **Set up**.
+2. If you're a Visual Studio subscriber, on the **Link with Visual Studio** dialog box, select an option from the dropdown menu, and choose **Continue**. Otherwise, continue to step 3.
+
+3.	Provide a valid cell phone number and choose **Send code**. Enter the code that you receive, and then choose **Set up**.
 
     > [!NOTE] 
     > You must use a valid cell phone number and not Voice over IP (VoIP). You can only have one Microsoft 365 Developer Program account associated with your phone number. 
 
-3.	After the subscription is created, your subscription domain name and expiration date appear on your profile page.
+4.	After the subscription is created, your subscription domain name and expiration date appear on your profile page.
 
 If you selected a configurable sandbox:
 
@@ -59,7 +64,9 @@ If you selected a configurable sandbox:
     > [!IMPORTANT] 
     > Make a note of your username and password because you'll need it to access your developer subscription.
 
-2.	Provide a valid cell phone number and choose **Send code**. Enter the code that you receive, and then choose **Set up**.
+2. If you're a Visual Studio subscriber, on the **Link with Visual Studio** dialog box, select an option from the dropdown menu, and choose **Continue**. Otherwise, continue to step 3.
+
+3.	Provide a valid cell phone number and choose **Send code**. Enter the code that you receive, and then choose **Set up**.
 
     > [!NOTE] 
     > You must use a valid cell phone number and not Voice over IP (VoIP). You can only have one Microsoft 365 Developer Program account associated with your phone number. 
@@ -109,7 +116,7 @@ Set up multifactor authentication to safeguard your access to your sandbox. To s
 
 If you have a configurable sandbox, it will take some time for the backend services, such as SharePoint and Exchange, to provision for the subscription. During this step, some of the icons in the app launcher and on the Home page show as **Setting up (This app is still being set up)**. This will take no longer than an hour.
 
-When the provisioning is complete, you can use the new Microsoft 365 subscription for development. The subscription expires after 90 days. To extend it, see [When my subscription is about to expire, can I extend it?](microsoft-365-developer-program-faq.yml#renew-subscription).
+When the provisioning is complete, you can use the new Microsoft 365 subscription for development. The subscription lasts for up 90 days, depending on your activity, and renews automatically for as long as you use it for valid development activity. You can find the expiration date on your [Microsoft 365 Developer Program dashboard](https://aka.ms/DevProgramDashboard).
 
 We also recommend that you enable release options to ensure that you get access to the latest Microsoft 365 features as soon as possible. For more information, see [Set up the Standard or Targeted release options](https://support.office.com/article/set-up-the-standard-or-targeted-release-options-in-office-365-3b3adfa4-1777-4ff0-b606-fb8732101f47).
 
@@ -127,8 +134,7 @@ Sample data packs save you time by automatically installing data and content you
 
 For resources to help you set up your development environment and deployment pipeline, engage with the [Microsoft 365 and Power Platform Community](https://pnp.github.io/).
 
-## See also
+## Related content
 
 - [Use your subscription to build Microsoft 365 solutions](build-microsoft-365-solutions.md)
-- [Renew an expiring subscription](subscription-expiration-and-renewal.md)
 - [Microsoft 365 Developer Program FAQ](microsoft-365-developer-program-faq.yml)
