@@ -11,7 +11,7 @@ The Microsoft 365 Developer Program includes a Microsoft 365 E5 developer subscr
 
 Do you have a Visual Studio Pro or Enterprise subscription? If so, you can take advantage of additional benefits when you join the program; for details, see [Join with Visual Studio](join-with-visual-studio.md).
 
-<a name="m365-dev-program-eligibility>
+<a name="m365-dev-program-eligibility"></a>
 
 ## Microsoft 365 Developer Program eligibility overview
 
@@ -19,10 +19,10 @@ Use the following quick reference to see if you are eligible.
 
 |**Category**                 |**Qualification**|**How to join**|**See also**|
 |:----------------------------|:----------------|:--------------|:-----------|
-| Visual Studio Subscribers   | Visual Studio Professional or Enterprise subscription holders | Automatically qualify; sign up via Visual Studio portal | [Join now](https://learn.microsoft.com/office/developer-program/join-with-visual-studio) |
-| ISV Success Program Members | Companies enrolled in ISV Success Program or eligible MAICPP tiers | Sign in with corporate email; eligible option will appear | [ISV Success Program](https://learn.microsoft.com/partner-center/membership/isv-success)</br></br>[MAICPP Program](https://www.microsoft.com/americas-partner-one/maicpp?msockid=111adc8963d469eb14c7c9c562866859) |
-| AI Cloud Partner Program Participants   | Specific MAICPP partner levels (e.g. Azure Expert MSP, Managed Partners, etc.) | Sign in with corporate email, eligible option will appear [Service partners overview](https://learn.microsoft.com/partner-center/membership/mpn-overview#services-partner) |
-| Premier or Unified Support Plan Members | Companies with a Premier or Unified Support contract | Contact CSAM to request subscription | N/A |
+| Visual Studio Subscribers   | Visual Studio Professional or Enterprise subscription holders | Automatically qualify; sign up via Visual Studio portal. | [Join now](https://learn.microsoft.com/office/developer-program/join-with-visual-studio) |
+| ISV Success Program Members | Companies enrolled in ISV Success Program or eligible MAICPP tiers | Sign in with corporate email; eligible option will appear. | [ISV Success Program](https://learn.microsoft.com/partner-center/membership/isv-success)</br></br>[MAICPP Program](https://www.microsoft.com/americas-partner-one/maicpp?msockid=111adc8963d469eb14c7c9c562866859) |
+| AI Cloud Partner Program Participants   | Specific MAICPP partner levels (e.g. Azure Expert MSP, Managed Partners, etc.) | Sign in with corporate email, eligible option will appear. | [Service partners overview](https://learn.microsoft.com/partner-center/membership/mpn-overview#services-partner) |
+| Premier or Unified Support Plan Members | Companies with a Premier or Unified Support contract | Contact your customer service account manager (CSAM) to request a subscription. | N/A |
 
 ## Join the Microsoft 365 Developer Program
 
