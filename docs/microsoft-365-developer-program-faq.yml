@@ -1,4 +1,4 @@
-b### YamlMime:FAQ
+### YamlMime:FAQ
 metadata:
   title: Microsoft 365 Developer Program FAQ
   description: Frequently asked questions about the Microsoft 365 Developer Program.
@@ -62,7 +62,8 @@ sections:
             - Sign in to the Microsoft 365 Developer Program using your **corporate email address**. 
             - If eligible, you'll see the option to request a Microsoft 365 E5 developer subscription.
 
-            [Learn more about the ISV Success Program](https://learn.microsoft.com/partner-center/membership/isv-success)</br>
+            [Learn more about the ISV Success Program](https://learn.microsoft.com/partner-center/membership/isv-success)
+
             [Learn more about the MAICPP Program](https://www.microsoft.com/americas-partner-one/maicpp?msockid=111adc8963d469eb14c7c9c562866859)
   
             Many MAICPP partner levels are eligible for the Microsoft 365 Developer Program benefit. These include:
