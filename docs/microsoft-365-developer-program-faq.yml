@@ -1,4 +1,4 @@
-### YamlMime:FAQ
+b### YamlMime:FAQ
 metadata:
   title: Microsoft 365 Developer Program FAQ
   description: Frequently asked questions about the Microsoft 365 Developer Program.
@@ -62,7 +62,7 @@ sections:
             - Sign in to the Microsoft 365 Developer Program using your **corporate email address**. 
             - If eligible, you'll see the option to request a Microsoft 365 E5 developer subscription.
 
-            [Learn more about the ISV Success Program](https://learn.microsoft.com/partner-center/membership/isv-success)
+            [Learn more about the ISV Success Program](https://learn.microsoft.com/partner-center/membership/isv-success)</br>
             [Learn more about the MAICPP Program](https://www.microsoft.com/americas-partner-one/maicpp?msockid=111adc8963d469eb14c7c9c562866859)
   
             Many MAICPP partner levels are eligible for the Microsoft 365 Developer Program benefit. These include:
@@ -90,14 +90,6 @@ sections:
             - Partner Development Manager (PDM) (for Managed Partners)
             - Customer Support Engineer (for ISV Partners)
 
-            **Quick Reference Table: Microsoft 365 Developer Program Eligibility**
-            |**Category**                 |**Qualification**|**How to join**|**See also**|
-            |:----------------------------|:----------------|:--------------|:-----------|
-            | Visual Studio Subscribers   | Visual Studio Professional or Enterprise subscription holders | Automatically qualify; sign up via Visual Studio portal | Join Here |
-            | ISV Success Program Members | Companies enrolled in ISV Success Program or eligible MAICPP tiers | Sign in with corporate email; eligible option will appear | ISV Success Program OverviewMAICPP Program Details |
-            | AI Cloud Partner Program Participants   | Specific MAICPP partner levels (e.g. | Azure Expert MSP | Managed Partners) |
-            | Premier or Unified Support Plan Members | Companies with a Premier or Unified Support contract | Contact CSAM to request subscription | N/A |
-
       - question: |
           How can I get a Microsoft 365 developer subscription via the Developer Program?  
         answer: |
@@ -109,7 +101,7 @@ sections:
           Who qualifies for a Microsoft 365 E5 developer subscription?
         answer: |
           Any Visual Studio subscriber with a standard Professional or standard Enterprise subscription qualifies for a subscription that renews automatically. We are currently piloting a new verification process that will allow more member types to qualify for a subscription. 
-          The new process will enable developer program members to request a Microsoft 365 E5 subscription, go through a validation process, and receive an invitation to set up a subscription. For the latest updates, including when the new verification process will be broadly available, follow the [Microsoft 365 developer blog](https://devblogs.microsoft.com/microsoft365dev/tag/microsoft-365-developer-program/)       
+          The new process will enable developer program members to request a Microsoft 365 E5 subscription, go through a validation process, and receive an invitation to set up a subscription. For the latest updates, including when the new verification process will be broadly available, follow the [Microsoft 365 developer blog](https://devblogs.microsoft.com/microsoft365dev/tag/microsoft-365-developer-program/).
 
           In addition, the following [Microsoft AI Cloud Partner Program](https://partner.microsoft.com/) participants can contact their Microsoft partner to be added to an allow list to receive access to a developer subscription:
           
