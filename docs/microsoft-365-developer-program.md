@@ -11,7 +11,7 @@ The Microsoft 365 Developer Program includes a Microsoft 365 E5 developer subscr
 
 Do you have a Visual Studio Pro or Enterprise subscription? If so, you can take advantage of additional benefits when you join the program; for details, see [Join with Visual Studio](join-with-visual-studio.md).
 
-<a name="m365-dev-program-eligibility"d>
+<a name="m365-dev-program-eligibility"></a>
 
 ## Microsoft 365 Developer Program eligibility overview
 
