@@ -17,10 +17,10 @@ sections:
         answer: |
           The Microsoft 365 Developer Program is designed to help you build people-centric, cross-platform productivity experiences that extend Microsoft 365. Join our program to get access to the tools, documentation, training, experts, and community events that you need to build great solutions for Microsoft 365 products and technologies, including:
           
-          - [Excel](https://developer.microsoft.com/en-us/excel), [Outlook](https://developer.microsoft.com/en-us/outlook), [Word](https://developer.microsoft.com/en-us/word), and [PowerPoint](https://developer.microsoft.com/en-us/powerpoint) web add-ins
-          - [SharePoint](https://developer.microsoft.com/en-us/sharepoint)
-          - [Microsoft Teams](https://developer.microsoft.com/en-us/microsoft-teams)
-          - [Microsoft Graph](https://developer.microsoft.com/en-us/graph)
+          - [Excel](https://developer.microsoft.com/excel), [Outlook](https://developer.microsoft.com/outlook), [Word](https://developer.microsoft.com/word), and [PowerPoint](https://developer.microsoft.com/powerpoint) web add-ins
+          - [SharePoint](https://developer.microsoft.com/sharepoint)
+          - [Microsoft Teams](https://developer.microsoft.com/microsoft-teams)
+          - [Microsoft Graph](https://developer.microsoft.com/graph)
           
           Qualifying program members can get a Microsoft 365 E5 developer subscription with 25 user licenses to use to build solutions. This subscription will remain active for as long as you're actively developing and deploying solutions.
           
@@ -30,7 +30,10 @@ sections:
           What account can I use to sign up for the Microsoft 365 Developer Program?
         answer: |
           Sign up for the developer program by using one of the following account types.
-          **Important** Try signing up with your corporate or work account first to ensure you haven't already signed up with that email address.
+
+          > [!IMPORTANT]
+          > Try signing up with your corporate or work account first to ensure you haven't already signed up with that email address.
+
           - **Work account** (issued by an admin for business use) - Provides access to all small, medium, and enterprise business-level Microsoft cloud services, such as Azure, Microsoft Intune, or Microsoft 365. When you sign up to one of these services as an organization, a cloud-based directory is automatically provisioned in Azure Active Directory to represent your organization. For more information, see [What is Microsoft Entra ID](/entra/fundamentals/whatis).
           - **Visual Studio ID** (created for your Visual Studio Professional or Enterprise subscriptions) - We recommend that you use this option to join the developer program from within the Visual Studio Gallery to get the full benefits as a Visual Studio subscriber. 
           - **Microsoft account** (created by you for personal use) - Provides access to all consumer-oriented Microsoft products and cloud services, such as Outlook (Hotmail), Messenger, OneDrive, MSN, Xbox Live, or Microsoft 365. Signing up for an Outlook.com mailbox automatically creates a Microsoft account. After a Microsoft account is created, it can be used to access consumer-related Microsoft cloud services or Azure. 
@@ -41,9 +44,11 @@ sections:
       - question: |
           How many Microsoft 365 Developer Program accounts can I create?
         answer: |
-          You can only have one Microsoft 365 Developer Program account associated with your phone number. If you need to set up a new Developer Program account, for example to use a different email account or account type, you must delete your existing account first. To delete your account, sign in to your [dashboard](https://developer.microsoft.com/en-us/microsoft-365/profile) and choose **Delete Profile**.
+          You can only have one Microsoft 365 Developer Program account associated with your phone number. If you need to set up a new Developer Program account, for example to use a different email account or account type, you must delete your existing account first. To delete your account, sign in to your [dashboard](https://developer.microsoft.com/microsoft-365/profile) and choose **Delete Profile**.
 
           Note that if you delete your Developer Program account, you can only get a subscription after you have had your existing subscription for more than 60 days.
+        
+          <a name="who-qualifies"> </a>
 
       - question: |
           Who qualifies for a Microsoft 365 E5 developer subscription?
@@ -57,10 +62,10 @@ sections:
             - Sign in to the Microsoft 365 Developer Program using your **corporate email address**. 
             - If eligible, you'll see the option to request a Microsoft 365 E5 developer subscription.
 
-            [Learn more about the ISV Success Program](https://learn.microsoft.com/en-us/partner-center/membership/isv-success)
-            [Learn more about the MAICPP Program](https://www.microsoft.com/en-us/americas-partner-one/maicpp?msockid=111adc8963d469eb14c7c9c562866859)
+            [Learn more about the ISV Success Program](https://learn.microsoft.com/partner-center/membership/isv-success)
+            [Learn more about the MAICPP Program](https://www.microsoft.com/americas-partner-one/maicpp?msockid=111adc8963d469eb14c7c9c562866859)
   
-            **Important** - Not all MAICPP partner levels qualify for the Microsoft 365 Developer Program benefit. Eligible partner types include
+            Many MAICPP partner levels are eligible for the Microsoft 365 Developer Program benefit. These include:
             - Azure Expert MSP
             - Legacy Gold/Silver partners
             - Managed Partners
@@ -71,7 +76,7 @@ sections:
             - Solutions Partners
             - Specialization Partners
 
-            [Learn more about MAICPP partner types](https://learn.microsoft.com/en-us/partner-center/membership/mpn-overview#services-partner)
+            [Learn more about MAICPP partner types](https://learn.microsoft.com/partner-center/membership/mpn-overview#services-partner)
 
           - **Developers from Premier or Unified Support Customers++** - If your company has signed up for a **Premier** or **Unified Support** contract with Microsoft, you're also eligible for a Microsoft 365 E5 developer subscription.
            
@@ -85,8 +90,14 @@ sections:
             - Partner Development Manager (PDM) (for Managed Partners)
             - Customer Support Engineer (for ISV Partners)
 
-            __placeholder for Quick reference table Microsoft 365 Developer Program elibibility__
-
+            **Quick Reference Table: Microsoft 365 Developer Program Eligibility**
+            |**Category**                 |**Qualification**|**How to join**|**See also**|
+            |:----------------------------|:----------------|:--------------|:-----------|
+            | Visual Studio Subscribers   | Visual Studio Professional or Enterprise subscription holders | Automatically qualify; sign up via Visual Studio portal | Join Here |
+            | ISV Success Program Members | Companies enrolled in ISV Success Program or eligible MAICPP tiers | Sign in with corporate email; eligible option will appear | ISV Success Program OverviewMAICPP Program Details |
+            | AI Cloud Partner Program Participants   | Specific MAICPP partner levels (e.g. | Azure Expert MSP | Managed Partners) |
+            | Premier or Unified Support Plan Members | Companies with a Premier or Unified Support contract | Contact CSAM to request subscription | N/A |
+            
       - question: |
           How can I get a Microsoft 365 developer subscription via the Developer Program?  
         answer: |
@@ -138,7 +149,7 @@ sections:
           
           To change the email account that's associated with your developer program membership, use the following steps to update your primary email account:
 
-          1. Go to the [Microsoft 365 Developer Program dashboard](https://developer.microsoft.com/en-us/microsoft-365/profile).
+          1. Go to the [Microsoft 365 Developer Program dashboard](https://developer.microsoft.com/microsoft-365/profile).
           2. On the top right, choose your profile image.
           3. Select **My Microsoft Account**. This opens a new tab that takes you to your general Microsoft account page.
           4. On the left pane, choose **Your Info**.
@@ -313,7 +324,7 @@ sections:
       - question: |
           How can I migrate from an Office 365 E3 subscription to a Microsoft 365 E5 subscription?
         answer: |
-          Currently, qualifying Microsoft 365 Developer Program members get a Microsoft 365 E5 Developer subscription. Existing members who have not migrated to a new Microsoft 365 E5 subscription have the option to migrate to a Microsoft 365 E5 subscription through March 31, 2024. On April 1, 2024, all Office 365 E3 subscriptions and data will be deleted. If you don't accept the offer to migrate to a Microsoft 365 E5 subscription by March 31, 2024, your Office 365 E3 subscription will be removed, and you will have the option to request a new subscription after 60 days.
+          Currently, qualifying Microsoft 365 Developer Program members get a Microsoft 365 E5 Developer subscription. Existing members who have not migrated to a new Microsoft 365 E5 subscription have the option to migrate to a Microsoft 365 E5 subscription through March 31, 2024. On April 1, 2024, all Office 365 E3 subscriptions and data will be deleted. If you don't accept the offer to migrate to a Microsoft 365 E5 subscription by March 31, 2024, your Office 365 E3 subscription will be removed, and you'll have the option to request a new subscription after 60 days.
 
           If you choose to migrate to a Microsoft 365 E5 subscription, you can use the free tool [Microsoft Mover](https://mover.io/) to migrate your data. See also the following resources:
 
@@ -338,7 +349,7 @@ sections:
       - question: |
           Why should I link my GitHub account?
         answer: |
-          When you join the Microsoft 365 Developer Program, on your [My settings](https://developer.microsoft.com/en-us/microsoft-365/profile/settings/preferences) page, you can link your GitHub account to your developer program account. Linking your GitHub account will accrue toward the renewal of your Microsoft 365 developer sandbox subscription. You can also choose to unlink your account by going to the [Accounts linked](https://developer.microsoft.com/en-us/microsoft-365/profile/settings/accounts-linked) section of your **My settings** page.
+          When you join the Microsoft 365 Developer Program, on your [My settings](https://developer.microsoft.com/microsoft-365/profile/settings/preferences) page, you can link your GitHub account to your developer program account. Linking your GitHub account will accrue toward the renewal of your Microsoft 365 developer sandbox subscription. You can also choose to unlink your account by going to the [Accounts linked](https://developer.microsoft.com/microsoft-365/profile/settings/accounts-linked) section of your **My settings** page.
             
       - question: |
           Can I choose whether to have an Office 365 E3 or a Microsoft 365 E5 subscription?
