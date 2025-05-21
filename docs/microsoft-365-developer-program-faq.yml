@@ -97,28 +97,7 @@ sections:
           Qualified members are invited to set up a Microsoft 365 E5 developer subscription after joining the Microsoft 365 Developer Program. For details about qualified members, see [Who qualifies for a Microsoft 365 E5 developer subscription?](#who-qualifies-for-a-microsoft-365-e5-developer-subscription-).
           
           The Microsoft 365 E5 developer subscription is designed to be used for application development only.
-      
-      - question: |
-          Who qualifies for a Microsoft 365 E5 developer subscription?
-        answer: |
-          Any Visual Studio subscriber with a standard Professional or standard Enterprise subscription qualifies for a subscription that renews automatically. We are currently piloting a new verification process that will allow more member types to qualify for a subscription. 
-          The new process will enable developer program members to request a Microsoft 365 E5 subscription, go through a validation process, and receive an invitation to set up a subscription. For the latest updates, including when the new verification process will be broadly available, follow the [Microsoft 365 developer blog](https://devblogs.microsoft.com/microsoft365dev/tag/microsoft-365-developer-program/).
-
-          In addition, the following [Microsoft AI Cloud Partner Program](https://partner.microsoft.com/) participants can contact their Microsoft partner to be added to an allow list to receive access to a developer subscription:
           
-          - Azure Expert MSP
-          - Legacy Gold/Silver
-          - Managed Partners
-          - Microsoft Action Pack
-          - Partner Launch Benefits
-          - Partner Success Core Benefits
-          - Partner Success Expanded Benefits
-          - Solutions Partner
-          - Specialization Partner
-          - Premier or Unified Support plan members
-          
-          Your Microsoft partner might be a Customer Success Account Manager (CSAM) (premier and unified support), Partner Development Manager (PDM) (managed partner), or a customer support engineer (ISV). ISV Success partners may qualify for a Microsoft 365 E5 developer subscription that renews based on development activity.
-      
       - question: |
           How many Microsoft 365 developer subscriptions can I get via the Developer Program?  
         answer: |
