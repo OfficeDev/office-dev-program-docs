@@ -216,7 +216,7 @@ sections:
         answer: |
           This offer does not include a subscription to Azure. Commercial transactions, such as purchasing additional paid services, are not supported on your Microsoft 365 Developer Program subscription; it is only for developing and testing your solutions. 
           
-          To receive free access to Azure services, you can [create a free Azure account](https://azure.microsoft.com/free/). 
+          To receive free access to Azure services, you can [create a free Azure account](https://azure.microsoft.com/pricing/purchase-options/azure-account?cid=msft_learn). 
           
       - question: |
           How many user licenses does the developer subscription include?

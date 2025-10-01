@@ -122,7 +122,7 @@ We also recommend that you enable release options to ensure that you get access 
 
 ## Set up a Microsoft Azure account
 
-For some Office solutions, you might need a Microsoft Azure account to build using Azure services. This is not included with the Microsoft 365 Developer subscription. To set up a free Azure account, see [Create your Azure free account today](https://azure.microsoft.com/free/).
+For some Office solutions, you might need a Microsoft Azure account to build using Azure services. This is not included with the Microsoft 365 Developer subscription. To set up a free Azure account, see [Create your Azure free account today](https://azure.microsoft.com/pricing/purchase-options/azure-account?cid=msft_learn).
 
 ## Install sample data packs
 
