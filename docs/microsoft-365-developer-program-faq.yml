@@ -2,7 +2,7 @@
 metadata:
   title: Microsoft 365 Developer Program FAQ
   description: Frequently asked questions about the Microsoft 365 Developer Program.
-  ms.date: 05/19/25
+  ms.date: 10/01/2025
   ms.localizationpriority: high
     
 title: Microsoft 365 Developer Program FAQ
@@ -53,23 +53,51 @@ sections:
       - question: |
           Who qualifies for a Microsoft 365 E5 developer subscription?
         answer: |
-          Any Visual Studio subscriber with a standard Professional or standard Enterprise subscription qualifies for a subscription that renews automatically. We are currently piloting a new verification process that will allow more member types to qualify for a subscription. 
-          The new process will enable developer program members to request a Microsoft 365 E5 subscription, go through a validation process, and receive an invitation to set up a subscription. For the latest updates, including when the new verification process will be broadly available, follow the [Microsoft 365 developer blog](https://devblogs.microsoft.com/microsoft365dev/tag/microsoft-365-developer-program/)       
+          **1. Visual Studio Subscribers**
+         
+             If you have a Visual Studio Professional or Enterprise subscription, you automatically qualify for a Microsoft 365 developer subscription. Your subscription will renew automatically.
+           
+             For more details about joining the Microsoft 365 Developer Program with Visual Studio, see [Join the Microsoft 365 Developer Program as a Visual Studio subscriber](https://learn.microsoft.com/office/developer-program/join-with-visual-studio).
+           
+          **2. ISV Success Program or Microsoft AI Cloud Partner Program (MAICPP)**
+         
+             Companies participating in the [ISV Success Program](https://learn.microsoft.com/partner-center/membership/isv-success) or eligible tiers of the [Microsoft AI Cloud Partner Program (MAICPP)](https://www.microsoft.com/americas-partner-one/maicpp?msockid=111adc8963d469eb14c7c9c562866859) can request a Microsoft 365 E5 developer subscription. 
+           
+             To check your eligibility, sign in to the Microsoft 365 Developer Program using your corporate email address. If you qualify, you’ll see the option to request a Microsoft 365 E5 developer subscription. To keep your subscription active, continue using it for development purposes.  
+           
+             Eligible MAICPP partner levels include:
+             
+             - **Azure Expert Managed Service Providers (MSP)**: Recognized for deep Azure expertise and service delivery.             
+             - **Solutions Partners**: Partners who have earned a Solutions Partner designation in one or more Microsoft Cloud solution areas (e.g., Business Applications, Data & AI, Digital & App Innovation, Infrastructure, Modern Work, Security).             
+             - **Specialization Partners**: Partners who have achieved advanced specializations in specific solution areas.             
+             - **Managed Partners**: Partners with a dedicated Partner Development Manager (PDM) relationship.             
+             - **Microsoft Action Pack Subscribers**: Organizations subscribed to the Action Pack for essential tools and resources.             
+             - **Partner Success Core Benefits Recipients**: Partners receiving core benefits as part of the Microsoft AI Cloud Partner Program.             
+             - **Partner Success Expanded Benefits Recipients**: Partners receiving expanded benefits under the program.             
+             - **Partner Launch Benefits Recipients**: Partners eligible for launch-related benefits.             
+             - **Legacy Gold/Silver Partners**: Partners who previously held Gold or Silver competencies under the retired Microsoft Partner Network model.
+             
+             For more details about MAICPP partner types, see [service partner types](https://learn.microsoft.com/partner-center/membership/mpn-overview#services-partner) in the Partner Center membership overview.
+           
+           **3. Premier or Unifed Support Customers**
+         
+             If your company has a Premier or Unified Support contract with Microsoft, you’re eligible for a Microsoft 365 E5 developer subscription. The request process is managed by your support partner contact.
+           
+             Microsoft support partner contacts include:
+             
+             - Customer Success Account Manager (CSAM) for Premier or Unified Support customers             
+             - Partner Development Manager (PDM) for Managed Partners             
+             - Customer Support Engineer (CSE) for ISV Partners
+           
+             **To request a subscription:**
+             
+             1. Register for the Microsoft 365 Developer Program using your corporate email address.             
+             2. After you register, connect with your Microsoft partner contact and request a Microsoft 365 E5 developer subscription using the same email address. Your Microsoft partner contact will manage the request process.             
+             3. Once validated, you’ll receive a welcome email with instructions to activate your subscription.
 
-          In addition, the following [Microsoft AI Cloud Partner Program](https://partner.microsoft.com/) participants can contact their Microsoft partner to be added to an allow list to receive access to a developer subscription:
-          
-          - Azure Expert MSP
-          - Legacy Gold/Silver
-          - Managed Partners
-          - Microsoft Action Pack
-          - Partner Launch Benefits
-          - Partner Success Core Benefits
-          - Partner Success Expanded Benefits
-          - Solutions Partner
-          - Specialization Partner
-          - Premier or Unified Support plan members
-          
-          Your Microsoft partner might be a Customer Success Account Manager (CSAM) (premier and unified support), Partner Development Manager (PDM) (managed partner), or a customer support engineer (ISV). ISV Success partners may qualify for a Microsoft 365 E5 developer subscription that renews based on development activity.
+           **4. Government cloud elibility**
+         
+             The Microsoft 365 Developer Program is not offered in Microsoft's government clouds such as Microsoft 365 Government (GCC, GCC High, or DoD). Government cloud environments are designed to meet specific regulatory and compliance requirements, and some programs or features available in the commercial cloud are not supported there.
       
       - question: |
           How can I get a Microsoft 365 developer subscription via the Developer Program?  
