@@ -85,7 +85,7 @@ sections:
              
                - **Legacy Gold/Silver Partners**: Partners who previously held Gold or Silver competencies under the retired Microsoft Partner Network model.
              
-             For more information about MAICPP partner types, see[Service partner prgrams](https://learn.microsoft.com/partner-center/membership/mpn-overview#services-partner).
+             For more details about MAICPP partner types, see [service partner types](https://learn.microsoft.com/partner-center/membership/mpn-overview#services-partner) in the Partner Center membership overview.
            
            **3. Premier or Unifed Support Customers**
          
@@ -109,7 +109,7 @@ sections:
 
            **4. Government cloud elibility**
          
-             The Microsoft 365 Developer Program is **not** offered in Microsoft's government clouds such as Microsoft 365 Government (GCC, GCC High, or DoD). Government cloud environments are designed to meet specific regulatory and compliance requirements, and some programs or features available in the commercial cloud are not supported there.
+             The Microsoft 365 Developer Program is not offered in Microsoft's government clouds such as Microsoft 365 Government (GCC, GCC High, or DoD). Government cloud environments are designed to meet specific regulatory and compliance requirements, and some programs or features available in the commercial cloud are not supported there.
       
       - question: |
           How can I get a Microsoft 365 developer subscription via the Developer Program?  
