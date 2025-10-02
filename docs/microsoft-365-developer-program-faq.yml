@@ -67,22 +67,14 @@ sections:
            
              Eligible MAICPP partner levels include:
              
-             - **Azure Expert Managed Service Providers (MSP)**: Recognized for deep Azure expertise and service delivery.
-             
-             - **Solutions Partners**: Partners who have earned a Solutions Partner designation in one or more Microsoft Cloud solution areas (e.g., Business Applications, Data & AI, Digital & App Innovation, Infrastructure, Modern Work, Security).
-             
-             - **Specialization Partners**: Partners who have achieved advanced specializations in specific solution areas.
-             
-             - **Managed Partners**: Partners with a dedicated Partner Development Manager (PDM) relationship.
-             
-             - **Microsoft Action Pack Subscribers**: Organizations subscribed to the Action Pack for essential tools and resources.
-             
-             - **Partner Success Core Benefits Recipients**: Partners receiving core benefits as part of the Microsoft AI Cloud Partner Program.
-             
-             - **Partner Success Expanded Benefits Recipients**: Partners receiving expanded benefits under the program.
-             
-             - **Partner Launch Benefits Recipients**: Partners eligible for launch-related benefits.
-             
+             - **Azure Expert Managed Service Providers (MSP)**: Recognized for deep Azure expertise and service delivery.             
+             - **Solutions Partners**: Partners who have earned a Solutions Partner designation in one or more Microsoft Cloud solution areas (e.g., Business Applications, Data & AI, Digital & App Innovation, Infrastructure, Modern Work, Security).             
+             - **Specialization Partners**: Partners who have achieved advanced specializations in specific solution areas.             
+             - **Managed Partners**: Partners with a dedicated Partner Development Manager (PDM) relationship.             
+             - **Microsoft Action Pack Subscribers**: Organizations subscribed to the Action Pack for essential tools and resources.             
+             - **Partner Success Core Benefits Recipients**: Partners receiving core benefits as part of the Microsoft AI Cloud Partner Program.             
+             - **Partner Success Expanded Benefits Recipients**: Partners receiving expanded benefits under the program.             
+             - **Partner Launch Benefits Recipients**: Partners eligible for launch-related benefits.             
              - **Legacy Gold/Silver Partners**: Partners who previously held Gold or Silver competencies under the retired Microsoft Partner Network model.
              
              For more details about MAICPP partner types, see [service partner types](https://learn.microsoft.com/partner-center/membership/mpn-overview#services-partner) in the Partner Center membership overview.
@@ -93,18 +85,14 @@ sections:
            
              Microsoft support partner contacts include:
              
-             - Customer Success Account Manager (CSAM) for Premier or Unified Support customers
-             
-             - Partner Development Manager (PDM) for Managed Partners
-             
+             - Customer Success Account Manager (CSAM) for Premier or Unified Support customers             
+             - Partner Development Manager (PDM) for Managed Partners             
              - Customer Support Engineer (CSE) for ISV Partners
            
              **To request a subscription:**
              
-             1. Register for the Microsoft 365 Developer Program using your corporate email address.
-             
-             2. After you register, connect with your Microsoft partner contact and request a Microsoft 365 E5 developer subscription using the same email address. Your Microsoft partner contact will manage the request process.
-             
+             1. Register for the Microsoft 365 Developer Program using your corporate email address.             
+             2. After you register, connect with your Microsoft partner contact and request a Microsoft 365 E5 developer subscription using the same email address. Your Microsoft partner contact will manage the request process.             
              3. Once validated, you’ll receive a welcome email with instructions to activate your subscription.
 
            **4. Government cloud elibility**
