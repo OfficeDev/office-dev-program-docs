@@ -53,13 +53,13 @@ sections:
       - question: |
           Who qualifies for a Microsoft 365 E5 developer subscription?
         answer: |
-        **1. Visual Studio Subscribers**
+          **1. Visual Studio Subscribers**
          
            If you have a Visual Studio Professional or Enterprise subscription, you automatically qualify for a Microsoft 365 developer subscription. Your subscription will renew automatically.
            
            [Learn more about joining the Microsoft 365 Developer Program with Visual Studio](https://learn.microsoft.com/office/developer-program/join-with-visual-studio)
            
-        **2. ISV Success Program or Microsoft AI Cloud Partner Program (MAICPP)**
+          **2. ISV Success Program or Microsoft AI Cloud Partner Program (MAICPP)**
          
            Companies participating in the [ISV Success Program](https://learn.microsoft.com/partner-center/membership/isv-success) or eligible tiers of the [Microsoft AI Cloud Partner Program (MAICPP)](https://www.microsoft.com/americas-partner-one/maicpp?msockid=111adc8963d469eb14c7c9c562866859) can request a Microsoft 365 E5 developer subscription. 
            
@@ -87,7 +87,7 @@ sections:
              
            [Learn more about MAICPP partner types](https://learn.microsoft.com/partner-center/membership/mpn-overview#services-partner)
            
-         **3. Premier or Unifed Support Customers**
+           **3. Premier or Unifed Support Customers**
          
            If your company has a Premier or Unified Support contract with Microsoft, you’re eligible for a Microsoft 365 E5 developer subscription. The request process is managed by your support partner contact.
            
@@ -107,9 +107,9 @@ sections:
              
              3. Once validated, you’ll receive a welcome email with instructions to activate your subscription.
 
-         **Note: Government cloud elibility**
+           **Note: Government cloud elibility**
          
-         The Microsoft 365 Developer Program is not offered in Microsoft's government clouds such as Microsoft 365 Government (GCC, GCC High, or DoD). Government cloud environments are designed to meet specific regulatory and compliance requirements, and some programs or features available in the commercial cloud are not supported there.
+           The Microsoft 365 Developer Program is not offered in Microsoft's government clouds such as Microsoft 365 Government (GCC, GCC High, or DoD). Government cloud environments are designed to meet specific regulatory and compliance requirements, and some programs or features available in the commercial cloud are not supported there.
       
       - question: |
           How can I get a Microsoft 365 developer subscription via the Developer Program?  
