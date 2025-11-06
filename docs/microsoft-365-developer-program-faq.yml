@@ -306,7 +306,7 @@ sections:
         answer: |
           Currently, qualifying Microsoft 365 Developer Program members get a Microsoft 365 E5 Developer subscription. Existing members who have not migrated to a new Microsoft 365 E5 subscription have the option to migrate to a Microsoft 365 E5 subscription through March 31, 2024. On April 1, 2024, all Office 365 E3 subscriptions and data will be deleted. If you don't accept the offer to migrate to a Microsoft 365 E5 subscription by March 31, 2024, your Office 365 E3 subscription will be removed, and you'll have the option to request a new subscription after 60 days.
 
-          If you choose to migrate to a Microsoft 365 E5 subscription, you can use the free tool [Microsoft Mover](https://mover.io/) to migrate your data. See also the following resources:
+          If you choose to migrate to a Microsoft 365 E5 subscription, see the following resources:
 
           - [How to migrate mailboxes from one Microsoft 365 tenant to another](/exchange/mailbox-migration/migrate-mailboxes-across-tenants).
           - [Using PowerShell to perform a staged migration to Office 365](/microsoft-365/enterprise/use-powershell-to-perform-a-staged-migration-to-microsoft-365?view=o365-worldwide).
