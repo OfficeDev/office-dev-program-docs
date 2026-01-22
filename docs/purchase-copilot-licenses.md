@@ -36,6 +36,7 @@ When you choose Microsoft 365 Copilot, you'll see a prompt to create a new billi
 1. Enter your email address.
     > [!Important]
     > You must use the same email address as your Developer Program Global Admin to correctly link the billing account to your Developer Program.
+    
     ![Enter your email address to create your account](images/dev-program-commerce-create-account.png)
 1. Enter your work communication address.
     ![Enter your account details](images/dev-program-commerce-account-details.png)
