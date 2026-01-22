@@ -25,20 +25,20 @@ Pre-requisites: Before you begin, ensure you have:
 1. In the left-hand navigation menu, select **Marketplace** > **All products**.
 1. Use the search bar to find Microsoft 365 Copilot.
 
-![Microsoft 365 admin center marketplace](../images/dev-program-commerce-copilot-marketplace.png)
+![Microsoft 365 admin center marketplace](images/dev-program-commerce-copilot-marketplace.png)
 
 ## Step 3: Create a billing account
 
 When you choose Microsoft 365 Copilot, you'll see a prompt to create a new billing account.
 
 1. After you accept the new billing experience, select **Create a new billing account**.
-    ![Accept the new billing experience](..images/dev-program-commerce-create-billing-account.png)
+    ![Accept the new billing experience](images/dev-program-commerce-create-billing-account.png)
 1. Enter your email address.
     > [!Important]
     > You must use the same email address as your Developer Program Global Admin to correctly link the billing account to your Developer Program.
-    ![Enter your email address to create your account](..images/dev-program-commerce-create-account.png)
+    ![Enter your email address to create your account](images/dev-program-commerce-create-account.png)
 1. Enter your work communication address.
-    ![Enter your account details](..images/dev-program-commerce-account-details.png)
+    ![Enter your account details](images/dev-program-commerce-account-details.png)
 1. After your address is validated, you'll be redirected back to the admin center.
 
 ## Step 4: Select your license plan
@@ -46,16 +46,16 @@ When you choose Microsoft 365 Copilot, you'll see a prompt to create a new billi
 1. Choose the number of licenses to purchase.
 1. Select your preferred Microsoft 365 Copilot plan.
 1. Select **Buy** to proceed to checkout.
-    ![Select your plan and choose buy](..images/dev-program-commerce-select-and-buy.png)
+    ![Select your plan and choose buy](images/dev-program-commerce-select-and-buy.png)
 
 ## Step 5: Complete your purchase
 
 1. On the checkout page, select **Create a new billing profile** in the top-right corner.
-    ![Create billing profile to complete checkout](..images/dev-program-commerce-create-billing-profile.png)
+    ![Create billing profile to complete checkout](images/dev-program-commerce-create-billing-profile.png)
 1. Enter your billing details and payment information.
-    ![Enter billing details and payment information](../dev-program-commerce-enter-billing-details.png)
+    ![Enter billing details and payment information](images/dev-program-commerce-enter-billing-details.png)
 1. After your purchase is complete, Microsoft 365 Copilot will appear under **Billing** > **Your products**.
-    ![Microsoft Copilot appears now under Your Products](..images/dev-program-commerce-your-products-list.png)
+    ![Microsoft Copilot appears now under Your Products](images/dev-program-commerce-your-products-list.png)
 
 ## Step 6: Assign licenses to users
 
