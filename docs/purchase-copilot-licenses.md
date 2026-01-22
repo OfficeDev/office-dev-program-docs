@@ -73,7 +73,7 @@ After assigning licenses, users may need to:
 - Sign out and sign back in to their Microsoft 365 applications to activate Copilot.
 - Review [Microsoft 365 Copilot documentation](https://support.microsoft.com/copilot) to learn how to use the features.
 
-## Related information
+## Additional resources
 
 - [Microsoft 365 Developer Program](https://developer.microsoft.com/microsoft-365/dev-program)
 - [Assign licenses to users in Microsoft 365](/microsoft-365/admin/manage/assign-licenses-to-users)
