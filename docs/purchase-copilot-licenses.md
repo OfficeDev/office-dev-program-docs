@@ -1,10 +1,10 @@
 ---
-title: Purchase a Copilot license from your M365 Developer Program sandbox
+title: Purchase Copilot licenses from your M365 Developer Program sandbox
 description: Learn how to purchase a Copilot license from your M365 Developer Program sandbox
 ms.localizationpriority: high
 ---
 
-# Purchase a Copilot License from your M365 Developer Program sandbox
+# Purchase Copilot licenses from your M365 Developer Program sandbox
 
 Pre-requisites: Before you begin, ensure you have:
 
