@@ -12,9 +12,9 @@ Pre-requisites: Before you begin, ensure you have:
 - Global Admin credentials for your Developer Program sandbox.
 - A valid payment method to purchase your license.
 
-## Step 1: Sign in to the Microsoft 365 Admin Center
+## Step 1: Sign in to the Microsoft 365 admin center
 
-1. Navigate to the [Microsoft 365 Admin Center](https://admin.microsoft.com/).
+1. Navigate to the [Microsoft 365 admin center](https://admin.microsoft.com/).
 1. Sign in using your Global Admin credentials for your Developer Program sandbox (for example, abc@xyz123.onmicrosoft.com).
 
 > [!NOTE]
