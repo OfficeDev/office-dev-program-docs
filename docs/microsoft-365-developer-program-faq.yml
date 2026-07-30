@@ -13,7 +13,7 @@ sections:
       - question: |
           What is the Microsoft 365 Developer Program and who should join it?
         answer: |
-          Microsoft 365 Developer Program offers a development environment with Microsoft 365 E5-enabled sandboxes, free of charge, to eligible members. Qualifying program members get a Microsoft 365 E5 developer subscription with 25 user licenses to build and test solutions. This subscription will remain active for as long as you're actively developing and deploying solutions.
+          The Microsoft 365 Developer Program offers a development environment with Microsoft 365 E5-enabled sandboxes, free of charge, to eligible members. Qualifying program members get a Microsoft 365 E5 developer subscription with 25 user licenses to build and test solutions. This subscription will remain active for as long as you're actively developing and deploying solutions.
           
           Join the program to get access to the tools, documentation, training, experts, and community events that you need to build great solutions for Microsoft 365 products and technologies, including:
           
@@ -27,7 +27,7 @@ sections:
       - question: |
           What is the Microsoft 365 instant sandbox?
         answer: |
-          Every qualifying developer subscription is provisioned as an instant sandbox which is a fully pre-configured tenant that's ready to use within minutes. It comes pre-provisioned with Microsoft Teams, SharePoint, Outlook, and Office; 24 test users plus one admin; and pre-installed sample data (including Microsoft Graph user/mail/calendar data and a Teams sample data pack) that simulates an enterprise environment.
+          Every qualifying developer subscription is provisioned as an instant sandbox, which is a fully pre-configured tenant that's ready to use within minutes. It comes pre-provisioned with Microsoft Teams, SharePoint, Outlook, and Office; 24 test users plus one admin; and pre-installed sample data (including Microsoft Graph user/mail/calendar data and a Teams sample data pack) that simulates an enterprise environment.
           
           For full setup steps and what's included, see [Set up a Microsoft 365 developer sandbox subscription](microsoft-365-developer-program-get-started.md). For details on the sample data itself, see [Developer sandbox sample data](install-sample-packs.md).
   - name: Eligibility and enrollment
@@ -37,7 +37,7 @@ sections:
         answer: |
           **1. Visual Studio Subscribers**
          
-             If you have a Visual Studio Professional or Enterprise subscription, you qualify for a Microsoft 365 developer subscription. Your M365 developer subscription will renew automatically till the time your Visual Studio subscription is valid. To access this, go to [Visual Studio | My Benefits](https://my.visualstudio.com/benefits). For more information, contact [Visual Studio customer service](https://www.visualstudio.com/subscriptions/support/).
+             If you have a Visual Studio Professional or Enterprise subscription, you qualify for a Microsoft 365 developer subscription. Your Microsoft 365 developer subscription will renew automatically as long as your Visual Studio subscription is active. To access this, go to [Visual Studio | My Benefits](https://my.visualstudio.com/benefits). For more information, contact [Visual Studio customer service](https://www.visualstudio.com/subscriptions/support/).
            
              For more details about joining the Microsoft 365 Developer Program with Visual Studio, see [Join the Microsoft 365 Developer Program as a Visual Studio subscriber](https://learn.microsoft.com/office/developer-program/join-with-visual-studio).
            
@@ -121,7 +121,7 @@ sections:
       - question: |
           As a full-time Microsoft employee, can I receive a subscription?
         answer: |
-          No. Microsoft employees cannot request a sandbox from M365 Developer Program due to internal corporate policies.
+          No. Microsoft employees cannot request a sandbox through the Microsoft 365 Developer Program due to internal corporate policies.
       - question: |
           How can I get a new subscription?
         answer: |
@@ -186,7 +186,7 @@ sections:
       - question: |
           Does the Microsoft 365 E5 developer subscription include the same capabilities that the regular Microsoft 365 E5 subscription includes?
         answer: |
-          The Microsoft 365 E5 developer subscription has the same licensing and capabilities that a regular Microsoft 365 E5 subscription includes, except that in Exchange Online, inbound connectors for mailflow are not supported. Commerce capability in new sandboxes (issued from July 2026) also supports purchasing select add-ons, such as Microsoft 365 Copilot licenses — see [Purchase Copilot licenses from your M365 Developer Program sandbox](purchase-copilot-licenses.md).
+          The Microsoft 365 E5 developer subscription has the same licensing and capabilities that a regular Microsoft 365 E5 subscription includes, except that in Exchange Online, inbound connectors for mailflow are not supported. Commerce capability in new sandboxes (issued starting July 2026) also supports purchasing select add-ons, such as Microsoft 365 Copilot licenses — see [Purchase Copilot licenses from your M365 Developer Program sandbox](purchase-copilot-licenses.md).
       - question: |
           What's included in the developer subscription?
         answer: |          
@@ -273,7 +273,7 @@ sections:
       - question: |
           Can I control and manage the user licenses in the subscription?
         answer: |
-          Your subscription includes 25 user accounts plus one administrator account. 16 of the 25 user accounts are prepopulated for you when your sandbox is set up. You can manage the users in your subscription via the admin center.
+          Your subscription includes 25 user accounts, including one administrator account. 16 of the 24 non-admin user accounts are prepopulated for you when your sandbox is set up. You can manage the users in your subscription via the admin center.
   - name: Billing and commerce
     questions:
       - question: |
