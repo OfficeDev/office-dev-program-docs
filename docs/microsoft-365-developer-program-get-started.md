@@ -10,9 +10,9 @@ ms.localizationpriority: high
 Qualifying Microsoft 365 Developer Program members can set up a Microsoft 365 E5 developer subscription for use in building solutions independent of your production environment. The Microsoft 365 E5 developer sandbox subscription includes 25 user licenses and lasts for up to 90 days, depending on your activity. If you use your subscription for valid development activity, it will renew automatically.
 
 > [!NOTE]
-> Instant sandboxes issued to eligible customers with enterprise accounts starting July 2026 include add-on commerce capability, so you can purchase additional paid licenses and services including Microsoft 365 Copilot directly from within the sandbox. See [Purchase add-on services](#purchase-add-on-services) below.
+> Instant sandboxes issued to eligible customers with enterprise accounts starting July 2026 include add-on commerce capability, so you can purchase additional paid licenses and services including Microsoft 365 Copilot directly from within the sandbox. See [Purchase add-on services] below.
 
-> [!IMPORTANT] 
+> [!IMPORTANT]
 > Before you request a developer subscription, you must first [join the Microsoft 365 Developer Program](microsoft-365-developer-program.md) directly or through Visual Studio Professional or Enterprise (if you're a subscriber). 
 
 If you qualify for a Microsoft 365 E5 subscription through the developer program, the subscription set up flow will start automatically after you join the program. If you choose not to set up your subscription right away, the option to set up a subscription will be available on your [Microsoft 365 Developer Program dashboard](https://developer.microsoft.com/en-us/microsoft-365/profile).
@@ -178,16 +178,6 @@ If there is currently no Azure plan enabled on that account, follow the guidance
 **Reference:** [Organize your invoice based on your needs - Microsoft Learn](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/mca-section-invoice)
 
 After the invoice section has been created and the Azure plan is available, attempt the setup again.
-
-If the issue persists, share the correlation ID with us.
-
-**Steps to get the correlation ID:**
-
-1. Open the Developer Portal.
-2. Press **F12** to open Developer Tools.
-3. Perform the action you are trying to complete and reproduce the issue.
-4. In the Console, type `correlationId`.
-5. Share the generated alphanumeric correlation ID with us.
 
 ### Agreement not signed
 
