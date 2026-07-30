@@ -1,78 +1,127 @@
 ---
 title: Set up a Microsoft 365 developer sandbox subscription
 description: Set up a Microsoft 365 developer subscription for building solutions independent of your production environment.
-ms.date: 04/01/2019
+ms.date: 07/30/2026
 ms.localizationpriority: high
 ---
 
 # Set up a Microsoft 365 developer sandbox subscription 
 
-Qualifying Microsoft 365 Developer Program members can set up a Microsoft 365 E5 developer subscription for use in building solutions independent of your production environment. The Microsoft 365 E5 developer sandbox subscription includes 25 user licenses and lasts for up to 90 days, depending on your activity. If you use your subscription for valid development activity, it will renew automatically. Commercial transactions, including purchasing paid services, are not currently supported.
+Qualifying Microsoft 365 Developer Program members can set up a Microsoft 365 E5 developer subscription for use in building solutions independent of your production environment. The Microsoft 365 E5 developer sandbox subscription includes 25 user licenses and lasts for up to 90 days, depending on your activity. If you use your subscription for valid development activity, it will renew automatically.
 
-> [!NOTE] 
+> [!NOTE]
+> Instant sandboxes issued to eligible customers with enterprise accounts starting July 2026 include add-on commerce capability, so you can purchase additional paid licenses and services including Microsoft 365 Copilot directly from within the sandbox. See [Purchase add-on services](#purchase-add-on-services) below.
+
+> [!IMPORTANT] 
 > Before you request a developer subscription, you must first [join the Microsoft 365 Developer Program](microsoft-365-developer-program.md) directly or through Visual Studio Professional or Enterprise (if you're a subscriber). 
 
 If you qualify for a Microsoft 365 E5 subscription through the developer program, the subscription set up flow will start automatically after you join the program. If you choose not to set up your subscription right away, the option to set up a subscription will be available on your [Microsoft 365 Developer Program dashboard](https://developer.microsoft.com/en-us/microsoft-365/profile).
 
-Qualifying members can choose to set up either an instant sandbox or a configurable sandbox.
-
-> [!NOTE]
+> [!IMPORTANT]
 > Your Microsoft 365 E5 developer subscription is for development purposes only and can be revoked if you use it for purposes other than development. For details, see the [Microsoft 365 Developer Program Terms and Conditions](terms-and-conditions.md).
 
 ## Instant sandbox
 
-If you choose an instant sandbox, you can cut your sandbox configuration time from days to seconds. The Microsoft 365 instant sandbox comes pre-provisioned with Microsoft Teams, SharePoint, Outlook, and Office. It also includes licenses for 24 test users plus one admin, and the latest Microsoft 365 apps for your PC and Mac, including Power Apps, Power BI, Enterprise Mobility + Security, Office 365 Advanced Threat Protection, and Microsoft Entra ID.
+Your Microsoft 365 developer subscription is provisioned as an instant sandbox, a fully pre-configured E5 developer environment that's ready in minutes. It comes pre-loaded with:
 
-In addition, you get pre-installed sample data, including the new Teams sample data pack, as well as Microsoft Graph user, mail, and calendar data and SharePoint Framework sample data, which simulate a small corporate environment to help you build solutions across the Microsoft 365 platform. For details, see [Developer sandbox sample data](install-sample-packs.md).
+- 16 fictitious sample users (plus your admin account)
+- Microsoft Teams sample data packs
+- Microsoft Graph user, mail, and calendar data, and Office Add-ins/SharePoint Framework sample data
+- Pre-configured custom apps
+- Add-on commerce capability — the ability to purchase additional services, including Microsoft 365 Copilot, directly from your sandbox
+
+For details on the sample data, see [Developer sandbox sample data](install-sample-packs.md).
 
 > [!VIDEO b716d805-224b-4934-958a-76d8790ff797]
 
-You cannot customize your domain name if you choose this option.
-
-## Configurable sandbox
-
-If you choose a configurable sandbox, you can customize your domain name. You will have an empty sandbox that you must populate with sample data. This sandbox can take up to two days to provision. You can choose to install the sample data packs one by one that are available on your developer program dashboard. For details, see Developer sandbox sample data.
+> [!NOTE]
+> Your domain name is pre-configured (for example, yourtenant.onmicrosoft.com) and can't be customized after sign-up.
 
 ## Set up your Microsoft 365 E5 sandbox subscription
 
-To get a Microsoft 365 developer subscription:
+### Prerequisites
+
+Before you begin, make sure you have:
+
+- A Microsoft account to sign in with.
+- A valid billing account (you can create one during setup if you don't already have one).
+- A business phone number and address, for billing account creation.
+
+> [!IMPORTANT]
+> You will not be charged for the free E5 developer sandbox. Billing details are required only for account verification and to enable future add-on purchases.
+
+### Step 1: Choose your sandbox type
 
 1. On your profile page, choose **Set up E5 subscription**.
 
-2. In the **Set up your Microsoft 365 E5 developer subscription** dialog box, choose whether you want an instant sandbox or a configurable sandbox, and then choose **Next**.
+2. In the setup dialog box, select **Instant sandbox (Add-on purchases enabled)** — this is the default, top option.
 
-If you selected an instant sandbox:
+3. Choose **Next** to continue to the billing setup screen.
 
-1.	Choose the **Country/region for your data center**, and provide an **Admin username** and **Admin password**, and optionally an alternative password for your fictitious users, and then choose **Continue**.
+What you get: Your domain name will be pre-configured (e.g., yourtenant.onmicrosoft.com) and cannot be customized after sign-up. The preview panel on the right shows the 90-day renewable subscription details.
+
+### Step 2: Configure billing details
+
+On the **Set up your Microsoft 365 E5 instant sandbox** screen, provide your data center region and link a billing account.
+
+1. **Select country/region.** Choose the data center region closest to you from the **Country/region for your data center** dropdown.
+
+    > [!NOTE]
+    > Your region can't be changed after sign-up, so choose carefully.
+
+2. **Select a billing account.** Click the **Billing account** dropdown.
+   - If you have an existing eligible billing account associated with your Microsoft account, select it and skip to step 4.
+   - If the dropdown is empty or your account isn't listed, continue to step 3 to create one.
+
+3. **Create a new billing account** (if required). Choose **Add a new billing account** to open the Microsoft billing account creation flow in a new window, and complete the three-step wizard:
+
+   1. **Account details** — your name, business address, country/region, and business phone number.
+   2. **Sign-in details** — confirm or set up sign-in credentials for the billing account.
+   3. **Payment setup and finish** — review and accept the Microsoft Customer Agreement.
+
+    > [!NOTE]
+    > By selecting **Next**, you agree to the Microsoft Customer Agreement and confirm that you are authorized to accept its terms on behalf of your organization.
+
+    Once billing account creation is complete, close that window and return to the sandbox setup screen.
+
+4. **Refresh and select your billing account.** After returning to the setup screen, click the small **Refresh (↺)** icon next to the **Billing account** dropdown. Your newly created billing account will now appear in the list. The **Billing profile** and **Invoice section** fields populate automatically — verify they're correct.
+
+    > [!TIP]
+    > If your account still does not appear after refreshing, wait a few seconds and try the refresh button again.
+
+5. Choose **Set up**.
+
+### Step 3: Set up admin credentials
+
+After billing configuration is saved, set the sign-in credentials for your sandbox:
+
+1. Provide an **Admin username**.
+
+2. Create and confirm an **Admin password**.
+
+3. Optionally, select **Use alternative password for all 16 fictitious users** to set one shared password for the sample user accounts — useful for testing scenarios where you need to sign in as different users.
 
     > [!IMPORTANT] 
-    > Make a note of your username and password because you'll need it to access your developer subscription.
+    > Make a note of your username and password because you'll need them to access your developer subscription.
 
-2. If you're a Visual Studio subscriber, on the **Link with Visual Studio** dialog box, select an option from the dropdown menu, and choose **Continue**. Otherwise, continue to step 3.
+4. Choose **Set up** to begin provisioning your sandbox.
 
-3.	Provide a valid cell phone number and choose **Send code**. Enter the code that you receive, and then choose **Set up**.
+> [!NOTE]
+> Please refer to the [Microsoft privacy statement](https://privacy.microsoft.com/privacystatement) for information on how your data is handled.
 
-    > [!NOTE] 
-    > You must use a valid cell phone number and not Voice over IP (VoIP). You can only have one Microsoft 365 Developer Program account associated with your phone number. 
+### Step 4: Access your sandbox dashboard
 
-4.	After the subscription is created, your subscription domain name and expiration date appear on your profile page.
+Once provisioning is complete, you'll be redirected to the Microsoft 365 Developer Program dashboard, where your new subscription appears with an **Active** status.
 
-If you selected a configurable sandbox:
+From here, you can:
 
-1.	Choose your **Country/region**, and then provide a username in the **Create username** field and a domain name in the **Create domain field**. Create and confirm your password, and then choose **Continue**.
+- View your sandbox domain name and subscription status.
+- Choose **Go to subscription** to access your sandbox.
+- Install sample data packs (Users, Mail & events) — the Users pack must be installed first. For details, see [Developer sandbox sample data](install-sample-packs.md).
+- Monitor your 90-day renewable subscription timer.
 
-    > [!IMPORTANT] 
-    > Make a note of your username and password because you'll need it to access your developer subscription.
-
-2. If you're a Visual Studio subscriber, on the **Link with Visual Studio** dialog box, select an option from the dropdown menu, and choose **Continue**. Otherwise, continue to step 3.
-
-3.	Provide a valid cell phone number and choose **Send code**. Enter the code that you receive, and then choose **Set up**.
-
-    > [!NOTE] 
-    > You must use a valid cell phone number and not Voice over IP (VoIP). You can only have one Microsoft 365 Developer Program account associated with your phone number. 
-
-4.	After the subscription is created, your subscription domain name and expiration date appear on your profile page.
-
+> [!TIP]
+> If you're a Visual Studio subscriber, link your subscription to Visual Studio for automatic renewal. See [Join the Microsoft 365 Developer Program as a Visual Studio subscriber](join-with-visual-studio.md).
 
 ## Configure the subscription
 
@@ -90,51 +139,74 @@ If you selected a configurable sandbox:
 5. **Personalize your sign-in and email**. You can connect your subscription to a domain, or just use the existing subdomain that you created. When ready, choose **Use this domain**, or choose **Do this later**.
 
 6. **Add new users**. You can add fictitious or real users to help you with development. When ready, choose **Add users and assign licenses**.
-    
-    > [!NOTE]
-    > If you have a configurable subscription, after you set up your subscription, you can install the Users sample data pack. The Users sample data pack creates 16 fictitious users on your subscription, and includes the licenses for each user, and mailboxes, names, metadata, and photos for each. For details, see [Developer sandbox sample data](install-sample-packs.md).
 
-6. **Assign licenses to unlicensed users**. For any users that you want to be able to work with the subscription, grant them a license. When ready, choose **Add users and assign licenses** or **Do this later**.
+7. **Assign licenses to unlicensed users**. For any users that you want to be able to work with the subscription, grant them a license. When ready, choose **Add users and assign licenses** or **Do this later**.
 
-7. **Share sign-in credentials**. For any real users that will access the subscription, you must share their sign-in credentials with them. You can choose a method, such as email, download, or print. When ready, choose **Continue**.
+8. **Share sign-in credentials**. For any real users that will access the subscription, you must share their sign-in credentials with them. You can choose a method, such as email, download, or print. When ready, choose **Continue**.
 
    > [!TIP] 
    > On subsequent visits to your dashboard, sign in with your *username@domain*.onmicrosoft.com account before you go to the Dashboard.
 
-8. Choose whether you want to send an email to users about Microsoft Teams, and then choose **Continue**.
+9. Choose whether you want to send an email to users about Microsoft Teams, and then choose **Continue**.
 
-9. **You've reached the end of setup**. You've completed the setup for your subscription. You can optionally rate the experience. When ready, choose **Go to the Admin center**.
-    
-   > [!NOTE] 
-   > At this time, the subscription's region defaults to North America regardless of which country/region you are in. You can still proceed with setting up and using your developer subscription.
+10. **You've reached the end of setup**. You've completed the setup for your subscription. You can optionally rate the experience. When ready, choose **Go to the Admin center**.
 
 ## Set up multifactor authentication
 
-Set up multifactor authentication to safeguard your access to your sandbox. To set up multifactor authentication, sign in to your new sandbox with your admin account. In the left pane, choose **Admin**, choose **Setup**, and then choose **Configure multifcator authentication (MFA)**. Link the MFA to the email and phone number you used when you set up your sandbox. You will be able to use them to recover your sandbox if you forget your password.
-
-## Provision Microsoft 365 services in your configurable sandbox
-
-If you have a configurable sandbox, it will take some time for the backend services, such as SharePoint and Exchange, to provision for the subscription. During this step, some of the icons in the app launcher and on the Home page show as **Setting up (This app is still being set up)**. This will take no longer than an hour.
-
-When the provisioning is complete, you can use the new Microsoft 365 subscription for development. The subscription lasts for up 90 days, depending on your activity, and renews automatically for as long as you use it for valid development activity. You can find the expiration date on your [Microsoft 365 Developer Program dashboard](https://aka.ms/DevProgramDashboard).
-
-We also recommend that you enable release options to ensure that you get access to the latest Microsoft 365 features as soon as possible. For more information, see [Set up the Standard or Targeted release options](https://support.office.com/article/set-up-the-standard-or-targeted-release-options-in-office-365-3b3adfa4-1777-4ff0-b606-fb8732101f47).
-
-## Set up a Microsoft Azure account
-
-For some Office solutions, you might need a Microsoft Azure account to build using Azure services. This is not included with the Microsoft 365 Developer subscription. To set up a free Azure account, see [Create your Azure free account today](https://azure.microsoft.com/pricing/purchase-options/azure-account?cid=msft_learn).
+Set up multifactor authentication to safeguard your access to your sandbox. To set up multifactor authentication, sign in to your new sandbox with your admin account. In the left pane, choose **Admin**, choose **Setup**, and then choose **Configure multifactor authentication (MFA)**. Link the MFA to the email and phone number you used when you set up your sandbox. You will be able to use them to recover your sandbox if you forget your password.
 
 ## Install sample data packs
 
-You can install sample data packs on your configurable sandbox. If you chose the instant sandbox, the sample date packs come pre-installed.
-
-Sample data packs save you time by automatically installing data and content you need to build and test your solutions. This includes fictitious users, metadata, and photos to simulate a small corporate environment. For details about the sample data packs that are available and how to install them, see [Developer sandbox sample data](install-sample-packs.md).
+Sample data packs come pre-installed with your instant sandbox and save you time by automatically providing data and content you need to build and test your solutions. This includes fictitious users, metadata, and photos to simulate a small corporate environment. For details about the sample data packs available, see [Developer sandbox sample data](install-sample-packs.md).
 
 ## Set up a development environment and deployment pipeline
 
 For resources to help you set up your development environment and deployment pipeline, engage with the [Microsoft 365 and Power Platform Community](https://pnp.github.io/).
 
+## Troubleshooting
+
+### Billing account not appearing in the dropdown
+
+Choose the refresh icon next to the **Billing account** dropdown. Allow a few seconds after completing billing account creation before refreshing.
+
+If the billing account still does not appear, try creating a new billing account. If the system shows **BillingAccountAlreadyExists** or displays "Your billing account is ready" but it still doesn't show up in the dropdown, check for the following:
+
+**No Azure plan enabled on the account**
+
+If there is currently no Azure plan enabled on that account, follow the guidance below to create an invoice section. This action may provision the required Azure plan. Once that is complete, retry the setup process.
+
+**Reference:** [Organize your invoice based on your needs - Microsoft Learn](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/mca-section-invoice)
+
+After the invoice section has been created and the Azure plan is available, attempt the setup again.
+
+If the issue persists, share the correlation ID with us.
+
+**Steps to get the correlation ID:**
+
+1. Open the Developer Portal.
+2. Press **F12** to open Developer Tools.
+3. Perform the action you are trying to complete and reproduce the issue.
+4. In the Console, type `correlationId`.
+5. Share the generated alphanumeric correlation ID with us.
+
+### Agreement not signed
+
+If you see an error related to the agreement not being signed, please sign the agreement through the Microsoft Admin Center portal. During this process, the required **billing profile** and **invoice section** will also need to be created.
+
+You can access the portal here: [admin.microsoft.com](https://admin.microsoft.com)
+
+Once you have completed the agreement-signing flow and the **billing profile** with invoice section has been created, retry the operation. If you continue to experience issues, please share a screenshot of the billing account page and the error message with the correlation ID so we can investigate further.
+
+### Set up button remains unavailable
+
+Make sure all required fields — **Billing account**, **Billing profile**, and **Invoice section** — have a value selected. All three must be set before **Set up** becomes active.
+
+### Provisioning takes longer than expected
+
+The instant sandbox typically provisions within minutes. If it takes longer, refresh the Developer Program dashboard page. If the issue persists, contact [Microsoft 365 Developer Program support](https://developer.microsoft.com/microsoft-365/support).
+
 ## Related content
 
+- [Purchase Copilot licenses from your M365 Developer Program sandbox](purchase-copilot-licenses.md)
 - [Use your subscription to build Microsoft 365 solutions](build-microsoft-365-solutions.md)
 - [Microsoft 365 Developer Program FAQ](microsoft-365-developer-program-faq.yml)
