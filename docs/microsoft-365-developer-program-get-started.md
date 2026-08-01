@@ -58,11 +58,15 @@ Before you begin, make sure you have:
 
 3. Choose **Next** to continue to the billing setup screen.
 
+![Set up your Microsoft 365 E5 sandbox - sandbox type selection dialog](images/sandbox-type-selection.png)
+
 What you get: Your domain name will be pre-configured (e.g., yourtenant.onmicrosoft.com) and cannot be customized after sign-up. The preview panel on the right shows the 90-day renewable subscription details.
 
 ### Step 2: Configure billing details
 
 On the **Set up your Microsoft 365 E5 instant sandbox** screen, provide your data center region and link a billing account.
+
+![Billing details screen showing country/region, billing account, billing profile, and invoice section fields](images/billing-details-screen.png)
 
 1. **Select country/region.** Choose the data center region closest to you from the **Country/region for your data center** dropdown.
 
@@ -74,6 +78,8 @@ On the **Set up your Microsoft 365 E5 instant sandbox** screen, provide your dat
    - If the dropdown is empty or your account isn't listed, continue to step 3 to create one.
 
 3. **Create a new billing account** (if required). Choose **Add a new billing account** to open the Microsoft billing account creation flow in a new window, and complete the three-step wizard:
+
+   ![Create a new billing account wizard showing account details, sign-in details, and payment setup steps](images/create-billing-account.png)
 
    1. **Account details** — your name, business address, country/region, and business phone number.
    2. **Sign-in details** — confirm or set up sign-in credentials for the billing account.
@@ -95,6 +101,8 @@ On the **Set up your Microsoft 365 E5 instant sandbox** screen, provide your dat
 
 After billing configuration is saved, set the sign-in credentials for your sandbox:
 
+![Set up login credentials for your developer sandbox - admin username and password fields](images/admin-credentials.png)
+
 1. Provide an **Admin username**.
 
 2. Create and confirm an **Admin password**.
@@ -112,6 +120,8 @@ After billing configuration is saved, set the sign-in credentials for your sandb
 ### Step 4: Access your sandbox dashboard
 
 Once provisioning is complete, you'll be redirected to the Microsoft 365 Developer Program dashboard, where your new subscription appears with an **Active** status.
+
+![Microsoft 365 Developer Program dashboard showing active subscription with domain name, administrator, and sample data packs](images/dashboard-active-subscription.png)
 
 From here, you can:
 
