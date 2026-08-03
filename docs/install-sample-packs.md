@@ -1,10 +1,8 @@
 ---
-
 title: Developer sandbox sample data
 description: Learn about the sample data packs included with your Microsoft 365 Developer Program sandbox subscription.
 ms.date: 07/30/2026
 ms.localizationpriority: high
-
 ---
 
 # Developer sandbox sample data
