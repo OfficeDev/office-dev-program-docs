@@ -1,12 +1,29 @@
 ---
+
 title: Use your developer subscription to build Microsoft 365 solutions
 description: Use your Microsoft 365 developer subscription to build the solutions you want.
+ms.date: 07/30/2026
 ms.localizationpriority: high
+
 ---
 
 # Use your developer subscription to build Microsoft 365 solutions
 
 What do you want to build with your Microsoft 365 developer subscription? Depending on what you are interested in, you can do a lot of different things. The following are some of the products and technology areas that you can start with.
+
+## Microsoft 365 Copilot
+
+Your Microsoft 365 developer subscription now supports building and testing Microsoft 365 Copilot extensions end-to-end, in a production-like environment, without touching your live tenant. With a commercially enabled instant sandbox, you can:
+
+- Build declarative agents that extend Copilot with custom instructions, knowledge, and actions.
+- Build API plugins that connect Copilot to your own or third-party services.
+- Prototype intelligent workflows, such as a custom agent for customer support or a knowledge-retrieval plugin, and iterate on them in a single sandbox.
+
+To get started:
+
+1. Make sure your sandbox has add-on purchase capability enabled — see [Do all Developer Program members get a commercially enabled sandbox?](microsoft-365-developer-program-faq.yml#do-all-developer-program-members-get-a-commercially-enabled-sandbox-)
+2. [Purchase a Microsoft 365 Copilot license](purchase-copilot-licenses.md) from your sandbox and assign it to a test user.
+3. Build and test your extension using the [Microsoft 365 Copilot extensibility documentation](/microsoft-365-copilot/extensibility/).
 
 ## Microsoft Teams
 
@@ -16,8 +33,9 @@ To get started building with Microsoft Teams:
 
 1. [Prepare your developer subscription](/microsoftteams/platform/get-started/get-started-tenant).
 2. Set up your development environment. This process will vary depending on the type of app or service you are building. For details, see one of the following:
-      - [Get started on the Microsoft Teams platform with Node.js](/microsoftteams/platform/get-started/get-started-nodejs-app-studio)
-      - [Get started on the Microsoft Teams platform with C#/.NET](/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
+
+    - [Get started on the Microsoft Teams platform with Node.js](/microsoftteams/platform/get-started/get-started-nodejs-app-studio)
+    - [Get started on the Microsoft Teams platform with C#/.NET](/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
 
 ## Microsoft Graph
 
@@ -74,8 +92,8 @@ For more information:
 - Watch [Power Apps demos](https://powerapps.microsoft.com/demo/)
 - Watch videos on the [Power Apps channel](https://www.youtube.com/channel/UCGfWR2ekfRFckLjev6eQYLg) on YouTube
 
-
 ## Related content
 
 - [Microsoft 365 Developer Program FAQ](microsoft-365-developer-program-faq.yml)
+- [Purchase Copilot licenses from your M365 Developer Program sandbox](purchase-copilot-licenses.md)
 - [Extend Teams apps across Microsoft 365](/microsoftteams/platform/m365-apps/overview)
