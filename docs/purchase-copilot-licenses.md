@@ -10,7 +10,7 @@ ms.localizationpriority: high
 # Purchase Copilot licenses from your M365 Developer Program sandbox
 
 > [!NOTE]
-> Instant sandboxes issued to eligible customers with enterprise accounts starting July 2026 include add-on commerce capability, so you can purchase additional paid licenses and services including Microsoft 365 Copilot directly from within the sandbox. See [Purchase add-on services](microsoft-365-developer-program-get-started.md) below.
+> Instant sandboxes issued to eligible customers with enterprise accounts starting July 2026 include add-on commerce capability, so you can purchase additional paid licenses and services including Microsoft 365 Copilot directly from within the sandbox. For more information, see [Instant sandbox](microsoft-365-developer-program-get-started.md#instant-sandbox).
 
 ## Prerequisites
 
@@ -18,7 +18,7 @@ Before you begin, ensure you have:
 
 - An active M365 Developer Program sandbox.
 - Global Admin credentials for your Developer Program sandbox.
-- A valid payment method for license purchase.
+- A valid payment method to purchase your license.
 
 ## Step 1: Sign in to the Microsoft 365 admin center
 
@@ -70,11 +70,11 @@ When you select Microsoft 365 Copilot, you'll see a prompt to create a new billi
 
     ![Create billing profile to complete checkout](images/dev-program-commerce-create-billing-profile.png)
 
-2. Enter your billing details and payment instrument information.
+2. Enter your billing details and payment information.
 
     ![Enter billing details and payment information](images/dev-program-commerce-enter-billing-details.png)
 
-3. Complete the purchase. After the purchase is complete, Microsoft 365 Copilot will appear in your **Your products** list under **Billing** > **Your products**.
+3. Complete the purchase. After the purchase is complete, Microsoft 365 Copilot will appear under **Billing** > **Your products**.
 
     ![Microsoft Copilot appears now under Your Products](images/dev-program-commerce-your-products-list.png)
 
