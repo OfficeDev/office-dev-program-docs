@@ -18,8 +18,10 @@ Sample data packs are pre-installed on your instant sandbox. Your sandbox includ
   - **App sideloading** pre-configured
   - **Five sample teams, channels, tabs, and chat sessions** built around the 16 sample users.
   - **App Studio / Teams Developer Portal pre-installed and pinned** to help you streamline the creation of your Teams app manifest and app package, plus the card editor and a React control library.
+- **Office Add-ins and SharePoint Framework sample data**
+- **Pre-configured custom apps**
 
-The following sample data packs are included:
+Your sandbox also includes the following **Microsoft Graph** sample data packs:
 
 - **Users** - 16 fictitious users with licenses, mailboxes, and metadata, including names and photos for each user. Use Microsoft Graph APIs to work with user sample data in the following ways:
   - Get specific user details
@@ -33,9 +35,9 @@ The following sample data packs are included:
   - Get upcoming events
   - Update/delete upcoming events
 
-## Can I install sample data packs on my other Microsoft 365 subscriptions?
+## Can I get sample data packs on my other Microsoft 365 subscriptions?
 
-No. These sample data packs are only compatible with the Microsoft 365 developer subscription you get as part of the Microsoft 365 Developer Program.
+No. These sample data packs are only available with the Microsoft 365 developer subscription you get as part of the Microsoft 365 Developer Program.
 
 ## How can I see the sample data in my subscription?
 
