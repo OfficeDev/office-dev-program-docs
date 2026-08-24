@@ -297,7 +297,7 @@ sections:
           
           - **Tenant Storage Cap**: Developer-only tenants are capped at 300 GB pooled storage.
           - **Zero Additional Storage**: The Developer SKU contributes 0 GB SharePoint storage in mixed-license tenants.
-          - **User OneDrive Limit**: 10 GB per user for Developer SKU users' OneDrive storage.
+          - **User OneDrive Limit**: 10 GB per user for Developer SKU users' OneDrive storage. OneDrive storage count against pool storage as well. 
 
       - question: |
           Can I control and manage the user licenses in the subscription?
