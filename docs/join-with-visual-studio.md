@@ -1,12 +1,16 @@
 ---
 title: Join the Microsoft 365 Developer Program with a Visual Studio Professional or Enterprise subscription
-description: All new members of the Microsoft 365 Developer Program (including Visual Studio Professional and Enterprise subscribers) can sign up for a Microsoft 365 E5 developer subscription (Windows not included).
+description: Learn how eligible Visual Studio Professional and Enterprise subscribers can join the Microsoft 365 Developer Program and set up a Microsoft 365 E5 developer sandbox.
+ms.date: 09/02/2026
 ms.localizationpriority: high
 ---
 
 # Join the Microsoft 365 Developer Program as a Visual Studio subscriber
 
-Visual Studio subscribers with standard Professional or Enterprise subscriptions qualify for a Microsoft 365 E5 developer subscription that renews automatically for as long as you remain a Visual Studio subscriber. When you join the program as a Visual Studio subscriber, you can set up a developer sandbox subscription that is linked to your Visual Studio subscription. It will not be subject to expiration due to inactivity (or our failure to detect activity that is not in scope for renewal monitoring).
+Eligible Visual Studio subscribers with standard Professional or Enterprise subscriptions qualify for a Microsoft 365 E5 developer subscription that renews automatically for as long as they remain eligible. When you join the program as a Visual Studio subscriber, you can set up a developer sandbox subscription that is linked to your Visual Studio subscription. It will not be subject to expiration due to inactivity (or our failure to detect activity that is not in scope for renewal monitoring).
+
+> [!IMPORTANT]
+> **Microsoft employees aren't eligible to request or provision a Microsoft 365 E5 developer sandbox through the Microsoft 365 Developer Program.** This compliance restriction applies even if an employee has a Visual Studio Professional or Enterprise standard subscription.
 
 > [!NOTE]
 > Your Microsoft 365 E5 developer subscription is for development purposes only and can be revoked if you use it for purposes other than development. For details, see the [Microsoft 365 Developer Program Terms and Conditions](terms-and-conditions.md).
