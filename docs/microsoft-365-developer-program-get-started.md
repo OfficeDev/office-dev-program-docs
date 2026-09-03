@@ -1,7 +1,7 @@
 ---
 title: Set up a Microsoft 365 developer sandbox subscription
 description: Set up a Microsoft 365 developer subscription for building solutions independent of your production environment.
-ms.date: 07/30/2026
+ms.date: 09/02/2026
 ms.localizationpriority: high
 ---
 
@@ -19,6 +19,17 @@ If you qualify for a Microsoft 365 E5 subscription through the developer program
 
 > [!IMPORTANT]
 > Your Microsoft 365 E5 developer subscription is for development purposes only and can be revoked if you use it for purposes other than development. For details, see the [Microsoft 365 Developer Program Terms and Conditions](terms-and-conditions.md).
+
+## Billing account requirement
+
+> [!IMPORTANT]
+> **A valid billing account is required to set up a Microsoft 365 E5 developer sandbox. This requirement can't be bypassed.**
+>
+> The billing account is used for verification and to enable future paid purchases. You will not be charged for the developer sandbox. Charges are incurred only if you intentionally purchase a paid product or service.
+>
+> You can use an eligible individual billing account or, if you have the required permissions, an existing organizational billing account. Before you begin, make sure that the Microsoft Customer Agreement is accepted, an Azure plan is enabled, the billing profile and invoice section are active, and any applicable Azure subscription spending limit is removed.
+>
+> If your MCA billing account doesn't have an Azure plan, create an invoice section. This action might provision the required Azure plan. For instructions, see [Organize your invoice based on your needs](/azure/cost-management-billing/manage/mca-section-invoice). For all billing requirements, see [Configure billing details](#step-2-configure-billing-details).
 
 ## Instant sandbox
 
@@ -44,11 +55,8 @@ For details on the sample data, see [Developer sandbox sample data](install-samp
 Before you begin, make sure you have:
 
 - A Microsoft account to sign in with.
-- A valid billing account (you can create one during setup if you don't already have one).
+- A valid individual or organizational billing account.
 - A business phone number and address, for billing account creation.
-
-> [!IMPORTANT]
-> You will not be charged for the free E5 developer sandbox. Billing details are required only for account verification and to enable future add-on purchases.
 
 ### Step 1: Choose your sandbox type
 
@@ -68,29 +76,43 @@ On the **Set up your Microsoft 365 E5 instant sandbox** screen, provide your dat
 
 ![Billing details screen showing country/region, billing account, billing profile, and invoice section fields](images/billing-details-screen.png)
 
+You can use either of the following billing account types:
+
+- **Organizational billing account** — An existing account owned by your organization that you have permission to use.
+- **Individual billing account** — An account that you own and manage, which you can create during sandbox setup.
+
+If you don't have permission to use an organizational billing account, contact your organization's billing administrator.
+
+The billing account must meet the following requirements:
+
+- The Microsoft Customer Agreement (MCA) is accepted for an active billing account.
+- The billing profile and invoice section are active and available for you to use.
+- The Azure plan is enabled.
+- The spending limit on any associated Azure subscription is removed.
+
 1. **Select country/region.** Choose the data center region closest to you from the **Country/region for your data center** dropdown.
 
     > [!NOTE]
     > Your region can't be changed after sign-up, so choose carefully.
 
 2. **Select a billing account.** Click the **Billing account** dropdown.
-   - If you have an existing eligible billing account associated with your Microsoft account, select it and skip to step 4.
-   - If the dropdown is empty or your account isn't listed, continue to step 3 to create one.
+    - If you have permission to use an existing eligible individual or organizational billing account, select it and skip to step 4.
+    - If the dropdown is empty or your account isn't listed, continue to step 3 to create one.
 
-3. **Create a new billing account** (if required). Choose **Add a new billing account** to open the Microsoft billing account creation flow in a new window, and complete the three-step wizard:
+3. **Create a new individual billing account** (if required). Choose **Add a new billing account** to open the Microsoft billing account creation flow in a new window, and complete the three-step wizard:
 
    ![Create a new billing account wizard showing account details, sign-in details, and payment setup steps](images/create-billing-account.png)
 
-   1. **Account details** — your name, business address, country/region, and business phone number.
-   2. **Sign-in details** — confirm or set up sign-in credentials for the billing account.
-   3. **Payment setup and finish** — review and accept the Microsoft Customer Agreement.
+    1. **Account details** — your name, business address, country/region, and business phone number.
+    2. **Sign-in details** — confirm or set up sign-in credentials for the billing account.
+    3. **Payment setup and finish** — review and accept the Microsoft Customer Agreement.
 
     > [!NOTE]
-    > By selecting **Next**, you agree to the Microsoft Customer Agreement and confirm that you are authorized to accept its terms on behalf of your organization.
+    > By selecting **Next**, you accept the Microsoft Customer Agreement and confirm that you are authorized to accept its terms for this billing account.
 
     Once billing account creation is complete, close that window and return to the sandbox setup screen.
 
-4. **Refresh and select your billing account.** After returning to the setup screen, click the small **Refresh (↺)** icon next to the **Billing account** dropdown. Your newly created billing account will now appear in the list. The **Billing profile** and **Invoice section** fields populate automatically — verify they're correct.
+4. **Refresh and select your billing account.** If you created a billing account or your existing account isn't listed, select the small **Refresh (↺)** icon next to the **Billing account** dropdown. Select the account that you want to link. The **Billing profile** and **Invoice section** fields populate automatically — verify that they're correct.
 
     > [!TIP]
     > If your account still does not appear after refreshing, wait a few seconds and try the refresh button again.
@@ -179,23 +201,33 @@ For resources to help you set up your development environment and deployment pip
 
 Choose the refresh icon next to the **Billing account** dropdown. Allow a few seconds after completing billing account creation before refreshing.
 
-If the billing account still does not appear, try creating a new billing account. If the system shows **BillingAccountAlreadyExists** or displays "Your billing account is ready" but it still doesn't show up in the dropdown, check for the following:
+If the billing account still doesn't appear, or if the system shows **BillingAccountAlreadyExists** or displays "Your billing account is ready," check for the following:
 
-**No Azure plan enabled on the account**
+#### You don't have permission to use an organizational billing account
 
-If there is currently no Azure plan enabled on that account, follow the guidance below to create an invoice section. This action may provision the required Azure plan. Once that is complete, retry the setup process.
+An organizational billing account appears only if your signed-in account has permission to use the applicable billing profile and invoice section. Ask your organization's billing administrator to grant the required access, then refresh the billing account list.
 
-**Reference:** [Organize your invoice based on your needs - Microsoft Learn](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/mca-section-invoice)
+For information about billing permissions, see [Billing roles for Microsoft Customer Agreements](/azure/cost-management-billing/manage/understand-mca-roles).
+
+#### No Azure plan is enabled on the account
+
+If you have a valid MCA billing account but no Azure plan is enabled on it, create an invoice section. This action might provision the required Azure plan.
+
+For instructions, see [Organize your invoice based on your needs](/azure/cost-management-billing/manage/mca-section-invoice).
 
 After the invoice section has been created and the Azure plan is available, attempt the setup again.
 
-### Agreement not signed
+#### A spending limit is enabled
 
-If you see an error related to the agreement not being signed, please sign the agreement through the Microsoft Admin Center portal. During this process, the required **billing profile** and **invoice section** will also need to be created.
+If a spending limit applies to the Azure subscription associated with the billing account, remove the spending limit, then retry sandbox setup. You must have the required billing permissions and a valid payment method to remove it.
 
-You can access the portal here: [admin.microsoft.com](https://admin.microsoft.com)
+For instructions, see [Azure spending limit](/azure/cost-management-billing/manage/spending-limit).
 
-Once you have completed the agreement-signing flow and the **billing profile** with invoice section has been created, retry the operation. If you continue to experience issues, please share a screenshot of the billing account page and the error message with the correlation ID so we can investigate further.
+### Microsoft Customer Agreement not signed
+
+If you see an error indicating that the Microsoft Customer Agreement hasn't been signed, an authorized user must accept the agreement in the [Microsoft 365 admin center](https://admin.microsoft.com) and create the required **billing profile** and **invoice section**.
+
+Then retry sandbox setup. If the issue continues, contact [dxipsup@microsoft.com](mailto:dxipsup@microsoft.com) and provide a screenshot of the billing account page and the complete error message, including its correlation ID.
 
 ### Set up button remains unavailable
 
@@ -203,7 +235,7 @@ Make sure all required fields — **Billing account**, **Billing profile**, and 
 
 ### Provisioning takes longer than expected
 
-The instant sandbox typically provisions within minutes. If it takes longer, refresh the Developer Program dashboard page. If the issue persists, contact [Microsoft 365 Developer Program support](https://developer.microsoft.com/microsoft-365/support).
+The instant sandbox typically provisions within minutes. If it takes longer, refresh the Developer Program dashboard page. If the issue persists, contact [dxipsup@microsoft.com](mailto:dxipsup@microsoft.com).
 
 ## Related content
 
