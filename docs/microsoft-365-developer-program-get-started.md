@@ -55,7 +55,7 @@ For details on the sample data, see [Developer sandbox sample data](install-samp
 Before you begin, make sure you have:
 
 - A Microsoft account to sign in with.
-- A valid individual or organizational billing account. Linking a billing account is mandatory and can't be bypassed. You can create an individual billing account during setup if you don't already have one.
+- A valid individual or organizational billing account.
 - A business phone number and address, for billing account creation.
 
 ### Step 1: Choose your sandbox type
@@ -78,15 +78,17 @@ On the **Set up your Microsoft 365 E5 instant sandbox** screen, provide your dat
 
 You can use either of the following billing account types:
 
-- **Organizational billing account** — An existing billing account owned by your organization. Enterprise users can link this account instead of creating a new one if they have permission to use its billing profile and invoice section. If you don't have the required permissions, contact your organization's billing administrator.
-- **Individual billing account** — A billing account that you own and manage. If you don't have an eligible billing account, you can create one during sandbox setup.
+- **Organizational billing account** — An existing account owned by your organization that you have permission to use.
+- **Individual billing account** — An account that you own and manage, which you can create during sandbox setup.
+
+If you don't have permission to use an organizational billing account, contact your organization's billing administrator.
 
 The billing account must meet the following requirements:
 
-- It is an active Microsoft Customer Agreement (MCA) billing account, and the agreement has been accepted.
-- It contains an active billing profile and invoice section that you have permission to use.
-- An Azure plan is enabled on the account.
-- Any spending limit that applies to the associated Azure subscription is removed.
+- The Microsoft Customer Agreement (MCA) is accepted for an active billing account.
+- The billing profile and invoice section are active and available for you to use.
+- The Azure plan is enabled.
+- The spending limit on any associated Azure subscription is removed.
 
 1. **Select country/region.** Choose the data center region closest to you from the **Country/region for your data center** dropdown.
 
@@ -223,11 +225,9 @@ For instructions, see [Azure spending limit](/azure/cost-management-billing/mana
 
 ### Microsoft Customer Agreement not signed
 
-If you see an error indicating that the Microsoft Customer Agreement hasn't been signed, accept the agreement in the Microsoft 365 admin center. During this process, you also need to create the required **billing profile** and **invoice section**.
+If you see an error indicating that the Microsoft Customer Agreement hasn't been signed, an authorized user must accept the agreement in the [Microsoft 365 admin center](https://admin.microsoft.com) and create the required **billing profile** and **invoice section**.
 
-Go to the [Microsoft 365 admin center](https://admin.microsoft.com) to complete the agreement-signing process.
-
-After you accept the agreement and create the billing profile and invoice section, retry sandbox setup. If the issue continues, contact [Microsoft 365 Developer Program support](https://developer.microsoft.com/microsoft-365/support) and provide a screenshot of the billing account page and the complete error message, including its correlation ID.
+Then retry sandbox setup. If the issue continues, contact [dxipsup@microsoft.com](mailto:dxipsup@microsoft.com) and provide a screenshot of the billing account page and the complete error message, including its correlation ID.
 
 ### Set up button remains unavailable
 
@@ -235,7 +235,7 @@ Make sure all required fields — **Billing account**, **Billing profile**, and 
 
 ### Provisioning takes longer than expected
 
-The instant sandbox typically provisions within minutes. If it takes longer, refresh the Developer Program dashboard page. If the issue persists, contact [Microsoft 365 Developer Program support](https://developer.microsoft.com/microsoft-365/support).
+The instant sandbox typically provisions within minutes. If it takes longer, refresh the Developer Program dashboard page. If the issue persists, contact [dxipsup@microsoft.com](mailto:dxipsup@microsoft.com).
 
 ## Related content
 
