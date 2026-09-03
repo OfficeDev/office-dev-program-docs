@@ -438,7 +438,7 @@ sections:
       - question: |
           How do I find the correlation ID for a setup error?
         answer: |
-          To retrieve the correlation ID from the Developer Portal:
+          To retrieve the correlation ID from the Developer Program dashboard:
 
           1. Open the [Microsoft 365 Developer Program dashboard](https://developer.microsoft.com/microsoft-365/profile).
           2. Press **F12** to open your browser's developer tools.
