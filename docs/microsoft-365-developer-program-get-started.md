@@ -108,7 +108,7 @@ The billing account must meet the following requirements:
     3. **Payment setup and finish** — review and accept the Microsoft Customer Agreement.
 
     > [!NOTE]
-    > By selecting **Next**, you agree to the Microsoft Customer Agreement and confirm that you are authorized to accept its terms on behalf of your organization.
+    > By selecting **Next**, you accept the Microsoft Customer Agreement and confirm that you are authorized to accept its terms for this billing account.
 
     Once billing account creation is complete, close that window and return to the sandbox setup screen.
 
