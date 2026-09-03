@@ -2,9 +2,9 @@
 metadata:
   title: Microsoft 365 Developer Program FAQ
   description: Frequently asked questions about the Microsoft 365 Developer Program.
-  ms.date: 07/30/2026
+  ms.date: 09/03/2026
   ms.localizationpriority: high
-    
+
 title: Microsoft 365 Developer Program FAQ
 summary: The following are frequently asked questions about the Microsoft 365 Developer Program.
 
@@ -23,7 +23,7 @@ sections:
           - [SharePoint](https://developer.microsoft.com/sharepoint)
           - [Microsoft Teams](https://developer.microsoft.com/microsoft-teams)
           - [Microsoft Graph](https://developer.microsoft.com/graph)
-          - [Microsoft 365 Copilot](https://developer.microsoft.com/microsoft-365-copilot)
+          - Microsoft 365 Copilot
           
           For more information, see [Join the Microsoft 365 Developer Program](microsoft-365-developer-program.md) and [Build Microsoft 365 solutions](build-microsoft-365-solutions.md).
 
@@ -31,8 +31,15 @@ sections:
           What is the Microsoft 365 instant sandbox?
         answer: |
           Every qualifying developer subscription is provisioned as an instant sandbox, which is a fully pre-configured tenant that's ready to use within minutes. It comes pre-provisioned with Microsoft Teams, SharePoint, Outlook, and Office; 24 test users plus one admin; and pre-installed sample data (including Microsoft Graph user/mail/calendar data and a Teams sample data pack) that simulates an enterprise environment.
-          
+
           For full setup steps and what's included, see [Set up a Microsoft 365 developer sandbox subscription](microsoft-365-developer-program-get-started.md). For details on the sample data itself, see [Developer sandbox sample data](install-sample-packs.md).
+
+      - question: |
+          Does my existing Microsoft 365 enterprise subscription include a Developer Program sandbox?
+        answer: |
+          No. A Microsoft 365 enterprise or production subscription and a Microsoft 365 Developer Program sandbox are separate subscriptions and environments. An enterprise subscription doesn't automatically create, replace, or qualify your account for a Microsoft 365 E5 developer sandbox.
+
+          To obtain a sandbox, you must join the Microsoft 365 Developer Program, complete your profile, qualify through an eligible path, complete any required verification, and provision the sandbox from the Developer Program dashboard. For details, see [Welcome to the Microsoft 365 Developer Program](microsoft-365-developer-program.md).
 
   - name: Eligibility and enrollment
     questions:
@@ -41,7 +48,7 @@ sections:
         answer: |
           **1. Visual Studio Subscribers**
          
-             If you have a Visual Studio Professional or Enterprise subscription, you qualify for a Microsoft 365 developer subscription. Your Microsoft 365 developer subscription will renew automatically as long as your Visual Studio subscription is active. To access this, go to [Visual Studio | My Benefits](https://my.visualstudio.com/benefits). For more information, contact [Visual Studio customer service](https://www.visualstudio.com/subscriptions/support/).
+             If you have an eligible Visual Studio Professional or Enterprise standard subscription, you qualify for a Microsoft 365 developer subscription. Microsoft employees aren't eligible due to compliance requirements, even if they have an otherwise qualifying Visual Studio subscription. Your Microsoft 365 developer subscription will renew automatically as long as your Visual Studio subscription is active and you remain eligible. To access this benefit, go to [Visual Studio | My Benefits](https://my.visualstudio.com/benefits). For more information, contact [Visual Studio customer service](https://www.visualstudio.com/subscriptions/support/).
            
              For more details about joining the Microsoft 365 Developer Program with Visual Studio, see [Join the Microsoft 365 Developer Program as a Visual Studio subscriber](https://learn.microsoft.com/office/developer-program/join-with-visual-studio).
            
@@ -309,7 +316,137 @@ sections:
       - question: |
           Why am I being asked to create a billing account?
         answer: |
-          Billing details are required during sandbox setup for identity verification only. Your Microsoft 365 E5-enabled sandbox remains free of charge. Creating a billing account does not automatically incur any charges — you will only be billed if you intentionally purchase a paid product or service. For more details, see [Configure billing details](microsoft-365-developer-program-get-started.md#step-2-configure-billing-details) in the setup guide.
+          Linking a valid billing account is mandatory during sandbox setup and can't be bypassed. The billing account is used for verification and to enable optional future paid purchases.
+
+          Your Microsoft 365 E5 developer sandbox remains free of charge. Creating or linking a billing account doesn't automatically incur charges. You are charged only if an authorized user intentionally purchases a paid product or service. For more details, see [Configure billing details](microsoft-365-developer-program-get-started.md#step-2-configure-billing-details).
+
+      - question: |
+          Can I use an existing organizational billing account?
+        answer: |
+          Yes. You can use an eligible organizational billing account or an eligible individual billing account. Enterprise users don't need to create a separate billing account if they have permission to use an existing organizational billing account, billing profile, and invoice section.
+
+          If your organization manages billing centrally, contact your billing administrator to identify the billing account, billing profile, and invoice section that you are authorized to use. Don't create duplicate billing accounts to work around missing permissions.
+
+      - question: |
+          Why doesn't my billing account appear in the Billing account dropdown?
+        answer: |
+          To appear in the **Billing account** dropdown, the billing account must meet all of the following requirements:
+
+          - Its agreement type is Microsoft Customer Agreement (MCA).
+          - Its status is **Active**.
+          - It contains at least one billing profile with an Azure plan.
+          - The billing profile contains at least one active invoice section.
+
+          You must also have both of the following permissions on at least one invoice section in that billing account:
+
+          - **View Asset** — Permission to view assets associated with the billing entity.
+          - **Add Asset (Write)** — Permission to create or add assets under the billing entity.
+
+          After confirming the account requirements and permissions, return to sandbox setup and select the refresh icon next to the dropdown. For additional guidance, see [Billing account not appearing in the dropdown](microsoft-365-developer-program-get-started.md#billing-account-not-appearing-in-the-dropdown).
+
+      - question: |
+          Which billing roles typically provide the permissions required for sandbox setup?
+        answer: |
+          The required **View Asset** and **Add Asset (Write)** permissions are typically provided by one of the following roles:
+
+          - Invoice Section Owner
+          - Invoice Section Contributor
+          - Billing Account Owner
+          - Billing Profile Owner
+
+          > [!IMPORTANT]
+          > The Billing Account Reader role by itself isn't sufficient. It provides read-only access and doesn't include the **Add Asset (Write)** permission required to create a subscription.
+
+          For more information, see [Billing roles for Microsoft Customer Agreements](/azure/cost-management-billing/manage/understand-mca-roles).
+
+      - question: |
+          What should I do if my billing account doesn't have an Azure plan?
+        answer: |
+          If you have a valid MCA billing account but no Azure plan is enabled on it, create an invoice section. This action might provision the required Azure plan.
+
+          For instructions, see [Organize your invoice based on your needs](/azure/cost-management-billing/manage/mca-section-invoice). After the invoice section is active and the Azure plan is available, return to the Developer Program dashboard and retry sandbox setup.
+
+      - question: |
+          Why is the Set up button unavailable during billing configuration?
+        answer: |
+          The **Set up** button remains unavailable until the **Billing account**, **Billing profile**, and **Invoice section** fields all contain valid selections. Confirm that the selected billing account meets the MCA, status, Azure plan, and invoice-section requirements and that you have permission to use it.
+
+          If you recently created the billing account or received new permissions, select the refresh icon next to the **Billing account** dropdown and select the account again.
+
+      - question: |
+          What should I do if the Microsoft Customer Agreement hasn't been signed?
+        answer: |
+          An authorized user must accept the Microsoft Customer Agreement before the billing account can be used for sandbox setup. The account must also contain an active billing profile and invoice section.
+
+          Complete the agreement-signing process in the [Microsoft 365 admin center](https://admin.microsoft.com), then return to the Developer Program dashboard and retry sandbox setup.
+
+      - question: |
+          What are a billing account, billing profile, invoice section, and Azure plan?
+        answer: |
+          These items form the billing structure used during sandbox verification:
+
+          - **Billing account** — The top-level record that represents your agreement with Microsoft.
+          - **Billing profile** — A record under the billing account that contains invoice and payment information.
+          - **Invoice section** — A grouping under a billing profile that organizes purchases and charges.
+          - **Azure plan** — The plan under an MCA billing profile that enables Azure subscriptions and services.
+
+          Sandbox setup requires an active MCA billing account with an eligible billing profile, an active invoice section, and an Azure plan. For more information about this structure, see [Organize your invoice based on your needs](/azure/cost-management-billing/manage/mca-section-invoice).
+
+      - question: |
+          Does enabling an Azure plan or removing a spending limit create charges?
+        answer: |
+          Enabling an Azure plan, removing a spending limit, or creating billing records doesn't create a charge for the Microsoft 365 E5 developer sandbox. The sandbox remains free.
+
+          > [!IMPORTANT]
+          > If you aren't the billing owner or don't understand the effect on an existing Azure subscription, stop and contact your organization's billing administrator before changing the Azure plan or spending limit.
+
+      - question: |
+          What should I do after billing permissions are granted?
+        answer: |
+          Billing-role changes might not appear immediately. After the required permissions are granted:
+
+          1. Confirm that the account used to sign in to the Developer Program has the required permissions.
+          2. Return to the sandbox billing-configuration page.
+          3. Select the refresh icon next to the **Billing account** dropdown.
+          4. If the account still doesn't appear, sign out of all Microsoft accounts, close the browser, and sign in again with the authorized account.
+          5. Select the billing account, billing profile, and invoice section, and then retry setup.
+
+          If the account remains unavailable, verify its MCA agreement, status, Azure plan, and invoice section before contacting support.
+
+      - question: |
+          Should I create another billing account if my existing account isn't visible?
+        answer: |
+          Not until you have checked the existing account. Creating another billing account can result in duplicate billing structures and might not resolve an account, permission, or configuration problem.
+
+          Confirm that you're signed in with the correct account, that the billing account is active and uses an MCA, that an Azure plan and active invoice section exist, and that you have **View Asset** and **Add Asset (Write)** permissions. If your organization owns the account, contact its billing administrator instead of creating another account.
+
+      - question: |
+          What information should I provide to support for a billing setup failure?
+        answer: |
+          Provide the following information to Microsoft 365 Developer Program support:
+
+          - The complete error message and correlation ID.
+          - The date, time, and time zone of the failed attempt.
+          - The Developer Program account used during setup.
+          - The selected billing account, billing profile, and invoice section names or masked identifiers.
+          - The billing account agreement type and status.
+          - Whether an Azure plan is enabled.
+          - A screenshot showing the error and selected fields.
+
+          Don't include payment card numbers, bank-account details, passwords, authentication codes, or other sensitive billing information.
+
+      - question: |
+          How do I find the correlation ID for a setup error?
+        answer: |
+          To retrieve the correlation ID from the Developer Portal:
+
+          1. Open the [Microsoft 365 Developer Program dashboard](https://developer.microsoft.com/microsoft-365/profile).
+          2. Press **F12** to open your browser's developer tools.
+          3. Perform the action that you are trying to complete.
+          4. Open the **Console**, enter `correlationid`, and press **Enter**.
+          5. Copy the generated alphanumeric correlation ID and provide it to Microsoft 365 Developer Program support.
+
+          Also provide the complete error message, the date and time of the failed action including your time zone, and a screenshot of the error. Don't include passwords, authentication codes, payment details, or other sensitive information.
 
       - question: |
           Can I purchase Microsoft 365 add-ons in my Developer Program tenant?
