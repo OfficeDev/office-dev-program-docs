@@ -421,7 +421,7 @@ sections:
         answer: |
           Not until you have checked the existing account. Creating another billing account can result in duplicate billing structures and might not resolve an account, permission, or configuration problem.
 
-          Confirm that you're signed in with the correct account, that the billing account is active and uses an MCA, that an active Azure subscription was created under the selected billing profile and active invoice section with an Azure plan, and that you have **View Asset** and **Add Asset (Write)** permissions. If your organization owns the account, contact its billing administrator instead of creating another account.
+          Confirm that you're signed in with the correct account, that the billing account is active and uses an MCA, that an active Azure subscription was created with an Azure plan under the billing profile and active invoice section that you intend to use during sandbox setup, and that you have **View Asset** and **Add Asset (Write)** permissions. If your organization owns the account, contact its billing administrator instead of creating another account.
 
       - question: |
           What information should I provide to support for a billing setup failure?

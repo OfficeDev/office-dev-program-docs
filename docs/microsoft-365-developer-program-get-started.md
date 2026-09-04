@@ -202,7 +202,7 @@ For resources to help you set up your development environment and deployment pip
 
 Choose the refresh icon next to the **Billing account** dropdown. Allow a few seconds after completing billing account creation before refreshing.
 
-If an existing MCA billing account doesn't appear, verify that an active Azure subscription was created under its selected billing profile and invoice section with an Azure plan. If the account doesn't have an Azure subscription, follow the instructions in [No Azure subscription exists under the billing account](#no-azure-subscription-exists-under-the-billing-account).
+If an existing MCA billing account doesn't appear, verify that an active Azure subscription was created with an Azure plan under the billing profile and invoice section that you intend to use during sandbox setup. If the account doesn't have an Azure subscription, follow the instructions in [No Azure subscription exists under the billing account](#no-azure-subscription-exists-under-the-billing-account).
 
 If the billing account still doesn't appear, or if the system shows **BillingAccountAlreadyExists** or displays "Your billing account is ready," check for the following:
 
