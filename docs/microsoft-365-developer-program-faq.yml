@@ -342,6 +342,8 @@ sections:
           - **View Asset** — Permission to view assets associated with the billing entity.
           - **Add Asset (Write)** — Permission to create or add assets under the billing entity.
 
+          If the billing account doesn't have an active Azure subscription, [create an MCA subscription](/azure/cost-management-billing/manage/create-subscription) under its billing profile and invoice section through an Azure plan.
+
           After confirming the account requirements and permissions, return to sandbox setup and select the refresh icon next to the dropdown. For additional guidance, see [Billing account not appearing in the dropdown](microsoft-365-developer-program-get-started.md#billing-account-not-appearing-in-the-dropdown).
 
       - question: |
