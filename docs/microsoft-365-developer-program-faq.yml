@@ -393,7 +393,7 @@ sections:
           - **Azure plan** — The plan selected when an Azure subscription is created that determines its pricing and service-level agreement.
           - **Azure subscription** — An Azure service container created under the selected billing account, billing profile, invoice section, and Azure plan.
 
-          Sandbox setup requires an active MCA billing account with an eligible billing profile, an active invoice section, and an active Azure subscription created under the selected billing profile and invoice section with an Azure plan. For more information, see [Get started with your Microsoft Customer Agreement billing account](/azure/cost-management-billing/understand/mca-overview) and [Create a Microsoft Customer Agreement subscription](/azure/cost-management-billing/manage/create-subscription).
+          When you use an existing billing account for sandbox setup, it must be an active MCA billing account with an eligible billing profile, an active invoice section, and an active Azure subscription created under the billing profile and invoice section that you intend to use during sandbox setup, with an Azure plan. For more information, see [Get started with your Microsoft Customer Agreement billing account](/azure/cost-management-billing/understand/mca-overview) and [Create a Microsoft Customer Agreement subscription](/azure/cost-management-billing/manage/create-subscription).
 
       - question: |
           Does creating an Azure subscription or removing a spending limit create charges?

@@ -27,7 +27,7 @@ If you qualify for a Microsoft 365 E5 subscription through the developer program
 >
 > The billing account is used for verification and to enable future paid purchases. You will not be charged for the developer sandbox. Charges are incurred only if you intentionally purchase a paid product or service.
 >
-> You can use an eligible individual billing account or, if you have the required permissions, an existing organizational billing account. Before you begin, make sure that the [Microsoft Customer Agreement (MCA)](/azure/cost-management-billing/understand/mca-overview#check-access-to-a-microsoft-customer-agreement) is accepted, the [billing profile and invoice section](/azure/cost-management-billing/understand/mca-overview#your-billing-account) are active, and an active Azure subscription has been created under the billing profile and invoice section that you intend to use during sandbox setup, with an [Azure plan](/azure/cost-management-billing/understand/mca-overview#azure-plans-determine-pricing-and-service-level-agreement-for-subscriptions). Any applicable [Azure subscription spending limit](/azure/cost-management-billing/manage/spending-limit#remove-the-spending-limit-in-azure-portal) must also be removed.
+> You can use an eligible individual billing account or, if you have the required permissions, an existing organizational billing account. If you plan to use an existing billing account, make sure that the [Microsoft Customer Agreement (MCA)](/azure/cost-management-billing/understand/mca-overview#check-access-to-a-microsoft-customer-agreement) is accepted, the [billing profile and invoice section](/azure/cost-management-billing/understand/mca-overview#your-billing-account) are active, and an active Azure subscription has been created under the billing profile and invoice section that you intend to use during sandbox setup, with an [Azure plan](/azure/cost-management-billing/understand/mca-overview#azure-plans-determine-pricing-and-service-level-agreement-for-subscriptions). Any applicable [Azure subscription spending limit](/azure/cost-management-billing/manage/spending-limit#remove-the-spending-limit-in-azure-portal) must also be removed.
 >
 > If you already have an MCA billing account but it doesn't have an Azure subscription, [create a Microsoft Customer Agreement subscription](/azure/cost-management-billing/manage/create-subscription). During creation, select the eligible billing account, billing profile, invoice section, and appropriate Azure plan. For all billing requirements, see [Configure billing details](#step-2-configure-billing-details).
 
@@ -56,7 +56,7 @@ Before you begin, make sure you have:
 
 - A Microsoft account to sign in with.
 - A valid individual or organizational billing account.
-- An active Azure subscription created under the billing profile and invoice section that you intend to use during sandbox setup, with an Azure plan.
+- For an existing billing account, an active Azure subscription created under the billing profile and invoice section that you intend to use during sandbox setup, with an Azure plan.
 - A business phone number and address, for billing account creation.
 
 ### Step 1: Choose your sandbox type
@@ -88,7 +88,7 @@ The billing account must meet the following requirements:
 
 - The Microsoft Customer Agreement (MCA) is accepted for an active billing account.
 - The billing profile and invoice section are active and available for you to use.
-- An active Azure subscription is created under the billing profile and invoice section that you intend to use during sandbox setup, with an Azure plan.
+- If you select an existing billing account, it has an active Azure subscription created under the billing profile and invoice section that you intend to use during sandbox setup, with an Azure plan.
 - The spending limit on any associated Azure subscription is removed.
 
 1. **Select country/region.** Choose the data center region closest to you from the **Country/region for your data center** dropdown.
