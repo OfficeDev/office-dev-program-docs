@@ -323,7 +323,7 @@ sections:
       - question: |
           Can I use an existing organizational billing account?
         answer: |
-          Yes. You can use an eligible organizational billing account or an eligible individual billing account. Enterprise users don't need to create a separate billing account if they have permission to use an existing organizational billing account, billing profile, and invoice section, and the account has an active Azure subscription created under the selected billing profile and invoice section with an Azure plan.
+          Yes. You can use an eligible organizational billing account or an eligible individual billing account. Enterprise users don't need to create a separate billing account if they have permission to use an existing organizational billing account, billing profile, and invoice section, and the account has an active Azure subscription created under the billing profile and invoice section that they intend to use during sandbox setup, with an Azure plan.
 
           If your organization manages billing centrally, contact your billing administrator to identify the billing account, billing profile, and invoice section that you are authorized to use. Don't create duplicate billing accounts to work around missing permissions.
 
@@ -334,7 +334,7 @@ sections:
 
           - Its agreement type is Microsoft Customer Agreement (MCA).
           - Its status is **Active**.
-          - It has at least one active Azure subscription created under a billing profile and invoice section through an Azure plan.
+          - It has at least one active Azure subscription created under a billing profile and invoice section with an Azure plan.
           - The billing profile contains at least one active invoice section.
 
           You must also have both of the following permissions on at least one invoice section in that billing account:
