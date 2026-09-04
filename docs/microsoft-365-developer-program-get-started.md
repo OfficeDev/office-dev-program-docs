@@ -27,9 +27,9 @@ If you qualify for a Microsoft 365 E5 subscription through the developer program
 >
 > The billing account is used for verification and to enable future paid purchases. You will not be charged for the developer sandbox. Charges are incurred only if you intentionally purchase a paid product or service.
 >
-> You can use an eligible individual billing account or, if you have the required permissions, an existing organizational billing account. Before you begin, make sure that the [Microsoft Customer Agreement (MCA)](/azure/cost-management-billing/understand/mca-overview#check-access-to-a-microsoft-customer-agreement) is accepted, an [Azure plan](/azure/cost-management-billing/understand/mca-overview#azure-plans-determine-pricing-and-service-level-agreement-for-subscriptions) is enabled, the [billing profile and invoice section](/azure/cost-management-billing/understand/mca-overview#your-billing-account) are active, and any applicable [Azure subscription spending limit](/azure/cost-management-billing/manage/spending-limit#remove-the-spending-limit-in-azure-portal) is removed.
+> You can use an eligible individual billing account or, if you have the required permissions, an existing organizational billing account. Before you begin, make sure that the [Microsoft Customer Agreement (MCA)](/azure/cost-management-billing/understand/mca-overview#check-access-to-a-microsoft-customer-agreement) is accepted, the [billing profile and invoice section](/azure/cost-management-billing/understand/mca-overview#your-billing-account) are active, and an active Azure subscription is associated with them through an [Azure plan](/azure/cost-management-billing/understand/mca-overview#azure-plans-determine-pricing-and-service-level-agreement-for-subscriptions). Any applicable [Azure subscription spending limit](/azure/cost-management-billing/manage/spending-limit#remove-the-spending-limit-in-azure-portal) must also be removed.
 >
-> If your MCA billing account doesn't have an Azure plan, create an invoice section. This action might provision the required Azure plan. For instructions, see [Organize your invoice based on your needs](/azure/cost-management-billing/manage/mca-section-invoice). For all billing requirements, see [Configure billing details](#step-2-configure-billing-details).
+> If you already have an MCA billing account but it doesn't have an Azure subscription, [create an MCA subscription](/azure/cost-management-billing/manage/create-subscription). During creation, select the eligible billing account, billing profile, invoice section, and appropriate Azure plan. For all billing requirements, see [Configure billing details](#step-2-configure-billing-details).
 
 ## Instant sandbox
 
@@ -56,6 +56,7 @@ Before you begin, make sure you have:
 
 - A Microsoft account to sign in with.
 - A valid individual or organizational billing account.
+- An active Azure subscription associated with the billing account through a billing profile, invoice section, and Azure plan.
 - A business phone number and address, for billing account creation.
 
 ### Step 1: Choose your sandbox type
@@ -87,7 +88,7 @@ The billing account must meet the following requirements:
 
 - The Microsoft Customer Agreement (MCA) is accepted for an active billing account.
 - The billing profile and invoice section are active and available for you to use.
-- The Azure plan is enabled.
+- An active Azure subscription is associated with the billing account, billing profile, and invoice section through an Azure plan.
 - The spending limit on any associated Azure subscription is removed.
 
 1. **Select country/region.** Choose the data center region closest to you from the **Country/region for your data center** dropdown.
@@ -209,13 +210,13 @@ An organizational billing account appears only if your signed-in account has per
 
 For information about billing permissions, see [Billing roles for Microsoft Customer Agreements](/azure/cost-management-billing/manage/understand-mca-roles).
 
-#### No Azure plan is enabled on the account
+#### No Azure subscription is associated with the billing account
 
-If you have a valid MCA billing account but no Azure plan is enabled on it, create an invoice section. This action might provision the required Azure plan.
+If you have a valid MCA billing account but no Azure subscription is associated with it, create an MCA subscription. During creation, select the eligible billing account, billing profile, invoice section, and appropriate Azure plan.
 
-For instructions, see [Organize your invoice based on your needs](/azure/cost-management-billing/manage/mca-section-invoice).
+For instructions and required permissions, see [Create a Microsoft Customer Agreement subscription](/azure/cost-management-billing/manage/create-subscription).
 
-After the invoice section has been created and the Azure plan is available, attempt the setup again.
+After the Azure subscription is active and associated with the eligible billing account, attempt the setup again.
 
 #### A spending limit is enabled
 
