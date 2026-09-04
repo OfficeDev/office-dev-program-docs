@@ -1,7 +1,7 @@
 ---
 title: Set up a Microsoft 365 developer sandbox subscription
 description: Set up a Microsoft 365 developer subscription for building solutions independent of your production environment.
-ms.date: 09/02/2026
+ms.date: 09/04/2026
 ms.localizationpriority: high
 ---
 
@@ -27,7 +27,7 @@ If you qualify for a Microsoft 365 E5 subscription through the developer program
 >
 > The billing account is used for verification and to enable future paid purchases. You will not be charged for the developer sandbox. Charges are incurred only if you intentionally purchase a paid product or service.
 >
-> You can use an eligible individual billing account or, if you have the required permissions, an existing organizational billing account. Before you begin, make sure that the Microsoft Customer Agreement is accepted, an Azure plan is enabled, the billing profile and invoice section are active, and any applicable Azure subscription spending limit is removed.
+> You can use an eligible individual billing account or, if you have the required permissions, an existing organizational billing account. Before you begin, make sure that the [Microsoft Customer Agreement](/azure/cost-management-billing/understand/mca-overview#check-access-to-a-microsoft-customer-agreement) is accepted, an [Azure plan](/azure/cost-management-billing/understand/mca-overview#azure-plans-determine-pricing-and-service-level-agreement-for-subscriptions) is enabled, the [billing profile and invoice section](/azure/cost-management-billing/understand/mca-overview#your-billing-account) are active, and any applicable [Azure subscription spending limit](/azure/cost-management-billing/manage/spending-limit#remove-the-spending-limit-in-azure-portal) is removed.
 >
 > If your MCA billing account doesn't have an Azure plan, create an invoice section. This action might provision the required Azure plan. For instructions, see [Organize your invoice based on your needs](/azure/cost-management-billing/manage/mca-section-invoice). For all billing requirements, see [Configure billing details](#step-2-configure-billing-details).
 
