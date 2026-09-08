@@ -57,7 +57,7 @@ Before you begin, make sure you have:
 - A Microsoft account to sign in with.
 - A valid individual or organizational billing account.
 - For an existing billing account, an active Azure subscription created under the billing profile and invoice section that you intend to use during sandbox setup, with an Azure plan.
-- A business phone number and address, for billing account creation.
+- A business phone number and address, if you need to create a new individual billing account during sandbox setup.
 
 ### Step 1: Choose your sandbox type
 
