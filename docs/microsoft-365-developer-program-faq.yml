@@ -337,10 +337,10 @@ sections:
           - The billing profile and the invoice section that you intend to select are active.
           - An active Azure subscription was created under that exact invoice section with an Azure plan. A subscription under another invoice section in the same billing profile doesn't satisfy this requirement.
 
-          The **View Asset** and **Add Asset (Write)** labels describe service permissions; they aren't role names displayed in the Azure portal. For a least-privilege enterprise configuration, assign the exact Microsoft Entra account used for the Developer Program:
+          Azure billing roles are assigned at a specific scope. To provide the signed-in user with visibility of the billing profile and write access to the target invoice section, assign the exact Microsoft Entra account used for the Developer Program:
 
-          - **Billing Profile Reader** on the billing profile, so the account can discover the profile and its invoice sections.
-          - **Invoice Section Contributor** on the exact invoice section used during sandbox setup, so the account can use the section and create assets under it.
+          - **Billing Profile Reader** on the billing profile, so the user can view the profile and its invoice sections.
+          - **Invoice Section Contributor** on the exact invoice section used during sandbox setup, so the user has write access at that scope.
 
           If the target invoice section doesn't have an active Azure subscription, [create a Microsoft Customer Agreement subscription](/azure/cost-management-billing/manage/create-subscription) under that billing profile and invoice section with an Azure plan.
 
@@ -349,9 +349,7 @@ sections:
       - question: |
           Which billing roles typically provide the permissions required for sandbox setup?
         answer: |
-          Azure displays named Microsoft Customer Agreement billing roles rather than **View Asset** and **Add Asset (Write)** permission labels.
-
-          For a least-privilege enterprise configuration, use both:
+          To provide both billing-profile visibility and invoice-section write access, use both:
 
           - **Billing Profile Reader** on the billing profile that contains the target invoice section.
           - **Invoice Section Contributor** on the exact invoice section used for sandbox setup.
@@ -359,7 +357,7 @@ sections:
           A **Billing Profile Owner** or **Billing Profile Contributor**, or a **Billing Account Owner** or **Billing Account Contributor**, provides broader inherited access. **Invoice Section Owner** can be used instead of Invoice Section Contributor when the user must also manage access to that section.
 
           > [!IMPORTANT]
-          > A read-only role by itself isn't sufficient. Billing Account Reader, Billing Profile Reader, and Invoice Section Reader don't provide permission to create subscriptions or other assets.
+          > A read-only role by itself isn't sufficient. Billing Account Reader, Billing Profile Reader, and Invoice Section Reader don't provide permission to create Azure subscriptions.
 
           For more information, see [Billing roles for Microsoft Customer Agreements](/azure/cost-management-billing/manage/understand-mca-roles).
 
@@ -416,18 +414,7 @@ sections:
           4. If the account still doesn't appear, sign out of all Microsoft accounts, close the browser, and sign in again with the authorized account.
           5. Select the billing account, billing profile, and invoice section, and then retry setup.
 
-          Azure billing roles can be assigned to users or groups, but group membership and role changes can take time to propagate. To isolate an access problem, test with the roles assigned directly to the exact user. Azure billing-role documentation doesn't identify a Microsoft 365 group versus security group restriction; contact Azure Support if a group assignment doesn't become effective after propagation.
-
           If the account remains unavailable, verify its MCA agreement, status, and the active Azure subscription and Azure plan under the exact target invoice section before contacting support.
-
-      - question: |
-          Why does the setup error reference a billing account that I didn't select?
-        answer: |
-          The portal might resolve another billing account that is visible to your signed-in identity when the intended account isn't available. The unexpected account name is a diagnostic clue that the intended billing account, billing profile, or invoice section might not be discoverable.
-
-          Confirm the account used to sign in to the Developer Program. In **Cost Management + Billing**, verify that the same account can see the intended billing profile, has access to the target invoice section, and that an active Azure subscription exists under that exact invoice section with an Azure plan. Then refresh the sandbox billing page and explicitly select the intended account.
-
-          Don't change or create resources under the unexpected billing account unless it's the account that you intend to use.
 
       - question: |
           Should I create another billing account if my existing account isn't visible?
