@@ -89,8 +89,7 @@ The billing account must meet the following requirements:
 - The Microsoft Customer Agreement (MCA) is accepted for an active billing account.
 - The billing profile and invoice section are active and available for you to use.
 - If you select an existing billing account, it has an active Azure subscription created under the billing profile and invoice section that you intend to use during sandbox setup, with an Azure plan.
-- The billing profile has a valid payment method.
-- The spending limit on the Azure subscription under the selected invoice section is removed.
+- The spending limit on any associated Azure subscription is removed.
 
 1. **Select country/region.** Choose the data center region closest to you from the **Country/region for your data center** dropdown.
 
@@ -199,46 +198,76 @@ For resources to help you set up your development environment and deployment pip
 
 ## Troubleshooting
 
-### Verify an organizational billing account
+### Billing account requirements
 
-For an existing organizational billing account, validate the complete billing path before a developer attempts sandbox setup:
+To use a billing account for Microsoft 365 developer sandbox setup, verify that it meets the following requirements:
 
-The active MCA billing account must contain the active billing profile, the billing profile must contain the target active invoice section, and an active Azure subscription with an Azure plan must be created under that invoice section.
+- The billing account is an active Microsoft Customer Agreement (MCA) billing account.
+- The Microsoft Customer Agreement is accepted.
+- The billing profile is active.
+- The invoice section is active.
+- For an existing billing account, an active Azure subscription is created with an Azure plan under the billing profile and invoice section intended for sandbox setup.
+- A valid payment method is available.
+- No spending limit or other restriction blocks provisioning.
+- The Developer Program account has the required billing permissions.
 
-Subscriptions under another invoice section in the same billing profile don't satisfy the requirement for the invoice section selected during sandbox setup.
-
-Azure billing roles are assigned at a specific scope. To provide the signed-in user with visibility of the billing profile and write access to the target invoice section, assign both of the following roles to the exact Microsoft Entra account used for the Developer Program:
-
-| Role | Scope | Purpose |
-| --- | --- | --- |
-| Billing Profile Reader | The billing profile that contains the target invoice section | Allows the user to view the billing profile and its invoice sections. |
-| Invoice Section Contributor | The specific invoice section used for sandbox setup | Provides write access at the invoice-section scope. |
-
-Invoice Section Owner can be used instead of Invoice Section Contributor. Alternatively, a Billing Profile Owner or Contributor, or a Billing Account Owner or Contributor, provides broader inherited access. Read-only access alone, including Billing Account Reader, Billing Profile Reader, or Invoice Section Reader, isn't sufficient.
-
-For detailed role capabilities, see [Billing roles for Microsoft Customer Agreements](/azure/cost-management-billing/manage/understand-mca-roles).
-
-### Billing account not appearing in the dropdown
+### Billing account not appearing or account already exists
 
 Choose the refresh icon next to the **Billing account** dropdown. Allow a few seconds after completing billing account creation before refreshing.
 
-If an existing MCA billing account doesn't appear, verify that an active Azure subscription was created with an Azure plan under the exact billing profile and invoice section that you intend to use during sandbox setup. Subscriptions under a different invoice section don't satisfy this requirement. If the target invoice section doesn't have an Azure subscription, follow the instructions in [No Azure subscription exists under the billing account](#no-azure-subscription-exists-under-the-billing-account).
+If an existing MCA billing account doesn't appear, verify that an active Azure subscription was created with an Azure plan under the billing profile and invoice section that you intend to use during sandbox setup. If the account doesn't have an Azure subscription, follow the instructions in [No Azure subscription exists under the billing account](#no-azure-subscription-exists-under-the-billing-account).
 
-If the billing account still doesn't appear, or if the system shows **BillingAccountAlreadyExists** or displays "Your billing account is ready," check for the following:
+If the billing account dropdown is empty or shows no eligible account, the billing account still doesn't appear, or the system shows **BillingAccountAlreadyExists**, **BillingProfileAlreadyExists**, or "Your billing account is ready," check the following sections.
 
-#### You don't have permission to use an organizational billing account
+#### No eligible organizational billing account appears
 
-An organizational billing account appears only if your signed-in account can discover the applicable billing profile and use the target invoice section. Ask your organization's billing administrator to assign **Billing Profile Reader** on the billing profile and **Invoice Section Contributor** on the target invoice section, or an appropriate broader role, then refresh the billing account list.
+An organizational billing account appears only if your signed-in account has permission to use the applicable billing profile and invoice section. Ask your organization's billing administrator to grant the required access, then refresh the billing account list.
 
-For information about billing permissions, see [Billing roles for Microsoft Customer Agreements](/azure/cost-management-billing/manage/understand-mca-roles).
+A separate billing account isn't required for every developer when the organization already has an eligible MCA billing account. The billing administrator can grant each developer access to an appropriate active invoice section. Avoid creating duplicate billing accounts only to work around missing permissions.
+
+#### Billing administrator validation checklist
+
+The billing administrator should complete the following checks:
+
+1. Sign in to the [Azure portal](https://portal.azure.com).
+2. Open **Cost Management + Billing**.
+3. Select the organizational billing account.
+4. Verify that **Billing account type** is **Microsoft Customer Agreement**, **Status** is **Active**, and the Microsoft Customer Agreement is accepted.
+5. Select the billing profile and verify that it's active, an active invoice section exists, and an active Azure subscription was created with an Azure plan under the invoice section intended for sandbox setup.
+6. If an invoice section is required, open **Billing profiles** > **Invoice sections**, select **Add**, and create an invoice section.
+7. Open the invoice section intended for Developer Program activation.
+8. Select **Access control (IAM)** > **Add** > **Add role assignment**.
+9. Assign **Invoice Section Contributor** to the exact Microsoft Entra account used for the Developer Program.
+10. Confirm that the billing profile has a valid payment method and that no spending limit or other restriction blocks provisioning.
+11. Ask the customer to return to **Set up E5 subscription**, refresh the **Billing account** list, and select the billing account, billing profile, and invoice section.
+
+Role-assignment changes can take several minutes to appear.
+
+The least-privilege role is:
+
+- **Invoice Section Contributor** on the specific invoice section.
+
+Broader roles that can also work include:
+
+- **Invoice Section Owner**
+- **Billing Profile Owner**
+- **Billing Account Owner**
+
+The following read-only roles aren't sufficient:
+
+- **Billing Account Reader**
+- **Billing Profile Reader**
+- **Invoice Section Reader**
+
+For more information about billing permissions, see [Billing roles for Microsoft Customer Agreements](/azure/cost-management-billing/manage/understand-mca-roles). For additional help with the billing account configuration, contact [Azure Support](https://portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade).
 
 #### No Azure subscription exists under the billing account
 
-If you have a valid MCA billing account but no active Azure subscription exists under the target invoice section, create a Microsoft Customer Agreement subscription. During creation, select the eligible billing account, exact billing profile, target invoice section, and appropriate Azure plan.
+If you have a valid MCA billing account but no Azure subscription exists under it, create a Microsoft Customer Agreement subscription. During creation, select the eligible billing account, billing profile, invoice section, and appropriate Azure plan.
 
 For instructions and required permissions, see [Create a Microsoft Customer Agreement subscription](/azure/cost-management-billing/manage/create-subscription).
 
-After the Azure subscription is active under the target invoice section, attempt the setup again.
+After the Azure subscription is active under the eligible billing account, attempt the setup again.
 
 #### A spending limit is enabled
 
@@ -259,12 +288,6 @@ Make sure all required fields — **Billing account**, **Billing profile**, and 
 ### Provisioning takes longer than expected
 
 The instant sandbox typically provisions within minutes. If it takes longer, refresh the Developer Program dashboard page. If the issue persists, contact [dxipsup@microsoft.com](mailto:dxipsup@microsoft.com).
-
-### Get billing configuration support
-
-Contact [Azure Support](https://portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade) for help with MCA acceptance, billing hierarchy, billing-role assignments, group-based access, Azure subscription creation, Azure plans, payment methods, or spending limits.
-
-After the [organizational billing account](#verify-an-organizational-billing-account) is verified, contact [dxipsup@microsoft.com](mailto:dxipsup@microsoft.com) for a Developer Program portal discovery or sandbox provisioning failure. Include the complete error, a recent correlation ID, the failure date and time with time zone, and a screenshot. Don't include payment details, passwords, authentication codes, access tokens, or other secrets.
 
 ## Related content
 
