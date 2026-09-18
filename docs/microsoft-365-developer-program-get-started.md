@@ -206,7 +206,7 @@ To use a billing account for Microsoft 365 developer sandbox setup, verify that 
 - The Microsoft Customer Agreement is accepted.
 - The billing profile is active.
 - The invoice section is active.
-- For an existing billing account, an active Azure subscription is created with an Azure plan under the billing profile and invoice section intended for sandbox setup.
+- For an existing billing account, an active Azure subscription with an Azure plan exists under the billing profile and invoice section intended for sandbox setup.
 - A valid payment method is available.
 - No spending limit or other restriction blocks provisioning.
 - The Developer Program account has the required billing permissions.
@@ -217,7 +217,9 @@ Choose the refresh icon next to the **Billing account** dropdown. Allow a few se
 
 If an existing MCA billing account doesn't appear, verify that an active Azure subscription was created with an Azure plan under the billing profile and invoice section that you intend to use during sandbox setup. If the account doesn't have an Azure subscription, follow the instructions in [No Azure subscription exists under the billing account](#no-azure-subscription-exists-under-the-billing-account).
 
-If the billing account dropdown is empty or shows no eligible account, the billing account still doesn't appear, or the system shows **BillingAccountAlreadyExists**, **BillingProfileAlreadyExists**, or "Your billing account is ready," check the following sections.
+If the billing account dropdown is empty, shows no eligible account, or the billing account still doesn't appear, check the following sections.
+
+Use the same checks if the system shows **BillingAccountAlreadyExists**, **BillingProfileAlreadyExists**, or **Your billing account is ready**.
 
 #### No eligible organizational billing account appears
 
@@ -234,12 +236,12 @@ The billing administrator should complete the following checks:
 3. Select the organizational billing account.
 4. Verify that **Billing account type** is **Microsoft Customer Agreement**, **Status** is **Active**, and the Microsoft Customer Agreement is accepted.
 5. Select the billing profile and verify that it's active, an active invoice section exists, and an active Azure subscription was created with an Azure plan under the invoice section intended for sandbox setup.
-6. If an invoice section is required, open **Billing profiles** > **Invoice sections**, select **Add**, and create an invoice section.
+6. If the billing profile doesn't have an active invoice section, open **Billing profiles** > **Invoice sections**, select **Add**, and create an invoice section.
 7. Open the invoice section intended for Developer Program activation.
 8. Select **Access control (IAM)** > **Add** > **Add role assignment**.
 9. Assign **Invoice Section Contributor** to the exact Microsoft Entra account used for the Developer Program.
 10. Confirm that the billing profile has a valid payment method and that no spending limit or other restriction blocks provisioning.
-11. Ask the customer to return to **Set up E5 subscription**, refresh the **Billing account** list, and select the billing account, billing profile, and invoice section.
+11. Ask the developer to return to **Set up E5 subscription**, refresh the **Billing account** list, and select the billing account, billing profile, and invoice section.
 
 Role-assignment changes can take several minutes to appear.
 
