@@ -7,7 +7,7 @@ ms.localizationpriority: high
 
 # Set up a Microsoft 365 developer sandbox subscription 
 
-Qualifying Microsoft 365 Developer Program members can set up a Microsoft 365 E5 developer subscription for use in building solutions independent of your production environment. The Microsoft 365 E5 developer sandbox subscription includes 25 user licenses and lasts for up to 90 days, depending on your activity. If you use your subscription for valid development activity, it will renew automatically.
+Qualifying Microsoft 365 Developer Program members can set up a Microsoft 365 E5 developer subscription for use in building solutions independent of your production environment. The Microsoft 365 E5 developer sandbox subscription includes 25 user licenses and lasts for up to 90 days.
 
 > [!NOTE]
 > Instant sandboxes issued to eligible customers with enterprise accounts starting July 2026 include add-on commerce capability, so you can purchase additional paid licenses and services including Microsoft 365 Copilot directly from within the sandbox. See [Purchase add-on services] below.
@@ -154,7 +154,7 @@ From here, you can:
 - Monitor your 90-day renewable subscription timer.
 
 > [!TIP]
-> If you're a Visual Studio subscriber, link your subscription to Visual Studio for automatic renewal. See [Join the Microsoft 365 Developer Program as a Visual Studio subscriber](join-with-visual-studio.md).
+> If you're a Visual Studio subscriber, you can link your subscription to Visual Studio. See [Join the Microsoft 365 Developer Program as a Visual Studio subscriber](join-with-visual-studio.md).
 
 ## Configure the subscription
 
