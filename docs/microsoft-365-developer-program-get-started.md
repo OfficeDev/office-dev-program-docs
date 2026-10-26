@@ -69,7 +69,7 @@ Before you begin, make sure you have:
 
 ![Set up your Microsoft 365 E5 sandbox - sandbox type selection dialog](images/sandbox-type-selection.png)
 
-What you get: Your domain name will be pre-configured (e.g., yourtenant.onmicrosoft.com) and cannot be customized after sign-up. The preview panel on the right shows the 90-day renewable subscription details.
+What you get: Your domain name will be pre-configured (e.g., yourtenant.onmicrosoft.com) and cannot be customized after sign-up. The preview panel on the right shows the 90-day subscription details.
 
 ### Step 2: Configure billing details
 
@@ -151,7 +151,7 @@ From here, you can:
 - View your sandbox domain name and subscription status.
 - Choose **Go to subscription** to access your sandbox.
 - Install sample data packs (Users, Mail & events) — the Users pack must be installed first. For details, see [Developer sandbox sample data](install-sample-packs.md).
-- Monitor your 90-day renewable subscription timer.
+- Monitor your 90-day subscription timer.
 
 > [!TIP]
 > If you're a Visual Studio subscriber, you can link your subscription to Visual Studio. See [Join the Microsoft 365 Developer Program as a Visual Studio subscriber](join-with-visual-studio.md).
