@@ -495,7 +495,7 @@ sections:
       - question: |
           My subscription shows an expiration date. Should I be concerned?
         answer: |
-          Not necessarily. Developer Program subscriptions are evaluated periodically and may display expiration dates in various Microsoft 365 administration experiences. If your tenant remains eligible and continues to meet renewal requirements, the subscription may be automatically renewed before the displayed expiration date. Always refer to the Developer Program dashboard for the most current renewal status.
+          Not necessarily. Developer Program subscriptions are evaluated periodically and may display expiration dates in various Microsoft 365 administration experiences. Always refer to the Developer Program dashboard for the current status and expiration date of your subscription. If your subscription is labeled **Legacy sandbox**, see [Retirement of legacy Microsoft 365 developer subscriptions](legacy-subscription-retirement-faq.md).
 
       - question: |
           If my subscription is going to expire, how much time do I have before it is deleted?
