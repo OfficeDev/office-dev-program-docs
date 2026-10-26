@@ -7,7 +7,7 @@ ms.localizationpriority: high
 
 # Join the Microsoft 365 Developer Program as a Visual Studio subscriber
 
-If you have an eligible Visual Studio Professional standard or Visual Studio Enterprise standard subscription, you qualify for a Microsoft 365 E5 developer subscription that renews automatically while your eligible Visual Studio subscription remains active. When you join the program as a Visual Studio subscriber, you can set up a developer sandbox subscription that is linked to your Visual Studio subscription. It will not be subject to expiration due to inactivity (or our failure to detect activity that is not in scope for renewal monitoring).
+If you have an eligible Visual Studio Professional standard or Visual Studio Enterprise standard subscription, you qualify for a Microsoft 365 E5 developer subscription. For eligibility details, see [Microsoft 365 developer subscription in Visual Studio Subscriptions](/visualstudio/subscriptions/vs-m365). When you join the program as a Visual Studio subscriber, you can set up a developer sandbox subscription that is linked to your Visual Studio subscription.
 
 > [!NOTE]
 > Your Microsoft 365 E5 developer subscription is for development purposes only and can be revoked if you use it for purposes other than development. For details, see the [Microsoft 365 Developer Program Terms and Conditions](terms-and-conditions.md).
@@ -15,17 +15,16 @@ If you have an eligible Visual Studio Professional standard or Visual Studio Ent
 > [!NOTE]
 > Visual Studio subscribers go through the same instant sandbox setup as any other qualifying Developer Program member. See [Set up a Microsoft 365 developer sandbox subscription](microsoft-365-developer-program-get-started.md).
 >
-> The only difference is that you can link your subscription to Visual Studio for automatic renewal, as described below.
+> The only difference is that you can link your subscription to Visual Studio, as described below.
 >
 > If your sandbox has add-on commerce capability enabled, you can purchase eligible add-ons (such as Microsoft 365 Copilot) just like any other commercially enabled sandbox.
 
-## How do I get a renewable Microsoft 365 developer subscription?
+## How do I get a Microsoft 365 developer subscription?
 
 > [!NOTE]
 > Only Visual Studio "standard" type subscriptions are eligible.
-> You must have either a Visual Studio Professional standard or Visual Studio Enterprise standard subscription to receive an automatically renewable Microsoft 365 E5 developer subscription.<br>
+> You must have either a Visual Studio Professional standard or Visual Studio Enterprise standard subscription to receive a Microsoft 365 E5 developer subscription.<br>
 > Monthly Visual Studio subscriptions (such as "Professional monthly" or "Enterprise monthly") are not eligible.
->
 
 If you don't have a Visual Studio standard Professional or Enterprise subscription and you want one, see the [Visual Studio subscription](https://visualstudio.microsoft.com/vs/pricing/) page.
 
@@ -38,12 +37,10 @@ You can also join the Microsoft 365 Developer Program and get a Microsoft 365 de
 > [!NOTE]
 > If you have already set up your Microsoft 365 developer subscription, you can link it to an active Visual Studio subscription. On the subscription tile on your [Developer Program dashboard](https://developer.microsoft.com/en-us/microsoft-365/profile), click **Link with your Visual Studio subscription**.
 
-When you link your Microsoft 365 developer subscription to Visual Studio, it will renew automatically for as long as your Visual Studio subscription is active.
-
 ## What is the difference between joining the program directly and joining with my Visual Studio subscription?
 
-When you join the Microsoft 365 Developer Program with your Visual Studio subscription, your Microsoft 365 E5 developer sandbox subscription will automatically renew for the lifetime of your Visual Studio subscription.
+When you join the Microsoft 365 Developer Program with your Visual Studio subscription, your Microsoft 365 E5 developer sandbox subscription is linked to your Visual Studio subscription. For details, see [Microsoft 365 developer subscription in Visual Studio Subscriptions](/visualstudio/subscriptions/vs-m365).
 
-If you join the developer program directly, your Microsoft 365 E5 developer sandbox subscription is good for up to 90 days, depending on your development activity, and will renew regularly for as long as you use it for [qualified development activities](microsoft-365-developer-program-faq.yml#how-do-you-define-development-activity-).
+If you join the developer program directly, your Microsoft 365 E5 developer sandbox subscription is good for up to 90 days.
 
-In both cases, sandbox setup, sample data, and add-on purchase capability (where enabled) are the same — see [Set up a Microsoft 365 developer sandbox subscription](microsoft-365-developer-program-get-started.md). Renewal behavior is the only difference.
+In both cases, sandbox setup, sample data, and add-on purchase capability (where enabled) are the same — see [Set up a Microsoft 365 developer sandbox subscription](microsoft-365-developer-program-get-started.md).
