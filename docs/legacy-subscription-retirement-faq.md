@@ -35,10 +35,6 @@ If you're eligible for a new subscription, your legacy subscription gets one fin
 | Days 60–90 | Your legacy subscription is read-only. You can view and copy out your data, but you can't make changes. | Back up anything you still need. |
 | Day 90 and later | Your legacy subscription and all its data are permanently deleted and are no longer accessible. | Nothing can be recovered after this date. |
 
-### How will I be notified?
-
-We email the address on your Developer Program account at two points: when your subscription gets its final renewal and when it's deleted.
-
 ### Can I extend, convert, or transfer my legacy subscription?
 
 No. A legacy subscription can't be renewed again, it can't be converted to a subscription with add-on purchases enabled, and its benefits can't be transferred to another subscription. To keep developing, you'll have the option to set up a new subscription within the 60-day window, if you're eligible. For eligibility details, see [Microsoft 365 Developer Program FAQ](microsoft-365-developer-program-faq.yml).
