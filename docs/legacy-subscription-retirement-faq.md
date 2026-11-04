@@ -1,13 +1,13 @@
 ---
 title: Retirement of legacy Microsoft 365 developer subscriptions
 description: Learn what's changing for legacy Microsoft 365 developer subscriptions, when it happens, and how to set up a new subscription and move your work.
-ms.date: 10/26/2026
+ms.date: 11/04/2026
 ms.localizationpriority: high
 ---
 
 # Retirement of legacy Microsoft 365 developer subscriptions
 
-The Microsoft 365 Developer Program is retiring legacy developer subscriptions. If your subscription is labeled **Legacy sandbox** on your [Developer Program dashboard](https://developer.microsoft.com/microsoft-365/profile), this article explains what's changing, when it happens, and what you can do. Your developer subscription is also referred to as your sandbox.
+The Microsoft 365 Developer Program is retiring legacy developer subscriptions. If your subscription is labeled **Legacy sandbox** on your [Developer Program dashboard](https://developer.microsoft.com/microsoft-365/profile), this article explains what's changing, when it happens, and what you can do. Your developer subscription is also referred to as your sandbox. If you're eligible, you'll have the option to create a new developer subscription to replace your legacy subscription.
 
 ## About this change
 
@@ -25,15 +25,15 @@ Legacy subscriptions are being retired for all members, including Visual Studio 
 
 ### When will this happen to my subscription?
 
-Your legacy subscription gets one final 60-day renewal, starting on the day you're notified. It then expires on the date shown on your Developer Program dashboard, and it's permanently deleted 120 days after you're notified. Your notification email also includes the exact dates for your subscription.
+Your legacy subscription gets one final 60-day renewal, starting on the day you're notified. It then expires on the date shown on your Developer Program dashboard and becomes read-only for 30 days. 90 days after you're notified, your subscription and all its data are permanently deleted and can't be recovered. Your notification email also includes the exact dates for your subscription.
 
 | When | What happens | What you should do |
 |---|---|---|
-| Day 0 (you're notified) | Your subscription gets its final 60-day renewal. | Check your eligibility and set up a new subscription. |
-| Days 0–60 | Your legacy subscription stays active. | Move your work to your new subscription. |
+| Day 0 (you're notified) | Your subscription gets its final 60-day renewal. | Review the dates in your notification email. |
+| Days 0–60 | Your legacy subscription stays active. | Set up a new subscription if you're eligible, and move or back up your work. |
 | Day 60 | Your legacy subscription expires. | Finish copying out anything you want to keep. |
-| Days 60–120 | Your legacy subscription is inactive. Only the admin can sign in for data recovery. [Confirm access during this window.] | Back up anything you still need. |
-| Day 120 | Your legacy subscription and all its data are permanently deleted. | Nothing can be recovered after this date. |
+| Days 60–90 | Your legacy subscription is read-only. You can view and copy out your data, but you can't make changes. | Back up anything you still need. |
+| Day 90 and later | Your legacy subscription and all its data are permanently deleted and are no longer accessible. | Nothing can be recovered after this date. |
 
 ### How will I be notified?
 
@@ -41,7 +41,7 @@ We email the address on your Developer Program account at two points: when your 
 
 ### Can I extend, convert, or transfer my legacy subscription?
 
-No. After its final renewal, a legacy subscription isn't renewed again, regardless of development activity or Visual Studio subscription status. It can't be converted to a subscription with add-on purchases enabled, and its benefits can't be transferred to another subscription. To keep developing, you can set up a new subscription if you're eligible. For eligibility details, see [Microsoft 365 Developer Program FAQ](microsoft-365-developer-program-faq.yml).
+No. After its final renewal, a legacy subscription isn't renewed again, regardless of development activity or Visual Studio subscription status. It can't be converted to a subscription with add-on purchases enabled, and its benefits can't be transferred to another subscription. To keep developing, you'll have the option to set up a new subscription within the 60-day window, if you're eligible. For eligibility details, see [Microsoft 365 Developer Program FAQ](microsoft-365-developer-program-faq.yml).
 
 ### Can I get more time or an exception?
 
@@ -65,7 +65,7 @@ A billing account is required to set up a new sandbox. It's used to verify your 
 
 ### Can I set up the new subscription before my legacy one expires?
 
-Yes. If you're eligible, you can set up your new subscription as soon as you're notified. [Confirm the setup option is available from Day 0.] Setting up early gives you the most time to move your work.
+Yes. If you're eligible, you can set up your new subscription as soon as you're notified. Setting up early gives you the most time to move your work.
 
 ### Can I keep using my legacy subscription while I set up the new one?
 
@@ -88,13 +88,13 @@ For guidance, see how to [migrate mailboxes across tenants](/microsoft-365/migra
 
 ### What if I'm not eligible for a new subscription?
 
-Your legacy subscription is retired on the same schedule, and there's no replacement subscription. Copy out anything you want to keep before your deletion date. To keep developing, you can get a sandbox through a Visual Studio Professional or Enterprise subscription or an eligible partner program, or use a Microsoft 365 trial or paid plan.
+Your legacy subscription is retired on the same schedule, and there's no replacement subscription. Copy out anything you want to keep before your deletion date. To keep developing, you can use a Microsoft 365 trial or a paid plan. To find out whether you qualify through another path, see [Microsoft 365 Developer Program FAQ](microsoft-365-developer-program-faq.yml).
 
 ## After deletion
 
 ### Can a deleted subscription be restored?
 
-No. Deletion is permanent and can't be reversed by you or by Microsoft. [Legal to confirm this wording.] If you're eligible, you can set up a new subscription, but it won't include any of your previous data.
+No. Deletion is permanent and can't be reversed by you or by Microsoft. If you're eligible, you can set up a new subscription, but it won't include any of your previous data.
 
 ## Help and terms
 
