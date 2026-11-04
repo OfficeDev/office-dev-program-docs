@@ -21,15 +21,15 @@ No. If your subscription isn't labeled **Legacy sandbox**, this change doesn't a
 
 ### I have a Visual Studio subscription. Why is my subscription being retired?
 
-Legacy subscriptions are being retired for all members, including Visual Studio Professional and Enterprise subscribers. Your Visual Studio subscription doesn't extend a legacy subscription beyond its final renewal. If you're still eligible, you can set up a new subscription, which supports add-on purchases.
+Legacy subscriptions are being retired for all members, including Visual Studio Professional and Enterprise subscribers. Your Visual Studio subscription doesn't extend a legacy subscription beyond its final renewal. If you're still eligible, you can [set up a new subscription](microsoft-365-developer-program-get-started.md), which supports add-on purchases.
 
 ### When will this happen to my subscription?
 
-Your legacy subscription gets one final 60-day renewal, starting on the day you're notified. It then expires on the date shown on your Developer Program dashboard and becomes read-only for 30 days. 90 days after you're notified, your subscription and all its data are permanently deleted and can't be recovered. Your notification email also includes the exact dates for your subscription.
+If you're eligible for a new subscription, your legacy subscription gets one final 60-day renewal, starting on the day you're notified. It then expires on the date shown on your Developer Program dashboard and becomes read-only for 30 days. 90 days after you're notified, your subscription and all its data are permanently deleted and can't be recovered.
 
 | When | What happens | What you should do |
 |---|---|---|
-| Day 0 (you're notified) | Your subscription gets its final 60-day renewal. | Review the dates in your notification email. |
+| Day 0 (you're notified) | Your subscription gets its final 60-day renewal. | Check the expiry date on your Developer Program dashboard. |
 | Days 0–60 | Your legacy subscription stays active. | Set up a new subscription if you're eligible, and move or back up your work. |
 | Day 60 | Your legacy subscription expires. | Finish copying out anything you want to keep. |
 | Days 60–90 | Your legacy subscription is read-only. You can view and copy out your data, but you can't make changes. | Back up anything you still need. |
@@ -41,7 +41,7 @@ We email the address on your Developer Program account at two points: when your 
 
 ### Can I extend, convert, or transfer my legacy subscription?
 
-No. After its final renewal, a legacy subscription isn't renewed again, regardless of development activity or Visual Studio subscription status. It can't be converted to a subscription with add-on purchases enabled, and its benefits can't be transferred to another subscription. To keep developing, you'll have the option to set up a new subscription within the 60-day window, if you're eligible. For eligibility details, see [Microsoft 365 Developer Program FAQ](microsoft-365-developer-program-faq.yml).
+No. A legacy subscription can't be renewed again, it can't be converted to a subscription with add-on purchases enabled, and its benefits can't be transferred to another subscription. To keep developing, you'll have the option to set up a new subscription within the 60-day window, if you're eligible. For eligibility details, see [Microsoft 365 Developer Program FAQ](microsoft-365-developer-program-faq.yml).
 
 ### Can I get more time or an exception?
 
@@ -88,7 +88,7 @@ For guidance, see how to [migrate mailboxes across tenants](/microsoft-365/migra
 
 ### What if I'm not eligible for a new subscription?
 
-Your legacy subscription is retired on the same schedule, and there's no replacement subscription. Copy out anything you want to keep before your deletion date. To keep developing, you can use a Microsoft 365 trial or a paid plan. To find out whether you qualify through another path, see [Microsoft 365 Developer Program FAQ](microsoft-365-developer-program-faq.yml).
+Your legacy subscription is retired on the same schedule, and there's no replacement subscription. Copy out anything you want to keep before your deletion date. To keep developing, you can use a Microsoft 365 trial or a paid plan. To find out whether you qualify through another path, such as a Visual Studio subscription or a partner program, see [Who qualifies for a Microsoft 365 E5 developer subscription?](microsoft-365-developer-program-faq.yml#who-qualifies-for-a-microsoft-365-e5-developer-subscription) in the Developer Program FAQ.
 
 ## After deletion
 
