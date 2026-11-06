@@ -31,10 +31,10 @@ Legacy subscriptions are being retired for all members, including Visual Studio 
 
 | When | What happens | What you should do |
 |----|----|----|
-| Day 0 (notified)you're | Your subscription gets its final 60-day renewal. |  |
+| Day 0 (You're notified) | Your subscription gets its final 60-day renewal. | Check the expiry date on your Developer Program dashboard. |
 | Days 0–60 | Your legacy subscription stays active. | Move your work to your new subscription (if eligible) |
 | Day 60 | Your legacy subscription expires. | Finish copying out anything you want to keep. |
-| Days 60–90 | Your legacy subscription is inactive and goes into read only state. Only the admin can sign in for data recovery. \[Confirm access during this window.\] | Back up anything you still need. |
+| Days 60–90 | Your legacy subscription is inactive and goes into read only state. Only the admin can sign in for data recovery. | Back up anything you still need. |
 | Day 90 | Your legacy subscription and all its data are permanently deleted. | Nothing can be recovered after this date. |
 
 ### Can I extend, convert, or transfer my legacy subscription?
