@@ -19,11 +19,11 @@ Your subscription is affected if it's labeled **Legacy sandbox** on your Develop
 
 ### I have a Visual Studio subscription. Why is my subscription being retired?
 
-Legacy subscriptions are being retired for all members, including Visual Studio Professional and Enterprise subscribers. If you're still eligible, you can set up a new subscription, which supports add-on purchases. For details, see [Join the Microsoft 365 Developer Program with a Visual Studio Professional or Enterprise subscription \| Microsoft Learn](https://learn.microsoft.com/office/developer-program/join-with-visual-studio)
+Legacy subscriptions are being retired for all members, including Visual Studio Professional and Enterprise subscribers. If you're still eligible, you can set up a new subscription, which supports add-on purchases. For details, see [Join the Microsoft 365 Developer Program with a Visual Studio Professional or Enterprise subscription \| Microsoft Learn](join-with-visual-studio.md)
 
 ### What happens to my legacy developer subscription?
 
-- **If you are eligible for a new subscription** \[See eligibility here [Welcome to the Microsoft 365 Developer Program \| Microsoft Learn](https://learn.microsoft.com/office/developer-program/microsoft-365-developer-program)\], your legacy subscription receives one final 60-day renewal. When it’s applied, we’ll email you, and your Developer Program dashboard will show the expiry date. Before the expiration date, create a new developer subscription from your dashboard and move anything you want to keep.
+- **If you are eligible for a new subscription** \[See eligibility here [Welcome to the Microsoft 365 Developer Program \| Microsoft Learn](microsoft-365-developer-program.md)\], your legacy subscription receives one final 60-day renewal. When it’s applied, we’ll email you, and your Developer Program dashboard will show the expiry date. Before the expiration date, create a new developer subscription from your dashboard and move anything you want to keep.
 
 - **If you’re no longer eligible:** your legacy subscription won’t be renewed. It expires at the end of its current term
 
@@ -39,21 +39,21 @@ Legacy subscriptions are being retired for all members, including Visual Studio 
 
 ### Can I extend, convert, or transfer my legacy subscription?
 
-No, a legacy subscription cannot be renewed again, cannot be converted to a subscription with add-on purchases enabled, and its benefits can't be transferred to another subscription. To keep developing, you’ll have the option to set up a new tenant within the 60-day window, if you’re eligible. For eligibility details, see [Microsoft 365 Developer Program FAQ \| Microsoft Learn](https://learn.microsoft.com/office/developer-program/microsoft-365-developer-program-faq#who-qualifies-for-a-microsoft-365-e5-developer-subscription-).
+No, a legacy subscription cannot be renewed again, cannot be converted to a subscription with add-on purchases enabled, and its benefits can't be transferred to another subscription. To keep developing, you’ll have the option to set up a new tenant within the 60-day window, if you’re eligible. For eligibility details, see [Microsoft 365 Developer Program FAQ \| Microsoft Learn](microsoft-365-developer-program-faq.yml#who-qualifies-for-a-microsoft-365-e5-developer-subscription-).
 
 ## Set up a new subscription
 
 ### Am I eligible for a new subscription?
 
-For the full eligibility details, see [Microsoft 365 Developer Program FAQ \| Microsoft Learn](https://learn.microsoft.com/office/developer-program/microsoft-365-developer-program-faq#who-qualifies-for-a-microsoft-365-e5-developer-subscription-).
+For the full eligibility details, see [Microsoft 365 Developer Program FAQ \| Microsoft Learn](microsoft-365-developer-program-faq.yml#who-qualifies-for-a-microsoft-365-e5-developer-subscription-).
 
 ### How do I set up a new subscription?
 
-If you're eligible, you can set up a free Microsoft 365 E5 developer subscription with 25 user licenses, It's provisioned as an instant sandbox with sample data, and it supports add-on purchases such as Microsoft 365 Copilot licenses. For detailed steps, see [Set up a Microsoft 365 developer sandbox subscription \| Microsoft Learn](https://learn.microsoft.com/office/developer-program/microsoft-365-developer-program-get-started).
+If you're eligible, you can set up a free Microsoft 365 E5 developer subscription with 25 user licenses, It's provisioned as an instant sandbox with sample data, and it supports add-on purchases such as Microsoft 365 Copilot licenses. For detailed steps, see [Set up a Microsoft 365 developer sandbox subscription \| Microsoft Learn](microsoft-365-developer-program-get-started.md).
 
 ### Why do I need a billing account to set up the new subscription?
 
-A billing account is required to set up a new sandbox. It's used to verify your identity and to enable optional purchases. You won't be charged for the sandbox itself. For requirements, see [Configure billing details](https://learn.microsoft.com/office/developer-program/microsoft-365-developer-program-get-started#step-2-configure-billing-details).
+A billing account is required to set up a new sandbox. It's used to verify your identity and to enable optional purchases. You won't be charged for the sandbox itself. For requirements, see [Configure billing details](microsoft-365-developer-program-get-started.md#step-2-configure-billing-details).
 
 ### Can I set up the new subscription before my legacy one expires?
 
@@ -73,7 +73,7 @@ Anything that exists only in your legacy subscription is deleted with it, and yo
 
 - **Code and configuration:** source code, scripts, environment settings, and CI/CD pipelines that reference your old tenant ID, domain name, app IDs, or user accounts.
 
-- **Power Platform solutions:** [export your Power Apps, Power Automate flows, and Dataverse customizations as solutions](https://learn.microsoft.com/power-apps/maker/data-platform/export-solutions), then import them and re-create connections in your new subscription.
+- **Power Platform solutions:** [export your Power Apps, Power Automate flows, and Dataverse customizations as solutions](/power-apps/maker/data-platform/export-solutions), then import them and re-create connections in your new subscription.
 
 - **Content:** files, SharePoint sites and lists, OneDrive content, and Teams channels and files that you need for testing.
 
@@ -81,13 +81,13 @@ Anything that exists only in your legacy subscription is deleted with it, and yo
 
 - **Users, groups, and settings:** test users, groups, licenses, and admin or security settings that your solutions depend on. Your new subscription includes its own sample users and data.
 
-For guidance, see how to [migrate mailboxes across tenants](https://learn.microsoft.com/microsoft-365/migration/cross-tenant-mailbox-migration) and how to [migrate content to Microsoft 365](https://learn.microsoft.com/sharepointmigration/migrate-to-sharepoint-online). Most developers find it simpler to export what they need and redeploy it, because cross-tenant migration tools can require additional licenses.
+For guidance, see how to [migrate mailboxes across tenants](/microsoft-365/migration/cross-tenant-mailbox-migration) and how to [migrate content to Microsoft 365](/sharepointmigration/migrate-to-sharepoint-online). Most developers find it simpler to export what they need and redeploy it, because cross-tenant migration tools can require additional licenses.
 
 ### What if I'm not eligible for a new subscription?
 
 Your legacy subscription is retired on the same schedule, and there's no replacement subscription. Copy out anything you want to keep before your deletion date. To keep developing, you can get a sandbox through a Visual Studio Professional or Enterprise subscription or an eligible partner program or use a Microsoft 365 trial or paid plan.
 
-For eligibility details, see [Microsoft 365 Developer Program FAQ \| Microsoft Learn](https://learn.microsoft.com/office/developer-program/microsoft-365-developer-program-faq#who-qualifies-for-a-microsoft-365-e5-developer-subscription-).
+For eligibility details, see [Microsoft 365 Developer Program FAQ \| Microsoft Learn](microsoft-365-developer-program-faq.yml#who-qualifies-for-a-microsoft-365-e5-developer-subscription-).
 
 ## After deletion
 
@@ -97,16 +97,16 @@ No. Deletion is permanent and can't be reversed by you or by Microsoft. If you'r
 
 ### Where can I get help?
 
-If you have trouble setting up a new subscription, see the troubleshooting section of [Set up a Microsoft 365 developer sandbox subscription \| Microsoft Learn](https://learn.microsoft.com/office/developer-program/microsoft-365-developer-program-get-started)
+If you have trouble setting up a new subscription, see the troubleshooting section of [Set up a Microsoft 365 developer sandbox subscription \| Microsoft Learn](microsoft-365-developer-program-get-started.md)
 
 ### Which terms apply?
 
-Your use of the program, including your developer subscription, is governed by [Terms and conditions \| Microsoft Learn](https://learn.microsoft.com/office/developer-program/terms-and-conditions).
+Your use of the program, including your developer subscription, is governed by [Terms and conditions \| Microsoft Learn](terms-and-conditions.md).
 
 ## Related content
 
-- [Microsoft 365 Developer Program FAQ \| Microsoft Learn](https://learn.microsoft.com/office/developer-program/microsoft-365-developer-program-faq)
+- [Microsoft 365 Developer Program FAQ \| Microsoft Learn](microsoft-365-developer-program-faq.yml)
 
-- [Set up a Microsoft 365 developer sandbox subscription \| Microsoft Learn](https://learn.microsoft.com/office/developer-program/microsoft-365-developer-program-get-started)
+- [Set up a Microsoft 365 developer sandbox subscription \| Microsoft Learn](microsoft-365-developer-program-get-started.md)
 
-- [Terms and conditions \| Microsoft Learn](https://learn.microsoft.com/office/developer-program/terms-and-conditions)
+- [Terms and conditions \| Microsoft Learn](terms-and-conditions.md)
