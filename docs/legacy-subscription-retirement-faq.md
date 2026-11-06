@@ -1,11 +1,11 @@
 ---
-title: Retirement of legacy Microsoft 365 developer subscriptions
+title: Retirement of Microsoft 365 Legacy developer subscriptions
 description: Learn what's changing for legacy Microsoft 365 developer subscriptions, when it happens, and how to set up a new subscription and move your work.
 ms.date: 11/04/2026
 ms.localizationpriority: high
 ---
 
-# Retirement of legacy Microsoft 365 developer subscriptions
+# Retirement of Microsoft 365 Legacy developer subscriptions
 
 Microsoft 365 Developer Program is retiring legacy developer subscription (sandbox). If your subscription is labeled **Legacy sandbox** on your [Developer Program dashboard](https://developer.microsoft.com/microsoft-365/profile), this article explains what's changing, when it happens, and what you can do.
 
