@@ -2,7 +2,7 @@
 metadata:
   title: Microsoft 365 Developer Program FAQ
   description: Frequently asked questions about the Microsoft 365 Developer Program.
-  ms.date: 09/04/2026
+  ms.date: 11/20/2026
   ms.localizationpriority: high
 
 title: Microsoft 365 Developer Program FAQ
@@ -215,7 +215,8 @@ sections:
       - question: |
           Does the Microsoft 365 E5 developer subscription include the same capabilities that the regular Microsoft 365 E5 subscription includes?
         answer: |
-          The Microsoft 365 E5 developer subscription has the same licensing and capabilities that a regular Microsoft 365 E5 subscription includes, except that in Exchange Online, inbound connectors for mailflow are not supported. Commerce capability in new sandboxes (issued starting July 2026) also supports purchasing select add-ons, such as Microsoft 365 Copilot licenses — see [Purchase Copilot licenses from your M365 Developer Program sandbox](purchase-copilot-licenses.md).
+          The Microsoft 365 E5 developer subscription is intended for development and testing and might not include all features available with a paid Microsoft 365 E5 subscription. Microsoft might add, modify, limit, or remove features available in your developer subscription, including changing access to features and limits on their use. 
+          In Exchange Online, inbound connectors for mailflow are not supported. Commerce capability in new sandboxes (issued starting July 2026) also supports purchasing select add-ons, such as Microsoft 365 Copilot licenses — see [Purchase Copilot licenses from your M365 Developer Program sandbox](purchase-copilot-licenses.md).
 
       - question: |
           What's included in the developer subscription?
